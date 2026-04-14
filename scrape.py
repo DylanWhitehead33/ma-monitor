@@ -4,35 +4,37 @@ import json
 import os
 import re
 from datetime import datetime, timedelta
-from urllib.parse import urljoin, urlparse
 import time
+from xml.etree import ElementTree as ET
 
-SOURCES = [
-    {"name": "Rock Products",            "url": "https://www.rockproducts.com/latest-news/"},
-    {"name": "Concrete Products",        "url": "https://www.concreteproducts.com/news/"},
-    {"name": "Pit & Quarry",             "url": "https://www.pitandquarry.com/news/"},
-    {"name": "Martin Marietta",          "url": "https://www.martinmarietta.com/investors/press-releases/"},
-    {"name": "Arcosa",                   "url": "https://investors.arcosa.com/press-releases"},
-    {"name": "Amrize (AMRZ)",            "url": "https://www.amrize.com/news/"},
-    {"name": "Construction Partners",    "url": "https://ir.constructionpartners.net/press-releases"},
-    {"name": "Granite Construction",     "url": "https://www.graniteconstruction.com/newsroom"},
-    {"name": "CRH",                      "url": "https://www.crh.com/media/press-releases/"},
-    {"name": "Knife River",              "url": "https://www.kniferivercorp.com/news"},
-    {"name": "Eagle Materials",          "url": "https://www.eaglematerials.com/press-releases"},
-    {"name": "Heidelberg Materials",     "url": "https://www.heidelbergmaterials.com/en/news"},
-    {"name": "Cemex",                    "url": "https://www.cemex.com/media/newsroom"},
-    {"name": "GCC",                      "url": "https://ir.gcc.com/news-events/news-releases"},
-    {"name": "PR Newswire Construction", "url": "https://www.prnewswire.com/news-releases/construction-materials/"},
-]
+# Google News RSS searches — reliable, no blocking, covers all press coverage
+# Each query targets specific companies or keyword combinations
+GOOGLE_NEWS_QUERIES = [
+    # Industry trade publications (these cover deals across the whole sector)
+    {"name": "Aggregates Industry",  "query": '"aggregates" (acquisition OR merger OR acquired) construction'},
+    {"name": "Cement Industry",      "query": '"cement" (acquisition OR merger OR acquired)'},
+    {"name": "Asphalt Industry",     "query": '"asphalt" (acquisition OR merger OR acquired)'},
+    {"name": "Ready-Mix Industry",   "query": '"ready-mix" OR "ready mix" (acquisition OR merger OR acquired)'},
+    {"name": "Paving Industry",      "query": '"paving" (acquisition OR merger OR acquired) concrete OR asphalt'},
+    {"name": "Precast Industry",     "query": '"precast concrete" (acquisition OR merger OR acquired)'},
 
-MA_KEYWORDS = [
-    "acqui", "merger", "merging", "merged", "divest", "divestiture",
-    "joint venture", "takeover", "buyout", "purchase", "consolidat",
-    "transaction", "invest", " sold ", "sale of", "strategic combination",
-    "strategic acquisition", "acquisition agreement", "definitive agreement",
-    "purchase agreement", "to acquire", "has acquired", "will acquire",
-    "completes acquisition", "completed acquisition", "announces acquisition",
-    "announced acquisition",
+    # Specific public companies — catches their M&A press releases across outlets
+    {"name": "Martin Marietta",      "query": '"Martin Marietta" (acquisition OR acquired OR merger OR divest)'},
+    {"name": "Vulcan Materials",     "query": '"Vulcan Materials" (acquisition OR acquired OR merger OR divest)'},
+    {"name": "CRH",                  "query": '"CRH" (acquisition OR acquired OR merger) construction'},
+    {"name": "Heidelberg Materials", "query": '"Heidelberg Materials" (acquisition OR acquired OR merger)'},
+    {"name": "Cemex",                "query": '"Cemex" (acquisition OR acquired OR merger OR divest)'},
+    {"name": "Eagle Materials",      "query": '"Eagle Materials" (acquisition OR acquired OR merger)'},
+    {"name": "Knife River",          "query": '"Knife River" (acquisition OR acquired OR merger)'},
+    {"name": "Arcosa",               "query": '"Arcosa" (acquisition OR acquired OR merger OR divest) construction'},
+    {"name": "Amrize",               "query": '"Amrize" (acquisition OR acquired OR merger)'},
+    {"name": "Summit Materials",     "query": '"Summit Materials" (acquisition OR acquired OR merger)'},
+    {"name": "Granite Construction", "query": '"Granite Construction" (acquisition OR acquired OR merger)'},
+    {"name": "Construction Partners","query": '"Construction Partners" (acquisition OR acquired OR merger) paving'},
+    {"name": "GCC Cement",           "query": '"GCC" cement (acquisition OR acquired OR merger)'},
+    {"name": "US Concrete",          "query": '"US Concrete" (acquisition OR acquired OR merger)'},
+    {"name": "Holcim",               "query": '"Holcim" (acquisition OR acquired OR merger OR divest)'},
+    {"name": "Lehigh Hanson",        "query": '"Lehigh Hanson" (acquisition OR acquired OR merger)'},
 ]
 
 SECTOR_MAP = [
@@ -53,23 +55,14 @@ TYPE_MAP = [
 
 HEADERS = {
     "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Safari/537.36",
-    "Accept": "text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,*/*;q=0.8",
+    "Accept": "application/xml,text/xml,application/rss+xml,text/html,*/*",
     "Accept-Language": "en-US,en;q=0.9",
-    "Accept-Encoding": "gzip, deflate, br",
-    "DNT": "1",
-    "Connection": "keep-alive",
-    "Upgrade-Insecure-Requests": "1",
 }
 
-# Keep articles from the last 30 days
 ARCHIVE_DAYS = 30
 
 def lc(s):
     return (s or "").lower()
-
-def contains_ma(text):
-    t = lc(text)
-    return any(k in t for k in MA_KEYWORDS)
 
 def detect_sector(text):
     t = lc(text)
@@ -120,167 +113,80 @@ def extract_value(text):
         return f"${float(m.group(1).replace(',', '')):.0f}M"
     return ""
 
-def extract_date(text, soup_tag=None):
-    """Try to extract an article date from text or nearby HTML."""
-    if not text:
-        return None
-    # Common formats: "January 15, 2025", "Jan 15, 2025", "2025-01-15", "01/15/2025"
-    patterns = [
-        r'(Jan|Feb|Mar|Apr|May|Jun|Jul|Aug|Sep|Sept|Oct|Nov|Dec)[a-z]*\.?\s+(\d{1,2}),?\s+(\d{4})',
-        r'(\d{4})-(\d{2})-(\d{2})',
-        r'(\d{1,2})/(\d{1,2})/(\d{4})',
-    ]
-    months = {'jan':1,'feb':2,'mar':3,'apr':4,'may':5,'jun':6,'jul':7,'aug':8,'sep':9,'sept':9,'oct':10,'nov':11,'dec':12}
-    for pattern in patterns:
-        m = re.search(pattern, text, re.I)
-        if m:
-            try:
-                g = m.groups()
-                if len(g) == 3 and g[0].lower()[:3] in months:
-                    return datetime(int(g[2]), months[g[0].lower()[:3]], int(g[1]))
-                elif len(g) == 3 and len(g[0]) == 4:
-                    return datetime(int(g[0]), int(g[1]), int(g[2]))
-                elif len(g) == 3:
-                    return datetime(int(g[2]), int(g[0]), int(g[1]))
-            except (ValueError, KeyError):
-                continue
-    return None
-
-def fetch_with_retry(session, url, retries=2):
-    """Fetch a URL with retry logic."""
-    for attempt in range(retries + 1):
-        try:
-            resp = session.get(url, timeout=20, allow_redirects=True)
-            if resp.status_code == 200:
-                return resp
-        except Exception as e:
-            if attempt == retries:
-                raise
-            time.sleep(1)
-    return None
-
-def scrape_source(source, cutoff_date):
-    """Scrape a source, following pagination if available, collecting articles newer than cutoff_date."""
+def fetch_google_news(query_obj):
+    """Fetch a Google News RSS feed for a given search query."""
     results = []
-    session = requests.Session()
-    session.headers.update(HEADERS)
+    try:
+        # Google News RSS — last 30 days, sorted by date
+        url = f"https://news.google.com/rss/search?q={requests.utils.quote(query_obj['query'] + ' when:30d')}&hl=en-US&gl=US&ceid=US:en"
+        resp = requests.get(url, headers=HEADERS, timeout=20)
+        resp.raise_for_status()
 
-    # Try the main URL and common pagination patterns
-    urls_to_try = [source["url"]]
-    # Add common pagination URLs for first-run deep scan
-    base = source["url"].rstrip("/")
-    for page in range(2, 5):
-        urls_to_try.append(f"{base}/page/{page}/")
-        urls_to_try.append(f"{base}?page={page}")
+        root = ET.fromstring(resp.content)
+        channel = root.find("channel")
+        if channel is None:
+            return results
 
-    seen_urls = set()
+        for item in channel.findall("item"):
+            title_el = item.find("title")
+            link_el = item.find("link")
+            desc_el = item.find("description")
+            date_el = item.find("pubDate")
+            source_el = item.find("source")
 
-    for page_url in urls_to_try:
-        try:
-            resp = fetch_with_retry(session, page_url)
-            if not resp or resp.status_code != 200:
+            title = title_el.text if title_el is not None else ""
+            link = link_el.text if link_el is not None else ""
+            desc = desc_el.text if desc_el is not None else ""
+            pub_date_str = date_el.text if date_el is not None else ""
+            actual_source = source_el.text if source_el is not None else query_obj["name"]
+
+            if not title or not link:
                 continue
 
-            soup = BeautifulSoup(resp.text, "html.parser")
+            # Parse pubDate
+            try:
+                pub_date = datetime.strptime(pub_date_str, "%a, %d %b %Y %H:%M:%S %Z")
+            except ValueError:
+                try:
+                    pub_date = datetime.strptime(pub_date_str[:25], "%a, %d %b %Y %H:%M:%S")
+                except ValueError:
+                    pub_date = datetime.now()
 
-            # Collect all text blocks for context
-            blocks = []
-            for tag in soup.find_all(["p", "h1", "h2", "h3", "h4", "li", "article", "time"]):
-                text = tag.get_text(" ", strip=True)
-                if len(text) > 15:
-                    blocks.append(text)
+            # Strip HTML from description
+            desc_clean = BeautifulSoup(desc, "html.parser").get_text(" ", strip=True)
+            # Google News description often just repeats the title + source — trim
+            if desc_clean.startswith(title):
+                desc_clean = desc_clean[len(title):].strip(" -—")
+            if len(desc_clean) < 20:
+                desc_clean = title
 
-            base_url = f"https://{urlparse(source['url']).netloc}"
+            combined = title + " " + desc_clean
 
-            for a_tag in soup.find_all("a", href=True):
-                href = a_tag["href"].strip()
-                anchor_text = a_tag.get_text(" ", strip=True)
+            # Only keep articles that are clearly M&A (extra safety check)
+            ma_check = lc(combined)
+            if not any(k in ma_check for k in ["acqui", "merger", "merged", "divest", "buyout", "takeover", "deal", "purchas", "sold"]):
+                continue
 
-                if not anchor_text or len(anchor_text) < 10:
-                    continue
-                if href.startswith(("javascript", "mailto", "#")):
-                    continue
+            if len(desc_clean) > 400:
+                desc_clean = desc_clean[:397] + "..."
 
-                if href.startswith("//"):
-                    href = "https:" + href
-                elif href.startswith("/"):
-                    href = base_url + href
-                elif not href.startswith("http"):
-                    continue
+            results.append({
+                "title":    title,
+                "summary":  desc_clean,
+                "url":      link,
+                "source":   actual_source,
+                "category": query_obj["name"],
+                "keywords": matched_keywords(combined),
+                "sector":   detect_sector(combined),
+                "dealType": detect_type(combined),
+                "value":    extract_value(combined),
+                "date":     pub_date.strftime("%b %d, %Y"),
+                "dateISO":  pub_date.isoformat(),
+            })
 
-                norm_href = href.split("?")[0].rstrip("/")
-                if norm_href in seen_urls:
-                    continue
-                if re.search(r'/(tag|category|author|search|feed|login|contact|about)/', href, re.I):
-                    continue
-                if re.search(r'\.(jpg|jpeg|png|gif|svg|pdf|zip|css|js)$', href, re.I):
-                    continue
-
-                # Find nearby context
-                title_words = [w for w in lc(anchor_text).split() if len(w) > 4]
-                best_context = ""
-                article_date_text = ""
-                for block in blocks:
-                    match_count = sum(1 for w in title_words if w in lc(block))
-                    if match_count >= 2 and len(block) > len(best_context):
-                        best_context = block
-                    # Also look for date strings near the title
-                    if match_count >= 2:
-                        date_match = re.search(r'(Jan|Feb|Mar|Apr|May|Jun|Jul|Aug|Sep|Sept|Oct|Nov|Dec)[a-z]*\.?\s+\d{1,2},?\s+\d{4}|\d{4}-\d{2}-\d{2}', block, re.I)
-                        if date_match and not article_date_text:
-                            article_date_text = date_match.group(0)
-
-                combined = anchor_text + " " + best_context
-                if not contains_ma(combined):
-                    continue
-
-                # Try to get the article date
-                article_date = extract_date(article_date_text) or extract_date(best_context)
-
-                # Skip articles older than cutoff (if we have a date)
-                if article_date and article_date < cutoff_date:
-                    continue
-
-                # Use article date if we have it, otherwise mark as "recent"
-                if article_date:
-                    date_str = article_date.strftime("%b %d, %Y")
-                    date_iso = article_date.isoformat()
-                else:
-                    date_str = datetime.now().strftime("%b %d, %Y")
-                    date_iso = datetime.now().isoformat()
-
-                seen_urls.add(norm_href)
-                summary = best_context if len(best_context) > 30 else anchor_text
-                if len(summary) > 400:
-                    summary = summary[:397] + "..."
-
-                results.append({
-                    "title":    anchor_text,
-                    "summary":  summary,
-                    "url":      href,
-                    "source":   source["name"],
-                    "keywords": matched_keywords(combined),
-                    "sector":   detect_sector(combined),
-                    "dealType": detect_type(combined),
-                    "value":    extract_value(combined),
-                    "date":     date_str,
-                    "dateISO":  date_iso,
-                })
-
-                if len(results) >= 30:  # cap per source
-                    break
-
-            if len(results) >= 30:
-                break
-
-            # Brief pause between pagination requests
-            time.sleep(0.5)
-
-        except Exception as e:
-            print(f"  Error on page {page_url}: {e}")
-            continue
-
-    print(f"  {source['name']}: {len(results)} M&A articles found")
+        print(f"  {query_obj['name']}: {len(results)} M&A articles")
+    except Exception as e:
+        print(f"  {query_obj['name']}: ERROR — {e}")
     return results
 
 
@@ -288,7 +194,6 @@ def main():
     print(f"Starting M&A scrape — {datetime.now()}")
     cutoff_date = datetime.now() - timedelta(days=ARCHIVE_DAYS)
 
-    # Load existing articles
     all_articles = []
     existing_urls = set()
     output_path = "docs/articles.json"
@@ -298,14 +203,12 @@ def main():
             try:
                 existing = json.load(f)
                 for a in existing.get("articles", []):
-                    # Keep only articles within our archive window
                     try:
                         art_date = datetime.fromisoformat(a.get("dateISO", ""))
                         if art_date >= cutoff_date:
                             all_articles.append(a)
                             existing_urls.add(a.get("url", ""))
                     except (ValueError, TypeError):
-                        # Keep articles without proper dates too (recent adds)
                         all_articles.append(a)
                         existing_urls.add(a.get("url", ""))
                 print(f"Loaded {len(all_articles)} existing articles within {ARCHIVE_DAYS}-day window")
@@ -313,19 +216,20 @@ def main():
                 print(f"Could not load existing articles: {e}")
 
     new_count = 0
-    for source in SOURCES:
-        print(f"Scraping: {source['name']}")
+    for query in GOOGLE_NEWS_QUERIES:
+        print(f"Querying: {query['name']}")
         try:
-            articles = scrape_source(source, cutoff_date)
+            articles = fetch_google_news(query)
             for a in articles:
                 if a["url"] not in existing_urls:
                     all_articles.append(a)
                     existing_urls.add(a["url"])
                     new_count += 1
         except Exception as e:
-            print(f"  ERROR scraping {source['name']}: {e}")
+            print(f"  ERROR on {query['name']}: {e}")
+        time.sleep(0.3)
 
-    # Sort newest first by dateISO
+    # Sort newest first
     def sort_key(a):
         try:
             return datetime.fromisoformat(a.get("dateISO", "1970-01-01"))
@@ -333,8 +237,6 @@ def main():
             return datetime(1970, 1, 1)
 
     all_articles.sort(key=sort_key, reverse=True)
-
-    # Cap total archive size as a safety
     all_articles = all_articles[:1000]
 
     os.makedirs("docs", exist_ok=True)
