@@ -52,9 +52,42 @@ body{
   justify-content:space-between;
   align-items:center;
   border-bottom:1px solid var(--gold-dk);
+  gap:1rem;
 }
 .ribbon-l{color:var(--gold-lt)}
-.ribbon-r{color:var(--paper3)}
+.ribbon-c{color:var(--paper3);flex:1;text-align:center}
+
+/* ── MINIMAL REFRESH BUTTON IN RIBBON ── */
+.ribbon-refresh{
+  background:transparent;
+  border:1px solid var(--gold-dk);
+  color:var(--gold-lt);
+  font-family:'JetBrains Mono',monospace;
+  font-size:9.5px;
+  letter-spacing:.18em;
+  text-transform:uppercase;
+  padding:4px 12px;
+  cursor:pointer;
+  transition:all .15s;
+  display:inline-flex;
+  align-items:center;
+  gap:6px;
+  white-space:nowrap;
+}
+.ribbon-refresh:hover{background:var(--gold-dk);color:var(--paper)}
+.ribbon-refresh:disabled{opacity:.5;cursor:not-allowed}
+.ribbon-refresh .arrow{display:inline-block;transition:transform .5s ease}
+.ribbon-refresh.loading .arrow{animation:spin 1.2s linear infinite}
+@keyframes spin{from{transform:rotate(0)}to{transform:rotate(360deg)}}
+.ribbon-status{
+  color:var(--paper3);
+  font-size:9.5px;
+  font-style:normal;
+  letter-spacing:.12em;
+  display:none;
+}
+.ribbon-status.visible{display:inline}
+.ribbon-status.error{color:#F0A0A0}
 
 .masthead{
   padding:2.5rem 2rem 1.75rem;
@@ -88,7 +121,6 @@ body{
   margin-bottom:0;
 }
 
-/* ── PRIMARY SECTION TABS ── */
 .section-nav{
   background:var(--paper);
   border-bottom:1px solid var(--rule-soft);
@@ -139,7 +171,6 @@ body{
   font-style:normal;
 }
 
-/* ── SUB-SECTION TABS (industries within M&A Activity) ── */
 .subsection-nav{
   background:var(--paper2);
   border-bottom:1px solid var(--rule-soft);
@@ -190,12 +221,13 @@ body{
   opacity:.85;
 }
 
+/* ── LAYOUT — narrower sidebar ── */
 .wrap{
   max-width:1180px;
   margin:0 auto;
   padding:2.25rem 2rem 3rem;
   display:grid;
-  grid-template-columns:1fr 300px;
+  grid-template-columns:1fr 230px;
   gap:2.5rem;
   align-items:start;
 }
@@ -496,9 +528,9 @@ body{
   content:'';position:absolute;top:-1px;left:-1px;right:-1px;height:2px;background:var(--forest);
 }
 .ph{
-  padding:12px 14px 10px;
+  padding:11px 12px 9px;
   font-family:'JetBrains Mono',monospace;
-  font-size:10px;
+  font-size:9.5px;
   font-weight:600;
   letter-spacing:.2em;
   text-transform:uppercase;
@@ -509,83 +541,37 @@ body{
   align-items:center;
 }
 .ph-ornament{color:var(--gold);font-size:9px}
-.pb{padding:14px}
 
-.refresh-btn{
-  width:100%;
-  background:var(--forest);
-  color:var(--paper);
-  border:none;
-  padding:13px 16px;
-  font-family:'JetBrains Mono',monospace;
-  font-size:11px;
-  font-weight:600;
-  letter-spacing:.18em;
-  text-transform:uppercase;
-  cursor:pointer;
-  transition:all .2s;
-  border:1px solid var(--forest);
-}
-.refresh-btn:hover{background:var(--ink);letter-spacing:.22em}
-.refresh-btn:disabled{background:var(--mute);cursor:not-allowed}
-
-.sbar{
-  background:var(--paper2);
-  border-left:2px solid var(--gold);
-  padding:10px 12px;
-  font-family:'JetBrains Mono',monospace;
-  font-size:11px;
-  color:var(--mute);
-  display:flex;
-  align-items:flex-start;
-  gap:8px;
-  line-height:1.5;
-  margin-bottom:10px;
-}
-.sdot{
-  width:7px;height:7px;border-radius:50%;
-  background:var(--moss);flex-shrink:0;margin-top:3px;
-}
-.sdot.loading{background:var(--gold);animation:pulse-dot .8s ease-in-out infinite}
-.sdot.error{background:var(--crimson)}
-@keyframes pulse-dot{0%,100%{opacity:1}50%{opacity:.3}}
-.prog-wrap{background:var(--paper2);height:2px;overflow:hidden;margin-bottom:10px;display:none}
-.prog-wrap.on{display:block}
-.prog-bar{height:100%;background:var(--forest);transition:width .35s ease;width:0%}
-
-.stat-g{display:grid;grid-template-columns:1fr 1fr;gap:1px;background:var(--rule-soft)}
-.stat{
-  background:var(--paper);
-  padding:14px 10px;
+/* ── ARTICLE COUNT (single-stat compact panel) ── */
+.count-box{
+  padding:1.1rem 1rem;
   text-align:center;
+  background:var(--forest);
 }
-.stat-n{
+.count-n{
   font-family:'Cormorant Garamond',serif;
-  font-size:34px;
-  font-weight:500;
-  color:var(--ink);
+  font-size:42px;
+  font-weight:400;
+  font-style:italic;
+  color:var(--gold-lt);
   line-height:1;
+  margin-bottom:4px;
 }
-.stat-n.hl{color:var(--forest)}
-.stat-l{
+.count-l{
   font-family:'JetBrains Mono',monospace;
   font-size:9px;
-  color:var(--mute);
-  letter-spacing:.15em;
+  color:var(--paper2);
+  letter-spacing:.18em;
   text-transform:uppercase;
-  margin-top:6px;
 }
-.sw{grid-column:1/-1;background:var(--forest);color:var(--paper)}
-.sw .stat-n{color:var(--gold-lt);font-size:44px;font-weight:400;font-style:italic}
-.sw .stat-l{color:var(--paper2)}
 
 .fl{display:flex;flex-direction:column;gap:1px;background:var(--rule-soft)}
 .fb{
   background:var(--paper);
   border:none;
-  padding:10px 12px;
+  padding:9px 12px;
   font-family:'Cormorant Garamond',serif;
-  font-size:16px;
+  font-size:15px;
   cursor:pointer;
   color:var(--ink);
   text-align:left;
@@ -610,32 +596,6 @@ body{
   letter-spacing:.1em;
 }
 .fb.on .fc{color:var(--gold-lt)}
-
-.src-l{display:flex;flex-direction:column;gap:0}
-.src-i{
-  font-family:'JetBrains Mono',monospace;
-  font-size:10px;
-  color:var(--mute);
-  padding:5px 0;
-  border-bottom:1px dotted var(--rule-soft);
-  display:flex;
-  align-items:center;
-  gap:6px;
-  letter-spacing:.05em;
-}
-.src-i:last-child{border-bottom:none}
-.src-d{width:5px;height:5px;border-radius:50%;background:var(--forest);flex-shrink:0}
-
-.lf{
-  font-family:'JetBrains Mono',monospace;
-  font-size:9.5px;
-  color:var(--mute2);
-  text-align:center;
-  min-height:14px;
-  margin-top:8px;
-  letter-spacing:.1em;
-  text-transform:uppercase;
-}
 
 .footer{
   margin-top:3rem;
@@ -665,7 +625,8 @@ body{
   .sidebar{order:-1}
   .mast-title{font-size:44px}
   .section-headline{font-size:32px}
-  .ribbon{flex-direction:column;gap:.3rem;text-align:center}
+  .ribbon{flex-direction:column;gap:.4rem;text-align:center;padding:10px 1rem}
+  .ribbon-c{order:3}
   .section-nav-inner,.subsection-nav-inner{justify-content:flex-start;overflow-x:auto;flex-wrap:nowrap}
   .section-link{padding:14px 1.2rem;white-space:nowrap}
   .section-link+.section-link{border-left:1px solid var(--paper3)}
@@ -677,7 +638,13 @@ body{
 
 <div class="ribbon">
   <div class="ribbon-l">Volume I · Issue I</div>
-  <div class="ribbon-r" id="current-date"></div>
+  <div class="ribbon-c" id="current-date"></div>
+  <div style="display:flex;align-items:center;gap:10px">
+    <span class="ribbon-status" id="ribbon-status"></span>
+    <button class="ribbon-refresh" id="rbtn" onclick="loadArticles()">
+      <span class="arrow">↻</span> Refresh
+    </button>
+  </div>
 </div>
 
 <header class="masthead">
@@ -687,7 +654,6 @@ body{
   </div>
 </header>
 
-<!-- PRIMARY TABS -->
 <nav class="section-nav">
   <div class="section-nav-inner">
     <button class="section-link active" data-section="ma" onclick="switchSection('ma')">M&amp;A Activity</button>
@@ -698,7 +664,6 @@ body{
   </div>
 </nav>
 
-<!-- SUB-INDUSTRY TABS (only shown when M&A Activity is active) -->
 <nav class="subsection-nav" id="subsection-nav">
   <div class="subsection-nav-inner">
     <button class="subsection-link active" data-industry="construction" onclick="switchIndustry('construction')">Construction Materials</button>
@@ -737,31 +702,16 @@ body{
   <aside class="sidebar" id="sidebar">
 
     <div class="panel">
-      <div class="ph">Controls <span class="ph-ornament">◆</span></div>
-      <div class="pb">
-        <div class="sbar"><div class="sdot" id="sdot"></div><span id="stxt">Standing by…</span></div>
-        <div class="prog-wrap" id="prog"><div class="prog-bar" id="pbar"></div></div>
-        <button class="refresh-btn" id="rbtn" onclick="loadArticles()">↻ Refresh Feed</button>
-        <div class="lf" id="lf"></div>
-      </div>
-    </div>
-
-    <div class="panel">
-      <div class="ph">The Numbers <span class="ph-ornament">◆</span></div>
-      <div class="pb" style="padding:1px;background:var(--rule-soft)">
-        <div class="stat-g">
-          <div class="stat sw"><div class="stat-n" id="s-tot">—</div><div class="stat-l">Total Entries</div></div>
-          <div class="stat"><div class="stat-n hl" id="s-acq">—</div><div class="stat-l">Acquisitions</div></div>
-          <div class="stat"><div class="stat-n hl" id="s-mer">—</div><div class="stat-l">Mergers</div></div>
-          <div class="stat"><div class="stat-n hl" id="s-inv">—</div><div class="stat-l">Investments</div></div>
-          <div class="stat"><div class="stat-n hl" id="s-div">—</div><div class="stat-l">Divestitures</div></div>
-        </div>
+      <div class="ph">Article Count <span class="ph-ornament">◆</span></div>
+      <div class="count-box">
+        <div class="count-n" id="s-tot">—</div>
+        <div class="count-l">Total Entries</div>
       </div>
     </div>
 
     <div class="panel">
       <div class="ph">By Classification <span class="ph-ornament">◆</span></div>
-      <div class="pb" style="padding:1px;background:var(--rule-soft)">
+      <div style="padding:1px;background:var(--rule-soft)">
         <div class="fl" id="tf">
           <button class="fb on" onclick="filt('all',this,'t')">All Classes <span class="fc" id="fc-all">0</span></button>
           <button class="fb" onclick="filt('Acquisition',this,'t')">Acquisitions <span class="fc" id="fc-acq">0</span></button>
@@ -774,7 +724,7 @@ body{
 
     <div class="panel">
       <div class="ph">By Sector <span class="ph-ornament">◆</span></div>
-      <div class="pb" style="padding:1px;background:var(--rule-soft)">
+      <div style="padding:1px;background:var(--rule-soft)">
         <div class="fl" id="sf">
           <button class="fb on" onclick="filt('all',this,'s')">All Sectors</button>
           <button class="fb" onclick="filt('Aggregates',this,'s')">Aggregates</button>
@@ -783,36 +733,6 @@ body{
           <button class="fb" onclick="filt('Cement',this,'s')">Cement</button>
           <button class="fb" onclick="filt('Paving',this,'s')">Paving</button>
           <button class="fb" onclick="filt('Precast',this,'s')">Precast Concrete</button>
-        </div>
-      </div>
-    </div>
-
-    <div class="panel">
-      <div class="ph">Under Observation <span class="ph-ornament">◆</span></div>
-      <div class="pb" style="padding:8px 14px">
-        <div class="src-l">
-          <div class="src-i"><div class="src-d"></div>Industry — Aggregates</div>
-          <div class="src-i"><div class="src-d"></div>Industry — Cement</div>
-          <div class="src-i"><div class="src-d"></div>Industry — Asphalt</div>
-          <div class="src-i"><div class="src-d"></div>Industry — Ready-Mix</div>
-          <div class="src-i"><div class="src-d"></div>Industry — Paving</div>
-          <div class="src-i"><div class="src-d"></div>Industry — Precast</div>
-          <div class="src-i"><div class="src-d"></div>Martin Marietta</div>
-          <div class="src-i"><div class="src-d"></div>Vulcan Materials</div>
-          <div class="src-i"><div class="src-d"></div>CRH</div>
-          <div class="src-i"><div class="src-d"></div>Heidelberg Materials</div>
-          <div class="src-i"><div class="src-d"></div>Cemex</div>
-          <div class="src-i"><div class="src-d"></div>Eagle Materials</div>
-          <div class="src-i"><div class="src-d"></div>Knife River</div>
-          <div class="src-i"><div class="src-d"></div>Arcosa</div>
-          <div class="src-i"><div class="src-d"></div>Amrize</div>
-          <div class="src-i"><div class="src-d"></div>Summit Materials</div>
-          <div class="src-i"><div class="src-d"></div>Granite Construction</div>
-          <div class="src-i"><div class="src-d"></div>Construction Partners</div>
-          <div class="src-i"><div class="src-d"></div>GCC Cement</div>
-          <div class="src-i"><div class="src-d"></div>US Concrete</div>
-          <div class="src-i"><div class="src-d"></div>Holcim</div>
-          <div class="src-i"><div class="src-d"></div>Lehigh Hanson</div>
         </div>
       </div>
     </div>
@@ -834,15 +754,21 @@ let articles = [], tf = 'all', sf = 'all', searchQuery = '', activeSection = 'ma
 
 document.getElementById('current-date').textContent = new Date().toLocaleDateString('en-US', {weekday:'long', year:'numeric', month:'long', day:'numeric'});
 
-function setStatus(txt,state){document.getElementById('stxt').textContent=txt;const d=document.getElementById('sdot');d.className='sdot'+(state==='loading'?' loading':state==='error'?' error':'');}
-function setProgress(pct,show){document.getElementById('prog').className='prog-wrap'+(show?' on':'');document.getElementById('pbar').style.width=pct+'%';}
+function setRibbonStatus(text, state){
+  const el = document.getElementById('ribbon-status');
+  if(!text){ el.classList.remove('visible','error'); return; }
+  el.textContent = text;
+  el.classList.add('visible');
+  if(state === 'error') el.classList.add('error');
+  else el.classList.remove('error');
+}
+
 function showNotice(html,type){const el=document.getElementById('notice');if(!html){el.style.display='none';return;}el.className='notice '+(type||'info');el.innerHTML=html;el.style.display='block';}
 
 function switchSection(section){
   activeSection = section;
   document.querySelectorAll('.section-link').forEach(b=>b.classList.remove('active'));
   document.querySelector(`[data-section="${section}"]`).classList.add('active');
-  // show/hide subsection nav based on whether we're in M&A
   document.getElementById('subsection-nav').style.display = (section === 'ma') ? 'block' : 'none';
   render();
 }
@@ -869,10 +795,6 @@ function applySearch(){
 function updateStats(){
   const n=articles.length;
   document.getElementById('s-tot').textContent=n;
-  document.getElementById('s-acq').textContent=articles.filter(a=>a.dealType==='Acquisition').length;
-  document.getElementById('s-mer').textContent=articles.filter(a=>a.dealType==='Merger').length;
-  document.getElementById('s-inv').textContent=articles.filter(a=>a.dealType==='Investment').length;
-  document.getElementById('s-div').textContent=articles.filter(a=>a.dealType==='Divestiture').length;
   document.getElementById('fc-all').textContent=n;
   document.getElementById('fc-acq').textContent=articles.filter(a=>a.dealType==='Acquisition').length;
   document.getElementById('fc-mer').textContent=articles.filter(a=>a.dealType==='Merger').length;
@@ -883,14 +805,12 @@ function updateStats(){
 function render(){
   const el=document.getElementById('feed');
 
-  // Different major section (Politics, Real Estate, etc.)
   if(activeSection !== 'ma'){
     el.innerHTML = `<div class="empty"><h2>Chapter in preparation</h2><div class="ornament-line">◆ ◆ ◆</div><p>This section is being curated. New chapters will be added as The Meridian Report expands.</p></div>`;
     document.getElementById('feed-count').textContent = '— Entries';
     return;
   }
 
-  // M&A but a non-construction industry
   if(activeIndustry !== 'construction'){
     el.innerHTML = `<div class="empty"><h2>Industry in preparation</h2><div class="ornament-line">◆ ◆ ◆</div><p>Coverage of this industry is being curated. Construction Materials coverage is live; additional verticals will follow.</p></div>`;
     document.getElementById('feed-count').textContent = '— Entries';
@@ -939,26 +859,26 @@ function render(){
 }
 
 async function loadArticles(){
-  const btn=document.getElementById('rbtn');btn.disabled=true;showNotice('');
-  setStatus('Retrieving dispatches…','loading');setProgress(20,true);
+  const btn=document.getElementById('rbtn');
+  btn.disabled=true;
+  btn.classList.add('loading');
+  showNotice('');
+  setRibbonStatus('Retrieving…');
   try{
     const resp=await fetch(DATA_URL+'?t='+Date.now(),{signal:AbortSignal.timeout(20000)});
-    setProgress(70,true);
     if(!resp.ok)throw new Error(`HTTP ${resp.status}`);
     const data=await resp.json();
-    setProgress(90,true);
     articles=Array.isArray(data.articles)?data.articles:[];
     updateStats();render();
     const fetched=data.fetchedAt?new Date(data.fetchedAt).toLocaleDateString('en-US',{month:'short',day:'numeric',hour:'numeric',minute:'2-digit'}):'';
-    setStatus(`${articles.length} entries archived`,'ready');
-    if(fetched)document.getElementById('lf').textContent='Updated '+fetched;
+    setRibbonStatus(`Updated ${fetched}`);
     if(data.newToday>0)showNotice(`<strong>${data.newToday}</strong> new ${data.newToday!==1?'entries':'entry'} added to the ledger this cycle.`,'info');
-    setProgress(100,true);setTimeout(()=>setProgress(0,false),600);
   }catch(e){
-    setProgress(0,false);setStatus('Unable to retrieve','error');
+    setRibbonStatus('Unable to retrieve','error');
     showNotice(`<strong>Unable to retrieve dispatches:</strong> ${e.message}. Verify GitHub Pages is active and the data file has been generated.`,'err');
   }
   btn.disabled=false;
+  btn.classList.remove('loading');
 }
 
 window.addEventListener('DOMContentLoaded',loadArticles);
