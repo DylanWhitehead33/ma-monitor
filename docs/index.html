@@ -1,0 +1,230 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>M&A Monitor — Heavy Construction Materials</title>
+<link rel="preconnect" href="https://fonts.googleapis.com">
+<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+<link href="https://fonts.googleapis.com/css2?family=DM+Serif+Display:ital@0;1&family=DM+Mono:wght@400;500&family=DM+Sans:opsz,wght@9..40,300;9..40,400;9..40,500&display=swap" rel="stylesheet">
+<style>
+:root {
+  --bg:#F2EFE9;--surface:#FDFCFA;--surface2:#EDEAE3;--border:#D6D1C8;--borderlt:#E6E2DA;
+  --txt:#18160F;--txt2:#58544E;--txt3:#98948C;--green:#1B4332;--greenlt:#D6EDD8;
+  --greentxt:#0D2A1C;--amber:#92400E;--amberlt:#FEF3C7;--ambertxt:#451F05;
+  --blue:#1E3A5F;--bluelt:#DBEAFE;--bluetxt:#0C2340;--red:#7F1D1D;--redlt:#FEE2E2;
+  --redtxt:#3F0E0E;--gold:#78350F;--goldlt:#FDE68A;
+}
+*{box-sizing:border-box;margin:0;padding:0}
+body{font-family:'DM Sans',sans-serif;background:var(--bg);color:var(--txt);min-height:100vh;font-size:15px;line-height:1.6}
+.masthead{background:var(--green);padding:0 2rem;border-bottom:3px solid #091A0F}
+.mast-inner{max-width:1140px;margin:0 auto;display:flex;align-items:stretch}
+.mast-l{padding:1.4rem 2rem 1.4rem 0;border-right:1px solid rgba(255,255,255,.14);flex-shrink:0}
+.logo{font-family:'DM Serif Display',serif;font-size:26px;color:#fff;letter-spacing:-.4px;line-height:1.1}
+.logo em{color:#86EFAC;font-style:italic}
+.tagline{font-family:'DM Mono',monospace;font-size:10.5px;color:rgba(255,255,255,.45);letter-spacing:.12em;text-transform:uppercase;margin-top:5px}
+.mast-r{padding:1.4rem 0 1.4rem 2rem;display:flex;flex-direction:column;justify-content:center;gap:4px}
+.mast-desc{font-size:13px;color:rgba(255,255,255,.6);line-height:1.5;max-width:540px}
+.mast-src{font-family:'DM Mono',monospace;font-size:10px;color:rgba(255,255,255,.3);margin-top:2px}
+.ticker{background:#091A0F;padding:5px 0;overflow:hidden;position:relative}
+.ticker::before,.ticker::after{content:'';position:absolute;top:0;bottom:0;width:50px;z-index:2;pointer-events:none}
+.ticker::before{left:0;background:linear-gradient(90deg,#091A0F,transparent)}
+.ticker::after{right:0;background:linear-gradient(-90deg,#091A0F,transparent)}
+.ticker-track{display:flex;white-space:nowrap;width:max-content;animation:tick 55s linear infinite}
+@keyframes tick{0%{transform:translateX(0)}100%{transform:translateX(-50%)}}
+.ti{font-family:'DM Mono',monospace;font-size:10.5px;color:rgba(255,255,255,.38);padding:0 2.5rem;border-right:1px solid rgba(255,255,255,.07)}
+.ti strong{color:#86EFAC;font-weight:500}
+.wrap{max-width:1140px;margin:0 auto;padding:1.75rem 2rem;display:grid;grid-template-columns:1fr 288px;gap:1.75rem;align-items:start}
+.sidebar{display:flex;flex-direction:column;gap:12px}
+.panel{background:var(--surface);border:1px solid var(--border);border-radius:6px;overflow:hidden}
+.ph{background:var(--surface2);border-bottom:1px solid var(--border);padding:9px 13px;font-family:'DM Mono',monospace;font-size:10px;font-weight:500;letter-spacing:.11em;text-transform:uppercase;color:var(--txt2);display:flex;align-items:center;justify-content:space-between}
+.pb{padding:13px}
+.refresh-btn{width:100%;background:var(--green);color:#fff;border:none;border-radius:5px;padding:12px 16px;font-family:'DM Sans',sans-serif;font-size:14px;font-weight:500;cursor:pointer;transition:background .15s}
+.refresh-btn:hover{background:#0D2A1C}
+.refresh-btn:disabled{background:var(--txt3);cursor:not-allowed}
+.sbar{background:var(--surface2);border:1px solid var(--borderlt);border-radius:5px;padding:9px 11px;font-family:'DM Mono',monospace;font-size:11.5px;color:var(--txt2);display:flex;align-items:flex-start;gap:8px;line-height:1.5;margin-bottom:8px}
+.sdot{width:7px;height:7px;border-radius:50%;background:#4ADE80;flex-shrink:0;margin-top:3px}
+.sdot.loading{background:#FCD34D;animation:blink .8s ease-in-out infinite}
+.sdot.error{background:#F87171}
+@keyframes blink{0%,100%{opacity:1}50%{opacity:.2}}
+.prog-wrap{background:var(--surface2);border-radius:3px;height:3px;overflow:hidden;margin-bottom:8px;display:none}
+.prog-wrap.on{display:block}
+.prog-bar{height:100%;background:var(--green);border-radius:3px;transition:width .35s ease;width:0%}
+.stat-g{display:grid;grid-template-columns:1fr 1fr;gap:7px}
+.stat{background:var(--bg);border:1px solid var(--borderlt);border-radius:4px;padding:9px}
+.stat-n{font-family:'DM Serif Display',serif;font-size:24px;color:var(--txt);line-height:1}
+.stat-l{font-family:'DM Mono',monospace;font-size:9.5px;color:var(--txt3);text-transform:uppercase;letter-spacing:.07em;margin-top:3px}
+.sw{grid-column:1/-1}
+.fl{display:flex;flex-direction:column;gap:3px}
+.fb{background:transparent;border:1px solid transparent;border-radius:4px;padding:6px 10px;font-family:'DM Sans',sans-serif;font-size:13px;cursor:pointer;color:var(--txt2);text-align:left;display:flex;align-items:center;justify-content:space-between;transition:all .1s}
+.fb:hover{background:var(--surface2);color:var(--txt)}
+.fb.on{background:var(--greenlt);border-color:#9ECBA5;color:var(--greentxt);font-weight:500}
+.fc{font-family:'DM Mono',monospace;font-size:10.5px;color:var(--txt3);background:var(--surface2);padding:1px 6px;border-radius:20px}
+.fb.on .fc{background:rgba(27,67,50,.13);color:var(--greentxt)}
+.src-l{display:flex;flex-direction:column;gap:2px}
+.src-i{font-family:'DM Mono',monospace;font-size:10.5px;color:var(--txt3);padding:3px 0;border-bottom:1px solid var(--borderlt);display:flex;align-items:center;gap:5px}
+.src-i:last-child{border-bottom:none}
+.src-d{width:5px;height:5px;border-radius:50%;background:var(--green);flex-shrink:0}
+.feed-hdr{display:flex;align-items:baseline;justify-content:space-between;margin-bottom:1rem;padding-bottom:10px;border-bottom:2px solid var(--txt)}
+.feed-title{font-family:'DM Serif Display',serif;font-size:22px;color:var(--txt)}
+.feed-meta{font-family:'DM Mono',monospace;font-size:11.5px;color:var(--txt3)}
+.notice{border-radius:5px;padding:.85rem 1rem;margin-bottom:1rem;font-size:13px;line-height:1.6}
+.notice.info{background:var(--bluelt);border:1px solid #93C5FD;color:var(--bluetxt)}
+.notice.err{background:var(--redlt);border:1px solid #FCA5A5;color:var(--redtxt)}
+.card{background:var(--surface);border:1px solid var(--border);border-radius:6px;padding:1.1rem 1.1rem 1.1rem 1.4rem;margin-bottom:9px;position:relative;transition:border-color .15s}
+.card:hover{border-color:#A8C5AC}
+.card::before{content:'';position:absolute;left:0;top:0;bottom:0;width:3px;border-radius:6px 0 0 6px}
+.card.ta::before{background:var(--green)}
+.card.tm::before{background:var(--blue)}
+.card.ti::before{background:var(--amber)}
+.card.td::before{background:var(--red)}
+.card-top{display:flex;align-items:flex-start;gap:7px;margin-bottom:9px;flex-wrap:wrap}
+.bdg{font-family:'DM Mono',monospace;font-size:9.5px;font-weight:500;letter-spacing:.08em;text-transform:uppercase;padding:2px 7px;border-radius:3px;white-space:nowrap}
+.bga{background:var(--greenlt);color:var(--greentxt)}
+.bgm{background:var(--bluelt);color:var(--bluetxt)}
+.bgi{background:var(--amberlt);color:var(--ambertxt)}
+.bgd{background:var(--redlt);color:var(--redtxt)}
+.bgs{background:var(--surface2);color:var(--txt2);border:1px solid var(--borderlt)}
+.bgv{background:var(--goldlt);color:var(--gold)}
+.cdate{font-family:'DM Mono',monospace;font-size:10.5px;color:var(--txt3);margin-left:auto;white-space:nowrap}
+.ctitle{font-family:'DM Serif Display',serif;font-size:17px;color:var(--txt);line-height:1.35;margin-bottom:7px}
+.csumm{font-size:13px;color:var(--txt2);line-height:1.65;margin-bottom:10px}
+.ckw{display:flex;gap:4px;flex-wrap:wrap;margin-bottom:10px}
+.kwtag{font-family:'DM Mono',monospace;font-size:10px;color:var(--txt3);background:var(--bg);border:1px solid var(--borderlt);padding:2px 6px;border-radius:3px}
+.cfoot{display:flex;align-items:center;gap:10px;padding-top:9px;border-top:1px solid var(--borderlt)}
+.csrc{font-family:'DM Mono',monospace;font-size:10.5px;color:var(--txt3);display:flex;align-items:center;gap:5px}
+.clink{margin-left:auto;font-family:'DM Mono',monospace;font-size:10.5px;color:var(--green);text-decoration:none;border:1px solid var(--greenlt);padding:3px 9px;border-radius:3px;transition:all .12s;white-space:nowrap}
+.clink:hover{background:var(--green);color:#fff;border-color:var(--green)}
+.empty{background:var(--surface);border:1px dashed var(--border);border-radius:6px;padding:4rem 2rem;text-align:center}
+.empty h2{font-family:'DM Serif Display',serif;font-size:20px;color:var(--txt);margin-bottom:8px}
+.empty p{font-family:'DM Mono',monospace;font-size:12px;color:var(--txt3);max-width:380px;margin:0 auto;line-height:1.7}
+.lf{font-family:'DM Mono',monospace;font-size:10.5px;color:var(--txt3);text-align:center;min-height:14px;margin-top:4px}
+@media(max-width:800px){
+  .wrap{grid-template-columns:1fr;padding:1rem}
+  .sidebar{order:-1}
+  .mast-inner{flex-direction:column}
+  .mast-l{border-right:none;border-bottom:1px solid rgba(255,255,255,.1);padding-bottom:1rem}
+  .mast-r{padding-left:0;padding-top:1rem}
+}
+</style>
+</head>
+<body>
+<header class="masthead">
+  <div class="mast-inner">
+    <div class="mast-l">
+      <div class="logo">M&amp;<em>A</em> Monitor</div>
+      <div class="tagline">Heavy Construction Materials · Deal Intelligence</div>
+    </div>
+    <div class="mast-r">
+      <div class="mast-desc">Tracks mergers, acquisitions, investments &amp; divestitures across aggregates, asphalt, ready-mix, cement, paving, and precast concrete. Updated automatically every morning at 8am CT via GitHub Actions.</div>
+      <div class="mast-src">Rock Products · Concrete Products · Pit &amp; Quarry · Martin Marietta · Arcosa · Amrize · Construction Partners · Granite · CRH · Knife River · Eagle Materials · Heidelberg · Cemex · GCC · PR Newswire</div>
+    </div>
+  </div>
+</header>
+<div class="ticker">
+  <div class="ticker-track">
+    <span class="ti"><strong>KEYWORDS</strong> Acquired · Acquiring · Merger · Acquisition · Investment · Deal · Divestiture · Joint Venture · Takeover · Buyout</span>
+    <span class="ti"><strong>SECTORS</strong> Aggregates · Asphalt · Ready-Mix · Cement · Paving · Precast Concrete</span>
+    <span class="ti"><strong>SOURCES</strong> Rock Products · Concrete Products · Pit &amp; Quarry · Martin Marietta · Arcosa · Amrize · Granite · CRH · Cemex · Heidelberg · Eagle Materials · GCC · Knife River · Construction Partners · PR Newswire</span>
+    <span class="ti"><strong>KEYWORDS</strong> Acquired · Acquiring · Merger · Acquisition · Investment · Deal · Divestiture · Joint Venture · Takeover · Buyout</span>
+    <span class="ti"><strong>SECTORS</strong> Aggregates · Asphalt · Ready-Mix · Cement · Paving · Precast Concrete</span>
+    <span class="ti"><strong>SOURCES</strong> Rock Products · Concrete Products · Pit &amp; Quarry · Martin Marietta · Arcosa · Amrize · Granite · CRH · Cemex · Heidelberg · Eagle Materials · GCC · Knife River · Construction Partners · PR Newswire</span>
+  </div>
+</div>
+<div class="wrap">
+  <main>
+    <div class="feed-hdr">
+      <div class="feed-title">Deal Activity Feed</div>
+      <div class="feed-meta" id="feed-count">Loading…</div>
+    </div>
+    <div id="notice" style="display:none"></div>
+    <div id="feed"></div>
+  </main>
+  <aside class="sidebar">
+    <div class="panel">
+      <div class="ph">Live feed</div>
+      <div class="pb">
+        <div class="sbar"><div class="sdot" id="sdot"></div><span id="stxt">Loading articles…</span></div>
+        <div class="prog-wrap" id="prog"><div class="prog-bar" id="pbar"></div></div>
+        <button class="refresh-btn" id="rbtn" onclick="loadArticles()">&#x21BB;&nbsp; Refresh articles</button>
+        <div class="lf" id="lf"></div>
+      </div>
+    </div>
+    <div class="panel">
+      <div class="ph">Stats</div>
+      <div class="pb">
+        <div class="stat-g">
+          <div class="stat sw"><div class="stat-n" id="s-tot">—</div><div class="stat-l">Total articles</div></div>
+          <div class="stat"><div class="stat-n" id="s-acq">—</div><div class="stat-l">Acquisitions</div></div>
+          <div class="stat"><div class="stat-n" id="s-mer">—</div><div class="stat-l">Mergers</div></div>
+          <div class="stat"><div class="stat-n" id="s-inv">—</div><div class="stat-l">Investments</div></div>
+          <div class="stat"><div class="stat-n" id="s-div">—</div><div class="stat-l">Divestitures</div></div>
+        </div>
+      </div>
+    </div>
+    <div class="panel">
+      <div class="ph">Filter by type</div>
+      <div class="pb">
+        <div class="fl" id="tf">
+          <button class="fb on" onclick="filt('all',this,'t')">All types <span class="fc" id="fc-all">0</span></button>
+          <button class="fb" onclick="filt('Acquisition',this,'t')">Acquisitions <span class="fc" id="fc-acq">0</span></button>
+          <button class="fb" onclick="filt('Merger',this,'t')">Mergers <span class="fc" id="fc-mer">0</span></button>
+          <button class="fb" onclick="filt('Investment',this,'t')">Investments <span class="fc" id="fc-inv">0</span></button>
+          <button class="fb" onclick="filt('Divestiture',this,'t')">Divestitures <span class="fc" id="fc-div">0</span></button>
+        </div>
+      </div>
+    </div>
+    <div class="panel">
+      <div class="ph">Filter by sector</div>
+      <div class="pb">
+        <div class="fl" id="sf">
+          <button class="fb on" onclick="filt('all',this,'s')">All sectors</button>
+          <button class="fb" onclick="filt('Aggregates',this,'s')">Aggregates</button>
+          <button class="fb" onclick="filt('Asphalt',this,'s')">Asphalt</button>
+          <button class="fb" onclick="filt('Ready-Mix',this,'s')">Ready-Mix</button>
+          <button class="fb" onclick="filt('Cement',this,'s')">Cement</button>
+          <button class="fb" onclick="filt('Paving',this,'s')">Paving</button>
+          <button class="fb" onclick="filt('Precast',this,'s')">Precast Concrete</button>
+        </div>
+      </div>
+    </div>
+    <div class="panel">
+      <div class="ph">Monitored sources</div>
+      <div class="pb" style="padding:8px 13px">
+        <div class="src-l">
+          <div class="src-i"><div class="src-d"></div>Rock Products</div>
+          <div class="src-i"><div class="src-d"></div>Concrete Products</div>
+          <div class="src-i"><div class="src-d"></div>Pit &amp; Quarry</div>
+          <div class="src-i"><div class="src-d"></div>Martin Marietta</div>
+          <div class="src-i"><div class="src-d"></div>Arcosa</div>
+          <div class="src-i"><div class="src-d"></div>Amrize (AMRZ)</div>
+          <div class="src-i"><div class="src-d"></div>Construction Partners</div>
+          <div class="src-i"><div class="src-d"></div>Granite Construction</div>
+          <div class="src-i"><div class="src-d"></div>CRH</div>
+          <div class="src-i"><div class="src-d"></div>Knife River</div>
+          <div class="src-i"><div class="src-d"></div>Eagle Materials</div>
+          <div class="src-i"><div class="src-d"></div>Heidelberg Materials</div>
+          <div class="src-i"><div class="src-d"></div>Cemex</div>
+          <div class="src-i"><div class="src-d"></div>GCC</div>
+          <div class="src-i"><div class="src-d"></div>PR Newswire Construction</div>
+        </div>
+      </div>
+    </div>
+  </aside>
+</div>
+<script>
+const GITHUB_USER = "DylanWhitehead33";
+const GITHUB_REPO = "ma-monitor";
+const DATA_URL = `https://${GITHUB_USER}.github.io/${GITHUB_REPO}/articles.json`;
+let articles = [], tf = 'all', sf = 'all';
+function setStatus(txt,state){document.getElementById('stxt').textContent=txt;const d=document.getElementById('sdot');d.className='sdot'+(state==='loading'?' loading':state==='error'?' error':'');}
+function setProgress(pct,show){document.getElementById('prog').className='prog-wrap'+(show?' on':'');document.getElementById('pbar').style.width=pct+'%';}
+function showNotice(html,type){const el=document.getElementById('notice');if(!html){el.style.display='none';return;}el.className='notice '+(type||'info');el.innerHTML=html;el.style.display='block';}
+function filt(val,btn,group){if(group==='t'){tf=val;document.getElementById('tf').querySelectorAll('.fb').forEach(b=>b.classList.remove('on'));}else{sf=val;document.getElementById('sf').querySelectorAll('.fb').forEach(b=>b.classList.remove('on'));}btn.classList.add('on');render();}
+function updateStats(){const n=articles.length;document.getElementById('s-tot').textContent=n;document.getElementById('s-acq').textContent=articles.filter(a=>a.dealType==='Acquisition').length;document.getElementById('s-mer').textContent=articles.filter(a=>a.dealType==='Merger').length;document.getElementById('s-inv').textContent=articles.filter(a=>a.dealType==='Investment').length;document.getElementById('s-div').textContent=articles.filter(a=>a.dealType==='Divestiture').length;document.getElementById('fc-all').textContent=n;document.getElementById('fc-acq').textContent=articles.filter(a=>a.dealType==='Acquisition').length;document.getElementById('fc-mer').textContent=articles.filter(a=>a.dealType==='Merger').length;document.getElementById('fc-inv').textContent=articles.filter(a=>a.dealType==='Investment').length;document.getElementById('fc-div').textContent=articles.filter(a=>a.dealType==='Divestiture').length;document.getElementById('feed-count').textContent=n+' article'+(n!==1?'s':'')+' archived';}
+function render(){const el=document.getElementById('feed');let list=articles;if(tf!=='all')list=list.filter(a=>a.dealType===tf);if(sf!=='all')list=list.filter(a=>a.sector&&a.sector.toLowerCase().includes(sf.toLowerCase()));if(list.length===0){el.innerHTML=`<div class="empty"><h2>${articles.length===0?'No articles yet':'No articles match this filter'}</h2><p>${articles.length===0?'GitHub Actions will run the scraper at 8am CT daily. You can also trigger it manually in the Actions tab of your GitHub repo.':'Try adjusting the type or sector filters.'}</p></div>`;return;}const typeMap={Acquisition:{cls:'ta',bc:'bga'},Merger:{cls:'tm',bc:'bgm'},Investment:{cls:'ti',bc:'bgi'},Divestiture:{cls:'td',bc:'bgd'}};el.innerHTML=list.map(a=>{const t=typeMap[a.dealType]||typeMap.Acquisition;const kw=(a.keywords||'').split(',').filter(k=>k.trim()).map(k=>`<span class="kwtag">${k.trim()}</span>`).join('');return`<div class="card ${t.cls}"><div class="card-top"><span class="bdg ${t.bc}">${a.dealType||'Deal'}</span>${a.sector?`<span class="bdg bgs">${a.sector}</span>`:''} ${a.value?`<span class="bdg bgv">${a.value}</span>`:''}<span class="cdate">${a.date||''}</span></div><div class="ctitle">${a.title}</div><div class="csumm">${a.summary}</div>${kw?`<div class="ckw">${kw}</div>`:''}<div class="cfoot"><div class="csrc"><span style="width:5px;height:5px;border-radius:50%;background:var(--green);display:inline-block;flex-shrink:0"></span>${a.source||''}</div>${a.url?`<a class="clink" href="${a.url}" target="_blank" rel="noopener">Read article</a>`:''}</div></div>`;}).join('');}
+async function loadArticles(){const btn=document.getElementById('rbtn');btn.disabled=true;showNotice('');setStatus('Loading articles from GitHub…','loading');setProgress(20,true);try{const resp=await fetch(DATA_URL+'?t='+Date.now(),{signal:AbortSignal.timeout(20000)});setProgress(70,true);if(!resp.ok)throw new Error(`HTTP ${resp.status} — make sure GitHub Pages is enabled`);const data=await resp.json();setProgress(90,true);articles=Array.isArray(data.articles)?data.articles:[];updateStats();render();const fetched=data.fetchedAt?new Date(data.fetchedAt).toLocaleDateString('en-US',{month:'short',day:'numeric',year:'numeric',hour:'numeric',minute:'2-digit'}):'';setStatus(`${articles.length} article${articles.length!==1?'s':''} loaded`,'ready');if(fetched)document.getElementById('lf').textContent='Data last scraped '+fetched;if(data.newToday>0)showNotice(`<strong>${data.newToday} new article${data.newToday!==1?'s':''} added today</strong> from the morning scrape.`,'info');setProgress(100,true);setTimeout(()=>setProgress(0,false),600);}catch(e){setProgress(0,false);setStatus('Error loading articles','error');showNotice(`<strong>Could not load articles:</strong> ${e.message}<br><br>Make sure GitHub Pages is enabled: repo Settings → Pages → Source = <strong>docs folder</strong>.`,'err');}btn.disabled=false;}
+window.addEventListener('DOMContentLoaded',loadArticles);
+</script>
+</body>
+</html>
