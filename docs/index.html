@@ -87,8 +87,8 @@ body{
   line-height:1;
   margin-bottom:0;
 }
-.mast-title em{font-style:italic;font-weight:400;color:var(--forest)}
 
+/* ── PRIMARY SECTION TABS ── */
 .section-nav{
   background:var(--paper);
   border-bottom:1px solid var(--rule-soft);
@@ -139,6 +139,57 @@ body{
   font-style:normal;
 }
 
+/* ── SUB-SECTION TABS (industries within M&A Activity) ── */
+.subsection-nav{
+  background:var(--paper2);
+  border-bottom:1px solid var(--rule-soft);
+  padding:0 2rem;
+}
+.subsection-nav-inner{
+  max-width:1180px;
+  margin:0 auto;
+  display:flex;
+  justify-content:center;
+  flex-wrap:wrap;
+  gap:0;
+}
+.subsection-link{
+  padding:12px 1.3rem;
+  font-family:'JetBrains Mono',monospace;
+  font-size:10.5px;
+  font-weight:500;
+  color:var(--mute);
+  text-transform:uppercase;
+  letter-spacing:.15em;
+  text-decoration:none;
+  cursor:pointer;
+  transition:all .2s;
+  position:relative;
+  border:none;
+  background:none;
+}
+.subsection-link:hover{color:var(--forest)}
+.subsection-link.active{
+  color:var(--forest);
+  font-weight:600;
+}
+.subsection-link.active::after{
+  content:'';position:absolute;bottom:-1px;left:1rem;right:1rem;
+  height:1.5px;background:var(--gold);
+}
+.subsection-link.disabled{color:var(--mute2);cursor:default;opacity:.55}
+.subsection-link.disabled::after{
+  content:'·Soon';
+  font-size:8px;
+  letter-spacing:.1em;
+  color:var(--gold-dk);
+  margin-left:4px;
+  position:static;
+  background:none;
+  height:auto;
+  opacity:.85;
+}
+
 .wrap{
   max-width:1180px;
   margin:0 auto;
@@ -171,7 +222,6 @@ body{
   letter-spacing:-.015em;
   margin-bottom:8px;
 }
-.section-headline em{font-style:italic;font-weight:400;color:var(--forest)}
 .section-deck{
   font-family:'Cormorant Garamond',serif;
   font-style:italic;
@@ -616,9 +666,10 @@ body{
   .mast-title{font-size:44px}
   .section-headline{font-size:32px}
   .ribbon{flex-direction:column;gap:.3rem;text-align:center}
-  .section-nav-inner{justify-content:flex-start;overflow-x:auto;flex-wrap:nowrap}
+  .section-nav-inner,.subsection-nav-inner{justify-content:flex-start;overflow-x:auto;flex-wrap:nowrap}
   .section-link{padding:14px 1.2rem;white-space:nowrap}
   .section-link+.section-link{border-left:1px solid var(--paper3)}
+  .subsection-link{padding:10px 1rem;white-space:nowrap}
 }
 </style>
 </head>
@@ -632,13 +683,14 @@ body{
 <header class="masthead">
   <div class="mast-inner">
     <div class="mast-eyebrow">A Private Compendium</div>
-    <h1 class="mast-title">The Meridian <em>Report</em></h1>
+    <h1 class="mast-title">The Meridian Report</h1>
   </div>
 </header>
 
+<!-- PRIMARY TABS -->
 <nav class="section-nav">
   <div class="section-nav-inner">
-    <button class="section-link active" data-section="construction" onclick="switchSection('construction')">Construction</button>
+    <button class="section-link active" data-section="ma" onclick="switchSection('ma')">M&amp;A Activity</button>
     <button class="section-link section-disabled" title="Coming soon">Politics</button>
     <button class="section-link section-disabled" title="Coming soon">Real Estate</button>
     <button class="section-link section-disabled" title="Coming soon">Watches</button>
@@ -646,13 +698,26 @@ body{
   </div>
 </nav>
 
+<!-- SUB-INDUSTRY TABS (only shown when M&A Activity is active) -->
+<nav class="subsection-nav" id="subsection-nav">
+  <div class="subsection-nav-inner">
+    <button class="subsection-link active" data-industry="construction" onclick="switchIndustry('construction')">Construction Materials</button>
+    <button class="subsection-link disabled" title="Coming soon">Technology</button>
+    <button class="subsection-link disabled" title="Coming soon">Industrials</button>
+    <button class="subsection-link disabled" title="Coming soon">Energy</button>
+    <button class="subsection-link disabled" title="Coming soon">Healthcare</button>
+    <button class="subsection-link disabled" title="Coming soon">Consumer Retail</button>
+    <button class="subsection-link disabled" title="Coming soon">FIG</button>
+  </div>
+</nav>
+
 <div class="wrap">
   <main>
 
     <div class="section-hdr" id="section-hdr">
-      <div class="section-kicker">The Construction Desk · Heavy Materials</div>
-      <h2 class="section-headline">On <em>Deals</em> &amp; <em>Dealings</em></h2>
-      <div class="section-deck">Mergers, acquisitions, investments and divestitures across aggregates, cement, asphalt, ready-mix, paving and precast concrete — gathered daily from twenty-three sources.</div>
+      <div class="section-kicker" id="section-kicker">M&amp;A Activity · Construction Materials</div>
+      <h2 class="section-headline" id="section-headline">The Deal Room</h2>
+      <div class="section-deck" id="section-deck">Mergers, acquisitions, investments and divestitures across aggregates, cement, asphalt, ready-mix, paving and precast concrete.</div>
     </div>
 
     <div class="search-bar">
@@ -765,7 +830,7 @@ const GITHUB_USER = "DylanWhitehead33";
 const GITHUB_REPO = "ma-monitor";
 const DATA_URL = `https://${GITHUB_USER}.github.io/${GITHUB_REPO}/articles.json`;
 
-let articles = [], tf = 'all', sf = 'all', searchQuery = '', activeSection = 'construction';
+let articles = [], tf = 'all', sf = 'all', searchQuery = '', activeSection = 'ma', activeIndustry = 'construction';
 
 document.getElementById('current-date').textContent = new Date().toLocaleDateString('en-US', {weekday:'long', year:'numeric', month:'long', day:'numeric'});
 
@@ -777,6 +842,15 @@ function switchSection(section){
   activeSection = section;
   document.querySelectorAll('.section-link').forEach(b=>b.classList.remove('active'));
   document.querySelector(`[data-section="${section}"]`).classList.add('active');
+  // show/hide subsection nav based on whether we're in M&A
+  document.getElementById('subsection-nav').style.display = (section === 'ma') ? 'block' : 'none';
+  render();
+}
+
+function switchIndustry(ind){
+  activeIndustry = ind;
+  document.querySelectorAll('.subsection-link').forEach(b=>b.classList.remove('active'));
+  document.querySelector(`[data-industry="${ind}"]`).classList.add('active');
   render();
 }
 
@@ -809,8 +883,16 @@ function updateStats(){
 function render(){
   const el=document.getElementById('feed');
 
-  if(activeSection !== 'construction'){
-    el.innerHTML = `<div class="empty"><h2>Chapter in preparation</h2><div class="ornament-line">◆ ◆ ◆</div><p>This section is being curated. New chapters on politics, real estate, watches, and golf will be added as The Meridian Report expands.</p></div>`;
+  // Different major section (Politics, Real Estate, etc.)
+  if(activeSection !== 'ma'){
+    el.innerHTML = `<div class="empty"><h2>Chapter in preparation</h2><div class="ornament-line">◆ ◆ ◆</div><p>This section is being curated. New chapters will be added as The Meridian Report expands.</p></div>`;
+    document.getElementById('feed-count').textContent = '— Entries';
+    return;
+  }
+
+  // M&A but a non-construction industry
+  if(activeIndustry !== 'construction'){
+    el.innerHTML = `<div class="empty"><h2>Industry in preparation</h2><div class="ornament-line">◆ ◆ ◆</div><p>Coverage of this industry is being curated. Construction Materials coverage is live; additional verticals will follow.</p></div>`;
     document.getElementById('feed-count').textContent = '— Entries';
     return;
   }
