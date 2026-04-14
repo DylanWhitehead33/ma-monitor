@@ -1,6 +1,128 @@
 {
-  "fetchedAt": "2026-04-14T14:52:30.371701",
-  "totalArticles": 0,
-  "newToday": 0,
-  "articles": []
+  "fetchedAt": "2026-04-14T15:17:15.785150",
+  "totalArticles": 10,
+  "newToday": 10,
+  "archiveDays": 30,
+  "articles": [
+    {
+      "title": "Granite Secures $495M in Tactical Infrastructure Work",
+      "summary": "Newsroom Press Releases Apr 1, 2026 Granite Wins $114M Award for Next Segment of Highway 101 Project WATSONVILLE, Calif.--(BUSINESS WIRE)-- Read More Arrow Icon Press Releases Mar 26, 2026 Granite Secures $495M in Tactical Infrastructure Work Awards Mar 19, 2026 NAPA Recognizes Excellence Across Granite Operations Press Releases Mar 10, 2026 Granite Earns Handshake Early Talent Award for Sixth ...",
+      "url": "https://www.graniteconstruction.com/newsroom/granite-secures-495m-tactical-infrastructure-work",
+      "source": "Granite Construction",
+      "keywords": "Investment",
+      "sector": "Multiple",
+      "dealType": "Acquisition",
+      "value": "$495M",
+      "date": "Apr 01, 2026",
+      "dateISO": "2026-04-01T00:00:00"
+    },
+    {
+      "title": "NAPA Recognizes Excellence Across Granite Operations",
+      "summary": "Newsroom Press Releases Apr 1, 2026 Granite Wins $114M Award for Next Segment of Highway 101 Project WATSONVILLE, Calif.--(BUSINESS WIRE)-- Read More Arrow Icon Press Releases Mar 26, 2026 Granite Secures $495M in Tactical Infrastructure Work Awards Mar 19, 2026 NAPA Recognizes Excellence Across Granite Operations Press Releases Mar 10, 2026 Granite Earns Handshake Early Talent Award for Sixth ...",
+      "url": "https://www.graniteconstruction.com/newsroom/napa-recognizes-excellence-across-granite-operations",
+      "source": "Granite Construction",
+      "keywords": "Investment",
+      "sector": "Multiple",
+      "dealType": "Acquisition",
+      "value": "$114M",
+      "date": "Apr 01, 2026",
+      "dateISO": "2026-04-01T00:00:00"
+    },
+    {
+      "title": "Granite Earns Handshake Early Talent Award for Sixth Consecutive Year",
+      "summary": "Newsroom Press Releases Apr 1, 2026 Granite Wins $114M Award for Next Segment of Highway 101 Project WATSONVILLE, Calif.--(BUSINESS WIRE)-- Read More Arrow Icon Press Releases Mar 26, 2026 Granite Secures $495M in Tactical Infrastructure Work Awards Mar 19, 2026 NAPA Recognizes Excellence Across Granite Operations Press Releases Mar 10, 2026 Granite Earns Handshake Early Talent Award for Sixth ...",
+      "url": "https://www.graniteconstruction.com/newsroom/granite-earns-handshake-early-talent-award-sixth-consecutive-year",
+      "source": "Granite Construction",
+      "keywords": "Investment",
+      "sector": "Multiple",
+      "dealType": "Acquisition",
+      "value": "$114M",
+      "date": "Apr 01, 2026",
+      "dateISO": "2026-04-01T00:00:00"
+    },
+    {
+      "title": "Talent Development Drives Results: Granite Wins 2026 BEST Award",
+      "summary": "Newsroom Press Releases Apr 1, 2026 Granite Wins $114M Award for Next Segment of Highway 101 Project WATSONVILLE, Calif.--(BUSINESS WIRE)-- Read More Arrow Icon Press Releases Mar 26, 2026 Granite Secures $495M in Tactical Infrastructure Work Awards Mar 19, 2026 NAPA Recognizes Excellence Across Granite Operations Press Releases Mar 10, 2026 Granite Earns Handshake Early Talent Award for Sixth ...",
+      "url": "https://www.graniteconstruction.com/newsroom/talent-development-drives-results-granite-wins-2026-best-award",
+      "source": "Granite Construction",
+      "keywords": "Investment",
+      "sector": "Multiple",
+      "dealType": "Acquisition",
+      "value": "$114M",
+      "date": "Apr 01, 2026",
+      "dateISO": "2026-04-01T00:00:00"
+    },
+    {
+      "title": "Granite Declares Quarterly Dividend",
+      "summary": "Newsroom Press Releases Apr 1, 2026 Granite Wins $114M Award for Next Segment of Highway 101 Project WATSONVILLE, Calif.--(BUSINESS WIRE)-- Read More Arrow Icon Press Releases Mar 26, 2026 Granite Secures $495M in Tactical Infrastructure Work Awards Mar 19, 2026 NAPA Recognizes Excellence Across Granite Operations Press Releases Mar 10, 2026 Granite Earns Handshake Early Talent Award for Sixth ...",
+      "url": "https://www.graniteconstruction.com/newsroom/granite-declares-quarterly-dividend-163",
+      "source": "Granite Construction",
+      "keywords": "Investment",
+      "sector": "Multiple",
+      "dealType": "Acquisition",
+      "value": "$114M",
+      "date": "Apr 01, 2026",
+      "dateISO": "2026-04-01T00:00:00"
+    },
+    {
+      "title": "Granite Reports Fourth Quarter and Fiscal Year 2025 Results",
+      "summary": "Newsroom Press Releases Apr 1, 2026 Granite Wins $114M Award for Next Segment of Highway 101 Project WATSONVILLE, Calif.--(BUSINESS WIRE)-- Read More Arrow Icon Press Releases Mar 26, 2026 Granite Secures $495M in Tactical Infrastructure Work Awards Mar 19, 2026 NAPA Recognizes Excellence Across Granite Operations Press Releases Mar 10, 2026 Granite Earns Handshake Early Talent Award for Sixth ...",
+      "url": "https://www.graniteconstruction.com/newsroom/granite-reports-fourth-quarter-and-fiscal-year-2025-results",
+      "source": "Granite Construction",
+      "keywords": "Investment",
+      "sector": "Multiple",
+      "dealType": "Acquisition",
+      "value": "$114M",
+      "date": "Apr 01, 2026",
+      "dateISO": "2026-04-01T00:00:00"
+    },
+    {
+      "title": "Work Under Way On First Phase of Mosaic Quarter",
+      "summary": "Newsroom Press Releases Apr 1, 2026 Granite Wins $114M Award for Next Segment of Highway 101 Project WATSONVILLE, Calif.--(BUSINESS WIRE)-- Read More Arrow Icon Press Releases Mar 26, 2026 Granite Secures $495M in Tactical Infrastructure Work Awards Mar 19, 2026 NAPA Recognizes Excellence Across Granite Operations Press Releases Mar 10, 2026 Granite Earns Handshake Early Talent Award for Sixth ...",
+      "url": "https://www.constructionequipmentguide.com/work-under-way-on-first-phase-of-mosaic-quarter/67764",
+      "source": "Granite Construction",
+      "keywords": "Investment",
+      "sector": "Multiple",
+      "dealType": "Acquisition",
+      "value": "$114M",
+      "date": "Apr 01, 2026",
+      "dateISO": "2026-04-01T00:00:00"
+    },
+    {
+      "title": "Granite's Asphalt Paving AI Platform Wins AGC Innovation of the Year",
+      "summary": "Newsroom Press Releases Apr 1, 2026 Granite Wins $114M Award for Next Segment of Highway 101 Project WATSONVILLE, Calif.--(BUSINESS WIRE)-- Read More Arrow Icon Press Releases Mar 26, 2026 Granite Secures $495M in Tactical Infrastructure Work Awards Mar 19, 2026 NAPA Recognizes Excellence Across Granite Operations Press Releases Mar 10, 2026 Granite Earns Handshake Early Talent Award for Sixth ...",
+      "url": "https://bootstrap.rbi.skyhigh.cloud/clientless/#url=https://californiabuilder.news/CBE/article/F4ED7253-granite-s-asphalt-paving-ai-platform-wins-agc-innovation-of-the-year",
+      "source": "Granite Construction",
+      "keywords": "Investment",
+      "sector": "Multiple",
+      "dealType": "Acquisition",
+      "value": "$114M",
+      "date": "Apr 01, 2026",
+      "dateISO": "2026-04-01T00:00:00"
+    },
+    {
+      "title": "Granite JV plays it safe at Sacramento\u2019s American River Bridge rehab",
+      "summary": "Newsroom Press Releases Apr 1, 2026 Granite Wins $114M Award for Next Segment of Highway 101 Project WATSONVILLE, Calif.--(BUSINESS WIRE)-- Read More Arrow Icon Press Releases Mar 26, 2026 Granite Secures $495M in Tactical Infrastructure Work Awards Mar 19, 2026 NAPA Recognizes Excellence Across Granite Operations Press Releases Mar 10, 2026 Granite Earns Handshake Early Talent Award for Sixth ...",
+      "url": "https://www.constructiondive.com/news/granite-sacramento-american-river-bridge/747310/",
+      "source": "Granite Construction",
+      "keywords": "Investment",
+      "sector": "Multiple",
+      "dealType": "Acquisition",
+      "value": "$114M",
+      "date": "Apr 01, 2026",
+      "dateISO": "2026-04-01T00:00:00"
+    },
+    {
+      "title": "Progress Continues On $250M Columbus LOT Project",
+      "summary": "Newsroom Press Releases Apr 1, 2026 Granite Wins $114M Award for Next Segment of Highway 101 Project WATSONVILLE, Calif.--(BUSINESS WIRE)-- Read More Arrow Icon Press Releases Mar 26, 2026 Granite Secures $495M in Tactical Infrastructure Work Awards Mar 19, 2026 NAPA Recognizes Excellence Across Granite Operations Press Releases Mar 10, 2026 Granite Earns Handshake Early Talent Award for Sixth ...",
+      "url": "https://www.constructionequipmentguide.com/progress-continues-on-250m-columbus-lot-project/66643",
+      "source": "Granite Construction",
+      "keywords": "Investment",
+      "sector": "Multiple",
+      "dealType": "Acquisition",
+      "value": "$250M",
+      "date": "Apr 01, 2026",
+      "dateISO": "2026-04-01T00:00:00"
+    }
+  ]
 }
