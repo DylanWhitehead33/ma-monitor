@@ -3,7 +3,7 @@
 <head>
 <meta charset="UTF-8">
 <meta name="viewport" content="width=device-width, initial-scale=1.0">
-<title>The Registry — A Private Compendium</title>
+<title>The Meridian Report — A Private Compendium</title>
 <link rel="preconnect" href="https://fonts.googleapis.com">
 <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
 <link href="https://fonts.googleapis.com/css2?family=Cormorant+Garamond:ital,wght@0,300;0,400;0,500;0,600;0,700;1,300;1,400;1,500;1,600;1,700&family=Cormorant:ital,wght@0,300;0,400;0,500;0,600;1,300;1,400&family=JetBrains+Mono:wght@400;500;600&display=swap" rel="stylesheet">
@@ -40,7 +40,6 @@ body{
     radial-gradient(circle at 80% 70%, rgba(15,42,31,.03) 0%, transparent 50%);
 }
 
-/* ── TOP RIBBON ── */
 .ribbon{
   background:var(--ink);
   color:var(--paper);
@@ -57,9 +56,8 @@ body{
 .ribbon-l{color:var(--gold-lt)}
 .ribbon-r{color:var(--paper3)}
 
-/* ── MASTHEAD ── */
 .masthead{
-  padding:3rem 2rem 1.75rem;
+  padding:2.5rem 2rem 1.75rem;
   border-bottom:3px double var(--rule);
   background:linear-gradient(180deg,var(--paper) 0%,var(--paper) 85%,var(--paper2) 100%);
   position:relative;
@@ -71,7 +69,7 @@ body{
   letter-spacing:.4em;
   text-transform:uppercase;
   color:var(--gold-dk);
-  margin-bottom:1.25rem;
+  margin-bottom:1rem;
   display:flex;
   gap:1rem;
   align-items:center;
@@ -83,26 +81,14 @@ body{
 .mast-title{
   font-family:'Cormorant Garamond',serif;
   font-weight:500;
-  font-size:82px;
+  font-size:64px;
   color:var(--ink);
   letter-spacing:-.015em;
-  line-height:.95;
-  margin-bottom:14px;
+  line-height:1;
+  margin-bottom:0;
 }
 .mast-title em{font-style:italic;font-weight:400;color:var(--forest)}
-.mast-sub{
-  font-family:'Cormorant Garamond',serif;
-  font-style:italic;
-  font-weight:400;
-  font-size:19px;
-  color:var(--mute);
-  letter-spacing:.005em;
-  max-width:580px;
-  margin:0 auto;
-  line-height:1.4;
-}
 
-/* ── SECTION NAVIGATION ── */
 .section-nav{
   background:var(--paper);
   border-bottom:1px solid var(--rule-soft);
@@ -153,7 +139,6 @@ body{
   font-style:normal;
 }
 
-/* ── LAYOUT ── */
 .wrap{
   max-width:1180px;
   margin:0 auto;
@@ -164,7 +149,6 @@ body{
   align-items:start;
 }
 
-/* ── SECTION HEADER ── */
 .section-hdr{
   margin-bottom:1.75rem;
   padding-bottom:1.25rem;
@@ -198,7 +182,6 @@ body{
   max-width:680px;
 }
 
-/* ── SEARCH BAR ── */
 .search-bar{
   display:flex;
   gap:0;
@@ -230,7 +213,6 @@ body{
   text-transform:uppercase;
 }
 
-/* ── FEED META ROW ── */
 .feed-meta-row{
   display:flex;
   align-items:baseline;
@@ -263,7 +245,6 @@ body{
 .notice.info{background:rgba(184,137,78,.09);border-color:var(--gold);color:var(--gold-dk)}
 .notice.err{background:rgba(122,31,32,.06);border-color:var(--crimson);color:var(--oxblood)}
 
-/* ── ENTRY CARD ── */
 .card{
   background:var(--paper);
   border:1px solid var(--rule-soft);
@@ -425,7 +406,6 @@ body{
 }
 .card-link:hover{background:var(--forest);color:var(--paper)}
 
-/* ── EMPTY / COMING SOON ── */
 .empty{
   background:var(--paper2);
   border:1px dashed var(--rule-soft);
@@ -456,7 +436,6 @@ body{
   font-size:14px;
 }
 
-/* ── SIDEBAR ── */
 .sidebar{display:flex;flex-direction:column;gap:1.25rem}
 .panel{
   background:var(--paper);
@@ -634,7 +613,7 @@ body{
 @media(max-width:900px){
   .wrap{grid-template-columns:1fr;padding:1.5rem 1rem}
   .sidebar{order:-1}
-  .mast-title{font-size:56px}
+  .mast-title{font-size:44px}
   .section-headline{font-size:32px}
   .ribbon{flex-direction:column;gap:.3rem;text-align:center}
   .section-nav-inner{justify-content:flex-start;overflow-x:auto;flex-wrap:nowrap}
@@ -652,9 +631,8 @@ body{
 
 <header class="masthead">
   <div class="mast-inner">
-    <div class="mast-eyebrow">A Private Compendium · Established MMXXVI</div>
-    <h1 class="mast-title">The <em>Registry</em></h1>
-    <div class="mast-sub">Curated intelligence across the subjects that matter — from industry to leisure, politics to patrimony.</div>
+    <div class="mast-eyebrow">A Private Compendium</div>
+    <h1 class="mast-title">The Meridian <em>Report</em></h1>
   </div>
 </header>
 
@@ -778,8 +756,8 @@ body{
 </div>
 
 <footer class="footer">
-  <div class="footer-mark">— The Registry —</div>
-  <div class="footer-est">Established MMXXVI · A Private Compendium</div>
+  <div class="footer-mark">— The Meridian Report —</div>
+  <div class="footer-est">A Private Compendium</div>
 </footer>
 
 <script>
@@ -832,7 +810,7 @@ function render(){
   const el=document.getElementById('feed');
 
   if(activeSection !== 'construction'){
-    el.innerHTML = `<div class="empty"><h2>Chapter in preparation</h2><div class="ornament-line">◆ ◆ ◆</div><p>This section is being curated. New chapters on politics, real estate, watches, and golf will be added as the Registry expands.</p></div>`;
+    el.innerHTML = `<div class="empty"><h2>Chapter in preparation</h2><div class="ornament-line">◆ ◆ ◆</div><p>This section is being curated. New chapters on politics, real estate, watches, and golf will be added as The Meridian Report expands.</p></div>`;
     document.getElementById('feed-count').textContent = '— Entries';
     return;
   }
