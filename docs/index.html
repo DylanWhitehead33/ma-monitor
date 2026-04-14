@@ -3,170 +3,720 @@
 <head>
 <meta charset="UTF-8">
 <meta name="viewport" content="width=device-width, initial-scale=1.0">
-<title>M&A Monitor — Heavy Construction Materials</title>
+<title>The Registry — A Private Compendium</title>
 <link rel="preconnect" href="https://fonts.googleapis.com">
 <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
-<link href="https://fonts.googleapis.com/css2?family=DM+Serif+Display:ital@0;1&family=DM+Mono:wght@400;500&family=DM+Sans:opsz,wght@9..40,300;9..40,400;9..40,500&display=swap" rel="stylesheet">
+<link href="https://fonts.googleapis.com/css2?family=Playfair+Display:ital,wght@0,400;0,500;0,600;0,700;0,800;0,900;1,400;1,700&family=Libre+Caslon+Text:ital,wght@0,400;0,700;1,400&family=JetBrains+Mono:wght@400;500;600&display=swap" rel="stylesheet">
 <style>
 :root {
-  --bg:#F2EFE9;--surface:#FDFCFA;--surface2:#EDEAE3;--border:#D6D1C8;--borderlt:#E6E2DA;
-  --txt:#18160F;--txt2:#58544E;--txt3:#98948C;--green:#1B4332;--greenlt:#D6EDD8;
-  --greentxt:#0D2A1C;--amber:#92400E;--amberlt:#FEF3C7;--ambertxt:#451F05;
-  --blue:#1E3A5F;--bluelt:#DBEAFE;--bluetxt:#0C2340;--red:#7F1D1D;--redlt:#FEE2E2;
-  --redtxt:#3F0E0E;--gold:#78350F;--goldlt:#FDE68A;
+  --ink:       #0A0D0A;
+  --paper:     #F3EEE2;
+  --paper2:    #E9E2D2;
+  --paper3:    #DCD3BE;
+  --rule:      #2D3A32;
+  --rule-soft: #8A8270;
+  --forest:    #0F2A1F;
+  --forest2:   #1B3A2A;
+  --moss:      #3C5242;
+  --gold:      #B8894E;
+  --gold-lt:   #D4A76A;
+  --gold-dk:   #8B6432;
+  --crimson:   #7A1F20;
+  --oxblood:   #5C1614;
+  --mute:      #5E5A4E;
+  --mute2:     #8A8270;
 }
 *{box-sizing:border-box;margin:0;padding:0}
-body{font-family:'DM Sans',sans-serif;background:var(--bg);color:var(--txt);min-height:100vh;font-size:15px;line-height:1.6}
-.masthead{background:var(--green);padding:0 2rem;border-bottom:3px solid #091A0F}
-.mast-inner{max-width:1140px;margin:0 auto;display:flex;align-items:stretch}
-.mast-l{padding:1.4rem 2rem 1.4rem 0;border-right:1px solid rgba(255,255,255,.14);flex-shrink:0}
-.logo{font-family:'DM Serif Display',serif;font-size:26px;color:#fff;letter-spacing:-.4px;line-height:1.1}
-.logo em{color:#86EFAC;font-style:italic}
-.tagline{font-family:'DM Mono',monospace;font-size:10.5px;color:rgba(255,255,255,.45);letter-spacing:.12em;text-transform:uppercase;margin-top:5px}
-.mast-r{padding:1.4rem 0 1.4rem 2rem;display:flex;flex-direction:column;justify-content:center;gap:4px}
-.mast-desc{font-size:13px;color:rgba(255,255,255,.6);line-height:1.5;max-width:540px}
-.mast-src{font-family:'DM Mono',monospace;font-size:10px;color:rgba(255,255,255,.3);margin-top:2px}
-.ticker{background:#091A0F;padding:5px 0;overflow:hidden;position:relative}
-.ticker::before,.ticker::after{content:'';position:absolute;top:0;bottom:0;width:50px;z-index:2;pointer-events:none}
-.ticker::before{left:0;background:linear-gradient(90deg,#091A0F,transparent)}
-.ticker::after{right:0;background:linear-gradient(-90deg,#091A0F,transparent)}
-.ticker-track{display:flex;white-space:nowrap;width:max-content;animation:tick 55s linear infinite}
-@keyframes tick{0%{transform:translateX(0)}100%{transform:translateX(-50%)}}
-.ti{font-family:'DM Mono',monospace;font-size:10.5px;color:rgba(255,255,255,.38);padding:0 2.5rem;border-right:1px solid rgba(255,255,255,.07)}
-.ti strong{color:#86EFAC;font-weight:500}
-.wrap{max-width:1140px;margin:0 auto;padding:1.75rem 2rem;display:grid;grid-template-columns:1fr 288px;gap:1.75rem;align-items:start}
-.sidebar{display:flex;flex-direction:column;gap:12px}
-.panel{background:var(--surface);border:1px solid var(--border);border-radius:6px;overflow:hidden}
-.ph{background:var(--surface2);border-bottom:1px solid var(--border);padding:9px 13px;font-family:'DM Mono',monospace;font-size:10px;font-weight:500;letter-spacing:.11em;text-transform:uppercase;color:var(--txt2);display:flex;align-items:center;justify-content:space-between}
-.pb{padding:13px}
-.refresh-btn{width:100%;background:var(--green);color:#fff;border:none;border-radius:5px;padding:12px 16px;font-family:'DM Sans',sans-serif;font-size:14px;font-weight:500;cursor:pointer;transition:background .15s}
-.refresh-btn:hover{background:#0D2A1C}
-.refresh-btn:disabled{background:var(--txt3);cursor:not-allowed}
-.sbar{background:var(--surface2);border:1px solid var(--borderlt);border-radius:5px;padding:9px 11px;font-family:'DM Mono',monospace;font-size:11.5px;color:var(--txt2);display:flex;align-items:flex-start;gap:8px;line-height:1.5;margin-bottom:8px}
-.sdot{width:7px;height:7px;border-radius:50%;background:#4ADE80;flex-shrink:0;margin-top:3px}
-.sdot.loading{background:#FCD34D;animation:blink .8s ease-in-out infinite}
-.sdot.error{background:#F87171}
-@keyframes blink{0%,100%{opacity:1}50%{opacity:.2}}
-.prog-wrap{background:var(--surface2);border-radius:3px;height:3px;overflow:hidden;margin-bottom:8px;display:none}
+html{scroll-behavior:smooth}
+body{
+  font-family:'Libre Caslon Text',Georgia,serif;
+  background:var(--paper);
+  color:var(--ink);
+  min-height:100vh;
+  font-size:15px;
+  line-height:1.65;
+  background-image:
+    radial-gradient(circle at 20% 30%, rgba(184,137,78,.04) 0%, transparent 50%),
+    radial-gradient(circle at 80% 70%, rgba(15,42,31,.03) 0%, transparent 50%);
+}
+
+/* ── TOP RIBBON (date + volume info) ── */
+.ribbon{
+  background:var(--ink);
+  color:var(--paper);
+  padding:10px 2rem;
+  font-family:'JetBrains Mono',monospace;
+  font-size:10.5px;
+  letter-spacing:.22em;
+  text-transform:uppercase;
+  display:flex;
+  justify-content:space-between;
+  align-items:center;
+  border-bottom:1px solid var(--gold-dk);
+}
+.ribbon-l{color:var(--gold-lt)}
+.ribbon-r{color:var(--paper3)}
+
+/* ── MASTHEAD ── */
+.masthead{
+  padding:3rem 2rem 1.75rem;
+  border-bottom:3px double var(--rule);
+  background:linear-gradient(180deg,var(--paper) 0%,var(--paper) 85%,var(--paper2) 100%);
+  position:relative;
+}
+.mast-inner{max-width:1180px;margin:0 auto;text-align:center}
+.mast-eyebrow{
+  font-family:'JetBrains Mono',monospace;
+  font-size:10px;
+  letter-spacing:.4em;
+  text-transform:uppercase;
+  color:var(--gold-dk);
+  margin-bottom:1.25rem;
+  display:flex;
+  gap:1rem;
+  align-items:center;
+  justify-content:center;
+}
+.mast-eyebrow::before,.mast-eyebrow::after{
+  content:'';flex:0 0 60px;height:1px;background:var(--gold-dk)
+}
+.mast-title{
+  font-family:'Playfair Display',serif;
+  font-weight:900;
+  font-size:72px;
+  color:var(--ink);
+  letter-spacing:-.02em;
+  line-height:1;
+  margin-bottom:10px;
+}
+.mast-title em{font-style:italic;font-weight:400;color:var(--forest)}
+.mast-sub{
+  font-family:'Playfair Display',serif;
+  font-style:italic;
+  font-size:16px;
+  color:var(--mute);
+  letter-spacing:.01em;
+  max-width:560px;
+  margin:0 auto;
+}
+
+/* ── SECTION NAVIGATION (newspaper-style sections) ── */
+.section-nav{
+  background:var(--paper);
+  border-bottom:1px solid var(--rule-soft);
+  padding:0 2rem;
+}
+.section-nav-inner{
+  max-width:1180px;
+  margin:0 auto;
+  display:flex;
+  justify-content:center;
+  flex-wrap:wrap;
+  gap:0;
+}
+.section-link{
+  padding:16px 1.75rem;
+  font-family:'Playfair Display',serif;
+  font-size:14.5px;
+  font-weight:500;
+  color:var(--ink);
+  text-decoration:none;
+  cursor:pointer;
+  transition:all .2s;
+  letter-spacing:.02em;
+  position:relative;
+  border:none;
+  background:none;
+}
+.section-link:hover{color:var(--forest)}
+.section-link.active{
+  color:var(--forest);
+  font-style:italic;
+}
+.section-link.active::after{
+  content:'';position:absolute;bottom:-1px;left:1.25rem;right:1.25rem;
+  height:2px;background:var(--gold);
+}
+.section-link + .section-link{border-left:1px solid var(--paper3)}
+.section-disabled{color:var(--mute2);cursor:default;font-style:italic;position:relative}
+.section-disabled::after{
+  content:'Soon';
+  font-family:'JetBrains Mono',monospace;
+  font-size:8px;
+  letter-spacing:.15em;
+  text-transform:uppercase;
+  color:var(--gold-dk);
+  display:block;
+  margin-top:-2px;
+}
+
+/* ── LAYOUT ── */
+.wrap{
+  max-width:1180px;
+  margin:0 auto;
+  padding:2.25rem 2rem 3rem;
+  display:grid;
+  grid-template-columns:1fr 300px;
+  gap:2.5rem;
+  align-items:start;
+}
+
+/* ── SECTION HEADER (above feed) ── */
+.section-hdr{
+  margin-bottom:1.5rem;
+  padding-bottom:1rem;
+  border-bottom:1px solid var(--rule-soft);
+}
+.section-kicker{
+  font-family:'JetBrains Mono',monospace;
+  font-size:10px;
+  letter-spacing:.28em;
+  text-transform:uppercase;
+  color:var(--gold-dk);
+  margin-bottom:6px;
+}
+.section-headline{
+  font-family:'Playfair Display',serif;
+  font-size:36px;
+  font-weight:800;
+  color:var(--ink);
+  line-height:1.1;
+  letter-spacing:-.015em;
+  margin-bottom:4px;
+}
+.section-headline em{font-style:italic;font-weight:400;color:var(--forest)}
+.section-deck{
+  font-family:'Playfair Display',serif;
+  font-style:italic;
+  font-size:15.5px;
+  color:var(--mute);
+  line-height:1.55;
+  max-width:640px;
+}
+
+/* ── SEARCH BAR ── */
+.search-bar{
+  display:flex;
+  gap:0;
+  margin-bottom:1.5rem;
+  background:var(--paper2);
+  border:1px solid var(--rule-soft);
+}
+.search-input{
+  flex:1;
+  border:none;
+  background:transparent;
+  padding:11px 16px;
+  font-family:'Libre Caslon Text',serif;
+  font-size:14.5px;
+  color:var(--ink);
+  outline:none;
+}
+.search-input::placeholder{color:var(--mute2);font-style:italic}
+.search-icon{
+  padding:0 14px;
+  display:flex;
+  align-items:center;
+  color:var(--mute);
+  font-family:'JetBrains Mono',monospace;
+  font-size:10.5px;
+  letter-spacing:.15em;
+  border-left:1px solid var(--rule-soft);
+  background:var(--paper);
+}
+
+/* ── FEED META ROW ── */
+.feed-meta-row{
+  display:flex;
+  align-items:baseline;
+  justify-content:space-between;
+  margin-bottom:1rem;
+}
+.feed-label{
+  font-family:'Playfair Display',serif;
+  font-style:italic;
+  font-size:18px;
+  color:var(--ink);
+}
+.feed-count{
+  font-family:'JetBrains Mono',monospace;
+  font-size:10.5px;
+  color:var(--mute);
+  letter-spacing:.12em;
+  text-transform:uppercase;
+}
+
+.notice{
+  padding:.9rem 1.1rem;
+  margin-bottom:1rem;
+  font-size:13.5px;
+  line-height:1.6;
+  border-left:3px solid;
+  font-style:italic;
+}
+.notice.info{background:rgba(184,137,78,.09);border-color:var(--gold);color:var(--gold-dk)}
+.notice.err{background:rgba(122,31,32,.06);border-color:var(--crimson);color:var(--oxblood)}
+
+/* ── ENTRY CARD ── */
+.card{
+  background:var(--paper);
+  border:1px solid var(--rule-soft);
+  margin-bottom:14px;
+  padding:1.4rem 1.6rem 1.15rem;
+  position:relative;
+  transition:all .25s ease;
+  animation:fadeIn .5s ease forwards;
+}
+@keyframes fadeIn{from{opacity:0;transform:translateY(8px)}to{opacity:1;transform:none}}
+.card:hover{
+  border-color:var(--forest);
+  box-shadow:0 4px 20px rgba(15,42,31,.1);
+  transform:translateY(-1px);
+}
+.card::before{
+  content:'';position:absolute;top:0;left:0;width:100%;height:2px;
+  background:var(--moss);
+}
+.card.ta::before{background:var(--forest)}
+.card.tm::before{background:var(--gold)}
+.card.ti::before{background:var(--moss)}
+.card.td::before{background:var(--crimson)}
+
+.card-top{
+  display:flex;
+  align-items:center;
+  gap:10px;
+  margin-bottom:10px;
+  padding-bottom:8px;
+  border-bottom:1px dotted var(--rule-soft);
+  flex-wrap:wrap;
+}
+.prio{
+  font-family:'JetBrains Mono',monospace;
+  font-size:9.5px;
+  font-weight:600;
+  letter-spacing:.18em;
+  text-transform:uppercase;
+  padding:3px 10px;
+  border:1px solid;
+}
+.prio-a{color:var(--forest);border-color:var(--forest);background:rgba(15,42,31,.05)}
+.prio-m{color:var(--gold-dk);border-color:var(--gold);background:rgba(184,137,78,.08)}
+.prio-i{color:var(--moss);border-color:var(--moss);background:rgba(60,82,66,.07)}
+.prio-d{color:var(--oxblood);border-color:var(--crimson);background:rgba(122,31,32,.05)}
+.sector-tag{
+  font-family:'JetBrains Mono',monospace;
+  font-size:9.5px;
+  letter-spacing:.15em;
+  text-transform:uppercase;
+  color:var(--mute);
+  padding:3px 8px;
+}
+.value-stamp{
+  font-family:'Playfair Display',serif;
+  font-weight:700;
+  font-size:13px;
+  color:var(--gold-dk);
+  padding:2px 10px;
+  border:1px solid var(--gold);
+  background:rgba(184,137,78,.06);
+  margin-left:auto;
+  font-style:italic;
+}
+.card-date{
+  font-family:'JetBrains Mono',monospace;
+  font-size:10px;
+  color:var(--mute2);
+  letter-spacing:.1em;
+  margin-left:auto;
+}
+.value-stamp + .card-date{margin-left:0}
+
+.card-title{
+  font-family:'Playfair Display',serif;
+  font-size:22px;
+  font-weight:700;
+  color:var(--ink);
+  line-height:1.25;
+  margin-bottom:10px;
+  letter-spacing:-.005em;
+}
+.card-summary{
+  font-size:14.5px;
+  color:var(--ink);
+  line-height:1.7;
+  margin-bottom:14px;
+}
+.card-kw{
+  display:flex;
+  gap:6px;
+  flex-wrap:wrap;
+  margin-bottom:14px;
+  padding-top:10px;
+  border-top:1px dotted var(--rule-soft);
+  align-items:center;
+}
+.kw-lbl{
+  font-family:'JetBrains Mono',monospace;
+  font-size:9px;
+  letter-spacing:.22em;
+  text-transform:uppercase;
+  color:var(--mute2);
+  padding-right:4px;
+}
+.kw{
+  font-family:'JetBrains Mono',monospace;
+  font-size:10px;
+  color:var(--forest2);
+  background:var(--paper2);
+  border:1px solid var(--rule-soft);
+  padding:2px 8px;
+  letter-spacing:.05em;
+}
+.card-foot{
+  display:flex;
+  align-items:center;
+  gap:12px;
+  padding-top:10px;
+  border-top:1px solid var(--rule-soft);
+  font-family:'JetBrains Mono',monospace;
+  font-size:10.5px;
+  color:var(--mute);
+  flex-wrap:wrap;
+}
+.src-name{
+  display:flex;
+  align-items:center;
+  gap:6px;
+  letter-spacing:.08em;
+  text-transform:uppercase;
+}
+.src-name::before{
+  content:'';display:inline-block;width:5px;height:5px;border-radius:50%;background:var(--gold);
+}
+.card-cat{
+  color:var(--mute2);
+  font-style:italic;
+  font-family:'Libre Caslon Text',serif;
+  font-size:11.5px;
+  letter-spacing:0;
+  text-transform:none;
+}
+.card-link{
+  margin-left:auto;
+  font-family:'JetBrains Mono',monospace;
+  font-size:10px;
+  letter-spacing:.18em;
+  text-transform:uppercase;
+  color:var(--forest);
+  text-decoration:none;
+  border:1px solid var(--forest);
+  padding:5px 12px;
+  transition:all .15s;
+  font-weight:600;
+}
+.card-link:hover{background:var(--forest);color:var(--paper)}
+
+/* ── EMPTY / COMING SOON ── */
+.empty{
+  background:var(--paper2);
+  border:1px dashed var(--rule-soft);
+  padding:4rem 2rem;
+  text-align:center;
+}
+.empty h2{
+  font-family:'Playfair Display',serif;
+  font-style:italic;
+  font-size:26px;
+  color:var(--ink);
+  margin-bottom:10px;
+  font-weight:500;
+}
+.empty p{
+  font-size:14px;
+  color:var(--mute);
+  max-width:420px;
+  margin:0 auto;
+  font-style:italic;
+  line-height:1.6;
+}
+.empty .ornament-line{
+  color:var(--gold);
+  margin:1.25rem 0;
+  letter-spacing:.5em;
+}
+
+/* ── SIDEBAR ── */
+.sidebar{display:flex;flex-direction:column;gap:1.25rem}
+.panel{
+  background:var(--paper);
+  border:1px solid var(--rule-soft);
+  position:relative;
+}
+.panel::before{
+  content:'';position:absolute;top:-1px;left:-1px;right:-1px;height:2px;background:var(--forest);
+}
+.ph{
+  padding:12px 14px 10px;
+  font-family:'JetBrains Mono',monospace;
+  font-size:10px;
+  font-weight:600;
+  letter-spacing:.2em;
+  text-transform:uppercase;
+  color:var(--forest);
+  border-bottom:1px dotted var(--rule-soft);
+  display:flex;
+  justify-content:space-between;
+  align-items:center;
+}
+.ph-ornament{color:var(--gold);font-size:9px}
+.pb{padding:14px}
+
+.refresh-btn{
+  width:100%;
+  background:var(--forest);
+  color:var(--paper);
+  border:none;
+  padding:13px 16px;
+  font-family:'JetBrains Mono',monospace;
+  font-size:11px;
+  font-weight:600;
+  letter-spacing:.18em;
+  text-transform:uppercase;
+  cursor:pointer;
+  transition:all .2s;
+  border:1px solid var(--forest);
+}
+.refresh-btn:hover{background:var(--ink);letter-spacing:.22em}
+.refresh-btn:disabled{background:var(--mute);cursor:not-allowed}
+
+.sbar{
+  background:var(--paper2);
+  border-left:2px solid var(--gold);
+  padding:10px 12px;
+  font-family:'JetBrains Mono',monospace;
+  font-size:11px;
+  color:var(--mute);
+  display:flex;
+  align-items:flex-start;
+  gap:8px;
+  line-height:1.5;
+  margin-bottom:10px;
+}
+.sdot{
+  width:7px;height:7px;border-radius:50%;
+  background:var(--moss);flex-shrink:0;margin-top:3px;
+}
+.sdot.loading{background:var(--gold);animation:pulse-dot .8s ease-in-out infinite}
+.sdot.error{background:var(--crimson)}
+@keyframes pulse-dot{0%,100%{opacity:1}50%{opacity:.3}}
+.prog-wrap{background:var(--paper2);height:2px;overflow:hidden;margin-bottom:10px;display:none}
 .prog-wrap.on{display:block}
-.prog-bar{height:100%;background:var(--green);border-radius:3px;transition:width .35s ease;width:0%}
-.stat-g{display:grid;grid-template-columns:1fr 1fr;gap:7px}
-.stat{background:var(--bg);border:1px solid var(--borderlt);border-radius:4px;padding:9px}
-.stat-n{font-family:'DM Serif Display',serif;font-size:24px;color:var(--txt);line-height:1}
-.stat-l{font-family:'DM Mono',monospace;font-size:9.5px;color:var(--txt3);text-transform:uppercase;letter-spacing:.07em;margin-top:3px}
-.sw{grid-column:1/-1}
-.fl{display:flex;flex-direction:column;gap:3px}
-.fb{background:transparent;border:1px solid transparent;border-radius:4px;padding:6px 10px;font-family:'DM Sans',sans-serif;font-size:13px;cursor:pointer;color:var(--txt2);text-align:left;display:flex;align-items:center;justify-content:space-between;transition:all .1s}
-.fb:hover{background:var(--surface2);color:var(--txt)}
-.fb.on{background:var(--greenlt);border-color:#9ECBA5;color:var(--greentxt);font-weight:500}
-.fc{font-family:'DM Mono',monospace;font-size:10.5px;color:var(--txt3);background:var(--surface2);padding:1px 6px;border-radius:20px}
-.fb.on .fc{background:rgba(27,67,50,.13);color:var(--greentxt)}
-.src-l{display:flex;flex-direction:column;gap:2px}
-.src-i{font-family:'DM Mono',monospace;font-size:10.5px;color:var(--txt3);padding:3px 0;border-bottom:1px solid var(--borderlt);display:flex;align-items:center;gap:5px}
+.prog-bar{height:100%;background:var(--forest);transition:width .35s ease;width:0%}
+
+.stat-g{display:grid;grid-template-columns:1fr 1fr;gap:1px;background:var(--rule-soft)}
+.stat{
+  background:var(--paper);
+  padding:12px 10px;
+  text-align:center;
+}
+.stat-n{
+  font-family:'Playfair Display',serif;
+  font-size:28px;
+  font-weight:700;
+  color:var(--ink);
+  line-height:1;
+}
+.stat-n.hl{color:var(--forest)}
+.stat-l{
+  font-family:'JetBrains Mono',monospace;
+  font-size:9px;
+  color:var(--mute);
+  letter-spacing:.15em;
+  text-transform:uppercase;
+  margin-top:4px;
+}
+.sw{grid-column:1/-1;background:var(--forest);color:var(--paper)}
+.sw .stat-n{color:var(--gold-lt);font-size:36px}
+.sw .stat-l{color:var(--paper2)}
+
+.fl{display:flex;flex-direction:column;gap:1px;background:var(--rule-soft)}
+.fb{
+  background:var(--paper);
+  border:none;
+  padding:9px 12px;
+  font-family:'Libre Caslon Text',serif;
+  font-size:13px;
+  cursor:pointer;
+  color:var(--ink);
+  text-align:left;
+  display:flex;
+  align-items:center;
+  justify-content:space-between;
+  transition:all .15s;
+}
+.fb:hover{background:var(--paper2);padding-left:16px}
+.fb.on{
+  background:var(--forest);
+  color:var(--paper);
+  font-weight:600;
+  font-family:'Playfair Display',serif;
+  font-style:italic;
+}
+.fb.on::before{content:'▸ ';color:var(--gold-lt);margin-right:4px}
+.fc{
+  font-family:'JetBrains Mono',monospace;
+  font-size:10px;
+  color:var(--mute);
+  letter-spacing:.1em;
+}
+.fb.on .fc{color:var(--gold-lt)}
+
+.src-l{display:flex;flex-direction:column;gap:0}
+.src-i{
+  font-family:'JetBrains Mono',monospace;
+  font-size:10px;
+  color:var(--mute);
+  padding:5px 0;
+  border-bottom:1px dotted var(--rule-soft);
+  display:flex;
+  align-items:center;
+  gap:6px;
+  letter-spacing:.05em;
+}
 .src-i:last-child{border-bottom:none}
-.src-d{width:5px;height:5px;border-radius:50%;background:var(--green);flex-shrink:0}
-.feed-hdr{display:flex;align-items:baseline;justify-content:space-between;margin-bottom:1rem;padding-bottom:10px;border-bottom:2px solid var(--txt)}
-.feed-title{font-family:'DM Serif Display',serif;font-size:22px;color:var(--txt)}
-.feed-meta{font-family:'DM Mono',monospace;font-size:11.5px;color:var(--txt3)}
-.notice{border-radius:5px;padding:.85rem 1rem;margin-bottom:1rem;font-size:13px;line-height:1.6}
-.notice.info{background:var(--bluelt);border:1px solid #93C5FD;color:var(--bluetxt)}
-.notice.err{background:var(--redlt);border:1px solid #FCA5A5;color:var(--redtxt)}
-.card{background:var(--surface);border:1px solid var(--border);border-radius:6px;padding:1.1rem 1.1rem 1.1rem 1.4rem;margin-bottom:9px;position:relative;transition:border-color .15s}
-.card:hover{border-color:#A8C5AC}
-.card::before{content:'';position:absolute;left:0;top:0;bottom:0;width:3px;border-radius:6px 0 0 6px}
-.card.ta::before{background:var(--green)}
-.card.tm::before{background:var(--blue)}
-.card.ti::before{background:var(--amber)}
-.card.td::before{background:var(--red)}
-.card-top{display:flex;align-items:flex-start;gap:7px;margin-bottom:9px;flex-wrap:wrap}
-.bdg{font-family:'DM Mono',monospace;font-size:9.5px;font-weight:500;letter-spacing:.08em;text-transform:uppercase;padding:2px 7px;border-radius:3px;white-space:nowrap}
-.bga{background:var(--greenlt);color:var(--greentxt)}
-.bgm{background:var(--bluelt);color:var(--bluetxt)}
-.bgi{background:var(--amberlt);color:var(--ambertxt)}
-.bgd{background:var(--redlt);color:var(--redtxt)}
-.bgs{background:var(--surface2);color:var(--txt2);border:1px solid var(--borderlt)}
-.bgv{background:var(--goldlt);color:var(--gold)}
-.cdate{font-family:'DM Mono',monospace;font-size:10.5px;color:var(--txt3);margin-left:auto;white-space:nowrap}
-.ctitle{font-family:'DM Serif Display',serif;font-size:17px;color:var(--txt);line-height:1.35;margin-bottom:7px}
-.csumm{font-size:13px;color:var(--txt2);line-height:1.65;margin-bottom:10px}
-.ckw{display:flex;gap:4px;flex-wrap:wrap;margin-bottom:10px}
-.kwtag{font-family:'DM Mono',monospace;font-size:10px;color:var(--txt3);background:var(--bg);border:1px solid var(--borderlt);padding:2px 6px;border-radius:3px}
-.cfoot{display:flex;align-items:center;gap:10px;padding-top:9px;border-top:1px solid var(--borderlt)}
-.csrc{font-family:'DM Mono',monospace;font-size:10.5px;color:var(--txt3);display:flex;align-items:center;gap:5px}
-.clink{margin-left:auto;font-family:'DM Mono',monospace;font-size:10.5px;color:var(--green);text-decoration:none;border:1px solid var(--greenlt);padding:3px 9px;border-radius:3px;transition:all .12s;white-space:nowrap}
-.clink:hover{background:var(--green);color:#fff;border-color:var(--green)}
-.empty{background:var(--surface);border:1px dashed var(--border);border-radius:6px;padding:4rem 2rem;text-align:center}
-.empty h2{font-family:'DM Serif Display',serif;font-size:20px;color:var(--txt);margin-bottom:8px}
-.empty p{font-family:'DM Mono',monospace;font-size:12px;color:var(--txt3);max-width:380px;margin:0 auto;line-height:1.7}
-.lf{font-family:'DM Mono',monospace;font-size:10.5px;color:var(--txt3);text-align:center;min-height:14px;margin-top:4px}
-@media(max-width:800px){
-  .wrap{grid-template-columns:1fr;padding:1rem}
+.src-d{width:5px;height:5px;border-radius:50%;background:var(--forest);flex-shrink:0}
+
+.lf{
+  font-family:'JetBrains Mono',monospace;
+  font-size:9.5px;
+  color:var(--mute2);
+  text-align:center;
+  min-height:14px;
+  margin-top:8px;
+  letter-spacing:.1em;
+  text-transform:uppercase;
+}
+
+.footer{
+  margin-top:3rem;
+  padding:2.5rem 2rem;
+  text-align:center;
+  border-top:3px double var(--rule);
+  background:var(--paper2);
+}
+.footer-mark{
+  font-family:'Playfair Display',serif;
+  font-style:italic;
+  font-size:16px;
+  color:var(--mute);
+  margin-bottom:8px;
+}
+.footer-est{
+  font-family:'JetBrains Mono',monospace;
+  font-size:9.5px;
+  color:var(--mute2);
+  letter-spacing:.3em;
+  text-transform:uppercase;
+}
+
+@media(max-width:900px){
+  .wrap{grid-template-columns:1fr;padding:1.5rem 1rem}
   .sidebar{order:-1}
-  .mast-inner{flex-direction:column}
-  .mast-l{border-right:none;border-bottom:1px solid rgba(255,255,255,.1);padding-bottom:1rem}
-  .mast-r{padding-left:0;padding-top:1rem}
+  .mast-title{font-size:48px}
+  .section-headline{font-size:26px}
+  .ribbon{flex-direction:column;gap:.3rem;text-align:center}
+  .section-nav-inner{justify-content:flex-start;overflow-x:auto;flex-wrap:nowrap}
+  .section-link{padding:14px 1.2rem;white-space:nowrap}
+  .section-link+.section-link{border-left:1px solid var(--paper3)}
 }
 </style>
 </head>
 <body>
+
+<!-- TOP RIBBON -->
+<div class="ribbon">
+  <div class="ribbon-l">Volume I · Issue I</div>
+  <div class="ribbon-r" id="current-date"></div>
+</div>
+
+<!-- MASTHEAD -->
 <header class="masthead">
   <div class="mast-inner">
-    <div class="mast-l">
-      <div class="logo">M&amp;<em>A</em> Monitor</div>
-      <div class="tagline">Heavy Construction Materials · Deal Intelligence</div>
-    </div>
-    <div class="mast-r">
-      <div class="mast-desc">Tracks mergers, acquisitions, investments &amp; divestitures across aggregates, asphalt, ready-mix, cement, paving, and precast concrete. Updated automatically every morning at 8am CT via GitHub Actions.</div>
-      <div class="mast-src">Rock Products · Concrete Products · Pit &amp; Quarry · Martin Marietta · Arcosa · Amrize · Construction Partners · Granite · CRH · Knife River · Eagle Materials · Heidelberg · Cemex · GCC · PR Newswire</div>
-    </div>
+    <div class="mast-eyebrow">A Private Compendium · Established MMXXVI</div>
+    <h1 class="mast-title">The <em>Registry</em></h1>
+    <div class="mast-sub">Curated intelligence across the subjects that matter — from industry to leisure, politics to patrimony.</div>
   </div>
 </header>
-<div class="ticker">
-  <div class="ticker-track">
-    <span class="ti"><strong>KEYWORDS</strong> Acquired · Acquiring · Merger · Acquisition · Investment · Deal · Divestiture · Joint Venture · Takeover · Buyout</span>
-    <span class="ti"><strong>SECTORS</strong> Aggregates · Asphalt · Ready-Mix · Cement · Paving · Precast Concrete</span>
-    <span class="ti"><strong>SOURCES</strong> Rock Products · Concrete Products · Pit &amp; Quarry · Martin Marietta · Arcosa · Amrize · Granite · CRH · Cemex · Heidelberg · Eagle Materials · GCC · Knife River · Construction Partners · PR Newswire</span>
-    <span class="ti"><strong>KEYWORDS</strong> Acquired · Acquiring · Merger · Acquisition · Investment · Deal · Divestiture · Joint Venture · Takeover · Buyout</span>
-    <span class="ti"><strong>SECTORS</strong> Aggregates · Asphalt · Ready-Mix · Cement · Paving · Precast Concrete</span>
-    <span class="ti"><strong>SOURCES</strong> Rock Products · Concrete Products · Pit &amp; Quarry · Martin Marietta · Arcosa · Amrize · Granite · CRH · Cemex · Heidelberg · Eagle Materials · GCC · Knife River · Construction Partners · PR Newswire</span>
+
+<!-- SECTION NAVIGATION -->
+<nav class="section-nav">
+  <div class="section-nav-inner">
+    <button class="section-link active" data-section="construction" onclick="switchSection('construction')">Construction</button>
+    <button class="section-link section-disabled" title="Coming soon">Politics</button>
+    <button class="section-link section-disabled" title="Coming soon">Real Estate</button>
+    <button class="section-link section-disabled" title="Coming soon">Watches</button>
+    <button class="section-link section-disabled" title="Coming soon">Golf</button>
   </div>
-</div>
+</nav>
+
+<!-- MAIN -->
 <div class="wrap">
   <main>
-    <div class="feed-hdr">
-      <div class="feed-title">Deal Activity Feed</div>
-      <div class="feed-meta" id="feed-count">Loading…</div>
+
+    <!-- SECTION HEADER -->
+    <div class="section-hdr" id="section-hdr">
+      <div class="section-kicker">The Construction Desk · Heavy Materials</div>
+      <h2 class="section-headline">On <em>Deals</em> &amp; <em>Dealings</em></h2>
+      <div class="section-deck">Mergers, acquisitions, investments and divestitures across aggregates, cement, asphalt, ready-mix, paving and precast concrete — gathered daily from twenty-three sources.</div>
     </div>
+
+    <!-- SEARCH -->
+    <div class="search-bar">
+      <input class="search-input" id="search" type="text" placeholder="Search by company, keyword, or sector…" oninput="applySearch()">
+      <div class="search-icon">Search</div>
+    </div>
+
+    <div class="feed-meta-row">
+      <div class="feed-label">The Ledger</div>
+      <div class="feed-count" id="feed-count">— Entries</div>
+    </div>
+
     <div id="notice" style="display:none"></div>
     <div id="feed"></div>
   </main>
-  <aside class="sidebar">
+
+  <!-- SIDEBAR -->
+  <aside class="sidebar" id="sidebar">
+
     <div class="panel">
-      <div class="ph">Live feed</div>
+      <div class="ph">Controls <span class="ph-ornament">◆</span></div>
       <div class="pb">
-        <div class="sbar"><div class="sdot" id="sdot"></div><span id="stxt">Loading articles…</span></div>
+        <div class="sbar"><div class="sdot" id="sdot"></div><span id="stxt">Standing by…</span></div>
         <div class="prog-wrap" id="prog"><div class="prog-bar" id="pbar"></div></div>
-        <button class="refresh-btn" id="rbtn" onclick="loadArticles()">&#x21BB;&nbsp; Refresh articles</button>
+        <button class="refresh-btn" id="rbtn" onclick="loadArticles()">↻ Refresh Feed</button>
         <div class="lf" id="lf"></div>
       </div>
     </div>
+
     <div class="panel">
-      <div class="ph">Stats</div>
-      <div class="pb">
+      <div class="ph">The Numbers <span class="ph-ornament">◆</span></div>
+      <div class="pb" style="padding:1px;background:var(--rule-soft)">
         <div class="stat-g">
-          <div class="stat sw"><div class="stat-n" id="s-tot">—</div><div class="stat-l">Total articles</div></div>
-          <div class="stat"><div class="stat-n" id="s-acq">—</div><div class="stat-l">Acquisitions</div></div>
-          <div class="stat"><div class="stat-n" id="s-mer">—</div><div class="stat-l">Mergers</div></div>
-          <div class="stat"><div class="stat-n" id="s-inv">—</div><div class="stat-l">Investments</div></div>
-          <div class="stat"><div class="stat-n" id="s-div">—</div><div class="stat-l">Divestitures</div></div>
+          <div class="stat sw"><div class="stat-n" id="s-tot">—</div><div class="stat-l">Total Entries</div></div>
+          <div class="stat"><div class="stat-n hl" id="s-acq">—</div><div class="stat-l">Acquisitions</div></div>
+          <div class="stat"><div class="stat-n hl" id="s-mer">—</div><div class="stat-l">Mergers</div></div>
+          <div class="stat"><div class="stat-n hl" id="s-inv">—</div><div class="stat-l">Investments</div></div>
+          <div class="stat"><div class="stat-n hl" id="s-div">—</div><div class="stat-l">Divestitures</div></div>
         </div>
       </div>
     </div>
+
     <div class="panel">
-      <div class="ph">Filter by type</div>
-      <div class="pb">
+      <div class="ph">By Classification <span class="ph-ornament">◆</span></div>
+      <div class="pb" style="padding:1px;background:var(--rule-soft)">
         <div class="fl" id="tf">
-          <button class="fb on" onclick="filt('all',this,'t')">All types <span class="fc" id="fc-all">0</span></button>
+          <button class="fb on" onclick="filt('all',this,'t')">All Classes <span class="fc" id="fc-all">0</span></button>
           <button class="fb" onclick="filt('Acquisition',this,'t')">Acquisitions <span class="fc" id="fc-acq">0</span></button>
           <button class="fb" onclick="filt('Merger',this,'t')">Mergers <span class="fc" id="fc-mer">0</span></button>
           <button class="fb" onclick="filt('Investment',this,'t')">Investments <span class="fc" id="fc-inv">0</span></button>
@@ -174,11 +724,12 @@ body{font-family:'DM Sans',sans-serif;background:var(--bg);color:var(--txt);min-
         </div>
       </div>
     </div>
+
     <div class="panel">
-      <div class="ph">Filter by sector</div>
-      <div class="pb">
+      <div class="ph">By Sector <span class="ph-ornament">◆</span></div>
+      <div class="pb" style="padding:1px;background:var(--rule-soft)">
         <div class="fl" id="sf">
-          <button class="fb on" onclick="filt('all',this,'s')">All sectors</button>
+          <button class="fb on" onclick="filt('all',this,'s')">All Sectors</button>
           <button class="fb" onclick="filt('Aggregates',this,'s')">Aggregates</button>
           <button class="fb" onclick="filt('Asphalt',this,'s')">Asphalt</button>
           <button class="fb" onclick="filt('Ready-Mix',this,'s')">Ready-Mix</button>
@@ -188,42 +739,164 @@ body{font-family:'DM Sans',sans-serif;background:var(--bg);color:var(--txt);min-
         </div>
       </div>
     </div>
+
     <div class="panel">
-      <div class="ph">Monitored sources</div>
-      <div class="pb" style="padding:8px 13px">
+      <div class="ph">Under Observation <span class="ph-ornament">◆</span></div>
+      <div class="pb" style="padding:8px 14px">
         <div class="src-l">
-          <div class="src-i"><div class="src-d"></div>Rock Products</div>
-          <div class="src-i"><div class="src-d"></div>Concrete Products</div>
-          <div class="src-i"><div class="src-d"></div>Pit &amp; Quarry</div>
+          <div class="src-i"><div class="src-d"></div>Industry — Aggregates</div>
+          <div class="src-i"><div class="src-d"></div>Industry — Cement</div>
+          <div class="src-i"><div class="src-d"></div>Industry — Asphalt</div>
+          <div class="src-i"><div class="src-d"></div>Industry — Ready-Mix</div>
+          <div class="src-i"><div class="src-d"></div>Industry — Paving</div>
+          <div class="src-i"><div class="src-d"></div>Industry — Precast</div>
           <div class="src-i"><div class="src-d"></div>Martin Marietta</div>
-          <div class="src-i"><div class="src-d"></div>Arcosa</div>
-          <div class="src-i"><div class="src-d"></div>Amrize (AMRZ)</div>
-          <div class="src-i"><div class="src-d"></div>Construction Partners</div>
-          <div class="src-i"><div class="src-d"></div>Granite Construction</div>
+          <div class="src-i"><div class="src-d"></div>Vulcan Materials</div>
           <div class="src-i"><div class="src-d"></div>CRH</div>
-          <div class="src-i"><div class="src-d"></div>Knife River</div>
-          <div class="src-i"><div class="src-d"></div>Eagle Materials</div>
           <div class="src-i"><div class="src-d"></div>Heidelberg Materials</div>
           <div class="src-i"><div class="src-d"></div>Cemex</div>
-          <div class="src-i"><div class="src-d"></div>GCC</div>
-          <div class="src-i"><div class="src-d"></div>PR Newswire Construction</div>
+          <div class="src-i"><div class="src-d"></div>Eagle Materials</div>
+          <div class="src-i"><div class="src-d"></div>Knife River</div>
+          <div class="src-i"><div class="src-d"></div>Arcosa</div>
+          <div class="src-i"><div class="src-d"></div>Amrize</div>
+          <div class="src-i"><div class="src-d"></div>Summit Materials</div>
+          <div class="src-i"><div class="src-d"></div>Granite Construction</div>
+          <div class="src-i"><div class="src-d"></div>Construction Partners</div>
+          <div class="src-i"><div class="src-d"></div>GCC Cement</div>
+          <div class="src-i"><div class="src-d"></div>US Concrete</div>
+          <div class="src-i"><div class="src-d"></div>Holcim</div>
+          <div class="src-i"><div class="src-d"></div>Lehigh Hanson</div>
         </div>
       </div>
     </div>
+
   </aside>
 </div>
+
+<footer class="footer">
+  <div class="footer-mark">— The Registry —</div>
+  <div class="footer-est">Established MMXXVI · A Private Compendium</div>
+</footer>
+
 <script>
 const GITHUB_USER = "DylanWhitehead33";
 const GITHUB_REPO = "ma-monitor";
 const DATA_URL = `https://${GITHUB_USER}.github.io/${GITHUB_REPO}/articles.json`;
-let articles = [], tf = 'all', sf = 'all';
+
+let articles = [], tf = 'all', sf = 'all', searchQuery = '', activeSection = 'construction';
+
+document.getElementById('current-date').textContent = new Date().toLocaleDateString('en-US', {weekday:'long', year:'numeric', month:'long', day:'numeric'});
+
 function setStatus(txt,state){document.getElementById('stxt').textContent=txt;const d=document.getElementById('sdot');d.className='sdot'+(state==='loading'?' loading':state==='error'?' error':'');}
 function setProgress(pct,show){document.getElementById('prog').className='prog-wrap'+(show?' on':'');document.getElementById('pbar').style.width=pct+'%';}
 function showNotice(html,type){const el=document.getElementById('notice');if(!html){el.style.display='none';return;}el.className='notice '+(type||'info');el.innerHTML=html;el.style.display='block';}
-function filt(val,btn,group){if(group==='t'){tf=val;document.getElementById('tf').querySelectorAll('.fb').forEach(b=>b.classList.remove('on'));}else{sf=val;document.getElementById('sf').querySelectorAll('.fb').forEach(b=>b.classList.remove('on'));}btn.classList.add('on');render();}
-function updateStats(){const n=articles.length;document.getElementById('s-tot').textContent=n;document.getElementById('s-acq').textContent=articles.filter(a=>a.dealType==='Acquisition').length;document.getElementById('s-mer').textContent=articles.filter(a=>a.dealType==='Merger').length;document.getElementById('s-inv').textContent=articles.filter(a=>a.dealType==='Investment').length;document.getElementById('s-div').textContent=articles.filter(a=>a.dealType==='Divestiture').length;document.getElementById('fc-all').textContent=n;document.getElementById('fc-acq').textContent=articles.filter(a=>a.dealType==='Acquisition').length;document.getElementById('fc-mer').textContent=articles.filter(a=>a.dealType==='Merger').length;document.getElementById('fc-inv').textContent=articles.filter(a=>a.dealType==='Investment').length;document.getElementById('fc-div').textContent=articles.filter(a=>a.dealType==='Divestiture').length;document.getElementById('feed-count').textContent=n+' article'+(n!==1?'s':'')+' archived';}
-function render(){const el=document.getElementById('feed');let list=articles;if(tf!=='all')list=list.filter(a=>a.dealType===tf);if(sf!=='all')list=list.filter(a=>a.sector&&a.sector.toLowerCase().includes(sf.toLowerCase()));if(list.length===0){el.innerHTML=`<div class="empty"><h2>${articles.length===0?'No articles yet':'No articles match this filter'}</h2><p>${articles.length===0?'GitHub Actions will run the scraper at 8am CT daily. You can also trigger it manually in the Actions tab of your GitHub repo.':'Try adjusting the type or sector filters.'}</p></div>`;return;}const typeMap={Acquisition:{cls:'ta',bc:'bga'},Merger:{cls:'tm',bc:'bgm'},Investment:{cls:'ti',bc:'bgi'},Divestiture:{cls:'td',bc:'bgd'}};el.innerHTML=list.map(a=>{const t=typeMap[a.dealType]||typeMap.Acquisition;const kw=(a.keywords||'').split(',').filter(k=>k.trim()).map(k=>`<span class="kwtag">${k.trim()}</span>`).join('');return`<div class="card ${t.cls}"><div class="card-top"><span class="bdg ${t.bc}">${a.dealType||'Deal'}</span>${a.sector?`<span class="bdg bgs">${a.sector}</span>`:''} ${a.value?`<span class="bdg bgv">${a.value}</span>`:''}<span class="cdate">${a.date||''}</span></div><div class="ctitle">${a.title}</div><div class="csumm">${a.summary}</div>${kw?`<div class="ckw">${kw}</div>`:''}<div class="cfoot"><div class="csrc"><span style="width:5px;height:5px;border-radius:50%;background:var(--green);display:inline-block;flex-shrink:0"></span>${a.source||''}</div>${a.url?`<a class="clink" href="${a.url}" target="_blank" rel="noopener">Read article</a>`:''}</div></div>`;}).join('');}
-async function loadArticles(){const btn=document.getElementById('rbtn');btn.disabled=true;showNotice('');setStatus('Loading articles from GitHub…','loading');setProgress(20,true);try{const resp=await fetch(DATA_URL+'?t='+Date.now(),{signal:AbortSignal.timeout(20000)});setProgress(70,true);if(!resp.ok)throw new Error(`HTTP ${resp.status} — make sure GitHub Pages is enabled`);const data=await resp.json();setProgress(90,true);articles=Array.isArray(data.articles)?data.articles:[];updateStats();render();const fetched=data.fetchedAt?new Date(data.fetchedAt).toLocaleDateString('en-US',{month:'short',day:'numeric',year:'numeric',hour:'numeric',minute:'2-digit'}):'';setStatus(`${articles.length} article${articles.length!==1?'s':''} loaded`,'ready');if(fetched)document.getElementById('lf').textContent='Data last scraped '+fetched;if(data.newToday>0)showNotice(`<strong>${data.newToday} new article${data.newToday!==1?'s':''} added today</strong> from the morning scrape.`,'info');setProgress(100,true);setTimeout(()=>setProgress(0,false),600);}catch(e){setProgress(0,false);setStatus('Error loading articles','error');showNotice(`<strong>Could not load articles:</strong> ${e.message}<br><br>Make sure GitHub Pages is enabled: repo Settings → Pages → Source = <strong>docs folder</strong>.`,'err');}btn.disabled=false;}
+
+function switchSection(section){
+  activeSection = section;
+  document.querySelectorAll('.section-link').forEach(b=>b.classList.remove('active'));
+  document.querySelector(`[data-section="${section}"]`).classList.add('active');
+  render();
+}
+
+function filt(val,btn,group){
+  if(group==='t'){tf=val;document.getElementById('tf').querySelectorAll('.fb').forEach(b=>b.classList.remove('on'));}
+  else{sf=val;document.getElementById('sf').querySelectorAll('.fb').forEach(b=>b.classList.remove('on'));}
+  btn.classList.add('on');
+  render();
+}
+
+function applySearch(){
+  searchQuery = document.getElementById('search').value.toLowerCase().trim();
+  render();
+}
+
+function updateStats(){
+  const n=articles.length;
+  document.getElementById('s-tot').textContent=n;
+  document.getElementById('s-acq').textContent=articles.filter(a=>a.dealType==='Acquisition').length;
+  document.getElementById('s-mer').textContent=articles.filter(a=>a.dealType==='Merger').length;
+  document.getElementById('s-inv').textContent=articles.filter(a=>a.dealType==='Investment').length;
+  document.getElementById('s-div').textContent=articles.filter(a=>a.dealType==='Divestiture').length;
+  document.getElementById('fc-all').textContent=n;
+  document.getElementById('fc-acq').textContent=articles.filter(a=>a.dealType==='Acquisition').length;
+  document.getElementById('fc-mer').textContent=articles.filter(a=>a.dealType==='Merger').length;
+  document.getElementById('fc-inv').textContent=articles.filter(a=>a.dealType==='Investment').length;
+  document.getElementById('fc-div').textContent=articles.filter(a=>a.dealType==='Divestiture').length;
+}
+
+function render(){
+  const el=document.getElementById('feed');
+
+  if(activeSection !== 'construction'){
+    el.innerHTML = `<div class="empty"><h2>Chapter in preparation</h2><div class="ornament-line">◆ ◆ ◆</div><p>This section is being curated. New chapters on politics, real estate, watches, and golf will be added as the Registry expands.</p></div>`;
+    document.getElementById('feed-count').textContent = '— Entries';
+    return;
+  }
+
+  let list=articles;
+  if(tf!=='all')list=list.filter(a=>a.dealType===tf);
+  if(sf!=='all')list=list.filter(a=>a.sector&&a.sector.toLowerCase().includes(sf.toLowerCase()));
+  if(searchQuery){
+    list=list.filter(a=>{
+      const blob=(a.title+' '+a.summary+' '+a.source+' '+(a.category||'')+' '+(a.keywords||'')+' '+(a.sector||'')).toLowerCase();
+      return blob.includes(searchQuery);
+    });
+  }
+
+  document.getElementById('feed-count').textContent = list.length + ' ' + (list.length===1?'Entry':'Entries');
+
+  if(list.length===0){
+    el.innerHTML=`<div class="empty"><h2>${articles.length===0?'The ledger awaits':searchQuery?'No entries match that query':'No entries in this view'}</h2><div class="ornament-line">◆ ◆ ◆</div><p>${articles.length===0?'The daily cycle runs at 08:00 Central. Press Refresh to pull the latest dispatches.':searchQuery?'Try different search terms, or clear the query to view all entries.':'Adjust the filters to widen the scope.'}</p></div>`;
+    return;
+  }
+
+  const typeMap={Acquisition:{cls:'ta',pc:'prio-a'},Merger:{cls:'tm',pc:'prio-m'},Investment:{cls:'ti',pc:'prio-i'},Divestiture:{cls:'td',pc:'prio-d'}};
+
+  el.innerHTML=list.map((a,i)=>{
+    const t=typeMap[a.dealType]||typeMap.Acquisition;
+    const kw=(a.keywords||'').split(',').filter(k=>k.trim()).map(k=>`<span class="kw">${k.trim()}</span>`).join('');
+    return `<article class="card ${t.cls}" style="animation-delay:${Math.min(i*25,400)}ms">
+      <div class="card-top">
+        <span class="prio ${t.pc}">${a.dealType||'Deal'}</span>
+        ${a.sector?`<span class="sector-tag">${a.sector}</span>`:''}
+        ${a.value?`<span class="value-stamp">${a.value}</span>`:''}
+        <span class="card-date">${a.date||''}</span>
+      </div>
+      <h3 class="card-title">${a.title}</h3>
+      <div class="card-summary">${a.summary}</div>
+      ${kw?`<div class="card-kw"><span class="kw-lbl">Signals</span>${kw}</div>`:''}
+      <div class="card-foot">
+        <span class="src-name">${a.source||'Unknown'}</span>
+        ${a.category?`<span class="card-cat">via ${a.category}</span>`:''}
+        ${a.url?`<a class="card-link" href="${a.url}" target="_blank" rel="noopener">Read →</a>`:''}
+      </div>
+    </article>`;
+  }).join('');
+}
+
+async function loadArticles(){
+  const btn=document.getElementById('rbtn');btn.disabled=true;showNotice('');
+  setStatus('Retrieving dispatches…','loading');setProgress(20,true);
+  try{
+    const resp=await fetch(DATA_URL+'?t='+Date.now(),{signal:AbortSignal.timeout(20000)});
+    setProgress(70,true);
+    if(!resp.ok)throw new Error(`HTTP ${resp.status}`);
+    const data=await resp.json();
+    setProgress(90,true);
+    articles=Array.isArray(data.articles)?data.articles:[];
+    updateStats();render();
+    const fetched=data.fetchedAt?new Date(data.fetchedAt).toLocaleDateString('en-US',{month:'short',day:'numeric',hour:'numeric',minute:'2-digit'}):'';
+    setStatus(`${articles.length} entries archived`,'ready');
+    if(fetched)document.getElementById('lf').textContent='Updated '+fetched;
+    if(data.newToday>0)showNotice(`<strong>${data.newToday}</strong> new ${data.newToday!==1?'entries':'entry'} added to the ledger this cycle.`,'info');
+    setProgress(100,true);setTimeout(()=>setProgress(0,false),600);
+  }catch(e){
+    setProgress(0,false);setStatus('Unable to retrieve','error');
+    showNotice(`<strong>Unable to retrieve dispatches:</strong> ${e.message}. Verify GitHub Pages is active and the data file has been generated.`,'err');
+  }
+  btn.disabled=false;
+}
+
 window.addEventListener('DOMContentLoaded',loadArticles);
 </script>
 </body>
