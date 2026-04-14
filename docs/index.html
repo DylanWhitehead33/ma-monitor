@@ -6,7 +6,7 @@
 <title>The Registry — A Private Compendium</title>
 <link rel="preconnect" href="https://fonts.googleapis.com">
 <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
-<link href="https://fonts.googleapis.com/css2?family=Playfair+Display:ital,wght@0,400;0,500;0,600;0,700;0,800;0,900;1,400;1,700&family=Libre+Caslon+Text:ital,wght@0,400;0,700;1,400&family=JetBrains+Mono:wght@400;500;600&display=swap" rel="stylesheet">
+<link href="https://fonts.googleapis.com/css2?family=Cormorant+Garamond:ital,wght@0,300;0,400;0,500;0,600;0,700;1,300;1,400;1,500;1,600;1,700&family=Cormorant:ital,wght@0,300;0,400;0,500;0,600;1,300;1,400&family=JetBrains+Mono:wght@400;500;600&display=swap" rel="stylesheet">
 <style>
 :root {
   --ink:       #0A0D0A;
@@ -29,18 +29,18 @@
 *{box-sizing:border-box;margin:0;padding:0}
 html{scroll-behavior:smooth}
 body{
-  font-family:'Libre Caslon Text',Georgia,serif;
+  font-family:'Cormorant Garamond',Georgia,serif;
   background:var(--paper);
   color:var(--ink);
   min-height:100vh;
-  font-size:15px;
-  line-height:1.65;
+  font-size:17px;
+  line-height:1.6;
   background-image:
     radial-gradient(circle at 20% 30%, rgba(184,137,78,.04) 0%, transparent 50%),
     radial-gradient(circle at 80% 70%, rgba(15,42,31,.03) 0%, transparent 50%);
 }
 
-/* ── TOP RIBBON (date + volume info) ── */
+/* ── TOP RIBBON ── */
 .ribbon{
   background:var(--ink);
   color:var(--paper);
@@ -81,26 +81,28 @@ body{
   content:'';flex:0 0 60px;height:1px;background:var(--gold-dk)
 }
 .mast-title{
-  font-family:'Playfair Display',serif;
-  font-weight:900;
-  font-size:72px;
+  font-family:'Cormorant Garamond',serif;
+  font-weight:500;
+  font-size:82px;
   color:var(--ink);
-  letter-spacing:-.02em;
-  line-height:1;
-  margin-bottom:10px;
+  letter-spacing:-.015em;
+  line-height:.95;
+  margin-bottom:14px;
 }
 .mast-title em{font-style:italic;font-weight:400;color:var(--forest)}
 .mast-sub{
-  font-family:'Playfair Display',serif;
+  font-family:'Cormorant Garamond',serif;
   font-style:italic;
-  font-size:16px;
+  font-weight:400;
+  font-size:19px;
   color:var(--mute);
-  letter-spacing:.01em;
-  max-width:560px;
+  letter-spacing:.005em;
+  max-width:580px;
   margin:0 auto;
+  line-height:1.4;
 }
 
-/* ── SECTION NAVIGATION (newspaper-style sections) ── */
+/* ── SECTION NAVIGATION ── */
 .section-nav{
   background:var(--paper);
   border-bottom:1px solid var(--rule-soft);
@@ -115,15 +117,15 @@ body{
   gap:0;
 }
 .section-link{
-  padding:16px 1.75rem;
-  font-family:'Playfair Display',serif;
-  font-size:14.5px;
+  padding:18px 1.85rem;
+  font-family:'Cormorant Garamond',serif;
+  font-size:18px;
   font-weight:500;
   color:var(--ink);
   text-decoration:none;
   cursor:pointer;
   transition:all .2s;
-  letter-spacing:.02em;
+  letter-spacing:.01em;
   position:relative;
   border:none;
   background:none;
@@ -148,6 +150,7 @@ body{
   color:var(--gold-dk);
   display:block;
   margin-top:-2px;
+  font-style:normal;
 }
 
 /* ── LAYOUT ── */
@@ -161,10 +164,10 @@ body{
   align-items:start;
 }
 
-/* ── SECTION HEADER (above feed) ── */
+/* ── SECTION HEADER ── */
 .section-hdr{
-  margin-bottom:1.5rem;
-  padding-bottom:1rem;
+  margin-bottom:1.75rem;
+  padding-bottom:1.25rem;
   border-bottom:1px solid var(--rule-soft);
 }
 .section-kicker{
@@ -173,25 +176,26 @@ body{
   letter-spacing:.28em;
   text-transform:uppercase;
   color:var(--gold-dk);
-  margin-bottom:6px;
+  margin-bottom:10px;
 }
 .section-headline{
-  font-family:'Playfair Display',serif;
-  font-size:36px;
-  font-weight:800;
+  font-family:'Cormorant Garamond',serif;
+  font-size:44px;
+  font-weight:500;
   color:var(--ink);
-  line-height:1.1;
+  line-height:1.05;
   letter-spacing:-.015em;
-  margin-bottom:4px;
+  margin-bottom:8px;
 }
 .section-headline em{font-style:italic;font-weight:400;color:var(--forest)}
 .section-deck{
-  font-family:'Playfair Display',serif;
+  font-family:'Cormorant Garamond',serif;
   font-style:italic;
-  font-size:15.5px;
+  font-weight:400;
+  font-size:19px;
   color:var(--mute);
-  line-height:1.55;
-  max-width:640px;
+  line-height:1.5;
+  max-width:680px;
 }
 
 /* ── SEARCH BAR ── */
@@ -206,15 +210,15 @@ body{
   flex:1;
   border:none;
   background:transparent;
-  padding:11px 16px;
-  font-family:'Libre Caslon Text',serif;
-  font-size:14.5px;
+  padding:12px 16px;
+  font-family:'Cormorant Garamond',serif;
+  font-size:17px;
   color:var(--ink);
   outline:none;
 }
 .search-input::placeholder{color:var(--mute2);font-style:italic}
 .search-icon{
-  padding:0 14px;
+  padding:0 16px;
   display:flex;
   align-items:center;
   color:var(--mute);
@@ -223,6 +227,7 @@ body{
   letter-spacing:.15em;
   border-left:1px solid var(--rule-soft);
   background:var(--paper);
+  text-transform:uppercase;
 }
 
 /* ── FEED META ROW ── */
@@ -233,9 +238,9 @@ body{
   margin-bottom:1rem;
 }
 .feed-label{
-  font-family:'Playfair Display',serif;
+  font-family:'Cormorant Garamond',serif;
   font-style:italic;
-  font-size:18px;
+  font-size:22px;
   color:var(--ink);
 }
 .feed-count{
@@ -249,10 +254,11 @@ body{
 .notice{
   padding:.9rem 1.1rem;
   margin-bottom:1rem;
-  font-size:13.5px;
-  line-height:1.6;
+  font-size:15px;
+  line-height:1.55;
   border-left:3px solid;
   font-style:italic;
+  font-family:'Cormorant Garamond',serif;
 }
 .notice.info{background:rgba(184,137,78,.09);border-color:var(--gold);color:var(--gold-dk)}
 .notice.err{background:rgba(122,31,32,.06);border-color:var(--crimson);color:var(--oxblood)}
@@ -313,11 +319,11 @@ body{
   padding:3px 8px;
 }
 .value-stamp{
-  font-family:'Playfair Display',serif;
-  font-weight:700;
-  font-size:13px;
+  font-family:'Cormorant Garamond',serif;
+  font-weight:600;
+  font-size:16px;
   color:var(--gold-dk);
-  padding:2px 10px;
+  padding:1px 10px;
   border:1px solid var(--gold);
   background:rgba(184,137,78,.06);
   margin-left:auto;
@@ -333,19 +339,21 @@ body{
 .value-stamp + .card-date{margin-left:0}
 
 .card-title{
-  font-family:'Playfair Display',serif;
-  font-size:22px;
-  font-weight:700;
+  font-family:'Cormorant Garamond',serif;
+  font-size:28px;
+  font-weight:500;
   color:var(--ink);
-  line-height:1.25;
+  line-height:1.15;
   margin-bottom:10px;
-  letter-spacing:-.005em;
+  letter-spacing:-.008em;
 }
 .card-summary{
-  font-size:14.5px;
+  font-size:17px;
   color:var(--ink);
-  line-height:1.7;
+  line-height:1.55;
   margin-bottom:14px;
+  font-family:'Cormorant Garamond',serif;
+  font-weight:400;
 }
 .card-kw{
   display:flex;
@@ -397,8 +405,8 @@ body{
 .card-cat{
   color:var(--mute2);
   font-style:italic;
-  font-family:'Libre Caslon Text',serif;
-  font-size:11.5px;
+  font-family:'Cormorant Garamond',serif;
+  font-size:15px;
   letter-spacing:0;
   text-transform:none;
 }
@@ -425,25 +433,27 @@ body{
   text-align:center;
 }
 .empty h2{
-  font-family:'Playfair Display',serif;
+  font-family:'Cormorant Garamond',serif;
   font-style:italic;
-  font-size:26px;
+  font-size:32px;
   color:var(--ink);
-  margin-bottom:10px;
+  margin-bottom:12px;
   font-weight:500;
 }
 .empty p{
-  font-size:14px;
+  font-size:17px;
   color:var(--mute);
-  max-width:420px;
+  max-width:460px;
   margin:0 auto;
   font-style:italic;
-  line-height:1.6;
+  line-height:1.55;
+  font-family:'Cormorant Garamond',serif;
 }
 .empty .ornament-line{
   color:var(--gold);
-  margin:1.25rem 0;
+  margin:1.5rem 0;
   letter-spacing:.5em;
+  font-size:14px;
 }
 
 /* ── SIDEBAR ── */
@@ -517,13 +527,13 @@ body{
 .stat-g{display:grid;grid-template-columns:1fr 1fr;gap:1px;background:var(--rule-soft)}
 .stat{
   background:var(--paper);
-  padding:12px 10px;
+  padding:14px 10px;
   text-align:center;
 }
 .stat-n{
-  font-family:'Playfair Display',serif;
-  font-size:28px;
-  font-weight:700;
+  font-family:'Cormorant Garamond',serif;
+  font-size:34px;
+  font-weight:500;
   color:var(--ink);
   line-height:1;
 }
@@ -534,19 +544,19 @@ body{
   color:var(--mute);
   letter-spacing:.15em;
   text-transform:uppercase;
-  margin-top:4px;
+  margin-top:6px;
 }
 .sw{grid-column:1/-1;background:var(--forest);color:var(--paper)}
-.sw .stat-n{color:var(--gold-lt);font-size:36px}
+.sw .stat-n{color:var(--gold-lt);font-size:44px;font-weight:400;font-style:italic}
 .sw .stat-l{color:var(--paper2)}
 
 .fl{display:flex;flex-direction:column;gap:1px;background:var(--rule-soft)}
 .fb{
   background:var(--paper);
   border:none;
-  padding:9px 12px;
-  font-family:'Libre Caslon Text',serif;
-  font-size:13px;
+  padding:10px 12px;
+  font-family:'Cormorant Garamond',serif;
+  font-size:16px;
   cursor:pointer;
   color:var(--ink);
   text-align:left;
@@ -559,8 +569,8 @@ body{
 .fb.on{
   background:var(--forest);
   color:var(--paper);
-  font-weight:600;
-  font-family:'Playfair Display',serif;
+  font-weight:500;
+  font-family:'Cormorant Garamond',serif;
   font-style:italic;
 }
 .fb.on::before{content:'▸ ';color:var(--gold-lt);margin-right:4px}
@@ -606,11 +616,12 @@ body{
   background:var(--paper2);
 }
 .footer-mark{
-  font-family:'Playfair Display',serif;
+  font-family:'Cormorant Garamond',serif;
   font-style:italic;
-  font-size:16px;
+  font-size:20px;
   color:var(--mute);
   margin-bottom:8px;
+  font-weight:400;
 }
 .footer-est{
   font-family:'JetBrains Mono',monospace;
@@ -623,8 +634,8 @@ body{
 @media(max-width:900px){
   .wrap{grid-template-columns:1fr;padding:1.5rem 1rem}
   .sidebar{order:-1}
-  .mast-title{font-size:48px}
-  .section-headline{font-size:26px}
+  .mast-title{font-size:56px}
+  .section-headline{font-size:32px}
   .ribbon{flex-direction:column;gap:.3rem;text-align:center}
   .section-nav-inner{justify-content:flex-start;overflow-x:auto;flex-wrap:nowrap}
   .section-link{padding:14px 1.2rem;white-space:nowrap}
@@ -634,13 +645,11 @@ body{
 </head>
 <body>
 
-<!-- TOP RIBBON -->
 <div class="ribbon">
   <div class="ribbon-l">Volume I · Issue I</div>
   <div class="ribbon-r" id="current-date"></div>
 </div>
 
-<!-- MASTHEAD -->
 <header class="masthead">
   <div class="mast-inner">
     <div class="mast-eyebrow">A Private Compendium · Established MMXXVI</div>
@@ -649,7 +658,6 @@ body{
   </div>
 </header>
 
-<!-- SECTION NAVIGATION -->
 <nav class="section-nav">
   <div class="section-nav-inner">
     <button class="section-link active" data-section="construction" onclick="switchSection('construction')">Construction</button>
@@ -660,18 +668,15 @@ body{
   </div>
 </nav>
 
-<!-- MAIN -->
 <div class="wrap">
   <main>
 
-    <!-- SECTION HEADER -->
     <div class="section-hdr" id="section-hdr">
       <div class="section-kicker">The Construction Desk · Heavy Materials</div>
       <h2 class="section-headline">On <em>Deals</em> &amp; <em>Dealings</em></h2>
       <div class="section-deck">Mergers, acquisitions, investments and divestitures across aggregates, cement, asphalt, ready-mix, paving and precast concrete — gathered daily from twenty-three sources.</div>
     </div>
 
-    <!-- SEARCH -->
     <div class="search-bar">
       <input class="search-input" id="search" type="text" placeholder="Search by company, keyword, or sector…" oninput="applySearch()">
       <div class="search-icon">Search</div>
@@ -686,7 +691,6 @@ body{
     <div id="feed"></div>
   </main>
 
-  <!-- SIDEBAR -->
   <aside class="sidebar" id="sidebar">
 
     <div class="panel">
