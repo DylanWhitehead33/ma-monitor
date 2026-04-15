@@ -1,9 +1,74 @@
 {
-  "fetchedAt": "2026-04-14T15:37:07.153669",
-  "totalArticles": 80,
-  "newToday": 70,
+  "fetchedAt": "2026-04-15T16:39:48.900219",
+  "totalArticles": 96,
+  "newToday": 16,
   "archiveDays": 30,
   "articles": [
+    {
+      "title": "J.K. Cement Acquires 9.77% Stake in Mehrauni Electro Power for \u20b92.10 Crore - scanx.trade",
+      "summary": "J.K. Cement Acquires 9.77% Stake in Mehrauni Electro Power for \u20b92.10 Crore scanx.trade",
+      "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxOYXlYenpvdGpFbEZOMlRmVW02R3VmV1dkWkpEUnZFcUhNUzlVc3IyVTlaMktadU0zVDh6MUdkY21lN3RQdHNaQ0lhcVNDUnRpd0F0cUVSLXNqZ1F3OWpGTlkzY1N6bnVKV1VmelFnSHEtZ05ocE1EM2pjVkhVaGtBel9KeUZIVFNpVjViaFZUM1ZCNVZ0VXE2VURaMWtwMlZwenAybFBtUzFSU1VEWDZBUXJGWFU5VEtPVWVRekZtYzNJamZFSnVz?oc=5",
+      "source": "scanx.trade",
+      "category": "Cement Industry",
+      "keywords": "Acquired",
+      "sector": "Cement",
+      "dealType": "Acquisition",
+      "value": "",
+      "date": "Apr 15, 2026",
+      "dateISO": "2026-04-15T12:41:12"
+    },
+    {
+      "title": "CRH Continues $300 Million Share Buyback With New U.S. Repurchases - The Globe and Mail",
+      "summary": "CRH Continues $300 Million Share Buyback With New U.S. Repurchases The Globe and Mail",
+      "url": "https://news.google.com/rss/articles/CBMi5AFBVV95cUxNZW00MmtlbHJ0c3pFM09RMm9NMGc0Y2VDQWlCa1hTMTdXMER6dlhIMWtBNXg1dHdoS0p5ZXI2Q0VUcWJJZUZBQWdxdnRvd0J1bGJvenFmNTg0ZWh3YnQ4NDZNbGVJZG15N1pQei1OU0I5RlY5NE1LZWI2Zk9TZVZaTzlvRWhrb1RaNFhTdGVBUmxqcW03MjBtUXp1WUR3ZWtFVjZwcFBBNTk4MGxqMVAzcld3R0htc0xZR3NyRjVubWhBZXpFc0NObHRYaTFKOTliNnR1TGxFNXlYNDB2X3JYQndmMkg?oc=5",
+      "source": "The Globe and Mail",
+      "category": "CRH",
+      "keywords": "Purchase",
+      "sector": "General",
+      "dealType": "Acquisition",
+      "value": "$300M",
+      "date": "Apr 15, 2026",
+      "dateISO": "2026-04-15T08:49:24"
+    },
+    {
+      "title": "Arcosa Divests Marine Unit for $450M to Focus on Infrastructure & Engineered Structures - News and Statistics - IndexBox",
+      "summary": "Arcosa Divests Marine Unit for $450M to Focus on Infrastructure & Engineered Structures - News and Statistics IndexBox",
+      "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxOa0VkUXRoaXhFWDFDRUdOQkJtQ3Y0c29Fa0VJS0xzaHhsVEdHaF9oNTNPRVU4eGV3WjZuX04xZTlYQ3hRQ2Z4NHgxZklEY3FMVFNIVW5TSlI2VWYzZ1kxelVpUS13NzNKMWdFYndkdUNaaU4wU250dUsxT1ZKZ2oyX09lcjhXOXNfMzBIajZCelNDUQ?oc=5",
+      "source": "IndexBox",
+      "category": "Arcosa",
+      "keywords": "Divest",
+      "sector": "General",
+      "dealType": "Divestiture",
+      "value": "$450M",
+      "date": "Apr 15, 2026",
+      "dateISO": "2026-04-15T04:51:00"
+    },
+    {
+      "title": "Are acquisitions expanding Construction Partners' growth potential? - MSN",
+      "summary": "Are acquisitions expanding Construction Partners' growth potential? MSN",
+      "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxQNjF6RjJnVHZUOTZ6OEFKTTcxS3ZfWmE1RDRnc21TbTc2T2RnYWFJYmFreTlpM2VWVXJCN2dNR05NSG41OXV6bjdWakV0UGFfSDRNck85SFVKb21UVkZRMkZ0Y0d6cHlEZ2NMRlpXZFlVb0xhd185Y2hFd09JUy1BSUVxcjI5cjBtV25sWXZKOWUwbE1VZnVXMnFLTHBibi1GR3RYWXBqWUZQelRuVDNLR1g0RW1yVkZfWlZZ?oc=5",
+      "source": "MSN",
+      "category": "Vulcan Materials",
+      "keywords": "Acquired",
+      "sector": "General",
+      "dealType": "Acquisition",
+      "value": "",
+      "date": "Apr 14, 2026",
+      "dateISO": "2026-04-14T17:12:27"
+    },
+    {
+      "title": "Are Acquisitions Expanding Construction Partners' Growth Potential? - TradingView \u2014 Track All Markets",
+      "summary": "Are Acquisitions Expanding Construction Partners' Growth Potential? TradingView \u2014 Track All Markets",
+      "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxNcEd0ekxraUtzT1kzUzdhTkJiUFVEYzFCeUR4REl2VDBaOHFtVllFcUZQZktoVTZCYURqRFpsSG82dXZ2cXF0OUk4Z3psRUNVbjFjX1B0dUNoaUJHeldfc0p1a1FjSVdxUHhteVdFRmxObDdlQlZJa25OblNoWmRMcFhENlBlREM4eUdxN19GRDhPeEFOc1VacFZzRWxZMlVrRnpjMEZZLWZiTG55NDBGUzBrYmZXMW9vQ1lJZk9R?oc=5",
+      "source": "TradingView \u2014 Track All Markets",
+      "category": "Aggregates Industry",
+      "keywords": "Acquired",
+      "sector": "General",
+      "dealType": "Acquisition",
+      "value": "",
+      "date": "Apr 14, 2026",
+      "dateISO": "2026-04-14T14:25:00"
+    },
     {
       "title": "State of Alaska Department of Revenue Acquires New Stake in Crh Plc $CRH - MarketBeat",
       "summary": "State of Alaska Department of Revenue Acquires New Stake in Crh Plc $CRH MarketBeat",
@@ -16,6 +81,19 @@
       "value": "",
       "date": "Apr 14, 2026",
       "dateISO": "2026-04-14T10:41:42"
+    },
+    {
+      "title": "Upset over land acquisition compensation, 5 Chandrapur tribal farmers consume poison; hospitalised - newsdrum.in",
+      "summary": "Upset over land acquisition compensation, 5 Chandrapur tribal farmers consume poison; hospitalised newsdrum.in",
+      "url": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxPV2J0TG9QY3dnTDVzWGszM1AtQTZuVGlUUm5pREZTTG1QWVFtVUdmc0RRU3phM2FjMXRXWDFEdGo4VTZ2eDBfc2FWQkU3X3E4NEZBQ09qUHdqLWZOSkpNLXhKSU5SbEVya2hkdXoya19kUG9tMGw5WTVqcEN0Ny1xeVZ3ZlFKMnFyTzA3ZVBZSHRGMDVXZDhWSEZ6ZFlwVlFwZXRlemJTSGY2YWVoVEt4N2R4MUJhdEJ5WUJBS2lLVzJtR1NrWFJFaFdfR2x3OWdQVlZvadIB1AFBVV95cUxPV2J0TG9QY3dnTDVzWGszM1AtQTZuVGlUUm5pREZTTG1QWVFtVUdmc0RRU3phM2FjMXRXWDFEdGo4VTZ2eDBfc2FWQkU3X3E4NEZBQ09qUHdqLWZOSkpNLXhKSU5SbEVya2hkdXoya19kUG9tMGw5WTVqcEN0Ny1xeVZ3ZlFKMnFyTzA3ZVBZSHRGMDVXZDhWSEZ6ZFlwVlFwZXRlemJTSGY2YWVoVEt4N2R4MUJhdEJ5WUJBS2lLVzJtR1NrWFJFaFdfR2x3OWdQVlZvaQ?oc=5",
+      "source": "newsdrum.in",
+      "category": "Cement Industry",
+      "keywords": "Acquired",
+      "sector": "General",
+      "dealType": "Acquisition",
+      "value": "",
+      "date": "Apr 13, 2026",
+      "dateISO": "2026-04-13T14:45:35"
     },
     {
       "title": "Lafarge Africa to Rebrand as HBM Nigeria After Huaxin Takeover | - Business Post Nigeria",
@@ -94,6 +172,19 @@
       "value": "$2.10B",
       "date": "Apr 10, 2026",
       "dateISO": "2026-04-10T12:21:50"
+    },
+    {
+      "title": "Ambuja Cements' Acquisition of Penna: A Bold Capacity Expansion in the Face of Intensifying Price Challenges - Bitget",
+      "summary": "Ambuja Cements' Acquisition of Penna: A Bold Capacity Expansion in the Face of Intensifying Price Challenges Bitget",
+      "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE55LXg4RzJDQ21xMHltR09CN0h3bjB2clRmT0Zfb3MwRVNmeEdTM0hSbDBORmJ1R0ZVbDlkVkdDOUZKYVdNaHhkZy1NbHZmbzY5SXZTQXlWUWd6U2RkZ1HSAWNBVV95cUxORXMxTkwyVXNSQTMzY0FJUTZNaTl3MFd0cXUwUm9JWHNqQm9hR1ZYSnE3UmZpbnFtaWI0VDM2MWYwQ251RDBCSXJiOUNULTJDcDFJeHhWOV9GVDkzQkNOOUdhcEE?oc=5",
+      "source": "Bitget",
+      "category": "Cement Industry",
+      "keywords": "Acquired",
+      "sector": "Cement",
+      "dealType": "Acquisition",
+      "value": "",
+      "date": "Apr 10, 2026",
+      "dateISO": "2026-04-10T06:12:42"
     },
     {
       "title": "Is CRH\u2019s (CRH) Aggressive Buybacks and Acquisition Pipeline Redefining Its Capital Allocation Playbook? - simplywall.st",
@@ -343,6 +434,19 @@
       "dateISO": "2026-04-01T21:02:37"
     },
     {
+      "title": "Heidelberg Materials North America completes acquisition of BURNCO\u2019s Edmonton assets - GlobeNewswire",
+      "summary": "Heidelberg Materials North America completes acquisition of BURNCO\u2019s Edmonton assets GlobeNewswire",
+      "url": "https://news.google.com/rss/articles/CBMi7AFBVV95cUxPSGtZS1ZQT1hCRVpORmFxM1Vpa3hNUlZLT0VGSmh0d0NvR3l5eklmaVdhVXBqZ2YtcVk5a2xJTUZ6YUFZYnBrYzdLU2dMN1dEdUkwS2p1d0hES3hKLTV0TUFrUjdRUmJ3MnNaQmpOSnpGZkNNSkI3TkZyWW1pdmdvcl9ZenRJcmZwa3VhLXBlb0JEeFZmcVNraVRmdFhnQ3JHRjk1RE9JQldfQ2ZuUGZDclI0dHo2UFVYOVJtRnFfNEM5aTRTc0JuZHNUX3hOcmh5aGl3S0RPdzFUV0dza2Z5WWtaYlFhQ2wzZUF6ag?oc=5",
+      "source": "GlobeNewswire",
+      "category": "Heidelberg Materials",
+      "keywords": "Acquired",
+      "sector": "General",
+      "dealType": "Acquisition",
+      "value": "",
+      "date": "Apr 01, 2026",
+      "dateISO": "2026-04-01T16:59:35"
+    },
+    {
       "title": "Holcim Closes Acquisition of Indirect Majority Stake in Cementos Pacasmayo - The Globe and Mail",
       "summary": "Holcim Closes Acquisition of Indirect Majority Stake in Cementos Pacasmayo The Globe and Mail",
       "url": "https://news.google.com/rss/articles/CBMi6wFBVV95cUxPM3VOakZoQ3ZnY3BaSkJteEFUQ3B3SHFFakR3Z0pVekNpUXRCNVVtSnpzTHNwS0ZZNHVWN3FlOWtHdWtlLTB1SWdkWFM5WHdDZWxpTDdsTUg5cmNtclRIa3JWYm9XMVlDT1gzWGFnaFIxamJHRDU5NFF3OWtqUnc4ZEt1bWVHLXo0YXhnd09FM0RwRnNFQTZlX3dUdV9FOEJYWnFBS1NKc1pJSmdmWXNLUmlvbGttRVRIdEFJZ0t3TlhOX3ptNzZ2WjdlTWdFaVQtOGNXVGpkaTktVmFsY2xoRy1MalprZV9ZUGQ4?oc=5",
@@ -460,6 +564,32 @@
       "dateISO": "2026-04-01T07:00:00"
     },
     {
+      "title": "List of 17 Acquisitions by Breedon Group (Apr 2026) - Tracxn",
+      "summary": "List of 17 Acquisitions by Breedon Group (Apr 2026) Tracxn",
+      "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxPRkFLQ0NOT0Rpal9INDlEQVBIVHAzYzk4S3JRclAtOWV0NmZDLXNXejlEYVppYUhaUUhQN19INkRFV2JZdW1ZT25Hb0gySzhHeGlGRjZKQi1ZUFM0V2NWMWp5V2ZUWnNCdmdlWXZPTUM0Ylc0YkZ5bWFURzNRNENiWTVMR2lPeUhhamxrc3pwcU9JN05EdEpNcm1OTjI2dEg3YVdkT2FvenNzanlkYnc?oc=5",
+      "source": "Tracxn",
+      "category": "Aggregates Industry",
+      "keywords": "Acquired",
+      "sector": "General",
+      "dealType": "Acquisition",
+      "value": "",
+      "date": "Apr 01, 2026",
+      "dateISO": "2026-04-01T07:00:00"
+    },
+    {
+      "title": "Construction Partners acquires Four Star Paving in Nashville By Investing.com - Investing.com Canada",
+      "summary": "Construction Partners acquires Four Star Paving in Nashville By Investing.com Investing.com Canada",
+      "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxNX3JGMzJpbXhIVmhQX3QyYXVVZWgteUJXb0dCRFZZV3RmcXpvODJGQ3hLYVpfallGQ3NKX0pEWlpmMkh2TFJoZU9XOWNXbUpQRmJ3MFgwZ0V6YXhCSC04VnR1WEZkZXRoa1RUdmxZWm00ZXU2cXNPY2t5dG9BUzF1bWhtMnp6dVp2TnFGU1JSejFHaFZyYmZSeTJqSElGWVVFUUZNTW1GM1c4aHRoV3pKQmZvWHVkY28?oc=5",
+      "source": "Investing.com Canada",
+      "category": "Construction Partners",
+      "keywords": "Acquired, Investment",
+      "sector": "Paving",
+      "dealType": "Investment",
+      "value": "",
+      "date": "Apr 01, 2026",
+      "dateISO": "2026-04-01T07:00:00"
+    },
+    {
       "title": "List of 22 Acquisitions by CRH (Apr 2026) - Tracxn",
       "summary": "List of 22 Acquisitions by CRH (Apr 2026) Tracxn",
       "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxQYm5Vc2NORHpnVFc4T1VMZ1NaclZUVXlYc0w4amlrYS1GU0NmZjVDN2ZWYWYzYVlaZVlqR2JNMUxPWFZZbTZSbGtmRy1fVWNjR1F2NmdpWFlVUEJCQ1BvaW9aT0xmNjl2VlNJLUV3RGlhTEg0OWhiWU5uMmdiYkZXYVVfWlZWYWYtbC1vUF9JSlJBcDlJZnZqUzZrUFBRRDcy?oc=5",
@@ -471,6 +601,19 @@
       "value": "",
       "date": "Apr 01, 2026",
       "dateISO": "2026-04-01T04:25:23"
+    },
+    {
+      "title": "Holcim Acquires Controlling Interest in Peru's Cementos Pacasmayo | 2026 - News and Statistics - IndexBox",
+      "summary": "Holcim Acquires Controlling Interest in Peru's Cementos Pacasmayo | 2026 - News and Statistics IndexBox",
+      "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxNd2FLdzMyY0M1R1NPUzQyVlhOUnI5c1cwRXFkcTJ0bktEVHlqdW9pTEMtQnI4czcwNjB0THZhcmtqU3p4cy0xWS05d1ZrUnZuVjdsWGhpRFdEZVQ2NFd6ai1NbmxQanROYmdLV3I4c2ZibElLSC1JR0hrUE1ZYWZRcnBCZk52cVYxWkRaYzJ4Qk5Xejl2YndQVzVZSzFxbUw4Wkxyall0aVV3VDQ?oc=5",
+      "source": "IndexBox",
+      "category": "Holcim",
+      "keywords": "Acquired",
+      "sector": "Cement",
+      "dealType": "Acquisition",
+      "value": "",
+      "date": "Apr 01, 2026",
+      "dateISO": "2026-04-01T00:01:00"
     },
     {
       "title": "Granite Secures $495M in Tactical Infrastructure Work",
@@ -749,6 +892,19 @@
       "dateISO": "2026-03-30T07:00:00"
     },
     {
+      "title": "Andhra Cements Board Approves Merger with Holding Company Sagar Cements - scanx.trade",
+      "summary": "Andhra Cements Board Approves Merger with Holding Company Sagar Cements scanx.trade",
+      "url": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxOOF84TG1EVThBT3RSM1FJVFZxeTM4QnI3S2tyMFhkNjBUcU5JRWZrWEEtelRGTXowNkZOdnVwMml3RHk4bV9GcVBXaERVY3BXNnpOZ19QSnJVQUMwYmxaQ1kzVmdKTVpBTkZvT1gwTE5mRUx0QWZ2Y2tPeEFvbHNzWXBmV1hRdEs5RFRWTWpCMWZiMjA0OXhDMk4zWExDdU8tdDl1cHBHaUFRLWxrUEE1a0tabzhBZy1UR2lOYTBtRzFwRHVQRmQyVUR1QnN3MEpLQWZXaUpnUQ?oc=5",
+      "source": "scanx.trade",
+      "category": "Cement Industry",
+      "keywords": "Merger",
+      "sector": "Cement",
+      "dealType": "Merger",
+      "value": "",
+      "date": "Mar 30, 2026",
+      "dateISO": "2026-03-30T07:00:00"
+    },
+    {
       "title": "Olcim AG completed the acquisition of 99.99% stake in Inversiones ASPI S.A. from Hochschild Group. - marketscreener.com",
       "summary": "Olcim AG completed the acquisition of 99.99% stake in Inversiones ASPI S.A. from Hochschild Group. marketscreener.com",
       "url": "https://news.google.com/rss/articles/CBMi4gFBVV95cUxNUWxaTzZmNU9jZy1pQmhYemtBdWFocm1Ud0NhTjNCanNpSlB0LWU5aFhfLVNxYURXTGZjbkljTlgyakd4dFNpRUZiamRmREpPOV9qRF9SV1dBcHF6RGZLcE1qX0Z6bVhLVGE2RzRncEdCN2hsR2tuTE44Uml1TDhCN1Y5QnpTSWhJbVFiT0R3WE0ySzhYV2ZFSXZzWXVLc0dpMDJQQk1tSFhfbDhZUHNxbG5KM2hveTRzaFpHVjdaT1BGNkZ3QlJUUk1CaHRBZWtEdXI5eFpxdHpGSEdCM09ZT1NB?oc=5",
@@ -944,6 +1100,19 @@
       "dateISO": "2026-03-20T07:00:00"
     },
     {
+      "title": "Titan America Keystone Deal And 2025 Records Reframe Valuation Story - simplywall.st",
+      "summary": "Titan America Keystone Deal And 2025 Records Reframe Valuation Story simplywall.st",
+      "url": "https://news.google.com/rss/articles/CBMiywFBVV95cUxOQ215bDdGSmhsekxFc1hDcnJfbHJaS2VpdTlBcUdGN1I0czJrRGZ1dm84UVV5b2ZMb0p0ajRjN19xZGdKUE9BQkdROHMtRkdmN3VfdEhCMWV4THBDRTNpUXNVbjZzSzlGb3B2N1hDQ0tpY0FXQVgzUEttS1RJS0tzQ3djY3BxckY4ZEdxVWUtV0NLbXVUallkUnQ1ZVo4ZjBVMmhPWlRRdmRuOENwdlZLMmdiY3FscjR6MWp1TVg4VDliVF96eVRiQkp0UdIB0AFBVV95cUxPQ2hod0o3RVVRWTM2R0taM05pd0JDeWdTbkNZUGszYXJyU2tYNGJ6cVk4N1lXclBRNEpwaWZrM1lHaUwwRklwT2hGdVJaSHJvekhoMElyYzJlOXdFdGJjMUtZVGdMR0JFdC1OTjRsaE5rMWFCempSRklKLVNaZkhqRE5INHNXZ19pRzhIeXJFaF9PQTc5MTctdy1MdEVsRXZiSXBkTEtRcjVJRXZINnc5YW5aWXZJV3JEdEY1ZnZnSVRmNzNkSklGZXh1c09QRmJ2?oc=5",
+      "source": "simplywall.st",
+      "category": "Cement Industry",
+      "keywords": "",
+      "sector": "General",
+      "dealType": "Acquisition",
+      "value": "",
+      "date": "Mar 20, 2026",
+      "dateISO": "2026-03-20T07:00:00"
+    },
+    {
       "title": "Nexstar and Tegna\u2019s Local TV Megamerger Challenged by Eight States - The Hollywood Reporter",
       "summary": "Nexstar and Tegna\u2019s Local TV Megamerger Challenged by Eight States The Hollywood Reporter",
       "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxQRC1lYWFjbDN5c2l4d3U2SHFVSXpqbmczRHgwUWlnbkkzazA1aEZSUXZBaUNPWjk3aVBpaERyNzlDeXd3a0Y4MzhrS3ZXZVRQemxjMjF1eXVYYzR0QURtc2FodzhvY0J4dHo3QjVWNGRXYkpYdmdEWUI2VXZReG9TSEVzY0tidWRsQWdxZlgyUFVXSWJocXkwWWU3cVJDeFF6dmFaYg?oc=5",
@@ -1022,6 +1191,32 @@
       "dateISO": "2026-03-18T07:00:00"
     },
     {
+      "title": "Adani Enterprises shares rise 2%, Jaiprakash Power up 8% as NCLT approves Adani Group's bid to acquire... - Moneycontrol.com",
+      "summary": "Adani Enterprises shares rise 2%, Jaiprakash Power up 8% as NCLT approves Adani Group's bid to acquire... Moneycontrol.com",
+      "url": "https://news.google.com/rss/articles/CBMi4wFBVV95cUxQSWxVUHRKUklZUVpsSXlhUGMwa0dxV2lqbFFBejI1YWpVVmktQ2tRR1V1bTJ3ZGdPOGVjcGk1c0FQWXNYdFN4dV9ZNTFIY1NnLXJXR0R0LXI5SDhMY0lQbnlkSkR0Snh5S0Itd25uLVlEU1pSZnBaRm5JYzRLVEdQbVdIQXRvOGpUMGhrVVlvZkZkNXRPX0s1S1RNZXQtSnpSQnRZN0kyN3RIMFlSWC1mUzBNRllzc2JLWExpMlk4bUtMaXdTSXZIT3hfdzd3ek41cVdRdUlBeGhyMG5naFN0SzVFa9IB6AFBVV95cUxQazRQNV9qelhPUFc3TndDcHlSWnM0enJvaFA1YnpueDJIbHk5czZlN1d3cVhsUzgwZ3pZMFhWTHNnXzNJMGw3aDVza190Wmo5VzZEWmRTdm4zMFZHR0xpQTNzSGhyeU95S0tPVGxYOUJzenhZQ0RJa1ZtdS1CU01tUk1DR3BLVkY2VzhyeGVxc3NnXzJ3ejd5UmFHUWxweVowUlBnVjg3ZFlTOVdWOUlGb2FXRjNvdGstZXNlOFQ2TVVqM0NrbFY4VGtJRkVFNXpTLTZlTmlLbzZhZzhKVUR4TXpPNGJWWVQ0?oc=5",
+      "source": "Moneycontrol.com",
+      "category": "Cement Industry",
+      "keywords": "Acquired, To Acquire",
+      "sector": "General",
+      "dealType": "Acquisition",
+      "value": "",
+      "date": "Mar 18, 2026",
+      "dateISO": "2026-03-18T07:00:00"
+    },
+    {
+      "title": "NCLT approves Adani Group \u20b914,535 crore bid to acquire bankrupt Jaiprakash Associates - ET Realty",
+      "summary": "NCLT approves Adani Group \u20b914,535 crore bid to acquire bankrupt Jaiprakash Associates ET Realty",
+      "url": "https://news.google.com/rss/articles/CBMi5gFBVV95cUxNLWh3dkl5QUZjU2tWTVJ0dGN2VENGdDZjU2RsOHZoWVV1TU4wbmxWYjRxeFBNdDFoRFZhTGlROXVFSVBnM0JreFlBZkNnejE2WUduSFh2MlVFWE02MC1IWTQtbnNkMGJpMnp1OEsxT1BBemxjTkZldTVKbW5YYVd0dTdGVktvN1MxSjRIT19MM3JyZnJYTU9JazNJUUFlcXVmVEN5a1JyMnh6S2EwcF91dDRCc1RNNHlPNlFuTE9WMTlYRVhxb2o1QmxoQWZNTjBJZVZ6d1Y1STBNcHRUNHhOY2pDUWs2UdIB6wFBVV95cUxNNUJIQXlhSkFrV2ZIekk4VVI1dGl0UlM1MFNjZFM4SlJPVHFGVG1SVkVjV002NzgyMGYtV015WmNQTmI2cGxVZ0wyQXBFQUdlM0JVellyOTlpbmFRRkJoelpPT1Fpa1pvOVJUZ2ttY213NUtBVmdXRllERGV1QWxRejFYbW1sNHc3SUZ2SDZ5SnlDZXhFcm93NlVHbnFZQmZxSmpVY3h5dTB6emVBdGJxd0ozeVM4ZjRfYmZ4Tm1ycTlmeERPcE1xbUhESm9tSVpIYzR0MHJNQXNPTVRTbTdTRFJxcmdvR1EzZG53?oc=5",
+      "source": "ET Realty",
+      "category": "Cement Industry",
+      "keywords": "Acquired, To Acquire",
+      "sector": "General",
+      "dealType": "Acquisition",
+      "value": "",
+      "date": "Mar 18, 2026",
+      "dateISO": "2026-03-18T07:00:00"
+    },
+    {
       "title": "KAPCO to acquire 46% stake in Attock Cement - Mettis Global",
       "summary": "KAPCO to acquire 46% stake in Attock Cement Mettis Global",
       "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxPU1FSbGJEd045eVd0MFFudkdTUnVkcEJHOW1JWFdyUjRhbzdHUUNJeG5mTngzUHlNTERNZWllUFBTcGdtdnptOERYM3I5Ni11MW4yNm5HVkNUcVNSM0VIZmVZckhpUXNuLVVSRllONjNQWmUxeG9yWmVSRWNpeF9uXzJrWDFfeGxrTXc?oc=5",
@@ -1031,6 +1226,19 @@
       "sector": "Cement",
       "dealType": "Acquisition",
       "value": "",
+      "date": "Mar 17, 2026",
+      "dateISO": "2026-03-17T07:00:00"
+    },
+    {
+      "title": "CSN Cement Division Sale: Votorantim, Huaxin in Talks for $3B Acquisition - News and Statistics - IndexBox",
+      "summary": "CSN Cement Division Sale: Votorantim, Huaxin in Talks for $3B Acquisition - News and Statistics IndexBox",
+      "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxORW53SFpDbTlLSF84dldBSmNIeGJTUHhVaTJQYlgxUkRmNGxxcEFlbDFveTBPUFF5MXFhS20tbVFjWnV6by0xTi1YV09Palo5OEZkNGVhTFZheDFvbDRLeXpQenJqd2F5VHhIbERUeWIzSlNrdjFOTE9maEJaQkFTdWJDckRRSTBoUnJUQWNmRHRkMU1FNFJfbw?oc=5",
+      "source": "IndexBox",
+      "category": "Cement Industry",
+      "keywords": "Acquired",
+      "sector": "Cement",
+      "dealType": "Acquisition",
+      "value": "$3.00B",
       "date": "Mar 17, 2026",
       "dateISO": "2026-03-17T07:00:00"
     }
