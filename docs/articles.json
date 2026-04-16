@@ -1,8 +1,8 @@
 {
-  "fetchedAt": "2026-04-16T16:28:58.506662",
-  "totalArticles": 91,
-  "newToday": 8,
-  "duplicatesRemoved": 8,
+  "fetchedAt": "2026-04-16T17:19:34.824101",
+  "totalArticles": 92,
+  "newToday": 12,
+  "duplicatesRemoved": 11,
   "archiveDays": 30,
   "articles": [
     {
@@ -14,7 +14,6 @@
       "keywords": "Acquired",
       "sector": "General",
       "dealType": "Acquisition",
-      "region": "US",
       "value": "$65M",
       "date": "Apr 16, 2026",
       "dateISO": "2026-04-16T14:16:00"
@@ -28,7 +27,6 @@
       "keywords": "Acquired",
       "sector": "General",
       "dealType": "Acquisition",
-      "region": "Global",
       "value": "",
       "date": "Apr 16, 2026",
       "dateISO": "2026-04-16T12:11:32"
@@ -42,7 +40,6 @@
       "keywords": "Acquired",
       "sector": "General",
       "dealType": "Acquisition",
-      "region": "US",
       "value": "",
       "date": "Apr 15, 2026",
       "dateISO": "2026-04-15T22:21:40"
@@ -58,8 +55,7 @@
       "dealType": "Acquisition",
       "value": "",
       "date": "Apr 15, 2026",
-      "dateISO": "2026-04-15T15:08:40",
-      "region": "US"
+      "dateISO": "2026-04-15T15:08:40"
     },
     {
       "title": "J.K. Cement Acquires 9.77% Stake in Mehrauni Electro Power for \u20b92.10 Crore - scanx.trade",
@@ -72,8 +68,7 @@
       "dealType": "Acquisition",
       "value": "",
       "date": "Apr 15, 2026",
-      "dateISO": "2026-04-15T12:41:12",
-      "region": "Global"
+      "dateISO": "2026-04-15T12:41:12"
     },
     {
       "title": "CRH Continues $300 Million Share Buyback With New U.S. Repurchases - The Globe and Mail",
@@ -86,8 +81,7 @@
       "dealType": "Acquisition",
       "value": "$300M",
       "date": "Apr 15, 2026",
-      "dateISO": "2026-04-15T08:49:24",
-      "region": "US"
+      "dateISO": "2026-04-15T08:49:24"
     },
     {
       "title": "Arcosa Divests Marine Unit for $450M to Focus on Infrastructure & Engineered Structures - News and Statistics - IndexBox",
@@ -100,8 +94,7 @@
       "dealType": "Divestiture",
       "value": "$450M",
       "date": "Apr 15, 2026",
-      "dateISO": "2026-04-15T04:51:00",
-      "region": "US"
+      "dateISO": "2026-04-15T04:51:00"
     },
     {
       "title": "State of Alaska Department of Revenue Acquires New Stake in Crh Plc $CRH - MarketBeat",
@@ -114,8 +107,7 @@
       "dealType": "Acquisition",
       "value": "",
       "date": "Apr 14, 2026",
-      "dateISO": "2026-04-14T10:41:42",
-      "region": "US"
+      "dateISO": "2026-04-14T10:41:42"
     },
     {
       "title": "Upset over land acquisition compensation, 5 Chandrapur tribal farmers consume poison; hospitalised - newsdrum.in",
@@ -128,8 +120,7 @@
       "dealType": "Acquisition",
       "value": "",
       "date": "Apr 13, 2026",
-      "dateISO": "2026-04-13T14:45:35",
-      "region": "US"
+      "dateISO": "2026-04-13T14:45:35"
     },
     {
       "title": "Lafarge Africa to Rebrand as HBM Nigeria After Huaxin Takeover | - Business Post Nigeria",
@@ -142,8 +133,7 @@
       "dealType": "Acquisition",
       "value": "",
       "date": "Apr 13, 2026",
-      "dateISO": "2026-04-13T01:59:04",
-      "region": "Global"
+      "dateISO": "2026-04-13T01:59:04"
     },
     {
       "title": "Heidelberg Materials expands with Maas Group Holdings acquisition - quarrymagazine.com",
@@ -156,8 +146,7 @@
       "dealType": "Acquisition",
       "value": "",
       "date": "Apr 13, 2026",
-      "dateISO": "2026-04-13T00:13:45",
-      "region": "US"
+      "dateISO": "2026-04-13T00:13:45"
     },
     {
       "title": "252,408 Shares in Cemex S.A.B. de C.V. $CX Acquired by TT International Asset Management LTD - MarketBeat",
@@ -170,8 +159,7 @@
       "dealType": "Acquisition",
       "value": "",
       "date": "Apr 12, 2026",
-      "dateISO": "2026-04-12T12:36:35",
-      "region": "US"
+      "dateISO": "2026-04-12T12:36:35"
     },
     {
       "title": "Ambuja Cements Announces Penna Cement Merger Effective April 10, 2026 - scanx.trade",
@@ -184,8 +172,7 @@
       "dealType": "Merger",
       "value": "",
       "date": "Apr 11, 2026",
-      "dateISO": "2026-04-11T01:00:24",
-      "region": "US"
+      "dateISO": "2026-04-11T01:00:24"
     },
     {
       "title": "Federal judge extends restraining order on $6.2B merger of local TV giants Nexstar and Tegna - Times Union",
@@ -198,8 +185,7 @@
       "dealType": "Merger",
       "value": "$6.20B",
       "date": "Apr 10, 2026",
-      "dateISO": "2026-04-10T16:19:24",
-      "region": "US"
+      "dateISO": "2026-04-10T16:19:24"
     },
     {
       "title": "CRH\u2019s IIJA Runway and $2.1 Billion Eco Acquisition: Why the Stock Still Looks Cheap in 2026 - TIKR.com",
@@ -212,8 +198,7 @@
       "dealType": "Acquisition",
       "value": "$2.10B",
       "date": "Apr 10, 2026",
-      "dateISO": "2026-04-10T12:21:50",
-      "region": "US"
+      "dateISO": "2026-04-10T12:21:50"
     },
     {
       "title": "West China Cement closes in on AfriSam acquisition - cemnet.com",
@@ -224,7 +209,6 @@
       "keywords": "Acquired",
       "sector": "Cement",
       "dealType": "Acquisition",
-      "region": "Global",
       "value": "",
       "date": "Apr 10, 2026",
       "dateISO": "2026-04-10T12:20:47"
@@ -240,8 +224,7 @@
       "dealType": "Acquisition",
       "value": "",
       "date": "Apr 10, 2026",
-      "dateISO": "2026-04-10T06:12:42",
-      "region": "US"
+      "dateISO": "2026-04-10T06:12:42"
     },
     {
       "title": "Is CRH\u2019s (CRH) Aggressive Buybacks and Acquisition Pipeline Redefining Its Capital Allocation Playbook? - simplywall.st",
@@ -254,8 +237,7 @@
       "dealType": "Acquisition",
       "value": "",
       "date": "Apr 10, 2026",
-      "dateISO": "2026-04-10T00:51:10",
-      "region": "US"
+      "dateISO": "2026-04-10T00:51:10"
     },
     {
       "title": "After a $226M SPAC merger, Suncrete begins trading as RMIX - Stock Titan",
@@ -268,8 +250,7 @@
       "dealType": "Merger",
       "value": "$226M",
       "date": "Apr 08, 2026",
-      "dateISO": "2026-04-08T20:15:00",
-      "region": "US"
+      "dateISO": "2026-04-08T20:15:00"
     },
     {
       "title": "Can the Next Infrastructure Wave & Acquisitons Drive ASTE's Growth? - TradingView \u2014 Track All Markets",
@@ -282,8 +263,20 @@
       "dealType": "Acquisition",
       "value": "",
       "date": "Apr 08, 2026",
-      "dateISO": "2026-04-08T17:35:00",
-      "region": "US"
+      "dateISO": "2026-04-08T17:35:00"
+    },
+    {
+      "title": "Pricing, acquisitions drive latest producer results - Pit & Quarry",
+      "summary": "Pricing, acquisitions drive latest producer results Pit & Quarry",
+      "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxPc2VOWDROM1lid3ViU0xCRXVBeEN5cG96YnZMV0k5OTZuRWpDeXFsSXhfQmNMMFZkOTM4VzdPX0g0SEZkSkYyS29xT0ZzYTJsN2RDLWVHVjNja2ZHOTZBMTdWX1JGYkZWTGRXOHZBcU11bHcwb3drSW1hUE1BTjcyd2JobmpDMTQ?oc=5",
+      "source": "Pit & Quarry",
+      "category": "Pit & Quarry \u00b7 Aggregates",
+      "keywords": "Acquired",
+      "sector": "Aggregates",
+      "dealType": "Acquisition",
+      "value": "",
+      "date": "Apr 08, 2026",
+      "dateISO": "2026-04-08T09:00:00"
     },
     {
       "title": "SunTx Capital Partners' Portfolio Company, Suncrete, and Haymaker Acquisition Corp. 4, Successfully Complete Business Combination - Bitget",
@@ -296,8 +289,7 @@
       "dealType": "Acquisition",
       "value": "",
       "date": "Apr 08, 2026",
-      "dateISO": "2026-04-08T05:18:40",
-      "region": "US"
+      "dateISO": "2026-04-08T05:18:40"
     },
     {
       "title": "Heidelberg Materials Acquires Edmonton Assets, Expands Market Position - News and Statistics - IndexBox",
@@ -310,8 +302,7 @@
       "dealType": "Acquisition",
       "value": "",
       "date": "Apr 08, 2026",
-      "dateISO": "2026-04-08T00:30:00",
-      "region": "Global"
+      "dateISO": "2026-04-08T00:30:00"
     },
     {
       "title": "Heidelberg Materials North America completes acquisition of BURNCO\u2019s Edmonton assets - World Cement",
@@ -324,8 +315,7 @@
       "dealType": "Acquisition",
       "value": "",
       "date": "Apr 07, 2026",
-      "dateISO": "2026-04-07T08:45:38",
-      "region": "Global"
+      "dateISO": "2026-04-07T08:45:38"
     },
     {
       "title": "Holcim acquires controlling stake in Cementos Pacasmayo (NYSE: CPAC) - Stock Titan",
@@ -338,8 +328,7 @@
       "dealType": "Acquisition",
       "value": "",
       "date": "Apr 06, 2026",
-      "dateISO": "2026-04-06T20:15:38",
-      "region": "US"
+      "dateISO": "2026-04-06T20:15:38"
     },
     {
       "title": "Heidelberg Materials finalizes deal for Burnco assets - Pit & Quarry",
@@ -352,8 +341,7 @@
       "dealType": "Acquisition",
       "value": "",
       "date": "Apr 06, 2026",
-      "dateISO": "2026-04-06T13:10:39",
-      "region": "US"
+      "dateISO": "2026-04-06T13:10:39"
     },
     {
       "title": "Assessing Knife River (KNF) Valuation After New Mountain Segment Acquisitions - simplywall.st",
@@ -366,8 +354,7 @@
       "dealType": "Acquisition",
       "value": "",
       "date": "Apr 06, 2026",
-      "dateISO": "2026-04-06T12:22:05",
-      "region": "US"
+      "dateISO": "2026-04-06T12:22:05"
     },
     {
       "title": "Amrize Expands West Texas Footprint With PB Materials Acquisition - simplywall.st",
@@ -380,8 +367,7 @@
       "dealType": "Acquisition",
       "value": "",
       "date": "Apr 03, 2026",
-      "dateISO": "2026-04-03T07:00:00",
-      "region": "US"
+      "dateISO": "2026-04-03T07:00:00"
     },
     {
       "title": "Are Knife River's (KNF) Mountain Deals Quietly Redefining Its Aggregates-Led Strategy? - simplywall.st",
@@ -394,8 +380,7 @@
       "dealType": "Acquisition",
       "value": "",
       "date": "Apr 03, 2026",
-      "dateISO": "2026-04-03T07:00:00",
-      "region": "US"
+      "dateISO": "2026-04-03T07:00:00"
     },
     {
       "title": "Construction Partners acquires Four Star Paving in Nashville By Investing.com - Investing.com South Africa",
@@ -408,8 +393,7 @@
       "dealType": "Investment",
       "value": "",
       "date": "Apr 02, 2026",
-      "dateISO": "2026-04-02T10:11:38",
-      "region": "US"
+      "dateISO": "2026-04-02T10:11:38"
     },
     {
       "title": "Construction Partners, Inc. Acquires Four Star Paving to Expand Nashville Area Operations and Strengthen Tennessee Platform - Minichart",
@@ -422,8 +406,7 @@
       "dealType": "Acquisition",
       "value": "",
       "date": "Apr 02, 2026",
-      "dateISO": "2026-04-02T07:35:00",
-      "region": "US"
+      "dateISO": "2026-04-02T07:35:00"
     },
     {
       "title": "The AZEK Company Inc Shares Complete Merger with James Hardie: Key Implications for Investors - AD HOC NEWS",
@@ -436,8 +419,7 @@
       "dealType": "Merger",
       "value": "",
       "date": "Apr 02, 2026",
-      "dateISO": "2026-04-02T07:00:00",
-      "region": "US"
+      "dateISO": "2026-04-02T07:00:00"
     },
     {
       "title": "Ambuja Cements Provides Official Clarification on NCLT-Approved Penna Merger - scanx.trade",
@@ -450,8 +432,7 @@
       "dealType": "Merger",
       "value": "",
       "date": "Apr 02, 2026",
-      "dateISO": "2026-04-02T07:00:00",
-      "region": "Global"
+      "dateISO": "2026-04-02T07:00:00"
     },
     {
       "title": "Fauji Cement, KAPCO kick off Attock Cement takeover - Mettis Global",
@@ -464,8 +445,7 @@
       "dealType": "Acquisition",
       "value": "",
       "date": "Apr 02, 2026",
-      "dateISO": "2026-04-02T07:00:00",
-      "region": "US"
+      "dateISO": "2026-04-02T07:00:00"
     },
     {
       "title": "10,545 Shares in Crh Plc $CRH Acquired by Applied Capital LLC FL - MarketBeat",
@@ -478,8 +458,7 @@
       "dealType": "Acquisition",
       "value": "",
       "date": "Apr 02, 2026",
-      "dateISO": "2026-04-02T07:00:00",
-      "region": "US"
+      "dateISO": "2026-04-02T07:00:00"
     },
     {
       "title": "Construction Partners: Tennessee Acquisition Expands Nashville Market Presence - Pulse 2.0",
@@ -492,8 +471,7 @@
       "dealType": "Acquisition",
       "value": "",
       "date": "Apr 02, 2026",
-      "dateISO": "2026-04-02T03:13:05",
-      "region": "US"
+      "dateISO": "2026-04-02T03:13:05"
     },
     {
       "title": "Construction Partners Expands Nashville Footprint With Four Star Acquisition - TipRanks",
@@ -506,8 +484,7 @@
       "dealType": "Acquisition",
       "value": "",
       "date": "Apr 01, 2026",
-      "dateISO": "2026-04-01T21:02:37",
-      "region": "US"
+      "dateISO": "2026-04-01T21:02:37"
     },
     {
       "title": "Heidelberg Materials expands NSW footprint with Coffs acquisition - quarrymagazine.com",
@@ -520,8 +497,7 @@
       "dealType": "Acquisition",
       "value": "",
       "date": "Apr 01, 2026",
-      "dateISO": "2026-04-01T09:17:20",
-      "region": "Global"
+      "dateISO": "2026-04-01T09:17:20"
     },
     {
       "title": "Arcosa (NYSE: ACA) exits barge unit, adds $60M Florida aggregates deal - Stock Titan",
@@ -534,8 +510,7 @@
       "dealType": "Acquisition",
       "value": "$60M",
       "date": "Apr 01, 2026",
-      "dateISO": "2026-04-01T07:00:00",
-      "region": "US"
+      "dateISO": "2026-04-01T07:00:00"
     },
     {
       "title": "Construction Partners, Inc. Completes Tennessee Acquisition - Finansavisen",
@@ -548,8 +523,7 @@
       "dealType": "Acquisition",
       "value": "",
       "date": "Apr 01, 2026",
-      "dateISO": "2026-04-01T07:00:00",
-      "region": "US"
+      "dateISO": "2026-04-01T07:00:00"
     },
     {
       "title": "Construction Partners (NASDAQ: ROAD) expands with Four Star Paving Nashville acquisition - Stock Titan",
@@ -562,8 +536,7 @@
       "dealType": "Acquisition",
       "value": "",
       "date": "Apr 01, 2026",
-      "dateISO": "2026-04-01T07:00:00",
-      "region": "US"
+      "dateISO": "2026-04-01T07:00:00"
     },
     {
       "title": "Multinational building materials firm completes purchase of Burnco\u2019s Edmonton operations - CTV News",
@@ -576,8 +549,7 @@
       "dealType": "Acquisition",
       "value": "",
       "date": "Apr 01, 2026",
-      "dateISO": "2026-04-01T07:00:00",
-      "region": "Global"
+      "dateISO": "2026-04-01T07:00:00"
     },
     {
       "title": "Concrete Pumping Holdings (NASDAQ: BBCP) enters U.K. temporary power with Templant deal - Stock Titan",
@@ -590,8 +562,7 @@
       "dealType": "Acquisition",
       "value": "",
       "date": "Apr 01, 2026",
-      "dateISO": "2026-04-01T07:00:00",
-      "region": "US"
+      "dateISO": "2026-04-01T07:00:00"
     },
     {
       "title": "List of 17 Acquisitions by Breedon Group (Apr 2026) - Tracxn",
@@ -604,8 +575,7 @@
       "dealType": "Acquisition",
       "value": "",
       "date": "Apr 01, 2026",
-      "dateISO": "2026-04-01T07:00:00",
-      "region": "US"
+      "dateISO": "2026-04-01T07:00:00"
     },
     {
       "title": "List of 22 Acquisitions by CRH (Apr 2026) - Tracxn",
@@ -618,8 +588,7 @@
       "dealType": "Acquisition",
       "value": "",
       "date": "Apr 01, 2026",
-      "dateISO": "2026-04-01T04:25:23",
-      "region": "US"
+      "dateISO": "2026-04-01T04:25:23"
     },
     {
       "title": "Holcim Acquires Controlling Interest in Peru's Cementos Pacasmayo | 2026 - News and Statistics - IndexBox",
@@ -632,8 +601,7 @@
       "dealType": "Acquisition",
       "value": "",
       "date": "Apr 01, 2026",
-      "dateISO": "2026-04-01T00:01:00",
-      "region": "Global"
+      "dateISO": "2026-04-01T00:01:00"
     },
     {
       "title": "Granite Secures $495M in Tactical Infrastructure Work",
@@ -645,8 +613,7 @@
       "dealType": "Acquisition",
       "value": "$495M",
       "date": "Apr 01, 2026",
-      "dateISO": "2026-04-01T00:00:00",
-      "region": "US"
+      "dateISO": "2026-04-01T00:00:00"
     },
     {
       "title": "NAPA Recognizes Excellence Across Granite Operations",
@@ -658,8 +625,7 @@
       "dealType": "Acquisition",
       "value": "$114M",
       "date": "Apr 01, 2026",
-      "dateISO": "2026-04-01T00:00:00",
-      "region": "US"
+      "dateISO": "2026-04-01T00:00:00"
     },
     {
       "title": "Granite Earns Handshake Early Talent Award for Sixth Consecutive Year",
@@ -671,8 +637,7 @@
       "dealType": "Acquisition",
       "value": "$114M",
       "date": "Apr 01, 2026",
-      "dateISO": "2026-04-01T00:00:00",
-      "region": "US"
+      "dateISO": "2026-04-01T00:00:00"
     },
     {
       "title": "Talent Development Drives Results: Granite Wins 2026 BEST Award",
@@ -684,8 +649,7 @@
       "dealType": "Acquisition",
       "value": "$114M",
       "date": "Apr 01, 2026",
-      "dateISO": "2026-04-01T00:00:00",
-      "region": "US"
+      "dateISO": "2026-04-01T00:00:00"
     },
     {
       "title": "Granite Declares Quarterly Dividend",
@@ -697,8 +661,7 @@
       "dealType": "Acquisition",
       "value": "$114M",
       "date": "Apr 01, 2026",
-      "dateISO": "2026-04-01T00:00:00",
-      "region": "US"
+      "dateISO": "2026-04-01T00:00:00"
     },
     {
       "title": "Granite Reports Fourth Quarter and Fiscal Year 2025 Results",
@@ -710,8 +673,7 @@
       "dealType": "Acquisition",
       "value": "$114M",
       "date": "Apr 01, 2026",
-      "dateISO": "2026-04-01T00:00:00",
-      "region": "US"
+      "dateISO": "2026-04-01T00:00:00"
     },
     {
       "title": "Work Under Way On First Phase of Mosaic Quarter",
@@ -723,8 +685,7 @@
       "dealType": "Acquisition",
       "value": "$114M",
       "date": "Apr 01, 2026",
-      "dateISO": "2026-04-01T00:00:00",
-      "region": "US"
+      "dateISO": "2026-04-01T00:00:00"
     },
     {
       "title": "Granite's Asphalt Paving AI Platform Wins AGC Innovation of the Year",
@@ -736,8 +697,7 @@
       "dealType": "Acquisition",
       "value": "$114M",
       "date": "Apr 01, 2026",
-      "dateISO": "2026-04-01T00:00:00",
-      "region": "US"
+      "dateISO": "2026-04-01T00:00:00"
     },
     {
       "title": "Granite JV plays it safe at Sacramento\u2019s American River Bridge rehab",
@@ -749,8 +709,7 @@
       "dealType": "Acquisition",
       "value": "$114M",
       "date": "Apr 01, 2026",
-      "dateISO": "2026-04-01T00:00:00",
-      "region": "US"
+      "dateISO": "2026-04-01T00:00:00"
     },
     {
       "title": "Progress Continues On $250M Columbus LOT Project",
@@ -762,8 +721,7 @@
       "dealType": "Acquisition",
       "value": "$250M",
       "date": "Apr 01, 2026",
-      "dateISO": "2026-04-01T00:00:00",
-      "region": "US"
+      "dateISO": "2026-04-01T00:00:00"
     },
     {
       "title": "Holcim completes acquisition of majority stake in Cementos Pacasmayo - World Cement",
@@ -776,8 +734,7 @@
       "dealType": "Acquisition",
       "value": "",
       "date": "Mar 31, 2026",
-      "dateISO": "2026-03-31T13:29:45",
-      "region": "US"
+      "dateISO": "2026-03-31T13:29:45"
     },
     {
       "title": "Holcim completes majority stake acquisition in Cementos Pacasmayo By Investing.com - Investing.com South Africa",
@@ -790,8 +747,7 @@
       "dealType": "Investment",
       "value": "",
       "date": "Mar 31, 2026",
-      "dateISO": "2026-03-31T07:00:00",
-      "region": "US"
+      "dateISO": "2026-03-31T07:00:00"
     },
     {
       "title": "Construction Partners, Inc. acquired Four Star Paving, LLC. - marketscreener.com",
@@ -804,8 +760,7 @@
       "dealType": "Acquisition",
       "value": "",
       "date": "Mar 31, 2026",
-      "dateISO": "2026-03-31T07:00:00",
-      "region": "US"
+      "dateISO": "2026-03-31T07:00:00"
     },
     {
       "title": "Holcim successfully completes the indirect acquisition of majority stake in Cementos Pacasmayo S.A.A. - marketscreener.com",
@@ -818,8 +773,7 @@
       "dealType": "Acquisition",
       "value": "",
       "date": "Mar 31, 2026",
-      "dateISO": "2026-03-31T07:00:00",
-      "region": "US"
+      "dateISO": "2026-03-31T07:00:00"
     },
     {
       "title": "Ambuja Cements Finalizes Penna Cement Merger After NCLT Approval - Whalesbook",
@@ -832,8 +786,7 @@
       "dealType": "Merger",
       "value": "",
       "date": "Mar 30, 2026",
-      "dateISO": "2026-03-30T17:00:26",
-      "region": "Global"
+      "dateISO": "2026-03-30T17:00:26"
     },
     {
       "title": "Andhra Cements Board Greenlights Merger with Holding Firm Sagar Cements - Whalesbook",
@@ -846,8 +799,7 @@
       "dealType": "Merger",
       "value": "",
       "date": "Mar 30, 2026",
-      "dateISO": "2026-03-30T11:42:38",
-      "region": "US"
+      "dateISO": "2026-03-30T11:42:38"
     },
     {
       "title": "Ambuja Cements-Penna Cement Merger Gets Green Light from NCLT Ahmedabad - NDTV Profit",
@@ -860,8 +812,7 @@
       "dealType": "Merger",
       "value": "",
       "date": "Mar 30, 2026",
-      "dateISO": "2026-03-30T07:00:00",
-      "region": "Global"
+      "dateISO": "2026-03-30T07:00:00"
     },
     {
       "title": "Andhra Cements Board Approves Merger with Holding Company Sagar Cements - scanx.trade",
@@ -874,8 +825,7 @@
       "dealType": "Merger",
       "value": "",
       "date": "Mar 30, 2026",
-      "dateISO": "2026-03-30T07:00:00",
-      "region": "US"
+      "dateISO": "2026-03-30T07:00:00"
     },
     {
       "title": "Olcim AG completed the acquisition of 99.99% stake in Inversiones ASPI S.A. from Hochschild Group. - marketscreener.com",
@@ -888,8 +838,7 @@
       "dealType": "Acquisition",
       "value": "",
       "date": "Mar 29, 2026",
-      "dateISO": "2026-03-29T07:00:00",
-      "region": "US"
+      "dateISO": "2026-03-29T07:00:00"
     },
     {
       "title": "CRH Advances $300 Million Share Buyback With Latest U.S. Repurchases - The Globe and Mail",
@@ -902,8 +851,7 @@
       "dealType": "Acquisition",
       "value": "$300M",
       "date": "Mar 28, 2026",
-      "dateISO": "2026-03-28T07:00:00",
-      "region": "US"
+      "dateISO": "2026-03-28T07:00:00"
     },
     {
       "title": "Mignonette Creations Private Limited Acquires Additional Shares in Mangalam Cement Ltd - scanx.trade",
@@ -916,8 +864,7 @@
       "dealType": "Acquisition",
       "value": "",
       "date": "Mar 27, 2026",
-      "dateISO": "2026-03-27T07:00:00",
-      "region": "US"
+      "dateISO": "2026-03-27T07:00:00"
     },
     {
       "title": "AVA Trading Acquires 5 Lakh Shares in Mangalam Cement Through Inter-se Transfer - scanx.trade",
@@ -930,8 +877,7 @@
       "dealType": "Acquisition",
       "value": "",
       "date": "Mar 27, 2026",
-      "dateISO": "2026-03-27T07:00:00",
-      "region": "Global"
+      "dateISO": "2026-03-27T07:00:00"
     },
     {
       "title": "Knife River acquires ready-mix and aggregates supplier in Montana - Construction & Demolition Recycling",
@@ -944,8 +890,7 @@
       "dealType": "Acquisition",
       "value": "",
       "date": "Mar 26, 2026",
-      "dateISO": "2026-03-26T07:00:00",
-      "region": "US"
+      "dateISO": "2026-03-26T07:00:00"
     },
     {
       "title": "Suncrete and Haymaker Acquisition Corp. 4 Announce Entering Into Non-Redemption Agreements with Certain Institutional Investors - PR Newswire",
@@ -958,8 +903,7 @@
       "dealType": "Acquisition",
       "value": "",
       "date": "Mar 25, 2026",
-      "dateISO": "2026-03-25T07:00:00",
-      "region": "US"
+      "dateISO": "2026-03-25T07:00:00"
     },
     {
       "title": "Cementos Pacasmayo (CPAC) controlling shareholder plans to repay Holcim acquisition advisory costs - Stock Titan",
@@ -972,8 +916,7 @@
       "dealType": "Acquisition",
       "value": "",
       "date": "Mar 25, 2026",
-      "dateISO": "2026-03-25T07:00:00",
-      "region": "US"
+      "dateISO": "2026-03-25T07:00:00"
     },
     {
       "title": "CRH Advances $300m Buyback With New U.S. Share Repurchases - The Globe and Mail",
@@ -986,8 +929,7 @@
       "dealType": "Acquisition",
       "value": "$300M",
       "date": "Mar 24, 2026",
-      "dateISO": "2026-03-24T07:00:00",
-      "region": "US"
+      "dateISO": "2026-03-24T07:00:00"
     },
     {
       "title": "Cementos Pacasmayo Gains Unconditional Antitrust Clearance for Holcim Control Deal - The Globe and Mail",
@@ -1000,8 +942,7 @@
       "dealType": "Acquisition",
       "value": "",
       "date": "Mar 24, 2026",
-      "dateISO": "2026-03-24T07:00:00",
-      "region": "US"
+      "dateISO": "2026-03-24T07:00:00"
     },
     {
       "title": "Knife River Acquires Aggregates and Ready-Mix Business in Montana - Business Wire",
@@ -1014,8 +955,7 @@
       "dealType": "Acquisition",
       "value": "",
       "date": "Mar 23, 2026",
-      "dateISO": "2026-03-23T07:00:00",
-      "region": "US"
+      "dateISO": "2026-03-23T07:00:00"
     },
     {
       "title": "Three Singhania Family Trusts Acquire Equity Shares in JK Cement Limited - scanx.trade",
@@ -1028,8 +968,7 @@
       "dealType": "Acquisition",
       "value": "",
       "date": "Mar 23, 2026",
-      "dateISO": "2026-03-23T07:00:00",
-      "region": "US"
+      "dateISO": "2026-03-23T07:00:00"
     },
     {
       "title": "Knife River acquires Montana ready-mix supplier Donaldson Brothers - Investing.com",
@@ -1042,8 +981,7 @@
       "dealType": "Investment",
       "value": "",
       "date": "Mar 23, 2026",
-      "dateISO": "2026-03-23T07:00:00",
-      "region": "US"
+      "dateISO": "2026-03-23T07:00:00"
     },
     {
       "title": "Cheetah Cement faces closure and 87 retrenchments after NaCC blocks Ohorongo merger attempt - The Namibian -",
@@ -1056,8 +994,7 @@
       "dealType": "Merger",
       "value": "",
       "date": "Mar 22, 2026",
-      "dateISO": "2026-03-22T07:00:00",
-      "region": "US"
+      "dateISO": "2026-03-22T07:00:00"
     },
     {
       "title": "Adani group begins talks to refinance $3.5 billion Ambuja, ACC acquisition loans - Moneycontrol.com",
@@ -1070,8 +1007,7 @@
       "dealType": "Acquisition",
       "value": "$3.50B",
       "date": "Mar 20, 2026",
-      "dateISO": "2026-03-20T07:00:00",
-      "region": "US"
+      "dateISO": "2026-03-20T07:00:00"
     },
     {
       "title": "CRH Advances $300m Buyback With Latest U.S. Share Repurchase - The Globe and Mail",
@@ -1084,8 +1020,7 @@
       "dealType": "Acquisition",
       "value": "$300M",
       "date": "Mar 20, 2026",
-      "dateISO": "2026-03-20T07:00:00",
-      "region": "US"
+      "dateISO": "2026-03-20T07:00:00"
     },
     {
       "title": "Titan America Keystone Deal And 2025 Records Reframe Valuation Story - simplywall.st",
@@ -1098,8 +1033,7 @@
       "dealType": "Acquisition",
       "value": "",
       "date": "Mar 20, 2026",
-      "dateISO": "2026-03-20T07:00:00",
-      "region": "US"
+      "dateISO": "2026-03-20T07:00:00"
     },
     {
       "title": "Alexander & Baldwin becomes private in $2.3B deal - Aloha State Daily",
@@ -1110,7 +1044,6 @@
       "keywords": "",
       "sector": "General",
       "dealType": "Acquisition",
-      "region": "US",
       "value": "$2.30B",
       "date": "Mar 20, 2026",
       "dateISO": "2026-03-20T07:00:00"
@@ -1126,8 +1059,7 @@
       "dealType": "Merger",
       "value": "",
       "date": "Mar 19, 2026",
-      "dateISO": "2026-03-19T07:00:00",
-      "region": "US"
+      "dateISO": "2026-03-19T07:00:00"
     },
     {
       "title": "Cementos Pacasmayo Defends Holcim Deal Expenses in Response to SMV Scrutiny - TipRanks",
@@ -1138,7 +1070,6 @@
       "keywords": "",
       "sector": "Cement",
       "dealType": "Acquisition",
-      "region": "US",
       "value": "",
       "date": "Mar 19, 2026",
       "dateISO": "2026-03-19T07:00:00"
@@ -1154,8 +1085,7 @@
       "dealType": "Acquisition",
       "value": "",
       "date": "Mar 18, 2026",
-      "dateISO": "2026-03-18T07:00:00",
-      "region": "US"
+      "dateISO": "2026-03-18T07:00:00"
     },
     {
       "title": "UltraTech Cement Acquires 26.18% Stake in Solar Power Company for \u20b919.20 Crores - scanx.trade",
@@ -1168,8 +1098,7 @@
       "dealType": "Acquisition",
       "value": "",
       "date": "Mar 18, 2026",
-      "dateISO": "2026-03-18T07:00:00",
-      "region": "Global"
+      "dateISO": "2026-03-18T07:00:00"
     },
     {
       "title": "Adani Enterprises gets NCLT nod for JAL takeover - The Economic Times",
@@ -1182,8 +1111,7 @@
       "dealType": "Acquisition",
       "value": "",
       "date": "Mar 18, 2026",
-      "dateISO": "2026-03-18T07:00:00",
-      "region": "Global"
+      "dateISO": "2026-03-18T07:00:00"
     },
     {
       "title": "Adani secures $1.7-bn takeover of bankrupt Jaypee Group in major infra win | Business News - Hindustan Times",
@@ -1196,8 +1124,7 @@
       "dealType": "Acquisition",
       "value": "",
       "date": "Mar 18, 2026",
-      "dateISO": "2026-03-18T07:00:00",
-      "region": "US"
+      "dateISO": "2026-03-18T07:00:00"
     },
     {
       "title": "155,955 Shares in Cemex S.A.B. de C.V. $CX Acquired by Dorsey Wright & Associates - MarketBeat",
@@ -1210,8 +1137,7 @@
       "dealType": "Acquisition",
       "value": "",
       "date": "Mar 18, 2026",
-      "dateISO": "2026-03-18T07:00:00",
-      "region": "US"
+      "dateISO": "2026-03-18T07:00:00"
     },
     {
       "title": "Adani Enterprises shares rise 2%, Jaiprakash Power up 8% as NCLT approves Adani Group's bid to acquire... - Moneycontrol.com",
@@ -1224,8 +1150,7 @@
       "dealType": "Acquisition",
       "value": "",
       "date": "Mar 18, 2026",
-      "dateISO": "2026-03-18T07:00:00",
-      "region": "Global"
+      "dateISO": "2026-03-18T07:00:00"
     },
     {
       "title": "NCLT approves Adani Group \u20b914,535 crore bid to acquire bankrupt Jaiprakash Associates - ET Realty",
@@ -1238,8 +1163,7 @@
       "dealType": "Acquisition",
       "value": "",
       "date": "Mar 18, 2026",
-      "dateISO": "2026-03-18T07:00:00",
-      "region": "Global"
+      "dateISO": "2026-03-18T07:00:00"
     },
     {
       "title": "UltraTech Cement Acquires 26.18% Equity in Sunsure Solarpark Seven for Green Energy Compliance - InvestyWise",
@@ -1250,7 +1174,6 @@
       "keywords": "Acquired, Investment",
       "sector": "Cement",
       "dealType": "Acquisition",
-      "region": "US",
       "value": "",
       "date": "Mar 18, 2026",
       "dateISO": "2026-03-18T07:00:00"
@@ -1264,7 +1187,6 @@
       "keywords": "Purchase",
       "sector": "General",
       "dealType": "Acquisition",
-      "region": "US",
       "value": "",
       "date": "Mar 18, 2026",
       "dateISO": "2026-03-18T07:00:00"
