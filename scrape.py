@@ -18,6 +18,18 @@ GOOGLE_NEWS_QUERIES = [
     {"name": "Paving Industry",      "query": '"paving" (acquisition OR merger OR acquired) concrete OR asphalt'},
     {"name": "Precast Industry",     "query": '"precast concrete" (acquisition OR merger OR acquired)'},
 
+    # Rock Products trade publication — targeted by sector
+    {"name": "Rock Products · Aggregates", "query": '"Rock Products" aggregate acquisition'},
+    {"name": "Rock Products · Ready-Mix",  "query": '"Rock Products" "ready mix" acquisition'},
+    {"name": "Rock Products · Asphalt",    "query": '"Rock Products" asphalt acquisition'},
+    {"name": "Rock Products · Cement",     "query": '"Rock Products" cement acquisition'},
+
+    # Pit & Quarry trade publication — targeted by sector
+    {"name": "Pit & Quarry · Aggregates",  "query": '"Pit & Quarry" aggregate acquisition'},
+    {"name": "Pit & Quarry · Ready-Mix",   "query": '"Pit & Quarry" "ready mix" acquisition'},
+    {"name": "Pit & Quarry · Asphalt",     "query": '"Pit & Quarry" asphalt acquisition'},
+    {"name": "Pit & Quarry · Cement",      "query": '"Pit & Quarry" cement acquisition'},
+
     # Specific public companies — catches their M&A press releases across outlets
     {"name": "Martin Marietta",      "query": '"Martin Marietta" (acquisition OR acquired OR merger OR divest)'},
     {"name": "Vulcan Materials",     "query": '"Vulcan Materials" (acquisition OR acquired OR merger OR divest)'},
@@ -53,99 +65,6 @@ TYPE_MAP = [
     {"type": "Acquisition", "keys": ["acqui", "takeover", "buyout", "purchase", "to acquire", "has acquired", "definitive agreement"]},
 ]
 
-# ── REGION DETECTION ──────────────────────────────────────────────────────────
-# Classifies an article by WHERE THE DEAL HAPPENS, not where the acquirer is
-# headquartered. A Heidelberg acquisition in Texas is "US"; a Vulcan acquisition
-# in Mexico is "Global". Company identity is ignored — only target geography.
-#
-# Default: ambiguous articles go to US. Only articles with clear non-US signals
-# (and no US signals to counterbalance) are tagged Global.
-
-US_STATES = [
-    "alabama","alaska","arizona","arkansas","california","colorado","connecticut","delaware",
-    "florida","georgia","hawaii","idaho","illinois","indiana","iowa","kansas","kentucky",
-    "louisiana","maine","maryland","massachusetts","michigan","minnesota","mississippi",
-    "missouri","montana","nebraska","nevada","new hampshire","new jersey","new mexico",
-    "new york","north carolina","north dakota","ohio","oklahoma","oregon","pennsylvania",
-    "rhode island","south carolina","south dakota","tennessee","texas","utah","vermont",
-    "virginia","washington","west virginia","wisconsin","wyoming",
-]
-# Regional phrases that clearly mean "inside the US"
-US_REGIONAL_PHRASES = [
-    "u.s.","united states","us-based","us based","american","stateside",
-    "west texas","east texas","south texas","north texas","central texas",
-    "northeast","northwest","southeast","southwest","midwest","mid-atlantic",
-    "new england","gulf coast","west coast","east coast","pacific northwest",
-    "appalachia","rocky mountain","great lakes","great plains",
-]
-# Major US cities — used as deal-location signal
-US_CITIES = [
-    "new york city","los angeles","chicago","houston","phoenix","philadelphia","san antonio",
-    "san diego","dallas","austin","nashville","denver","seattle","boston","atlanta","miami",
-    "minneapolis","cincinnati","indianapolis","charlotte","pittsburgh","cleveland",
-    "kansas city","st. louis","detroit","las vegas","baltimore","milwaukee","albuquerque",
-    "tucson","fresno","sacramento","omaha","raleigh","tampa","orlando","jacksonville",
-    "oklahoma city","memphis","louisville","richmond","birmingham","salt lake city",
-    "fort worth","el paso","long beach","mesa","virginia beach","colorado springs",
-    "tulsa","wichita","arlington","bakersfield","aurora","anaheim","santa ana",
-    "corpus christi","riverside","lexington","stockton","henderson","saint paul",
-    "greensboro","plano","newark","toledo","lincoln","chandler",
-    "fort wayne","jersey city","st. petersburg","chula vista","laredo","madison",
-    "lubbock","winston-salem","garland","glendale","hialeah","reno","chesapeake",
-    "gilbert","irving","scottsdale","north las vegas","fremont","baton rouge",
-    "boise","san bernardino","spokane","des moines","modesto",
-    "fayetteville","tacoma","oxnard","fontana","columbus","montgomery","shreveport",
-    "yonkers","akron","huntington beach","little rock","augusta","amarillo",
-    "mobile","grand rapids","salt lake","tallahassee","huntsville","grand prairie",
-    "knoxville","worcester","newport news","brownsville","santa clarita","overland park",
-    "providence","garden grove","chattanooga","oceanside","jackson","fort lauderdale",
-    "rancho cucamonga","santa rosa","port st. lucie","tempe",
-    "springfield","pembroke pines","salem","cape coral","peoria","sioux falls",
-    "eugene","rockford","palm bay","savannah","bridgeport","torrance","joliet",
-    "paterson","naperville","alexandria","pasadena","hollywood","lancaster","hayward",
-    "salinas","hampton","macon","pomona",
-]
-# Countries and non-US regions
-NON_US_COUNTRIES = [
-    "india","indian","pakistan","pakistani","bangladesh","sri lanka","nepal",
-    "china","chinese","japan","japanese","korea","korean","vietnam","thailand",
-    "malaysia","indonesia","philippines","singapore",
-    "australia","australian","new zealand",
-    "canada","canadian","mexico","mexican",
-    "brazil","brazilian","argentina","chile","peru","peruvian","colombia","venezuela",
-    "united kingdom","britain","british","england","scotland","wales","ireland","irish",
-    "france","french","germany","german","spain","spanish","italy","italian","portugal",
-    "netherlands","dutch","belgium","belgian","switzerland","swiss","austria","poland",
-    "czech","slovakia","hungary","romania","bulgaria","greece","turkey","turkish",
-    "russia","russian","ukraine","ukrainian","saudi","uae","emirates","qatar","kuwait",
-    "egypt","nigeria","nigerian","kenya","south africa","ghana","morocco","algeria",
-    "africa","african","europe","european","asia","asian","middle east","latin america",
-    "south america","central america","north america",
-]
-# Foreign cities + international currency/market/regulator signals
-NON_US_CITIES_AND_MARKETS = [
-    # Major foreign cities
-    "london","paris","berlin","madrid","rome","milan","amsterdam","brussels","vienna",
-    "warsaw","prague","athens","istanbul","moscow","dubai","mumbai","delhi","bangalore",
-    "kolkata","chennai","hyderabad","karachi","lahore","beijing","shanghai","hong kong",
-    "tokyo","seoul","sydney","melbourne","toronto","montreal","edmonton","calgary",
-    "vancouver","ottawa","winnipeg","halifax",
-    "são paulo","sao paulo","buenos aires","mexico city","bogotá","bogota","lima",
-    "santiago","caracas","quito","guadalajara","monterrey","tijuana",
-    "lagos","cairo","nairobi","johannesburg","cape town","casablanca",
-    "auckland","wellington","perth","brisbane","adelaide","christchurch",
-    "coffs harbour","coffs",
-    # Currencies / financial units
-    "₹","crore","lakh","rupee","rupees","inr","euro","eur","gbp","pound sterling",
-    "yen","yuan","renminbi","rmb","peso","ringgit","rand","naira",
-    # Foreign exchanges / regulators
-    "nse:","bse:","lse:","asx:","tsx:","jse:","nclt","sebi","fca",
-    # Non-US regional/administrative phrases
-    "nsw","new south wales","queensland","victoria","ontario","quebec","alberta",
-    "british columbia","maharashtra","gujarat","tamil nadu","karnataka","punjab",
-    "latin american","european union","eu-based","eurozone","eea",
-]
-
 HEADERS = {
     "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Safari/537.36",
     "Accept": "application/xml,text/xml,application/rss+xml,text/html,*/*",
@@ -172,89 +91,6 @@ def detect_type(text):
         if any(k in t for k in m["keys"]):
             return m["type"]
     return "Acquisition"
-
-def _strip_source_suffix(text):
-    """Remove Google News " - Publisher" suffix so publisher names don't
-    pollute region detection. Example:
-      "Construction Partners acquires Four Star Paving in Nashville By Investing.com - Investing.com South Africa"
-    becomes:
-      "Construction Partners acquires Four Star Paving in Nashville By Investing.com"
-
-    Also strips "By Publisher" mid-sentence markers that Google News adds when
-    republishing (e.g. "... in Nashville By Investing.com").
-    """
-    if not text:
-        return ""
-    # Strip trailing " - Publisher Name" (last occurrence, publisher name capped)
-    if " - " in text:
-        head, _, tail = text.rpartition(" - ")
-        if head and len(tail) < 80:
-            text = head
-    # Strip " By Publisher" patterns Google News inserts
-    # e.g. "headline text By Investing.com" → "headline text"
-    text = re.sub(r'\s+By\s+[A-Z][A-Za-z0-9\.\s]{0,40}$', '', text)
-    return text
-
-def detect_region(article_or_text):
-    """Classify article as 'US' or 'Global' based on WHERE THE DEAL HAPPENS.
-
-    Company HQ is ignored — the question is purely "is the target / asset /
-    operation being acquired located in the United States?"
-
-    Default rule: ambiguous articles go to US. Only articles with clear non-US
-    location signals AND no counterbalancing US signals are tagged Global.
-    """
-    # Accept either a full article dict (so we can clean title separately)
-    # or a raw text blob (back-compat).
-    if isinstance(article_or_text, dict):
-        title = _strip_source_suffix(article_or_text.get("title", "") or "")
-        summary = _strip_source_suffix(article_or_text.get("summary", "") or "")
-        text = title + " " + summary
-    else:
-        text = _strip_source_suffix(article_or_text or "")
-
-    t = " " + lc(text) + " "
-
-    us_score = 0
-    non_us_score = 0
-
-    # US deal-location signals
-    for s in US_STATES:
-        if re.search(r'\b' + re.escape(s) + r'\b', t):
-            us_score += 3
-    for c in US_CITIES:
-        if re.search(r'\b' + re.escape(c) + r'\b', t):
-            us_score += 3
-    for p in US_REGIONAL_PHRASES:
-        # Dotted phrases like "u.s." can't rely on \b (dot is non-word char)
-        if "." in p:
-            if (" " + p + " ") in t or (" " + p + ".") in t or (" " + p + ",") in t:
-                us_score += 2
-        else:
-            if re.search(r'\b' + re.escape(p) + r'\b', t):
-                us_score += 2
-
-    # Non-US deal-location signals
-    for c in NON_US_COUNTRIES:
-        if re.search(r'\b' + re.escape(c) + r'\b', t):
-            non_us_score += 3
-    for c in NON_US_CITIES_AND_MARKETS:
-        if "." in c or ":" in c or "₹" in c:
-            if c in t:
-                non_us_score += 3
-        else:
-            if re.search(r'\b' + re.escape(c) + r'\b', t):
-                non_us_score += 3
-
-    # Decision: Global ONLY when non-US signals clearly dominate AND no US
-    # signal is present. Any US signal, or a tie, or no signal at all, → US.
-    if non_us_score > 0 and us_score == 0:
-        return "Global"
-    if non_us_score > us_score and us_score < 3:
-        # Non-US has a real lead and US only has weak signals (e.g. a single
-        # "american" mention without city/state). Still Global.
-        return "Global"
-    return "US"
 
 def matched_keywords(text):
     t = lc(text)
@@ -479,7 +315,7 @@ def fetch_google_news(query_obj):
             if len(desc_clean) > 400:
                 desc_clean = desc_clean[:397] + "..."
 
-            article_record = {
+            results.append({
                 "title":    title,
                 "summary":  desc_clean,
                 "url":      link,
@@ -491,12 +327,7 @@ def fetch_google_news(query_obj):
                 "value":    extract_value(combined),
                 "date":     pub_date.strftime("%b %d, %Y"),
                 "dateISO":  pub_date.isoformat(),
-            }
-            # Region detection runs on the cleaned title+summary (not raw combined
-            # string with publisher suffix) — pass the record so it can strip the
-            # Google News " - Publisher" tail before scoring.
-            article_record["region"] = detect_region(article_record)
-            results.append(article_record)
+            })
 
         print(f"  {query_obj['name']}: {len(results)} M&A articles")
     except Exception as e:
@@ -543,10 +374,9 @@ def main():
             print(f"  ERROR on {query['name']}: {e}")
         time.sleep(0.3)
 
-    # Always re-tag region for every article using the cleaned detection so
-    # updates to rules take effect on historical articles too.
+    # Strip any leftover region tags from earlier versions so the JSON stays clean
     for a in all_articles:
-        a["region"] = detect_region(a)
+        a.pop("region", None)
 
     # Deduplicate across sources — keep best article per deal
     before = len(all_articles)
@@ -561,10 +391,6 @@ def main():
 
     all_articles.sort(key=sort_key, reverse=True)
     all_articles = all_articles[:1000]
-
-    us_count = sum(1 for a in all_articles if a.get("region") == "US")
-    gl_count = len(all_articles) - us_count
-    print(f"Region split: {us_count} US · {gl_count} Global")
 
     os.makedirs("docs", exist_ok=True)
     with open(output_path, "w") as f:
