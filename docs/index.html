@@ -264,6 +264,51 @@ body{
   max-width:680px;
 }
 
+/* ── REGION TOGGLE (United States / Global) ── */
+.region-toggle{
+  display:inline-flex;
+  gap:0;
+  margin-top:6px;
+  border:1px solid var(--rule);
+  background:var(--paper2);
+}
+.region-btn{
+  background:transparent;
+  border:none;
+  padding:9px 22px;
+  font-family:'JetBrains Mono',monospace;
+  font-size:10.5px;
+  font-weight:500;
+  letter-spacing:.22em;
+  text-transform:uppercase;
+  color:var(--mute);
+  cursor:pointer;
+  transition:all .18s;
+  display:inline-flex;
+  align-items:center;
+  gap:10px;
+  position:relative;
+}
+.region-btn + .region-btn{border-left:1px solid var(--rule-soft)}
+.region-btn:hover{color:var(--forest);background:var(--paper)}
+.region-btn.on{
+  background:var(--forest);
+  color:var(--paper);
+  font-weight:600;
+}
+.region-btn.on .region-count{color:var(--gold-lt);border-color:var(--gold-dk)}
+.region-count{
+  font-family:'JetBrains Mono',monospace;
+  font-size:9.5px;
+  letter-spacing:.08em;
+  color:var(--mute2);
+  padding:1px 7px;
+  border:1px solid var(--rule-soft);
+  background:rgba(0,0,0,.02);
+  min-width:22px;
+  text-align:center;
+}
+
 .search-bar{
   display:flex;
   gap:0;
@@ -682,7 +727,14 @@ body{
     <div class="section-hdr" id="section-hdr">
       <div class="section-kicker" id="section-kicker">M&amp;A Activity · Construction Materials</div>
       <h2 class="section-headline" id="section-headline">The Deal Room</h2>
-      <div class="section-deck" id="section-deck">Mergers, acquisitions, investments and divestitures across aggregates, cement, asphalt, ready-mix, paving and precast concrete.</div>
+      <div class="region-toggle" id="region-toggle" role="tablist" aria-label="Geographic scope">
+        <button class="region-btn on" data-region="US" onclick="switchRegion('US',this)" role="tab" aria-selected="true">
+          United States <span class="region-count" id="rc-us">0</span>
+        </button>
+        <button class="region-btn" data-region="Global" onclick="switchRegion('Global',this)" role="tab" aria-selected="false">
+          Global <span class="region-count" id="rc-gl">0</span>
+        </button>
+      </div>
     </div>
 
     <div class="search-bar">
@@ -750,7 +802,7 @@ const GITHUB_USER = "DylanWhitehead33";
 const GITHUB_REPO = "ma-monitor";
 const DATA_URL = `https://${GITHUB_USER}.github.io/${GITHUB_REPO}/articles.json`;
 
-let articles = [], tf = 'all', sf = 'all', searchQuery = '', activeSection = 'ma', activeIndustry = 'construction';
+let articles = [], tf = 'all', sf = 'all', rf = 'US', searchQuery = '', activeSection = 'ma', activeIndustry = 'construction';
 
 document.getElementById('current-date').textContent = new Date().toLocaleDateString('en-US', {weekday:'long', year:'numeric', month:'long', day:'numeric'});
 
@@ -780,6 +832,18 @@ function switchIndustry(ind){
   render();
 }
 
+function switchRegion(region, btn){
+  rf = region;
+  document.querySelectorAll('.region-btn').forEach(b=>{
+    b.classList.remove('on');
+    b.setAttribute('aria-selected','false');
+  });
+  btn.classList.add('on');
+  btn.setAttribute('aria-selected','true');
+  updateStats();
+  render();
+}
+
 function filt(val,btn,group){
   if(group==='t'){tf=val;document.getElementById('tf').querySelectorAll('.fb').forEach(b=>b.classList.remove('on'));}
   else{sf=val;document.getElementById('sf').querySelectorAll('.fb').forEach(b=>b.classList.remove('on'));}
@@ -793,13 +857,21 @@ function applySearch(){
 }
 
 function updateStats(){
-  const n=articles.length;
+  // Region badge counts reflect the whole dataset
+  const usCount = articles.filter(a=>a.region==='US').length;
+  const glCount = articles.filter(a=>a.region!=='US').length;
+  const rcUs = document.getElementById('rc-us'); if(rcUs) rcUs.textContent = usCount;
+  const rcGl = document.getElementById('rc-gl'); if(rcGl) rcGl.textContent = glCount;
+
+  // Sidebar stats reflect the CURRENT region — that's the working set
+  const inRegion = articles.filter(a => (rf==='US' ? a.region==='US' : a.region!=='US'));
+  const n=inRegion.length;
   document.getElementById('s-tot').textContent=n;
   document.getElementById('fc-all').textContent=n;
-  document.getElementById('fc-acq').textContent=articles.filter(a=>a.dealType==='Acquisition').length;
-  document.getElementById('fc-mer').textContent=articles.filter(a=>a.dealType==='Merger').length;
-  document.getElementById('fc-inv').textContent=articles.filter(a=>a.dealType==='Investment').length;
-  document.getElementById('fc-div').textContent=articles.filter(a=>a.dealType==='Divestiture').length;
+  document.getElementById('fc-acq').textContent=inRegion.filter(a=>a.dealType==='Acquisition').length;
+  document.getElementById('fc-mer').textContent=inRegion.filter(a=>a.dealType==='Merger').length;
+  document.getElementById('fc-inv').textContent=inRegion.filter(a=>a.dealType==='Investment').length;
+  document.getElementById('fc-div').textContent=inRegion.filter(a=>a.dealType==='Divestiture').length;
 }
 
 function render(){
@@ -818,6 +890,8 @@ function render(){
   }
 
   let list=articles;
+  // Region filter (US vs Global) — applied first so counts/empty-states reflect it
+  list = list.filter(a => rf === 'US' ? a.region === 'US' : a.region !== 'US');
   if(tf!=='all')list=list.filter(a=>a.dealType===tf);
   if(sf!=='all')list=list.filter(a=>a.sector&&a.sector.toLowerCase().includes(sf.toLowerCase()));
   if(searchQuery){
