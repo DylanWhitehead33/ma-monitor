@@ -30,6 +30,12 @@ GOOGLE_NEWS_QUERIES = [
     {"name": "Pit & Quarry · Asphalt",     "query": '"Pit & Quarry" asphalt acquisition'},
     {"name": "Pit & Quarry · Cement",      "query": '"Pit & Quarry" cement acquisition'},
 
+    # Quarry Magazine trade publication — targeted by sector
+    {"name": "Quarry Magazine · Aggregates", "query": '"Quarry Magazine" aggregate acquisition'},
+    {"name": "Quarry Magazine · Ready-Mix",  "query": '"Quarry Magazine" "ready mix" acquisition'},
+    {"name": "Quarry Magazine · Asphalt",    "query": '"Quarry Magazine" asphalt acquisition'},
+    {"name": "Quarry Magazine · Cement",     "query": '"Quarry Magazine" cement acquisition'},
+
     # Specific public companies — catches their M&A press releases across outlets
     {"name": "Martin Marietta",      "query": '"Martin Marietta" (acquisition OR acquired OR merger OR divest)'},
     {"name": "Vulcan Materials",     "query": '"Vulcan Materials" (acquisition OR acquired OR merger OR divest)'},
@@ -129,13 +135,16 @@ def extract_value(text):
 # Source quality tiers. Lower number = better. Used to pick the "best" article
 # when multiple sources cover the same deal.
 SOURCE_TIERS = {
-    # Tier 1: industry trade press + primary wires (most authoritative)
-    "pit & quarry":            1,
-    "rock products":           1,
+    # Tier 0: preferred trade publications — always win against any other source
+    # for the same story (explicit user preference)
+    "pit & quarry":            0,
+    "rock products":           0,
+    "quarrymagazine.com":      0,
+    "quarry magazine":         0,
+    # Tier 1: other industry trade press + primary wires
     "concrete products":       1,
     "world cement":            1,
     "cemnet.com":              1,
-    "quarrymagazine.com":      1,
     "construction & demolition recycling": 1,
     "business wire":           1,
     "globenewswire":           1,
