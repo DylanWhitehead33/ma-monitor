@@ -57,6 +57,9 @@ TYPE_MAP = [
 # Classifies an article by WHERE THE DEAL HAPPENS, not where the acquirer is
 # headquartered. A Heidelberg acquisition in Texas is "US"; a Vulcan acquisition
 # in Mexico is "Global". Company identity is ignored — only target geography.
+#
+# Default: ambiguous articles go to US. Only articles with clear non-US signals
+# (and no US signals to counterbalance) are tagged Global.
 
 US_STATES = [
     "alabama","alaska","arizona","arkansas","california","colorado","connecticut","delaware",
@@ -96,7 +99,7 @@ US_CITIES = [
     "mobile","grand rapids","salt lake","tallahassee","huntsville","grand prairie",
     "knoxville","worcester","newport news","brownsville","santa clarita","overland park",
     "providence","garden grove","chattanooga","oceanside","jackson","fort lauderdale",
-    "rancho cucamonga","santa rosa","port st. lucie","ontario ca","tempe",
+    "rancho cucamonga","santa rosa","port st. lucie","tempe",
     "springfield","pembroke pines","salem","cape coral","peoria","sioux falls",
     "eugene","rockford","palm bay","savannah","bridgeport","torrance","joliet",
     "paterson","naperville","alexandria","pasadena","hollywood","lancaster","hayward",
@@ -170,18 +173,52 @@ def detect_type(text):
             return m["type"]
     return "Acquisition"
 
-def detect_region(text):
+def _strip_source_suffix(text):
+    """Remove Google News " - Publisher" suffix so publisher names don't
+    pollute region detection. Example:
+      "Construction Partners acquires Four Star Paving in Nashville By Investing.com - Investing.com South Africa"
+    becomes:
+      "Construction Partners acquires Four Star Paving in Nashville By Investing.com"
+
+    Also strips "By Publisher" mid-sentence markers that Google News adds when
+    republishing (e.g. "... in Nashville By Investing.com").
+    """
+    if not text:
+        return ""
+    # Strip trailing " - Publisher Name" (last occurrence, publisher name capped)
+    if " - " in text:
+        head, _, tail = text.rpartition(" - ")
+        if head and len(tail) < 80:
+            text = head
+    # Strip " By Publisher" patterns Google News inserts
+    # e.g. "headline text By Investing.com" → "headline text"
+    text = re.sub(r'\s+By\s+[A-Z][A-Za-z0-9\.\s]{0,40}$', '', text)
+    return text
+
+def detect_region(article_or_text):
     """Classify article as 'US' or 'Global' based on WHERE THE DEAL HAPPENS.
 
-    Company HQ is deliberately ignored — the question is purely "is the target /
-    asset / operation being acquired located in the United States?"
+    Company HQ is ignored — the question is purely "is the target / asset /
+    operation being acquired located in the United States?"
+
+    Default rule: ambiguous articles go to US. Only articles with clear non-US
+    location signals AND no counterbalancing US signals are tagged Global.
     """
+    # Accept either a full article dict (so we can clean title separately)
+    # or a raw text blob (back-compat).
+    if isinstance(article_or_text, dict):
+        title = _strip_source_suffix(article_or_text.get("title", "") or "")
+        summary = _strip_source_suffix(article_or_text.get("summary", "") or "")
+        text = title + " " + summary
+    else:
+        text = _strip_source_suffix(article_or_text or "")
+
     t = " " + lc(text) + " "
 
     us_score = 0
     non_us_score = 0
 
-    # US deal-location signals (word-boundary matching for normal words)
+    # US deal-location signals
     for s in US_STATES:
         if re.search(r'\b' + re.escape(s) + r'\b', t):
             us_score += 3
@@ -189,11 +226,8 @@ def detect_region(text):
         if re.search(r'\b' + re.escape(c) + r'\b', t):
             us_score += 3
     for p in US_REGIONAL_PHRASES:
-        # Dotted phrases like "u.s." can't rely on \b (dot is non-word char),
-        # so use surrounded-by-space substring match for those, word-boundary
-        # regex for the rest.
+        # Dotted phrases like "u.s." can't rely on \b (dot is non-word char)
         if "." in p:
-            # Pad with space and check substring presence
             if (" " + p + " ") in t or (" " + p + ".") in t or (" " + p + ",") in t:
                 us_score += 2
         else:
@@ -206,20 +240,21 @@ def detect_region(text):
             non_us_score += 3
     for c in NON_US_CITIES_AND_MARKETS:
         if "." in c or ":" in c or "₹" in c:
-            # Dotted/colon/symbol entries like "nse:" and "₹" need substring match
             if c in t:
                 non_us_score += 3
         else:
             if re.search(r'\b' + re.escape(c) + r'\b', t):
                 non_us_score += 3
 
-    # Decision: higher score wins. Ties and "no signal either way" → Global
-    # (safer default — keeps ambiguous/international noise out of the US tab).
-    if us_score == 0 and non_us_score == 0:
+    # Decision: Global ONLY when non-US signals clearly dominate AND no US
+    # signal is present. Any US signal, or a tie, or no signal at all, → US.
+    if non_us_score > 0 and us_score == 0:
         return "Global"
-    if us_score > non_us_score:
-        return "US"
-    return "Global"
+    if non_us_score > us_score and us_score < 3:
+        # Non-US has a real lead and US only has weak signals (e.g. a single
+        # "american" mention without city/state). Still Global.
+        return "Global"
+    return "US"
 
 def matched_keywords(text):
     t = lc(text)
@@ -332,7 +367,6 @@ def _normalize_story_key(article):
     and keep the top 5 remaining content tokens (sorted for order-stability).
     """
     title = article.get("title", "") or ""
-    # Google News format: "Actual Title - Source"
     if " - " in title:
         head, _, tail = title.rpartition(" - ")
         if head and len(tail) < 60:
@@ -445,7 +479,7 @@ def fetch_google_news(query_obj):
             if len(desc_clean) > 400:
                 desc_clean = desc_clean[:397] + "..."
 
-            results.append({
+            article_record = {
                 "title":    title,
                 "summary":  desc_clean,
                 "url":      link,
@@ -454,11 +488,15 @@ def fetch_google_news(query_obj):
                 "keywords": matched_keywords(combined),
                 "sector":   detect_sector(combined),
                 "dealType": detect_type(combined),
-                "region":   detect_region(combined),
                 "value":    extract_value(combined),
                 "date":     pub_date.strftime("%b %d, %Y"),
                 "dateISO":  pub_date.isoformat(),
-            })
+            }
+            # Region detection runs on the cleaned title+summary (not raw combined
+            # string with publisher suffix) — pass the record so it can strip the
+            # Google News " - Publisher" tail before scoring.
+            article_record["region"] = detect_region(article_record)
+            results.append(article_record)
 
         print(f"  {query_obj['name']}: {len(results)} M&A articles")
     except Exception as e:
@@ -505,12 +543,10 @@ def main():
             print(f"  ERROR on {query['name']}: {e}")
         time.sleep(0.3)
 
-    # Always re-tag region for every article — this ensures that if the region
-    # detection rules are updated, the entire archive gets re-classified on the
-    # next run rather than keeping stale tags on historical articles.
+    # Always re-tag region for every article using the cleaned detection so
+    # updates to rules take effect on historical articles too.
     for a in all_articles:
-        blob = (a.get("title","") or "") + " " + (a.get("summary","") or "")
-        a["region"] = detect_region(blob)
+        a["region"] = detect_region(a)
 
     # Deduplicate across sources — keep best article per deal
     before = len(all_articles)
