@@ -509,7 +509,12 @@ body{
   font-size:14px;
 }
 
-.sidebar{display:flex;flex-direction:column;gap:1.25rem}
+.sidebar{
+  display:flex;
+  flex-direction:column;
+  gap:1.25rem;
+  margin-top:calc(1.75rem + 1.25rem + 1px + 10px + 44px + 8px);
+}
 .panel{
   background:var(--paper);
   border:1px solid var(--rule-soft);
@@ -591,7 +596,7 @@ body{
 
 @media(max-width:900px){
   .wrap{grid-template-columns:1fr;padding:1.5rem 1rem}
-  .sidebar{order:-1}
+  .sidebar{order:-1;margin-top:0}
   .mast-title{font-size:44px}
   .section-headline{font-size:32px}
   .ribbon{flex-direction:column;gap:.4rem;text-align:center;padding:10px 1rem}
@@ -697,6 +702,27 @@ body{
       </div>
     </div>
 
+    <div class="panel">
+      <div class="ph">By Public Company <span class="ph-ornament">◆</span></div>
+      <div style="padding:1px;background:var(--rule-soft)">
+        <div class="fl" id="cf">
+          <button class="fb on" onclick="filt('all',this,'c')">All Companies</button>
+          <button class="fb" onclick="filt('Amrize',this,'c')">Amrize</button>
+          <button class="fb" onclick="filt('Arcosa',this,'c')">Arcosa</button>
+          <button class="fb" onclick="filt('Cemex',this,'c')">Cemex</button>
+          <button class="fb" onclick="filt('Construction Partners',this,'c')">Construction Partners</button>
+          <button class="fb" onclick="filt('CRH',this,'c')">CRH</button>
+          <button class="fb" onclick="filt('Eagle Materials',this,'c')">Eagle Materials</button>
+          <button class="fb" onclick="filt('Granite Construction',this,'c')">Granite Construction</button>
+          <button class="fb" onclick="filt('GCC',this,'c')">GCC of America</button>
+          <button class="fb" onclick="filt('Heidelberg Materials',this,'c')">Heidelberg Materials</button>
+          <button class="fb" onclick="filt('Knife River',this,'c')">Knife River</button>
+          <button class="fb" onclick="filt('Martin Marietta',this,'c')">Martin Marietta Materials</button>
+          <button class="fb" onclick="filt('Vulcan Materials',this,'c')">Vulcan Materials</button>
+        </div>
+      </div>
+    </div>
+
   </aside>
 </div>
 
@@ -710,7 +736,7 @@ const GITHUB_USER = "DylanWhitehead33";
 const GITHUB_REPO = "ma-monitor";
 const DATA_URL = `https://${GITHUB_USER}.github.io/${GITHUB_REPO}/articles.json`;
 
-let articles = [], tf = 'all', sf = 'all', searchQuery = '', activeSection = 'ma', activeIndustry = 'construction';
+let articles = [], tf = 'all', sf = 'all', cf = 'all', searchQuery = '', activeSection = 'ma', activeIndustry = 'construction';
 
 document.getElementById('current-date').textContent = new Date().toLocaleDateString('en-US', {weekday:'long', year:'numeric', month:'long', day:'numeric'});
 
@@ -742,7 +768,8 @@ function switchIndustry(ind){
 
 function filt(val,btn,group){
   if(group==='t'){tf=val;document.getElementById('tf').querySelectorAll('.fb').forEach(b=>b.classList.remove('on'));}
-  else{sf=val;document.getElementById('sf').querySelectorAll('.fb').forEach(b=>b.classList.remove('on'));}
+  else if(group==='s'){sf=val;document.getElementById('sf').querySelectorAll('.fb').forEach(b=>b.classList.remove('on'));}
+  else{cf=val;document.getElementById('cf').querySelectorAll('.fb').forEach(b=>b.classList.remove('on'));}
   btn.classList.add('on');
   render();
 }
@@ -779,6 +806,10 @@ function render(){
   let list=articles;
   if(tf!=='all')list=list.filter(a=>a.dealType===tf);
   if(sf!=='all')list=list.filter(a=>a.sector&&a.sector.toLowerCase().includes(sf.toLowerCase()));
+  if(cf!=='all')list=list.filter(a=>{
+    const blob=(a.title+' '+a.summary+' '+(a.category||'')).toLowerCase();
+    return blob.includes(cf.toLowerCase());
+  });
   if(searchQuery){
     list=list.filter(a=>{
       const blob=(a.title+' '+a.summary+' '+a.source+' '+(a.category||'')+' '+(a.keywords||'')+' '+(a.sector||'')).toLowerCase();
