@@ -234,8 +234,7 @@ body{
 
 .section-hdr{
   margin-bottom:1.75rem;
-  padding-bottom:1.25rem;
-  border-bottom:1px solid var(--rule-soft);
+  padding-bottom:0;
 }
 .section-kicker{
   font-family:'JetBrains Mono',monospace;
@@ -253,6 +252,73 @@ body{
   line-height:1.05;
   letter-spacing:-.015em;
   margin-bottom:8px;
+}
+
+/* ── STOCK TICKER STRIP ── */
+.ticker-strip{
+  margin-top:14px;
+  height:36px;
+  background:var(--ink);
+  border:1px solid var(--rule);
+  overflow:hidden;
+  position:relative;
+  display:flex;
+  align-items:center;
+}
+.ticker-strip::before,
+.ticker-strip::after{
+  content:'';
+  position:absolute;
+  top:0;
+  width:40px;
+  height:100%;
+  z-index:2;
+  pointer-events:none;
+}
+.ticker-strip::before{
+  left:0;
+  background:linear-gradient(90deg,var(--ink) 0%,transparent 100%);
+}
+.ticker-strip::after{
+  right:0;
+  background:linear-gradient(270deg,var(--ink) 0%,transparent 100%);
+}
+.ticker-track{
+  display:inline-flex;
+  align-items:center;
+  gap:2.5rem;
+  white-space:nowrap;
+  padding-left:100%;
+  animation:tickerScroll 60s linear infinite;
+}
+.ticker-strip:hover .ticker-track{animation-play-state:paused}
+@keyframes tickerScroll{
+  from{transform:translateX(0)}
+  to{transform:translateX(-50%)}
+}
+.ticker-item{
+  display:inline-flex;
+  align-items:baseline;
+  gap:8px;
+  font-family:'JetBrains Mono',monospace;
+  font-size:11.5px;
+  letter-spacing:.12em;
+  text-transform:uppercase;
+}
+.ticker-sym{color:var(--gold-lt);font-weight:600}
+.ticker-price{color:var(--paper)}
+.ticker-chg{font-size:10.5px;letter-spacing:.08em}
+.ticker-chg.up{color:#8FC79A}
+.ticker-chg.down{color:#E88A8A}
+.ticker-chg.flat{color:var(--mute2)}
+.ticker-sep{color:var(--gold-dk);opacity:.55}
+.ticker-loading{
+  color:var(--paper3);
+  font-family:'JetBrains Mono',monospace;
+  font-size:10.5px;
+  letter-spacing:.2em;
+  text-transform:uppercase;
+  padding-left:1.5rem;
 }
 
 .search-bar{
@@ -513,7 +579,7 @@ body{
   display:flex;
   flex-direction:column;
   gap:1.25rem;
-  margin-top:calc(1.75rem + 1.25rem + 1px + 10px + 44px + 8px);
+  margin-top:134px;
 }
 .panel{
   background:var(--paper);
@@ -656,6 +722,11 @@ body{
     <div class="section-hdr" id="section-hdr">
       <div class="section-kicker" id="section-kicker">M&amp;A Activity · Construction Materials</div>
       <h2 class="section-headline" id="section-headline">The Deal Room</h2>
+      <div class="ticker-strip" id="ticker-strip" aria-label="Market ticker">
+        <div class="ticker-track" id="ticker-track">
+          <div class="ticker-loading">Loading market data…</div>
+        </div>
+      </div>
     </div>
 
     <div class="search-bar">
@@ -871,7 +942,68 @@ async function loadArticles(){
   btn.classList.remove('loading');
 }
 
-window.addEventListener('DOMContentLoaded',loadArticles);
+// ── STOCK TICKER ─────────────────────────────────────────────────────────────
+const TICKER_SYMBOLS = [
+  'AMRZ','ACA','CX','ROAD','CRH','EXP','GVA','GCC.MX','HLBZF','KNF','MLM','VMC'
+];
+
+function formatPrice(p){
+  if(p == null || isNaN(p)) return '—';
+  return p.toFixed(2);
+}
+function formatChange(chg, chgPct){
+  if(chg == null || isNaN(chg)) return {text:'—', cls:'flat'};
+  const arrow = chg > 0 ? '▲' : chg < 0 ? '▼' : '◆';
+  const cls = chg > 0.005 ? 'up' : chg < -0.005 ? 'down' : 'flat';
+  const sign = chg > 0 ? '+' : '';
+  const pct = chgPct != null && !isNaN(chgPct) ? ` (${sign}${chgPct.toFixed(2)}%)` : '';
+  return {text:`${arrow} ${sign}${chg.toFixed(2)}${pct}`, cls};
+}
+
+async function loadTicker(){
+  const track = document.getElementById('ticker-track');
+  const symbolsParam = encodeURIComponent(TICKER_SYMBOLS.join(','));
+  const yahoo = `https://query1.finance.yahoo.com/v7/finance/quote?symbols=${symbolsParam}`;
+  const url = `https://corsproxy.io/?${encodeURIComponent(yahoo)}`;
+
+  try {
+    const resp = await fetch(url, {signal:AbortSignal.timeout(15000)});
+    if(!resp.ok) throw new Error('Quote fetch failed: '+resp.status);
+    const data = await resp.json();
+    const quotes = (data.quoteResponse && data.quoteResponse.result) || [];
+
+    if(quotes.length === 0){
+      track.innerHTML = '<div class="ticker-loading">Market data unavailable</div>';
+      return;
+    }
+
+    const buildItems = () => quotes.map(q => {
+      const sym = q.symbol || '—';
+      const price = formatPrice(q.regularMarketPrice);
+      const chg = formatChange(q.regularMarketChange, q.regularMarketChangePercent);
+      return `
+        <div class="ticker-item">
+          <span class="ticker-sym">${sym}</span>
+          <span class="ticker-price">$${price}</span>
+          <span class="ticker-chg ${chg.cls}">${chg.text}</span>
+        </div>
+        <span class="ticker-sep">◆</span>
+      `;
+    }).join('');
+
+    // Two copies back-to-back → the CSS translateX(-50%) creates an uninterrupted loop
+    track.innerHTML = buildItems() + buildItems();
+  } catch(e) {
+    track.innerHTML = '<div class="ticker-loading">Market data unavailable</div>';
+    console.warn('Ticker load failed:', e);
+  }
+}
+
+window.addEventListener('DOMContentLoaded', () => {
+  loadArticles();
+  loadTicker();
+  setInterval(loadTicker, 120000);
+});
 </script>
 </body>
 </html>
