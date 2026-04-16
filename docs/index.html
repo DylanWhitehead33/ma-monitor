@@ -225,7 +225,7 @@ body{
 }
 
 .section-hdr{
-  margin-bottom:1.75rem;
+  margin-bottom:0.6rem;
   padding-bottom:0;
   grid-column:1 / -1;
 }
@@ -250,11 +250,12 @@ body{
 /* ── TRADINGVIEW TICKER STRIP ── */
 .ticker-strip{
   margin-top:14px;
-  height:46px;
+  height:34px;
   background:var(--ink);
   border:1px solid var(--rule);
   overflow:hidden;
   position:relative;
+  font-size:11px;
 }
 .ticker-strip .tradingview-widget-container{
   height:100%;
@@ -264,9 +265,6 @@ body{
   height:100%;
   width:100%;
 }
-/* Hide TradingView's "copyright" attribution link inside the widget iframe
-   parent container — the widget itself doesn't render it inside the iframe,
-   but TV sometimes injects a link sibling we can tuck away. */
 .ticker-strip .tradingview-widget-copyright{display:none}
 
 .search-bar{
@@ -527,7 +525,7 @@ body{
   display:flex;
   flex-direction:column;
   gap:1.25rem;
-  margin-top:134px;
+  margin-top:0;
 }
 .panel{
   background:var(--paper);
@@ -682,7 +680,6 @@ body{
             {"proName": "NYSE:CRH",    "title": "CRH"},
             {"proName": "NYSE:EXP",    "title": "Eagle Materials"},
             {"proName": "NYSE:GVA",    "title": "Granite Construction"},
-            {"proName": "BMV:GCC",     "title": "GCC"},
             {"proName": "OTC:HLBZF",   "title": "Heidelberg Materials"},
             {"proName": "NYSE:KNF",    "title": "Knife River"},
             {"proName": "NYSE:MLM",    "title": "Martin Marietta"},
