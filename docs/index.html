@@ -135,9 +135,9 @@ body{
   gap:0;
 }
 .section-link{
-  padding:18px 1.85rem;
+  padding:13px 1.85rem;
   font-family:'Cormorant Garamond',serif;
-  font-size:18px;
+  font-size:16px;
   font-weight:500;
   color:var(--ink);
   text-decoration:none;
@@ -533,29 +533,6 @@ body{
 }
 .ph-ornament{color:var(--gold);font-size:9px}
 
-/* ── ARTICLE COUNT (single-stat compact panel) ── */
-.count-box{
-  padding:1.1rem 1rem;
-  text-align:center;
-  background:var(--forest);
-}
-.count-n{
-  font-family:'Cormorant Garamond',serif;
-  font-size:42px;
-  font-weight:400;
-  font-style:italic;
-  color:var(--gold-lt);
-  line-height:1;
-  margin-bottom:4px;
-}
-.count-l{
-  font-family:'JetBrains Mono',monospace;
-  font-size:9px;
-  color:var(--paper2);
-  letter-spacing:.18em;
-  text-transform:uppercase;
-}
-
 .fl{display:flex;flex-direction:column;gap:1px;background:var(--rule-soft)}
 .fb{
   background:var(--paper);
@@ -578,6 +555,7 @@ body{
   font-weight:500;
   font-family:'Cormorant Garamond',serif;
   font-style:italic;
+  justify-content:center;
 }
 .fb.on::before{content:'▸ ';color:var(--gold-lt);margin-right:4px}
 .fc{
@@ -619,7 +597,7 @@ body{
   .ribbon{flex-direction:column;gap:.4rem;text-align:center;padding:10px 1rem}
   .ribbon-c{order:3}
   .section-nav-inner,.subsection-nav-inner{justify-content:flex-start;overflow-x:auto;flex-wrap:nowrap}
-  .section-link{padding:14px 1.2rem;white-space:nowrap}
+  .section-link{padding:11px 1.2rem;white-space:nowrap}
   .section-link+.section-link{border-left:1px solid var(--paper3)}
   .subsection-link{padding:10px 1rem;white-space:nowrap}
 }
@@ -690,14 +668,6 @@ body{
   </main>
 
   <aside class="sidebar" id="sidebar">
-
-    <div class="panel">
-      <div class="ph">Article Count <span class="ph-ornament">◆</span></div>
-      <div class="count-box">
-        <div class="count-n" id="s-tot">—</div>
-        <div class="count-l">Total Entries</div>
-      </div>
-    </div>
 
     <div class="panel">
       <div class="ph">By Classification <span class="ph-ornament">◆</span></div>
@@ -784,7 +754,6 @@ function applySearch(){
 
 function updateStats(){
   const n=articles.length;
-  document.getElementById('s-tot').textContent=n;
   document.getElementById('fc-all').textContent=n;
   document.getElementById('fc-acq').textContent=articles.filter(a=>a.dealType==='Acquisition').length;
   document.getElementById('fc-mer').textContent=articles.filter(a=>a.dealType==='Merger').length;
