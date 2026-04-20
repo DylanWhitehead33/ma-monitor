@@ -1,10 +1,23 @@
 {
-  "fetchedAt": "2026-04-19T15:05:41.435960",
-  "totalArticles": 94,
-  "newToday": 14,
-  "duplicatesRemoved": 10,
+  "fetchedAt": "2026-04-20T16:45:29.579183",
+  "totalArticles": 98,
+  "newToday": 16,
+  "duplicatesRemoved": 12,
   "archiveDays": 30,
   "articles": [
+    {
+      "title": "S$3.9 billion Paragon acquisition seals CICT's dominance in downtown retail, adds medical exposure - The Business Times",
+      "summary": "S$3.9 billion Paragon acquisition seals CICT's dominance in downtown retail, adds medical exposure The Business Times",
+      "url": "https://news.google.com/rss/articles/CBMizwFBVV95cUxNZDlYZlJwNUZOSnZ4d2tIZjNVZkl4bXFfX1RWVjNEWGFsQ0g4UE1RNUUxMG1nYXRMRW5pNnJrZDU4WDdLd00xOE16cEpkdF9NTmt3bTB2TVJsc0xzMy15NDhiVUhIbjVYZ19FY2w0eFhTRUNwZWFlZldnZlk5ZGxwNGdLMkc3ekQ0VVNOQmtYbjk3TlhFN0REc1U2V0wxckxtSjVubnRwTU11R1BYaXc1SFhPczlqOGMtcjN4V3VwNFVCb2VsdTJmbVluMTVja0E?oc=5",
+      "source": "The Business Times",
+      "category": "Cement Industry",
+      "keywords": "Acquired",
+      "sector": "General",
+      "dealType": "Acquisition",
+      "value": "$3.90B",
+      "date": "Apr 20, 2026",
+      "dateISO": "2026-04-20T06:49:00"
+    },
     {
       "title": "Star Cement unit to acquire Nitesh Minerals for limestone security - The Globe and Mail",
       "summary": "Star Cement unit to acquire Nitesh Minerals for limestone security The Globe and Mail",
@@ -43,6 +56,19 @@
       "value": "",
       "date": "Apr 18, 2026",
       "dateISO": "2026-04-18T09:09:59"
+    },
+    {
+      "title": "CRH Continues $300m Buyback With New U.S. Share Repurchases - The Globe and Mail",
+      "summary": "CRH Continues $300m Buyback With New U.S. Share Repurchases The Globe and Mail",
+      "url": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxQZ2ExQWxwZXBIYUVEdDZMb3NXQ0dvVU5kNHRVaEh0d0dRa3VDMHJVc3JwZjkyd3pjMVBrbHhyaXBDODRpQk5DYnpBeGVtUnlmUk5vSlQ3a3BYRmVVWUNaNlFEc3AtZnZZU0lTSk1rQUJDNnBlUDdMR3Q0UEVlWnJKMDF3Wk9DNm5LMXI3aGpteFMweDRvSGx1X3NpRXFQWUJFV0dQX3NWcDR3cDQySXpicE45S0VYekhicnh5S3dBcHJpY2d1SlR2TFZfWmg4U0JFXzg0TWg1Yw?oc=5",
+      "source": "The Globe and Mail",
+      "category": "CRH",
+      "keywords": "Purchase",
+      "sector": "General",
+      "dealType": "Acquisition",
+      "value": "$300M",
+      "date": "Apr 18, 2026",
+      "dateISO": "2026-04-18T09:08:00"
     },
     {
       "title": "Holcim in JV with Gujarat Ambuja to acquire ACC - The Economic Times",
@@ -617,6 +643,19 @@
       "dateISO": "2026-04-02T07:00:00"
     },
     {
+      "title": "True North Fund VI LLP Divests Complete 9.54% Stake in Shree Digvijay Cement Company - scanx.trade",
+      "summary": "True North Fund VI LLP Divests Complete 9.54% Stake in Shree Digvijay Cement Company scanx.trade",
+      "url": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxOVm5kQ2hFOHBfekw4UXZ5VnJibkpHdHc4RmgxcXV1cU1SQUp0ZkNCdGdDX1k2LXZ1X1dDNk5qMmJTX19qY0NhWUJtNld2TWZCcmNtZzdURHpGMWx0Rmh5YzVKNEs2amNTTDR3eFFYYUN1eVVjMEp0REdPSUdmaFhQc0pZVjg4Q1VMWHM2bllWS00xSXhRcm1Sa3ZiaEE5T3Q3V0k1MnRhcFhnenN1S1pxa3FlRl9vVnhYYUl1RElPb1MxdjFBQmFmRU1mS0Q0MjhMZnMtREtZQQ?oc=5",
+      "source": "scanx.trade",
+      "category": "Cement Industry",
+      "keywords": "Divest",
+      "sector": "Cement",
+      "dealType": "Divestiture",
+      "value": "",
+      "date": "Apr 02, 2026",
+      "dateISO": "2026-04-02T07:00:00"
+    },
+    {
       "title": "Construction Partners: Tennessee Acquisition Expands Nashville Market Presence - Pulse 2.0",
       "summary": "Construction Partners: Tennessee Acquisition Expands Nashville Market Presence Pulse 2.0",
       "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxQYkpURzVqYjJBV2xuTUJ4em9VVG1ORnZMU2NSeDN1aktObnJ3LXRVQ0huRTI5Z0pDUWVKZUNhZEFtWklsNHdLaWt6RW9NTkpOMTgzMnoyQzZoVzd4Ulpfd2tnR1QxYjZrZ0VfRndKZTJBek5BSDQxMW1Cb2tORzQ1eTNBTjB3YnVHblZDU2ViR3pkWVRzRlFTazRNV21NZ9IBowFBVV95cUxNR1FIY1NFVkV6UWlvWjNvRlpTZGFZeDYwR21mNmVCRkFHRVNZV1BsTl9kYW5MZTFWZjQ5MWpTMWpCTzVfQnZCLWd1VVBDZjhJVHNheDkwbWI3bGt5eEpYZlA5YVhNb0dzZWpONEs4ZFJfTlJmX2hQQkZqQS1kWnVxWnJYMnpDWGkyalctc0p1VWIyZ194cGw0aVVxRHh6d180QUln?oc=5",
@@ -669,11 +708,11 @@
       "dateISO": "2026-04-01T07:00:00"
     },
     {
-      "title": "Construction Partners, Inc. Completes Tennessee Acquisition - Finansavisen",
-      "summary": "Construction Partners, Inc. Completes Tennessee Acquisition Finansavisen",
-      "url": "https://news.google.com/rss/articles/CBMi5AFBVV95cUxOcHItRHZiOXRMdEVaY01LQU41Rk5rUnNya3l5ZTh0d0tFYjVrRVl4UkhHa1Y3REpFRVV5Qzd4SEtzUGgwUHA4Ykk1Y3VuZjk5QUgzcldXY2xESG5reDJjQnlZQ0s4ZVc1M3Y0NW1aLVNOVzhERFEwNEhPallJOC1faGRQMnByZlBrTFVNX0pPblFXa1NRZl9YbV9pMmFYSnZiRVk1UnJ2a3E1eVlnMG04ZTZ6amtWWkU2d0N2UGJWYmVZcjV4M0ZsaXV0dzdIV1RQZW1jR2hpMDR5T3JTNFRGTGJjZzM?oc=5",
-      "source": "Finansavisen",
-      "category": "Asphalt Industry",
+      "title": "Construction Partners, Inc. Completes Tennessee Acquisition - Yahoo Finance",
+      "summary": "Construction Partners, Inc. Completes Tennessee Acquisition Yahoo Finance",
+      "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxQc3NNVjk2RlRPQ3ItRzRKUG5na25WblM4SFlHekkxWm14WmFITHNQX3J1dEd0RkhKd3NrUjMwRXUtWDU4UXd0TEFqY3RvYlN0NF9tQnJhaTJmLThyelhJLTR3dW56dFU3NFE0TFhPeTFSSkNYRGF1eVJQOVVIMy1Qem1CMV9nR0hTS2Y0RHVaU0o1eUhrOGwzRFdDdy1mZ1dWaWltZHpicjRaSUlxNWQw?oc=5",
+      "source": "Yahoo Finance",
+      "category": "Construction Partners",
       "keywords": "Acquired",
       "sector": "General",
       "dealType": "Acquisition",
@@ -1006,6 +1045,19 @@
       "sector": "General",
       "dealType": "Acquisition",
       "value": "$300M",
+      "date": "Mar 28, 2026",
+      "dateISO": "2026-03-28T07:00:00"
+    },
+    {
+      "title": "India Cements Completes Subsidiary Merger After NCLT Green Light - Whalesbook",
+      "summary": "India Cements Completes Subsidiary Merger After NCLT Green Light Whalesbook",
+      "url": "https://news.google.com/rss/articles/CBMi9wFBVV95cUxOb19aSWRrSUxGN1I5WG9pT2pGVEFTb0VDSFgyejlvX2NwcVU4d0RjY1BBd2NtOFVwaldPVkc1OVRWaGVLdHZUQ1FpNVpqVDV3dmZhMDh5dzRaWGVPeGZ4YWJnYUFTaUgzb1pJMU4wTHk5NHU4VnJTZHdiVlpLb1Y2YkNUSGJNWWxqZWhpVlVrT0V2ODBpb3lYY0VkSTV3TkdIUi0tVmZ4SzIwUWRTRDM1eEZCU1pwQTdyMHNaX0h3RVJ2TTdONFBEOUVmaW45bVI0LUxSRHJMU0d3dmUyMEkwdDdGdzZCWVRYUW1DMHVzeHRsRkFtd040?oc=5",
+      "source": "Whalesbook",
+      "category": "Cement Industry",
+      "keywords": "Merger",
+      "sector": "Cement",
+      "dealType": "Merger",
+      "value": "",
       "date": "Mar 28, 2026",
       "dateISO": "2026-03-28T07:00:00"
     },
