@@ -1,10 +1,62 @@
 {
-  "fetchedAt": "2026-04-21T16:38:52.006416",
-  "totalArticles": 99,
-  "newToday": 14,
-  "duplicatesRemoved": 12,
+  "fetchedAt": "2026-04-22T16:39:58.433169",
+  "totalArticles": 98,
+  "newToday": 13,
+  "duplicatesRemoved": 9,
   "archiveDays": 30,
   "articles": [
+    {
+      "title": "Innovex completes acquisition of downhole tool maker Drilling Innovative Solutions - Drilling Contractor",
+      "summary": "Innovex completes acquisition of downhole tool maker Drilling Innovative Solutions Drilling Contractor",
+      "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxQT1ljMV8tZU5kVlFMNU9OWFE5SW9zcUU3Vk9sOHVQS3pZdVZfR3V5b281UE0tTzZMenBJR3h6S2xFNEh2dTNiNFpKeUxSTW9rdEg4YnV5U2E3VzE4aUZJc1p3YndUUG04c1Ffcl9NVkdOMzBRWk51Vlk0TExJakI0alB3cjliUmhhZGVGcnoxSFNmNi1uNE9sMTR2UE1PNmNmSkdrTzVOZl9IcFF4ZHpRY0tJR0Ewbm1MelNj?oc=5",
+      "source": "Drilling Contractor",
+      "category": "Cement Industry",
+      "keywords": "Acquired",
+      "sector": "General",
+      "dealType": "Acquisition",
+      "value": "",
+      "date": "Apr 22, 2026",
+      "dateISO": "2026-04-22T15:53:37"
+    },
+    {
+      "title": "YTL Cement Issues Offer Document For CEPCO Takeover Offer - Bernama",
+      "summary": "YTL Cement Issues Offer Document For CEPCO Takeover Offer Bernama",
+      "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTFA3V2hpYzlhSExhaUs1cE1ZTlpfU0RJaVE4LUszaGg5eFU4cmx3TGF5WlRSOWIxNE9nUFozbnpsODR1b0Rmcmh3S1RaZmpfbDNHejI3TGVvOXJCOGZsUTRHTjdCYjRCRmhZNnRaVjR3?oc=5",
+      "source": "Bernama",
+      "category": "Cement Industry",
+      "keywords": "Takeover",
+      "sector": "Cement",
+      "dealType": "Acquisition",
+      "value": "",
+      "date": "Apr 22, 2026",
+      "dateISO": "2026-04-22T05:06:59"
+    },
+    {
+      "title": "YTL Cement issues offer document for Concrete Engineering takeover offer - KLSE Screener",
+      "summary": "YTL Cement issues offer document for Concrete Engineering takeover offer KLSE Screener",
+      "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxQbzBreWctUTJmZTNJNFlFajZSQ1NxZ1c5U2NTYUhGSklhcWNHdVJWZi1BekU3YzdjVmdqU2NEX2lQTHhibGdBeFNFUUNpbjJEWjBWSXptMGI0NkZOdjRBVWNlZmpwdTBtSFhNcXVfenlzX3pKSjUxLV9ycUwyYmNPVXNsLUVhVmlaSmhXNkpFMk00Y1dWSGFfLVFOa01rYVliblE4TkRFb2xCV3hVTHlkU2pXYmpiMmZYR0Q4dE9NTQ?oc=5",
+      "source": "KLSE Screener",
+      "category": "Aggregates Industry",
+      "keywords": "Takeover",
+      "sector": "Cement",
+      "dealType": "Acquisition",
+      "value": "",
+      "date": "Apr 22, 2026",
+      "dateISO": "2026-04-22T03:48:31"
+    },
+    {
+      "title": "Holcim files Xella takeover for EU approval - MLex",
+      "summary": "Holcim files Xella takeover for EU approval MLex",
+      "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxNQ01vWk9iWktPUmZBZ05uSjFRRWFNOGV2bnRFUWkycy03ek9XZi1QdHBDTmZPakpYeXBuRlBtUFZiYUczMC1GOVhRaFItY0xOclRRa1NHLWJJWENBNWMwaFV2TEdpNW9XMnliRWh5SUhjcmk4NkE4YzhqT0Z1OU81MUV1V3lHQUxhQVBPZGNBV0QxQ19ITGZaZVYzSHlyakZLSHFRVHZnT0tsR2vSAVpBVV95cUxPUHM3SU82TEg5aGFVTlE2WE54TURaemdBSW0wVEZrR1hEeGFIT09COGhSMzlNSk1LMHlEWkJWZFdQdVZUeHhyN3E1Y20zVkVvUEdPQnRPWmM3MUE?oc=5",
+      "source": "MLex",
+      "category": "Holcim",
+      "keywords": "Takeover",
+      "sector": "General",
+      "dealType": "Acquisition",
+      "value": "",
+      "date": "Apr 21, 2026",
+      "dateISO": "2026-04-21T14:42:00"
+    },
     {
       "title": "S$3.9 billion Paragon acquisition seals CICT's dominance in downtown retail, adds medical exposure - The Business Times",
       "summary": "S$3.9 billion Paragon acquisition seals CICT's dominance in downtown retail, adds medical exposure The Business Times",
@@ -1216,71 +1268,6 @@
       "value": "",
       "date": "Mar 24, 2026",
       "dateISO": "2026-03-24T07:00:00"
-    },
-    {
-      "title": "Knife River Acquires Aggregates and Ready-Mix Business in Montana - Business Wire",
-      "summary": "Knife River Acquires Aggregates and Ready-Mix Business in Montana Business Wire",
-      "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxOYVNqYWlFVFZnRG5zNGxIdWJiY3lvSXdneXRuQlZpTDFWSC1BTDNrb2JCdnRwV3llNTNjQ1pzdXVOakVoTS1TRjdQa3NUOUZrUEJqLWt6bFlPWkJqd25vNjlaUFBNSUFmTmtfdFVfVTZxcTRrSkk3ckFuOFNYY2dsYVhFbThJMHRHZzRyMGJ3cWhaV1FnMzlSVHVWbUtYWjg1M1RpMU5VaFZGRDgwNnMyOTVJZHVsRDdEWGIzc1ZlQQ?oc=5",
-      "source": "Business Wire",
-      "category": "Aggregates Industry",
-      "keywords": "Acquired",
-      "sector": "Multiple",
-      "dealType": "Acquisition",
-      "value": "",
-      "date": "Mar 23, 2026",
-      "dateISO": "2026-03-23T07:00:00"
-    },
-    {
-      "title": "Three Singhania Family Trusts Acquire Equity Shares in JK Cement Limited - scanx.trade",
-      "summary": "Three Singhania Family Trusts Acquire Equity Shares in JK Cement Limited scanx.trade",
-      "url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxOaFU1MW92Z0tjWEJONWpEQ3ZBRHotOTlKaVJRUFdXNDhpaTVVNWpDUklkS1QtWTQyMnc0YUdLX1hvdFAwcDRnSm9mY0w5d0pVUmZBc3FYRG9NdUN5MEpuMTBhajY1R2ZDM2hPUGloOFBZLVhtNS0zWEN5ZjZCSHdVclJGTG9sQ0dMcllOVVdGU2E0Yl8zdXZJMXhNTk0yeFMxWFpBbENsYklmM3FQN2VXbUJyenRJLWFsZFdiN1V1NTJrdzB4ekNZSQ?oc=5",
-      "source": "scanx.trade",
-      "category": "Cement Industry",
-      "keywords": "Acquired",
-      "sector": "Cement",
-      "dealType": "Acquisition",
-      "value": "",
-      "date": "Mar 23, 2026",
-      "dateISO": "2026-03-23T07:00:00"
-    },
-    {
-      "title": "Knife River acquires Montana ready-mix supplier Donaldson Brothers - Investing.com",
-      "summary": "Knife River acquires Montana ready-mix supplier Donaldson Brothers Investing.com",
-      "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxPRlpMcXBXc3UzSWtBbUc1N2lpZ3hneFFtaGRRQ0J1UTlHNmQ5VHMxX0wybTM1UzJnTmhsdVM4X2drTE5vRUZZSGRPTmt0UlRNVWNBb2huRzk5LUw0SGJLS21NeVRrSGtLWlEzRXd1ZFRjaDNrY0VqTHJEMlZ1WnpOazdUZnV1M0l3R3pfSVMtblJsdEczS3hsQmtrazdkbnowcm51Y1NVTlAzem1KcUo3NVd6UUtjZzBuYUdrSzF2Yw?oc=5",
-      "source": "Investing.com",
-      "category": "Asphalt Industry",
-      "keywords": "Acquired, Investment",
-      "sector": "Ready-Mix",
-      "dealType": "Investment",
-      "value": "",
-      "date": "Mar 23, 2026",
-      "dateISO": "2026-03-23T07:00:00"
-    },
-    {
-      "title": "Adani Group plans strategic split of Jaypee assets after insolvency takeover - Moneycontrol.com",
-      "summary": "Adani Group plans strategic split of Jaypee assets after insolvency takeover Moneycontrol.com",
-      "url": "https://news.google.com/rss/articles/CBMizgFBVV95cUxNMG56UlBiVllNbGhBT2pkdEV5VGl4MUtaVG5lYU9IRUw0M2xPem1CLUcxaS10OThEQjlaWlJKVDhONDlkeWlWUlV6OWI5WE1tMjAxRExLTmwwd0pXRGcxakVnZXlhazhGMW9NU1JwRGpVUXhveXlybjkycGNaYVRzeVl4ajZfcUFvbDJvakcxdVhvUkZFaWZ4XzBkSDR3VV9RRUw3ckhmQ1BoandaWVo0djRXbktXeTdablBpUlNqSFMyOU5Xd0RVUlE2WnU2Z9IB0wFBVV95cUxQanIwZ3JUZG1GdXpESGtQVkZYMG9sN0pfWEc1RW1ibkZlMFBJbVVvdHR2ZlZGLS1oY3RmajVNRkVWYTR2YlRJaGtmVEFLd0JhVk9xc0NUQmhSSlZySXJ3UVpvdTZZQXVoS1kxVm1lbXBsVVJnNHoyVUE3Nmg5OExjM3NaQjhmdUZtT1BXNk56M0doNDlQUzBNSnBFOWkxbmNhWktLSzhvcXFpdHVTMXV0dnk0VWVCVGo3eFQzSmxrMlVoQkNVdWYtT1VZZ0hNX2hTV2FR?oc=5",
-      "source": "Moneycontrol.com",
-      "category": "Cement Industry",
-      "keywords": "Takeover",
-      "sector": "General",
-      "dealType": "Acquisition",
-      "value": "",
-      "date": "Mar 23, 2026",
-      "dateISO": "2026-03-23T07:00:00"
-    },
-    {
-      "title": "Vedanta vs Adani: Anil Agarwal-led group moves NCLAT to challenge acquisition of Jaypee group\u2019s flagship firm, hearing today - The Statesman",
-      "summary": "Vedanta vs Adani: Anil Agarwal-led group moves NCLAT to challenge acquisition of Jaypee group\u2019s flagship firm, hearing today The Statesman",
-      "url": "https://news.google.com/rss/articles/CBMihgJBVV95cUxQb0VnS3BNV1NxYXowdmVzMHVRX3p1QW5MbEdEczhYeC1FMG1jdllhb3ItMWhRdzV4OUlkd3hMSi1hYXVJUG9KNVpEZWhmU25NY0kzZW83R29IMExkenN6aUwydlhXMUlQRWJwMS00ejBYVDg5QUlJTmczT1VLcmRHWE5lYzZvWTJZM2syMDJreU4xX0lCRHVKeG1nbmNMelQ1LVZmWEVHNU1MVER0S0E2elZ1bzFYZGVQVlMzd01qQWpiMHFKRmt1WE9uNU1Cek9kUHpNeFhqdlRhbW1fdzZScmtwcG1vYXFmanZrcF9CazdPV2FxVlpNZGlFekRRSHlPc0RiQ3Bn0gGLAkFVX3lxTE9nN21HWlRkN1Z4WENDT0hTOFV1ZnktNm5feTVFU2Mzbmd5WDd2X2tGUm5ESmYzVlEyY2ZkbXp4Y3lyN19QdUsyb0pQUW5Da2FqdmtxUTljUWo3VTVNZkZOckVJNWdwaW5abC1zZTlxT05neGhRR1U0S1pJT2lKbEpHc005cE1rZGdZWWdSb2twTTJPaUlXRk5GanJjWnBfNk01b0RKLV9TOXZBd3FQVjktTTlFdlZ5MWlHU3NwV1lFblhrTEZsczF2dTZmY0FkQi1RZjdjUGlaNHFuT3pFZEhPSkNfc29jRUVVbU4tWmR1eFZkend2UWRXZjhPakNtSUtqaENSRmtraF8zdw?oc=5",
-      "source": "The Statesman",
-      "category": "Cement Industry",
-      "keywords": "Acquired",
-      "sector": "General",
-      "dealType": "Acquisition",
-      "value": "",
-      "date": "Mar 23, 2026",
-      "dateISO": "2026-03-23T07:00:00"
     }
   ]
 }
