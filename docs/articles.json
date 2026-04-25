@@ -1,10 +1,36 @@
 {
-  "fetchedAt": "2026-04-24T16:14:01.248015",
-  "totalArticles": 104,
-  "newToday": 17,
-  "duplicatesRemoved": 13,
+  "fetchedAt": "2026-04-25T15:11:52.104613",
+  "totalArticles": 106,
+  "newToday": 12,
+  "duplicatesRemoved": 7,
   "archiveDays": 30,
   "articles": [
+    {
+      "title": "Arcosa, Inc. $ACA Shares Acquired by Impax Asset Management Group plc - MarketBeat",
+      "summary": "Arcosa, Inc. $ACA Shares Acquired by Impax Asset Management Group plc MarketBeat",
+      "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxOWG9aN3VoempnYzh1TFRnc1NIOXdOc1Q2TGY3MWdlU1dRSGxzLVRIXzk4eUtHV1VzY3dtNWphU01ZRXhaZGY4a0dfeHk5bVktbXA1VzRUNk5vX0dIWE9ZcWxrbG1aVVpmNlVzekkyc1gzeC0xVDdNaENuYW9yR2xQZ3RfZ1NaUEl1Y2JqV2hqaTRJUzY3SGl3TmxNMFRyRkhOS05KRHpYUkJkZjZTWWtLNnVCZm9qREY0M3c5ZXdVNWd2NDc3SHc?oc=5",
+      "source": "MarketBeat",
+      "category": "Arcosa",
+      "keywords": "Acquired",
+      "sector": "General",
+      "dealType": "Acquisition",
+      "value": "",
+      "date": "Apr 25, 2026",
+      "dateISO": "2026-04-25T12:54:36"
+    },
+    {
+      "title": "Construction Partners Acquires Four Star Paving in Middle Tennessee - HarianBasis.co",
+      "summary": "Construction Partners Acquires Four Star Paving in Middle Tennessee HarianBasis.co",
+      "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxOS3ZUd2tabWZ0dXJhSVpTV3Q4ZDZuTzlzVmtwTUhqQUpiMzJybmlqV1ZtRktGaGRUaW9leGt4ZDYzTFF2WV9JT0hFYzhmOWpSTFJsZjBCRngwYTBVNW9jcHJOSVRZTGlTR2k4X3M0YXpSelE3NkdhamNKRVFvTmYyM3F0OA?oc=5",
+      "source": "HarianBasis.co",
+      "category": "Asphalt Industry",
+      "keywords": "Acquired",
+      "sector": "Paving",
+      "dealType": "Acquisition",
+      "value": "",
+      "date": "Apr 24, 2026",
+      "dateISO": "2026-04-24T17:37:20"
+    },
     {
       "title": "YTL Corp among most active in early trade following takeover plan - KLSE Screener",
       "summary": "YTL Corp among most active in early trade following takeover plan KLSE Screener",
@@ -30,6 +56,19 @@
       "value": "",
       "date": "Apr 23, 2026",
       "dateISO": "2026-04-23T23:58:25"
+    },
+    {
+      "title": "Hayward Industries, Inc. Acquires Paramount Leisure Industries, Inc. - Pool Magazine",
+      "summary": "Hayward Industries, Inc. Acquires Paramount Leisure Industries, Inc. Pool Magazine",
+      "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxQRzNYRnRlVXdRNXRUeTlveTg0Q1pPRzh3N21GRVo2ZGExNnMyWmdMNVYxYXpZTmQ4U1JxYl9XeHEwZDlScmxhWXo4ZVNvai0ySnI5aUpxS0p0Nk1RME5RVEFaYWJSQ1Z6UGtic0plcjJVcGJ6NkFJN3BSd3d4cXhJeWEzWVE3eXFpb1RHbGtxRXJsV3BKZ21aS1RMbW5yUFh0cklHRkx0MmJudm5ucHZoZWF30gG3AUFVX3lxTFB2QnFwOHB3blg1Sm1teWJNcW9aYm94cnI1cUVLSDlPcm5Wa1paS0swOXlXWjg1dEFWV0hfNXFBdVZPR0U0MVFHZ0hzOVppVFR0WVpvVFFfbVB0WC1wMEItaDdrbWx2dko5RnVFY3hnUEdIS3N3RnAtNF9kYUh2TDdET2FuN3MzUlJaM1BLYk03QnZNMU5maGhiRTdYQ3BzOXloNE9BY3p5RVVjVkxhTmZmWWF3OUlabw?oc=5",
+      "source": "Pool Magazine",
+      "category": "Precast Industry",
+      "keywords": "Acquired",
+      "sector": "General",
+      "dealType": "Acquisition",
+      "value": "",
+      "date": "Apr 23, 2026",
+      "dateISO": "2026-04-23T22:18:29"
     },
     {
       "title": "Star Cement Limited Subsidiary Acquires 100% Stake in Jaitaran Renewable Power Private Limited - scanx.trade",
@@ -446,6 +485,19 @@
       "value": "",
       "date": "Apr 14, 2026",
       "dateISO": "2026-04-14T10:41:42"
+    },
+    {
+      "title": "Suncrete (NASDAQ: RMIX) closes HYAC SPAC deal with $167.1M PIPE - Stock Titan",
+      "summary": "Suncrete (NASDAQ: RMIX) closes HYAC SPAC deal with $167.1M PIPE Stock Titan",
+      "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxNVUxfQmhsNUU1Z3docHlVWkJTTXp3WnVMSW9vZFRHTlA5WFFZOXRud1ZLMUpJX1d1WEpKZnJPN1Q5TjFsNTdZSjhqT2wxc29OcFVoLVhGbWRYTjQ1N2hMcFJTTENfdGF1Q1o0ektuZndCanFJNzY3QVdwcnF1WlZOUTNiZzh1dE1lWXEzUDZuQ0l0eGh2TWJrQVdGOEc5LUtGTkllYUVDYzFzc1pkUXJBWUpQb1hIcjg?oc=5",
+      "source": "Stock Titan",
+      "category": "Ready-Mix Industry",
+      "keywords": "",
+      "sector": "General",
+      "dealType": "Acquisition",
+      "value": "$167M",
+      "date": "Apr 14, 2026",
+      "dateISO": "2026-04-14T07:00:00"
     },
     {
       "title": "Upset over land acquisition compensation, 5 Chandrapur tribal farmers consume poison; hospitalised - newsdrum.in",
@@ -1231,6 +1283,19 @@
       "dateISO": "2026-03-30T07:00:00"
     },
     {
+      "title": "CEMEX, S.A.B. de C.V. (BMV:CEMEX CPO) completed the acquisition of All Assets of Omega Products International, Inc. - marketscreener.com",
+      "summary": "CEMEX, S.A.B. de C.V. (BMV:CEMEX CPO) completed the acquisition of All Assets of Omega Products International, Inc. marketscreener.com",
+      "url": "https://news.google.com/rss/articles/CBMi4gFBVV95cUxNMklhRkFyc3NnWkt0WkwxZ0JPemYxcC1VYV9GMmFKN3NxcDNUM3I5dkUtRktycGROckZpX3l2ZVFudlRIUkFsc1RRdElCblNIbGY0NHhtNWE2LXJKa2VuNTZ1TFo2MmpCMnl3ZWJELUEzSjBxZFBJbEI2RnlMX0d5RmM2b3FHdHAzaXR3bmlRZ2RfeDVzdGlHaU40T21tN2RBZy0zR1ZqWlFkYWNFcWFLNmZyNUpsSWFWOVRPbjk5OExfM2FndzV6UUl2eDJnOU1vR3ZjVERvUzhpN1J1d1RkTU1n?oc=5",
+      "source": "marketscreener.com",
+      "category": "Cemex",
+      "keywords": "Acquired",
+      "sector": "General",
+      "dealType": "Acquisition",
+      "value": "",
+      "date": "Mar 30, 2026",
+      "dateISO": "2026-03-30T07:00:00"
+    },
+    {
       "title": "Olcim AG completed the acquisition of 99.99% stake in Inversiones ASPI S.A. from Hochschild Group. - marketscreener.com",
       "summary": "Olcim AG completed the acquisition of 99.99% stake in Inversiones ASPI S.A. from Hochschild Group. marketscreener.com",
       "url": "https://news.google.com/rss/articles/CBMi4gFBVV95cUxNUWxaTzZmNU9jZy1pQmhYemtBdWFocm1Ud0NhTjNCanNpSlB0LWU5aFhfLVNxYURXTGZjbkljTlgyakd4dFNpRUZiamRmREpPOV9qRF9SV1dBcHF6RGZLcE1qX0Z6bVhLVGE2RzRncEdCN2hsR2tuTE44Uml1TDhCN1Y5QnpTSWhJbVFiT0R3WE0ySzhYV2ZFSXZzWXVLc0dpMDJQQk1tSFhfbDhZUHNxbG5KM2hveTRzaFpHVjdaT1BGNkZ3QlJUUk1CaHRBZWtEdXI5eFpxdHpGSEdCM09ZT1NB?oc=5",
@@ -1307,45 +1372,6 @@
       "value": "$106M",
       "date": "Mar 27, 2026",
       "dateISO": "2026-03-27T07:00:00"
-    },
-    {
-      "title": "Knife River acquires ready-mix and aggregates supplier in Montana - Construction & Demolition Recycling",
-      "summary": "Knife River acquires ready-mix and aggregates supplier in Montana Construction & Demolition Recycling",
-      "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxPMFM0UVNMeF9OcXVvOF9tMVFGOE1yZllQX2hRdDVocWt1UU1lVTVZWDhoeExMb1l4RWNBOHJJeDBScWJWaWdrY05lQkl3NDE5ajhiZzRaOFlfMEhaMmlfd0lSSnMyMUVJV19zSGNXdkNLMEl0dndwU3Y1UWQxVWtBSnhTdHpITS1PV3B5YzZ2M2dhbEQ4R2hVc3MwMWlFaEU?oc=5",
-      "source": "Construction & Demolition Recycling",
-      "category": "Aggregates Industry",
-      "keywords": "Acquired",
-      "sector": "Multiple",
-      "dealType": "Acquisition",
-      "value": "",
-      "date": "Mar 26, 2026",
-      "dateISO": "2026-03-26T07:00:00"
-    },
-    {
-      "title": "UltraTech Settles Debt, Paving Way for Adani's JAL Cement Deal - Whalesbook",
-      "summary": "UltraTech Settles Debt, Paving Way for Adani's JAL Cement Deal Whalesbook",
-      "url": "https://news.google.com/rss/articles/CBMi5AFBVV95cUxNRFlrM3RmeHMwQzBhRG1nWmFRbFE2VGtmVmJ1VDBMSFpfS0w1UTMwUm9Kdl9sT3p6TThuMkxDYkJ4dGNlWnZxSW01d2ExU0FhWmpjajNsVmtCSnFQTHlUTjJkekhKUHRQbjVROU5jM0c5Mm5GanhhUTVoWUNianV5VGFwNWlKaVliS3RqMVV6Zk02dkFCazZ0VGZqUWFiZ1RvZi14VjZBX2U3bW9VbTJhMlJiWUxCVmxmSnBMUzRQWWJYbXNjc0hPMjdJRnI4dHZ0SGhXUlpLcDl6ZkVoWmdkUUVBV0o?oc=5",
-      "source": "Whalesbook",
-      "category": "Cement Industry",
-      "keywords": "",
-      "sector": "Multiple",
-      "dealType": "Acquisition",
-      "value": "",
-      "date": "Mar 26, 2026",
-      "dateISO": "2026-03-26T07:00:00"
-    },
-    {
-      "title": "UltraTech & Adani Deal: JAL Cement Acquisition Ka Rasta Saaf! Kya Hoga Fayda? - Whalesbook",
-      "summary": "UltraTech & Adani Deal: JAL Cement Acquisition Ka Rasta Saaf! Kya Hoga Fayda? Whalesbook",
-      "url": "https://news.google.com/rss/articles/CBMi5gFBVV95cUxNMHNnOXVtaG5ST2haT3BsQnctOGNROUw2aE9sSjFrWnZnZmpia2twc2lyUTVrUjZhTWh6SWIwWGdFaWp0cUtrLU16ZUpyb0VpNHZ6MHY0NFJwajF6U0Y1WXpEQTlUMnQ3aXJPQUZNRDhHUUFGSEVOV3BhYzVkNGhnYlYtdTZ5cnY5R0xOeW02cVZsOV9fWEMwX1RDUG5ZQVhxQjlsYmYzTGpxSmxWYkxVTFdPejl4ZGNleUZwMHhmNVZhbVRZNjAxV29ZY0lLTHROME85bWRyLVFzWnlwTDdqaVVPdWh2QQ?oc=5",
-      "source": "Whalesbook",
-      "category": "Cement Industry",
-      "keywords": "Acquired",
-      "sector": "Cement",
-      "dealType": "Acquisition",
-      "value": "",
-      "date": "Mar 26, 2026",
-      "dateISO": "2026-03-26T07:00:00"
     }
   ]
 }
