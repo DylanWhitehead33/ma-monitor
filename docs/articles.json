@@ -1,8 +1,8 @@
 {
-  "fetchedAt": "2026-04-25T15:11:52.104613",
-  "totalArticles": 106,
-  "newToday": 12,
-  "duplicatesRemoved": 7,
+  "fetchedAt": "2026-04-26T15:29:30.544745",
+  "totalArticles": 103,
+  "newToday": 9,
+  "duplicatesRemoved": 9,
   "archiveDays": 30,
   "articles": [
     {
@@ -1333,45 +1333,6 @@
       "value": "",
       "date": "Mar 28, 2026",
       "dateISO": "2026-03-28T07:00:00"
-    },
-    {
-      "title": "Mignonette Creations Private Limited Acquires Additional Shares in Mangalam Cement Ltd - scanx.trade",
-      "summary": "Mignonette Creations Private Limited Acquires Additional Shares in Mangalam Cement Ltd scanx.trade",
-      "url": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxPanVQZnRqQVVDdEdEc0hUWThLY0NrcmlrVHNJUnJGRjd3UVNfRnlKZmZZRU52X1lJRTJqcmdxVjZaSV9WbG9saHFReGN1UXFSWGtjSzJLcUN3UkRlZXFkYXVNeFNvVE41QzVPeUUyUVlYOUNfLWlWSlI5cmllNnJMY2ZNd003Y3k4TERvZGFEcGVqZWpIQUdHNXVuLXVUU2NNNlkyNU5aTXozNzBHN0NJY3NJS1BPREh2RF9WMWJUaUw0NmxVUnJlUVAzeFNiU3JNUmozNWNQUnFlVkE?oc=5",
-      "source": "scanx.trade",
-      "category": "Cement Industry",
-      "keywords": "Acquired",
-      "sector": "Cement",
-      "dealType": "Acquisition",
-      "value": "",
-      "date": "Mar 27, 2026",
-      "dateISO": "2026-03-27T07:00:00"
-    },
-    {
-      "title": "AVA Trading Acquires 5 Lakh Shares in Mangalam Cement Through Inter-se Transfer - scanx.trade",
-      "summary": "AVA Trading Acquires 5 Lakh Shares in Mangalam Cement Through Inter-se Transfer scanx.trade",
-      "url": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxNXzMxY1llaklqTG1QX00zaGtZMlhfUmdKVFU3a2Z1UnZOZ3lnUlhmZVNETEYzZzVGbVNYZzQxbklBU0s3dEFYT2ZzeGRlNGY4MEtwdzJxRXRqQ1BEbGMybnBhSVItU0c5ZGU3eUlFdjU0RGY5Q3BTY2g1RDNCalk4SVNWbFlIV0VZNFl5bGdsTzBFVDA4TVU4NG9sbXE5elVuUEJCSERQcWc0anMyQnpCX1VkVU1RamFPZGNhdHNpVkRSZmdBek1FcGVwMmU5U0tkRUE?oc=5",
-      "source": "scanx.trade",
-      "category": "Cement Industry",
-      "keywords": "Acquired",
-      "sector": "Cement",
-      "dealType": "Acquisition",
-      "value": "",
-      "date": "Mar 27, 2026",
-      "dateISO": "2026-03-27T07:00:00"
-    },
-    {
-      "title": "Suncrete and Haymaker Acquisition Corp. 4 Announce Upsizing of Private Placement from $105.5 Million to $167.1 Million and Extend Stockholder Redemption Deadline - Morningstar",
-      "summary": "Suncrete and Haymaker Acquisition Corp. 4 Announce Upsizing of Private Placement from $105.5 Million to $167.1 Million and Extend Stockholder Redemption Deadline Morningstar",
-      "url": "https://news.google.com/rss/articles/CBMivgJBVV95cUxQcU1mRlNTd3RCVjI5X3pTWkx2UzU5U1RHeXNKbnJ3VlM3RDF5NEJMMkEyVkp0Und3RXZka1VWenp3a2E2ZVgzdzgwemtYMVcwa0F1aVRlTXRuVWUxRF8zbTVXNGgyVUNCbzF4czh6WDNMSDRKSFJCamt0ekU2dXdETU4wSzZQR2p3N3RPVUJMeUcyc1ZzZWVrdklZQjVSV3JuV3VQeGNaRE1VdnJ3VDRWT1VoeTQ0Qktwa0VyMWhpZGUtQjBTZVBaT0FITmdJdFlvQTg0N21QalQ1aWxJU1p0MVh2Yy1lNGFMbUY4SlgzWkdwUHlYdGtJYnZLbVgzUF9zeXE2ZkN2WDItU3liUTNKYTJ3QVVzVlZiaDNJa184UXdzNkFXcUtGdVdKTFo5akhLclNvWjlTTHdBYV85T2c?oc=5",
-      "source": "Morningstar",
-      "category": "Ready-Mix Industry",
-      "keywords": "Acquired",
-      "sector": "Cement",
-      "dealType": "Acquisition",
-      "value": "$106M",
-      "date": "Mar 27, 2026",
-      "dateISO": "2026-03-27T07:00:00"
     }
   ]
 }
