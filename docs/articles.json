@@ -1,10 +1,101 @@
 {
-  "fetchedAt": "2026-04-26T15:29:30.544745",
-  "totalArticles": 103,
-  "newToday": 9,
-  "duplicatesRemoved": 9,
+  "fetchedAt": "2026-04-27T17:50:55.830383",
+  "totalArticles": 107,
+  "newToday": 17,
+  "duplicatesRemoved": 11,
   "archiveDays": 30,
   "articles": [
+    {
+      "title": "Granite Construction Incorporated (NYSE : GVA) acquired Kenny Seng Construction, Llc. - marketscreener.com",
+      "summary": "Granite Construction Incorporated (NYSE : GVA) acquired Kenny Seng Construction, Llc. marketscreener.com",
+      "url": "https://news.google.com/rss/articles/CBMizAFBVV95cUxONDlnNURZUHIyQ2NJVzFsd3ZrRFU1UDhTMV9UUXh3aVF5OWYzVHNvREZCZjhkWjZsSC13S3UxOWxVM2lDMVF1WUNQNjJTSlROblctaGVGN2RFZFhVVDNVYjBQUDRUVEJUSWdfR1ZsN3F3SjgzTXB3dDRudEJFakNDdmFDdndQelV5Rmo2WjFObnNVWnZsbjFCOXA0ZENWUDNDalFIUDd2U1hxMVBrZDF0Y3p4anBSeHRWd3BYRE9SQVBIT2NlYmZCUUVKMks?oc=5",
+      "source": "marketscreener.com",
+      "category": "Granite Construction",
+      "keywords": "Acquired",
+      "sector": "General",
+      "dealType": "Acquisition",
+      "value": "",
+      "date": "Apr 27, 2026",
+      "dateISO": "2026-04-27T16:36:31"
+    },
+    {
+      "title": "Granite acquires Kenny Seng Construction in Utah - Pit & Quarry",
+      "summary": "Granite acquires Kenny Seng Construction in Utah Pit & Quarry",
+      "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxNVUJORkYwcmgxTWNQN2o2RGpId3NQV1NBVGg3aFV4QTl1WmhEWDRyS2tWdVdhYkJpcXJKS210NkZXeGJfZUdVVHY5VjFWc1hSNDBQMmlQcnBiSFZrd0p1eDZ1MVQwVlU2c01pOTlqRmt6b2xLU0ZlZWV2bVMyX0FFOUpydm0?oc=5",
+      "source": "Pit & Quarry",
+      "category": "Pit & Quarry \u00b7 Aggregates",
+      "keywords": "Acquired",
+      "sector": "Aggregates",
+      "dealType": "Acquisition",
+      "value": "",
+      "date": "Apr 27, 2026",
+      "dateISO": "2026-04-27T14:43:12"
+    },
+    {
+      "title": "Veidekke: To complete acquisition of asphalt company in Northern Norway - Finansavisen",
+      "summary": "Veidekke: To complete acquisition of asphalt company in Northern Norway Finansavisen",
+      "url": "https://news.google.com/rss/articles/CBMi8gFBVV95cUxPT2lFZ0tlckVaSHZZV0xwaTFmU1Q3THFsNE84bUxUQlN6UldwNHhSUGg2QnI2UmJnd2pCNzJWcGQ4cm5vWjRibGJoUWFncUY5LVdSYkF3WWZpams2enc5a0V5Z3U0STlobWJZOTAzaGQxa3AxN21qeC1iMXVKNmtjT1hMMnBwNFRaOUZWRlYyZUZZejlTM3dJWUlBUGJFaDdUajRBLWRJM25Ub1A5eFJ1YWxwbVlnN1EzNGFZbDRlcE53bm9qV0EzTVFlRWdMR0l3aVd6czZ3UnY5YTJNY1FCWnVZblRfMnVtX2d6WUx2M21Xdw?oc=5",
+      "source": "Finansavisen",
+      "category": "Asphalt Industry",
+      "keywords": "Acquired",
+      "sector": "Asphalt",
+      "dealType": "Acquisition",
+      "value": "",
+      "date": "Apr 27, 2026",
+      "dateISO": "2026-04-27T11:09:24"
+    },
+    {
+      "title": "Utah quarry deal gives Granite 45M tons of reserves, $150M revenue - Stock Titan",
+      "summary": "Utah quarry deal gives Granite 45M tons of reserves, $150M revenue Stock Titan",
+      "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxOYmV6bVFZSU8xODBzYXhHVDUwQkdSSDJ6ZVREXzkwQWdGakZHWXRZNmFDeHQwbTI2SEZaanFyeFY2dHlWM3ZrME13eGYxeFgzZ04zX1l6VVFhYlhXV2JSN3ZSeHpONEFjUzgwQjlOYmkxcUZYanNtOWxYc3VmMEhwOEJld1dkU0xzQm94bS0xUjUxVC1QcEJtUXhjd1NWWlYtd3E1MEhsYndvX1RiZkRrNEVMR3puUFkwVlJGZA?oc=5",
+      "source": "Stock Titan",
+      "category": "Granite Construction",
+      "keywords": "",
+      "sector": "Aggregates",
+      "dealType": "Acquisition",
+      "value": "$150M",
+      "date": "Apr 27, 2026",
+      "dateISO": "2026-04-27T10:45:00"
+    },
+    {
+      "title": "KAPCO, Fauji Cement acquire 92.03% controlling stake in Attock Cement - Business Recorder",
+      "summary": "KAPCO, Fauji Cement acquire 92.03% controlling stake in Attock Cement Business Recorder",
+      "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE1mNjFTRU5mRS1pUzdJTk5rM0E1Vm02UThxNjZTU0JKRnRfcnhrZUlybFNOUGZUUEtnbWhnb1BRc1VUM3FQOXVVTXRfQk1XWUg5NEZsQjB30gFWQVVfeXFMTWY2MVNFTmZFLWlTN0lOTmszQTVWbTZROHE2NlNTQkpGdF9yeGtlSXJsU05QZlRQS2dtaGdvUFFzVVQzcVA5dVVNdF9CTVdZSDk0RmxCMHc?oc=5",
+      "source": "Business Recorder",
+      "category": "Cement Industry",
+      "keywords": "Acquired",
+      "sector": "Cement",
+      "dealType": "Acquisition",
+      "value": "",
+      "date": "Apr 27, 2026",
+      "dateISO": "2026-04-27T05:03:14"
+    },
+    {
+      "title": "Fauji Cement, KAPCO acquire 92.03% stake in Attock Cement after completing deal - Profit by Pakistan Today",
+      "summary": "Fauji Cement, KAPCO acquire 92.03% stake in Attock Cement after completing deal Profit by Pakistan Today",
+      "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxPSXpwdXRFTVNfdUl5a2JVTFdUeHNvdmo0QktoaW5oa3ZReHdTQVB0Q0ZmWEJzbG05NWEySXlNM0FvOHZWdFEwaEhXSVpGMDRoWnd0LUVPdzNlWTVQdGoyTGF6TGEwdVJGc1RWczF1ckl6Qm1SVE9ab3lsQ0VYbDRmQkh2Y2l3RlhZeXhJQXB5SVF3LXpwOHMyekpMTFNRRHluN0NpRFBpc2VVd3pCRm83dmcxa2phMlIwWU1taWJkVzBPM2M?oc=5",
+      "source": "Profit by Pakistan Today",
+      "category": "Cement Industry",
+      "keywords": "Acquired",
+      "sector": "Cement",
+      "dealType": "Acquisition",
+      "value": "",
+      "date": "Apr 27, 2026",
+      "dateISO": "2026-04-27T04:30:21"
+    },
+    {
+      "title": "Are acquisitions expanding Construction Partners' growth potential? - MSN",
+      "summary": "Are acquisitions expanding Construction Partners' growth potential? MSN",
+      "url": "https://news.google.com/rss/articles/CBMi7wJBVV95cUxPdkw4NExQWDNkRFJEeTNXTHR0T1g0dmZzd1c1SUxSS0hycFlKRm85aVJRSzBKY2hwdjNTQTVFUFpEWGlHcldtdWp1SGZGRUNOR0ZYcWNJUnNBeEtEYjZtelBxYTlra296eDBuTFZuOVROWmJYRUVXNGhFalFudWNsbnZPbDREQmNiZ21qLTZMZWZLdTlvc1l4M2pQaGtjOFAwY0hhVkFNUVd1U1ZnNjNkeE1QT0dlZHk5eEtjMVhYTVZRcnNlVmozcXlxWTkyRW1pUlBkYkdlRURlZUJDcWFMTGVnaFU1bkM5YldObThySXQ2ZlhIU2xFX2k0TV9odllSZ2xna05CM0lueUM2WUZNUXA3elBvVUE4NUV6cmluNnJPUzhkYWZaNFNOR2ZiR0VoTjFGVFNWNmpwdVBvQjFHNTllWndUVHdMc1ZOeVRfV1NUbW8tOEJtbGJadUVha1RsWWJmY1Y0a0luZ01nNmkw?oc=5",
+      "source": "MSN",
+      "category": "Asphalt Industry",
+      "keywords": "Acquired",
+      "sector": "General",
+      "dealType": "Acquisition",
+      "value": "",
+      "date": "Apr 26, 2026",
+      "dateISO": "2026-04-26T18:45:57"
+    },
     {
       "title": "Arcosa, Inc. $ACA Shares Acquired by Impax Asset Management Group plc - MarketBeat",
       "summary": "Arcosa, Inc. $ACA Shares Acquired by Impax Asset Management Group plc MarketBeat",
@@ -407,19 +498,6 @@
       "value": "",
       "date": "Apr 15, 2026",
       "dateISO": "2026-04-15T22:21:40"
-    },
-    {
-      "title": "Are acquisitions expanding Construction Partners' growth potential? - MSN",
-      "summary": "Are acquisitions expanding Construction Partners' growth potential? MSN",
-      "url": "https://news.google.com/rss/articles/CBMi0gJBVV95cUxQaWJFQWRGM21XcE5aTVNOZE5UdDZzMDlzNHMyemE1R2NhUU00RjFQN1JuclhjdDMtRENIbU5HTERBSVM4dVJ2bE5MMFo5a2hBeHp5bC00Y3VUd0xCZWtBcTdsYl8yU3hlSUh0VmlMV3RVMjcwVklqQ0lYS3BiRGl1VE51cVhwQ2dPaG5MSHVLNEYtbzBKVkZuMDJMd1gwZHkxUTJ3TjVWMXg3U1lzaTg1MGFxeUhBUXBsNGhGOFJNM0Ixd09JejhhODc1RGpaaTNZUkpZU1RZNjhBYU1oSng5Y0hPZHdXN3RMSXF6QnpQOHBxaHRtYnNZcm9rV1VtWm5GSEF0czROamJfTWNraWhJRWx1NDlFUzJ2QXNuVG16UVlWcWpNVmFzSmFWdjY1eFFyb0g0Y1NqQXJpYXdOWlI0UkhMLVFYNXlJdWg5ZGpsdWlEdw?oc=5",
-      "source": "MSN",
-      "category": "Vulcan Materials",
-      "keywords": "Acquired",
-      "sector": "General",
-      "dealType": "Acquisition",
-      "value": "",
-      "date": "Apr 15, 2026",
-      "dateISO": "2026-04-15T15:08:40"
     },
     {
       "title": "J.K. Cement Acquires 9.77% Stake in Mehrauni Electro Power for \u20b92.10 Crore - scanx.trade",
@@ -1307,32 +1385,6 @@
       "value": "",
       "date": "Mar 29, 2026",
       "dateISO": "2026-03-29T07:00:00"
-    },
-    {
-      "title": "CRH Advances $300 Million Share Buyback With Latest U.S. Repurchases - The Globe and Mail",
-      "summary": "CRH Advances $300 Million Share Buyback With Latest U.S. Repurchases The Globe and Mail",
-      "url": "https://news.google.com/rss/articles/CBMi4wFBVV95cUxOYTFWQmNiY0s2V2QtMG9PaGJUNG9RMHQ3dzctUXNjY25pb2lTWXRSU085Z2ZsRlc5c1dvNWgzb0hMMl9RWVhJbDV4RlJZdmtRVnFUcGU3Wld5eE1Ua0k4YVNObXNDeW9ibFJ0VjJtRkFjellKa2FIWjVsNGJ4ZjJiUUtzaWVPTHNUZGNoLU5qY2l6RTNkOF9YZ3RWNHY0NlkyYnVQTThEbU1OZlJzYlVNTEhkY3dwdkRSY0E3MmdJREItVkFod0lmMllFU2pOcEgyb3ZyXzlFZE1NUkE3N2w2NGRTdw?oc=5",
-      "source": "The Globe and Mail",
-      "category": "CRH",
-      "keywords": "Purchase",
-      "sector": "General",
-      "dealType": "Acquisition",
-      "value": "$300M",
-      "date": "Mar 28, 2026",
-      "dateISO": "2026-03-28T07:00:00"
-    },
-    {
-      "title": "India Cements Completes Subsidiary Merger After NCLT Green Light - Whalesbook",
-      "summary": "India Cements Completes Subsidiary Merger After NCLT Green Light Whalesbook",
-      "url": "https://news.google.com/rss/articles/CBMi9wFBVV95cUxOb19aSWRrSUxGN1I5WG9pT2pGVEFTb0VDSFgyejlvX2NwcVU4d0RjY1BBd2NtOFVwaldPVkc1OVRWaGVLdHZUQ1FpNVpqVDV3dmZhMDh5dzRaWGVPeGZ4YWJnYUFTaUgzb1pJMU4wTHk5NHU4VnJTZHdiVlpLb1Y2YkNUSGJNWWxqZWhpVlVrT0V2ODBpb3lYY0VkSTV3TkdIUi0tVmZ4SzIwUWRTRDM1eEZCU1pwQTdyMHNaX0h3RVJ2TTdONFBEOUVmaW45bVI0LUxSRHJMU0d3dmUyMEkwdDdGdzZCWVRYUW1DMHVzeHRsRkFtd040?oc=5",
-      "source": "Whalesbook",
-      "category": "Cement Industry",
-      "keywords": "Merger",
-      "sector": "Cement",
-      "dealType": "Merger",
-      "value": "",
-      "date": "Mar 28, 2026",
-      "dateISO": "2026-03-28T07:00:00"
     }
   ]
 }
