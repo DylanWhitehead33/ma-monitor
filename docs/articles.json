@@ -1,10 +1,62 @@
 {
-  "fetchedAt": "2026-04-27T17:50:55.830383",
-  "totalArticles": 107,
-  "newToday": 17,
-  "duplicatesRemoved": 11,
+  "fetchedAt": "2026-04-28T18:10:13.500101",
+  "totalArticles": 111,
+  "newToday": 15,
+  "duplicatesRemoved": 10,
   "archiveDays": 30,
   "articles": [
+    {
+      "title": "Attock Cement board overhauled after Fauji-led takeover - Profit by Pakistan Today",
+      "summary": "Attock Cement board overhauled after Fauji-led takeover Profit by Pakistan Today",
+      "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxQNkFNZmNPR0V4Y1ZsNUk5TWxteG16MDA4LXY3RlZqMURQNGsxUUYtSXkyTDd0REVTNUZ4cU5oVnJMTndQSFZna3hGWUo1eWR6R2ttWnFxSTlqMWZTY2E5aXJsSVJib3VDTVRqNmJXZnpDR3RDZDhxVGdhWTEwZlFPQVF5SThQNkN4SmpHaGJ0eVo5OTJhM3ZSOVhTSnVhdmpTWGV1d2FR?oc=5",
+      "source": "Profit by Pakistan Today",
+      "category": "Cement Industry",
+      "keywords": "Takeover",
+      "sector": "Cement",
+      "dealType": "Acquisition",
+      "value": "",
+      "date": "Apr 28, 2026",
+      "dateISO": "2026-04-28T17:49:51"
+    },
+    {
+      "title": "Acquisitions turn earnings drivers for UltraTech in Q4; consolidated profit at record high - The Economic Times",
+      "summary": "Acquisitions turn earnings drivers for UltraTech in Q4; consolidated profit at record high The Economic Times",
+      "url": "https://news.google.com/rss/articles/CBMigAJBVV95cUxPM0Jnc1QwMmIwaWRQNUY3YW1uZDNqN3B2eENvRFdNLXNZcTljOTlIYmY1S3dxU2U1alBPa2dWZlFBMnY2WlZtT09TWm84OHdOalF6VVFKQTZlSDdCZEo5X1ViX2NYQ2lwVEdGUy1TZnk1U3htUEhHLTJIV1Fkc2RQVnI0NVZsWVBLSmhOVXpzMVdoaE12M0tscTI0bUpGdG5JUERpWm9JWkp6cm9NM2JUa2ZCcjdfbWVfeXZkTlM1amQtRjRqSW95T1ZEY3lTeHE1OXIyY0paV0JDMEZLSXV2YWlCdkNMQkd1S0ZxZXFoTDlreHdPVGhVdW9LeGo1Skph0gGAAkFVX3lxTE8zQmdzVDAyYjBpZFA1RjdhbW5kM2o3cHZ4Q29EV00tc1lxOWM5OUhiZjVLd3FTZTVqUE9rZ1ZmUUEydjZaVm1PT1Nabzg4d05qUXpVUUpBNmVIN0JkSjlfVWJfY1hDaXBUR0ZTLVNmeTVTeG1QSEctMkhXUWRzZFBWcjQ1VmxZUEtKaE5VenMxV2hoTXYzS2xxMjRtSkZ0bklQRGlab0laSnpyb00zYlRrZkJyN19tZV95dmROUzVqZC1GNGpJb3lPVkRjeVN4cTU5cjJjSlpXQkMwRktJdXZhaUJ2Q0xCR3VLRnFlcWhMOWt4d09UaFV1b0t4ajVKSmE?oc=5",
+      "source": "The Economic Times",
+      "category": "Cement Industry",
+      "keywords": "Acquired, Consolidation",
+      "sector": "General",
+      "dealType": "Acquisition",
+      "value": "",
+      "date": "Apr 28, 2026",
+      "dateISO": "2026-04-28T13:14:00"
+    },
+    {
+      "title": "Cemex UK divest Wick flooring operation to Treanor Pujol - facilitiesmanagement-now.com",
+      "summary": "Cemex UK divest Wick flooring operation to Treanor Pujol facilitiesmanagement-now.com",
+      "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxPaXd4OXl4eWFUUl84cHU0YkxIZ3ZJTU16eGFZakhpLUdzTUZSeDBhZjNFZ2dMZzhfOU9ib0JKMkoxR3ZnNk40b2ZrU0FTLXRKWFNCZTRTNFVjOTg0c2tBbTl6Tk9VVEVVTGlEYlJGcGhFRVFpNnc5eGF3eEl3eWRBazZFYW45Z0MwbDNXeThjZFpuc3U2OV9XbnhQUnlNQldIYWVuSVQybU8xVG1JczZCZkdn?oc=5",
+      "source": "facilitiesmanagement-now.com",
+      "category": "Precast Industry",
+      "keywords": "Divest",
+      "sector": "General",
+      "dealType": "Divestiture",
+      "value": "",
+      "date": "Apr 28, 2026",
+      "dateISO": "2026-04-28T11:33:51"
+    },
+    {
+      "title": "175,500 Shares in Crh Plc $CRH Acquired by State of Michigan Retirement System - MarketBeat",
+      "summary": "175,500 Shares in Crh Plc $CRH Acquired by State of Michigan Retirement System MarketBeat",
+      "url": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxNb0pjdllkVXlSYmtqOW5RXzZmZDlGSTJISUM0Wm03Y21hYVpjUFZzVE14TktJb0g0amNTRXNEeHJFMjVlY19mbnBsejNHNzRDalJSeE5zVnhWV1hvNC14XzU2U3BFZmlkcjBxREFIbVVQUUJRdENBRFJadEU5aXlZVEFReHJSUUNCVnpwOEkzMER3WGFwdUhtS3RobDN1aTRwNzRVRVhNNkpqQVRfeVBrZ2lTUHFUWDhLVHZueWMyWjdxdVFFMHJZNm5BNE1NTk1fYXFv?oc=5",
+      "source": "MarketBeat",
+      "category": "Precast Industry",
+      "keywords": "Acquired",
+      "sector": "General",
+      "dealType": "Acquisition",
+      "value": "",
+      "date": "Apr 28, 2026",
+      "dateISO": "2026-04-28T10:27:49"
+    },
     {
       "title": "Granite Construction Incorporated (NYSE : GVA) acquired Kenny Seng Construction, Llc. - marketscreener.com",
       "summary": "Granite Construction Incorporated (NYSE : GVA) acquired Kenny Seng Construction, Llc. marketscreener.com",
@@ -43,6 +95,19 @@
       "value": "",
       "date": "Apr 27, 2026",
       "dateISO": "2026-04-27T11:09:24"
+    },
+    {
+      "title": "Granite completes Kenny Seng Construction acquisition in Utah By Investing.com - Investing.com Canada",
+      "summary": "Granite completes Kenny Seng Construction acquisition in Utah By Investing.com Investing.com Canada",
+      "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxQanYyM09pem50OGJKWnZSd0t5NF9QYnBpX3k0MnRoa2MxQUh1bWZkMDlXb1FIYUxNckhhOS10OFR2bUxseUtfV09LYXZVdjRybjJjRWVoTWp3NVh2YjVvaUVIV3FmZFRtVU9vQzZzNFhKdHJoTzR3TTloYnJ2UWtMZjlRR3VfaEgxM3o2X2ZLd19sUUpuVWo4NXR2Slk5eVZQVUNYRDY4ZXlfT3JWN21HR1VUcmdQcXg3cU51c0hUaw?oc=5",
+      "source": "Investing.com Canada",
+      "category": "Granite Construction",
+      "keywords": "Acquired, Investment",
+      "sector": "General",
+      "dealType": "Investment",
+      "value": "",
+      "date": "Apr 27, 2026",
+      "dateISO": "2026-04-27T10:51:43"
     },
     {
       "title": "Utah quarry deal gives Granite 45M tons of reserves, $150M revenue - Stock Titan",
@@ -86,15 +151,15 @@
     {
       "title": "Are acquisitions expanding Construction Partners' growth potential? - MSN",
       "summary": "Are acquisitions expanding Construction Partners' growth potential? MSN",
-      "url": "https://news.google.com/rss/articles/CBMi7wJBVV95cUxPdkw4NExQWDNkRFJEeTNXTHR0T1g0dmZzd1c1SUxSS0hycFlKRm85aVJRSzBKY2hwdjNTQTVFUFpEWGlHcldtdWp1SGZGRUNOR0ZYcWNJUnNBeEtEYjZtelBxYTlra296eDBuTFZuOVROWmJYRUVXNGhFalFudWNsbnZPbDREQmNiZ21qLTZMZWZLdTlvc1l4M2pQaGtjOFAwY0hhVkFNUVd1U1ZnNjNkeE1QT0dlZHk5eEtjMVhYTVZRcnNlVmozcXlxWTkyRW1pUlBkYkdlRURlZUJDcWFMTGVnaFU1bkM5YldObThySXQ2ZlhIU2xFX2k0TV9odllSZ2xna05CM0lueUM2WUZNUXA3elBvVUE4NUV6cmluNnJPUzhkYWZaNFNOR2ZiR0VoTjFGVFNWNmpwdVBvQjFHNTllWndUVHdMc1ZOeVRfV1NUbW8tOEJtbGJadUVha1RsWWJmY1Y0a0luZ01nNmkw?oc=5",
+      "url": "https://news.google.com/rss/articles/CBMi7wJBVV95cUxNdkdGS0JJb2Z3bWpLc09lSVJHVUVhRXV0b1ZuaUhNU0JmcWtXdGFBaEstdm5iV2ZDOTd0U1NRbmFDcTNZcDhoNFlCMDQ1bUlacE8wREJsSHNMMk5TZ0F3UHJnVUhtekc4MVE0WGljd0ZlQUVyamtlOW1mMGFVbklNaXhvdjdQSy00SEk3QmNhQ1E1NExWenkxSVRDbFpLbzZzcFlsT0hWaXFENmFteFdkcG5DNlQxeTNUbDJiWmsxYmJNUUpLLUJxVkdLcGpoekFRb295aGl0UTlTQU12Q0d0YTF3Q3ZkV3F4ZThqRk9Wa1RJX2NRX25za3NVNUFpb1FDeXI3ZkxwbjJyVTRTTVdpa1JwUFFpSURIa0RrbElveFZFVTN2SWZ3T3RqbElmdGpLWE9zVlhBZThNMDlVRVZadjVCUTBBR3Z1SjViMHdyVlBpaFhEZnI2NVp0V1hwcWhYbTh2N3FGM25iZjdpT2xJ?oc=5",
       "source": "MSN",
-      "category": "Asphalt Industry",
+      "category": "Vulcan Materials",
       "keywords": "Acquired",
       "sector": "General",
       "dealType": "Acquisition",
       "value": "",
-      "date": "Apr 26, 2026",
-      "dateISO": "2026-04-26T18:45:57"
+      "date": "Apr 27, 2026",
+      "dateISO": "2026-04-27T02:58:28"
     },
     {
       "title": "Arcosa, Inc. $ACA Shares Acquired by Impax Asset Management Group plc - MarketBeat",
@@ -1372,19 +1437,6 @@
       "value": "",
       "date": "Mar 30, 2026",
       "dateISO": "2026-03-30T07:00:00"
-    },
-    {
-      "title": "Olcim AG completed the acquisition of 99.99% stake in Inversiones ASPI S.A. from Hochschild Group. - marketscreener.com",
-      "summary": "Olcim AG completed the acquisition of 99.99% stake in Inversiones ASPI S.A. from Hochschild Group. marketscreener.com",
-      "url": "https://news.google.com/rss/articles/CBMi4gFBVV95cUxNUWxaTzZmNU9jZy1pQmhYemtBdWFocm1Ud0NhTjNCanNpSlB0LWU5aFhfLVNxYURXTGZjbkljTlgyakd4dFNpRUZiamRmREpPOV9qRF9SV1dBcHF6RGZLcE1qX0Z6bVhLVGE2RzRncEdCN2hsR2tuTE44Uml1TDhCN1Y5QnpTSWhJbVFiT0R3WE0ySzhYV2ZFSXZzWXVLc0dpMDJQQk1tSFhfbDhZUHNxbG5KM2hveTRzaFpHVjdaT1BGNkZ3QlJUUk1CaHRBZWtEdXI5eFpxdHpGSEdCM09ZT1NB?oc=5",
-      "source": "marketscreener.com",
-      "category": "Holcim",
-      "keywords": "Acquired",
-      "sector": "General",
-      "dealType": "Acquisition",
-      "value": "",
-      "date": "Mar 29, 2026",
-      "dateISO": "2026-03-29T07:00:00"
     }
   ]
 }
