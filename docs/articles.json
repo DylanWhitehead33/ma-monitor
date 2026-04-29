@@ -1,10 +1,62 @@
 {
-  "fetchedAt": "2026-04-28T18:10:13.500101",
-  "totalArticles": 111,
-  "newToday": 15,
-  "duplicatesRemoved": 10,
+  "fetchedAt": "2026-04-29T18:03:56.202442",
+  "totalArticles": 115,
+  "newToday": 18,
+  "duplicatesRemoved": 9,
   "archiveDays": 30,
   "articles": [
+    {
+      "title": "Suncrete, Inc. Expands Into Texas and Louisiana With Acquisition of Hope Concrete, LLC 1 - Minichart",
+      "summary": "Suncrete, Inc. Expands Into Texas and Louisiana With Acquisition of Hope Concrete, LLC 1 Minichart",
+      "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxNTF9XWFZGRW5sRXFNTi1TVUlVbEFzekVHOFFxckFwRE1ONk9jRjRZYmJhWUdlOVNueGlhRFJEQ2VjQUtQa1ZVWmVCNXVRVll3cjlBTUVFM0NiZU9NWVBTMHM4bUNWY0RwQnNacW1UYWJlVnJNdXZwT2tSdFlaeU90UUc2a3FKV0tyQ1lCNXlhTkFJSnIwR0ZxenhVYUY2OFJxYW84eEFvOFQ4YkdsYUFzcW1QM0ttRGJXSEp2VXNfVU1SLWhN?oc=5",
+      "source": "Minichart",
+      "category": "Ready-Mix Industry",
+      "keywords": "Acquired",
+      "sector": "General",
+      "dealType": "Acquisition",
+      "value": "",
+      "date": "Apr 29, 2026",
+      "dateISO": "2026-04-29T14:38:00"
+    },
+    {
+      "title": "Primoris Services Acquires PayneCrest Electric for 422 Million Dollars - HarianBasis.co",
+      "summary": "Primoris Services Acquires PayneCrest Electric for 422 Million Dollars HarianBasis.co",
+      "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxPcXVhb1VOSHJNcjhDRk1TTFROZG5mSlNObDBQZVJsaWs2U0RKU0pfTDRxeHBGdWExaVFSZWJHYXBoeGc4TzU5dlZOVnB2d3J3WGZPLUFua2dpcWctSnk0T3BMX0hmdUpJaTBFRllFUjVTSTVJcTQ3bTAyb213X1RqYlZ3?oc=5",
+      "source": "HarianBasis.co",
+      "category": "Holcim",
+      "keywords": "Acquired",
+      "sector": "General",
+      "dealType": "Acquisition",
+      "value": "",
+      "date": "Apr 29, 2026",
+      "dateISO": "2026-04-29T11:17:16"
+    },
+    {
+      "title": "Holcim Completes Acquisition of Cementos Pacasmayo Controlling Stake - HarianBasis.co",
+      "summary": "Holcim Completes Acquisition of Cementos Pacasmayo Controlling Stake HarianBasis.co",
+      "url": "https://news.google.com/rss/articles/CBMiekFVX3lxTE5GSXozYTRhbmNnUUNKME1OTkItWUlJX2dlaVJTYjlIb3NvZHZEVnRpNDYyLTh0Tzg4UGh4S3pMZ2UwUTEtMFJPZEVoUnBfQlVvZ1NpYTdpclkxSS1pazlHZkdYMWNOUG1zQm9aX2NwaWxtY1lIeV9aZW9n?oc=5",
+      "source": "HarianBasis.co",
+      "category": "Holcim",
+      "keywords": "Acquired",
+      "sector": "Cement",
+      "dealType": "Acquisition",
+      "value": "",
+      "date": "Apr 29, 2026",
+      "dateISO": "2026-04-29T07:12:20"
+    },
+    {
+      "title": "Granite Construction Completes Acquisition of Kenny Seng Construction - IndexBox",
+      "summary": "Granite Construction Completes Acquisition of Kenny Seng Construction IndexBox",
+      "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxNRmpmRUctZlRwQ2prazhQZlpnc1dhTzVhZ245d2N6bDhMR2c0d2RiNVg4ZzhzWUpBZ2V3cW0wdmRvVTBWdFBZZzdXM2M2VHVtWFVxS09DelpsMlQ5Qk9UaGU5X2dzWTc1RkNJQlZ2VnF5TkxtVzRiQm9fTkMzSDRmdnBYdHJsbXlNYjd0Y3V6dXVIcmctM1FfQkoxZ3hqN3Mz?oc=5",
+      "source": "IndexBox",
+      "category": "Aggregates Industry",
+      "keywords": "Acquired",
+      "sector": "General",
+      "dealType": "Acquisition",
+      "value": "",
+      "date": "Apr 28, 2026",
+      "dateISO": "2026-04-28T23:40:00"
+    },
     {
       "title": "Attock Cement board overhauled after Fauji-led takeover - Profit by Pakistan Today",
       "summary": "Attock Cement board overhauled after Fauji-led takeover Profit by Pakistan Today",
@@ -58,6 +110,19 @@
       "dateISO": "2026-04-28T10:27:49"
     },
     {
+      "title": "Fauji Cement, KAPCO Announce Joint Acquisition of Attock Cement - TechJuice",
+      "summary": "Fauji Cement, KAPCO Announce Joint Acquisition of Attock Cement TechJuice",
+      "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxNeURnb3J5OUIwUTFqVFNvcmpnRWxlbVV6TzFraUxOdUplVGdQcDg2eGw2b0xCRG1yWUlXd0JXQmZSRTJDNXM0M1RaZnhuRkVueXVralZNRUlOalNzSVRwT0xoV09qMXZCRFU0VVNpX2M3MHJVSWV3OEZuRG00QW5CYkZscGlGM3R6T2RJUldsTld2Zw?oc=5",
+      "source": "TechJuice",
+      "category": "Cement Industry",
+      "keywords": "Acquired",
+      "sector": "Cement",
+      "dealType": "Acquisition",
+      "value": "",
+      "date": "Apr 27, 2026",
+      "dateISO": "2026-04-27T18:20:31"
+    },
+    {
       "title": "Granite Construction Incorporated (NYSE : GVA) acquired Kenny Seng Construction, Llc. - marketscreener.com",
       "summary": "Granite Construction Incorporated (NYSE : GVA) acquired Kenny Seng Construction, Llc. marketscreener.com",
       "url": "https://news.google.com/rss/articles/CBMizAFBVV95cUxONDlnNURZUHIyQ2NJVzFsd3ZrRFU1UDhTMV9UUXh3aVF5OWYzVHNvREZCZjhkWjZsSC13S3UxOWxVM2lDMVF1WUNQNjJTSlROblctaGVGN2RFZFhVVDNVYjBQUDRUVEJUSWdfR1ZsN3F3SjgzTXB3dDRudEJFakNDdmFDdndQelV5Rmo2WjFObnNVWnZsbjFCOXA0ZENWUDNDalFIUDd2U1hxMVBrZDF0Y3p4anBSeHRWd3BYRE9SQVBIT2NlYmZCUUVKMks?oc=5",
@@ -69,6 +134,19 @@
       "value": "",
       "date": "Apr 27, 2026",
       "dateISO": "2026-04-27T16:36:31"
+    },
+    {
+      "title": "Ogier advises Haymaker Acquisition Corp 4 on US$226 million business combination and Nasdaq listing - Cayman Finance",
+      "summary": "Ogier advises Haymaker Acquisition Corp 4 on US$226 million business combination and Nasdaq listing Cayman Finance",
+      "url": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxQem5BZzFCdUh5Ump1Vm1VYzl4UzFYLVdOSnZuZWFXYk1kdzU5TExiV3ItZjRnTHIyQnhfYi1VSzc2SFFrenJ3Ykxsc3RpdnpXWHhRQzkyZjF6OUxwMmE4Z09NeGZTUXJDc1dJUUQ0cFFxWDMtUWlld0ZoU0lmUVRhZW9fYnFvRFE3ZnVMTHpBdERuSlZvLS1KdnlVMEJIejE5ZUtMYy1UcWllWDIzSllzSnBzMk1PSGlsWVU4MmppTjVZN3Vzd21jaW1LSUFlQ3Jz?oc=5",
+      "source": "Cayman Finance",
+      "category": "Ready-Mix Industry",
+      "keywords": "Acquired",
+      "sector": "General",
+      "dealType": "Acquisition",
+      "value": "$226M",
+      "date": "Apr 27, 2026",
+      "dateISO": "2026-04-27T15:31:32"
     },
     {
       "title": "Granite acquires Kenny Seng Construction in Utah - Pit & Quarry",
@@ -84,6 +162,19 @@
       "dateISO": "2026-04-27T14:43:12"
     },
     {
+      "title": "BA Glass Group Acquires Significant Stake in Sotuver - HarianBasis.co",
+      "summary": "BA Glass Group Acquires Significant Stake in Sotuver HarianBasis.co",
+      "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTFBCbVVtdVN0VFhxY0VSQ1VfUEotUUlYZkphRzY0ei1HT2h5NF9HVjRNVUZpYktMdi1NVVhKaFBUQzd2TXRnQ092STdRTHk3QWZjZDJfQV94dXBvNzROWDVIckpaQnlQWEt3QnhRdnRn?oc=5",
+      "source": "HarianBasis.co",
+      "category": "Holcim",
+      "keywords": "Acquired",
+      "sector": "General",
+      "dealType": "Acquisition",
+      "value": "",
+      "date": "Apr 27, 2026",
+      "dateISO": "2026-04-27T11:39:51"
+    },
+    {
       "title": "Veidekke: To complete acquisition of asphalt company in Northern Norway - Finansavisen",
       "summary": "Veidekke: To complete acquisition of asphalt company in Northern Norway Finansavisen",
       "url": "https://news.google.com/rss/articles/CBMi8gFBVV95cUxPT2lFZ0tlckVaSHZZV0xwaTFmU1Q3THFsNE84bUxUQlN6UldwNHhSUGg2QnI2UmJnd2pCNzJWcGQ4cm5vWjRibGJoUWFncUY5LVdSYkF3WWZpams2enc5a0V5Z3U0STlobWJZOTAzaGQxa3AxN21qeC1iMXVKNmtjT1hMMnBwNFRaOUZWRlYyZUZZejlTM3dJWUlBUGJFaDdUajRBLWRJM25Ub1A5eFJ1YWxwbVlnN1EzNGFZbDRlcE53bm9qV0EzTVFlRWdMR0l3aVd6czZ3UnY5YTJNY1FCWnVZblRfMnVtX2d6WUx2M21Xdw?oc=5",
@@ -95,6 +186,19 @@
       "value": "",
       "date": "Apr 27, 2026",
       "dateISO": "2026-04-27T11:09:24"
+    },
+    {
+      "title": "Sun Pharma Agrees to Acquire Organon in $11.75 Billion Cash Deal - HarianBasis.co",
+      "summary": "Sun Pharma Agrees to Acquire Organon in $11.75 Billion Cash Deal HarianBasis.co",
+      "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTE1oVldCVVVGZ0lnTjcyd0pXd2VaX0g4V2E5RnRGSTZjeEUwWldVaWowRF9ReW1SNGc5WWtLckhMM2NmcHJ1NFM4VWI0V2tNRjZaS0M1d3pLbzdIcEdLNWRwbUpZb2VFSkQ4b0kyc1ZIeW5UYmR2QXd4OQ?oc=5",
+      "source": "HarianBasis.co",
+      "category": "Holcim",
+      "keywords": "Acquired, To Acquire",
+      "sector": "General",
+      "dealType": "Acquisition",
+      "value": "$11.75B",
+      "date": "Apr 27, 2026",
+      "dateISO": "2026-04-27T10:52:21"
     },
     {
       "title": "Granite completes Kenny Seng Construction acquisition in Utah By Investing.com - Investing.com Canada",
@@ -160,6 +264,19 @@
       "value": "",
       "date": "Apr 27, 2026",
       "dateISO": "2026-04-27T02:58:28"
+    },
+    {
+      "title": "Ambuja Cements-Adani merger receives no objection letter from stock exchanges - Punjab News Express",
+      "summary": "Ambuja Cements-Adani merger receives no objection letter from stock exchanges Punjab News Express",
+      "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxObFpEUHd3d0hvNUZKRm82M0FqNGpJRGNaZHJLOVpjYjN6by1mMXhpT0tJUGdoWVVoX0tQNnRvemF2WUNaaVJHemQ2NXBfVkJKeWNLZlpCX2Y5QzBGMUVmWjdMV21PQkhjZFo1REpINm5QRWhZRFZvVUZuT0pjYXJndWg2RzNTNXVvTEpoNjZoY0pDZ2p3RjU1ekxpTVAyWERZRC13Zlc2Q0RBSFk?oc=5",
+      "source": "Punjab News Express",
+      "category": "Cement Industry",
+      "keywords": "Merger",
+      "sector": "Cement",
+      "dealType": "Merger",
+      "value": "",
+      "date": "Apr 25, 2026",
+      "dateISO": "2026-04-25T23:07:20"
     },
     {
       "title": "Arcosa, Inc. $ACA Shares Acquired by Impax Asset Management Group plc - MarketBeat",
@@ -1372,71 +1489,6 @@
       "value": "",
       "date": "Mar 31, 2026",
       "dateISO": "2026-03-31T07:00:00"
-    },
-    {
-      "title": "Ambuja Cements Finalizes Penna Cement Merger After NCLT Approval - Whalesbook",
-      "summary": "Ambuja Cements Finalizes Penna Cement Merger After NCLT Approval Whalesbook",
-      "url": "https://news.google.com/rss/articles/CBMi9wFBVV95cUxOZTZmWWstZDc1ZHZOcFZBYkI0eXVVdlJkOG1PYS1PVnpSYUhBLTFzYk1XdGJvLWw0SHR1X3FVS3NBdXRtdWpnaUR4RlhvNnA5OUM2dzdRMnQ5SWQzbnBadG5UUjZ2V2lOamE2b3dCS2NtVE5fQ2xLNnVmbEp2QkFzdW1pZ0JMbE1DNjF2ekZIbDBnR0pKeWNyaWdxclVDMFpUTGZ4LVpEU2t0TXpNcTNkTVpuUmJPM1h2V0gtOGRiZFpwek15dno3Mks5RG1kV0xVaG5GaWxjS2t3YktXVWYzRkd1Zi1kMUtweVdfNk1mbzhlc1Vtd0Rv?oc=5",
-      "source": "Whalesbook",
-      "category": "Cement Industry",
-      "keywords": "Merger",
-      "sector": "Cement",
-      "dealType": "Merger",
-      "value": "",
-      "date": "Mar 30, 2026",
-      "dateISO": "2026-03-30T17:00:26"
-    },
-    {
-      "title": "Andhra Cements Board Greenlights Merger with Holding Firm Sagar Cements - Whalesbook",
-      "summary": "Andhra Cements Board Greenlights Merger with Holding Firm Sagar Cements Whalesbook",
-      "url": "https://news.google.com/rss/articles/CBMigAJBVV95cUxOcUxjSHJaTndBRTJoUkVVT2ZWdFdaaC16TG43ZnBaRnAwVEp1S050aFdWLVctOHhxQURGVEpTMkppejFYWGtrS0EtdUhjRHFISnFnMHZaTmR6QklJWElaajNvd0NxbUcyQk9YdzNGdzRaSEtoZXVlLVpUV0RoUTRMdGVCaEFmS0ZMNEp3MWJ5dXh3Uzc4UXF3dkNwT0M1RFhSZGpocEx0NXRINUUtTmRoT05lekdfNW9OR2JKY25reVQ3UndOVFhJWXF2M0c0WlNPYU5GSi1BUjIzeFd3QV9lZ2J1WkI2M3dvOUFZMnAwekJEOHN5UHFqWlFoaWJnR3VK?oc=5",
-      "source": "Whalesbook",
-      "category": "Cement Industry",
-      "keywords": "Merger",
-      "sector": "Cement",
-      "dealType": "Merger",
-      "value": "",
-      "date": "Mar 30, 2026",
-      "dateISO": "2026-03-30T11:42:38"
-    },
-    {
-      "title": "Ambuja Cements-Penna Cement Merger Gets Green Light from NCLT Ahmedabad - NDTV Profit",
-      "summary": "Ambuja Cements-Penna Cement Merger Gets Green Light from NCLT Ahmedabad NDTV Profit",
-      "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxNcmRGSGFxbnVFUEZRdmpIU2ZIajlHR2tEc2ZneDBya3N3RU5yLTJybWRkVmMzTVlSMDB0NjdTcFBHUWJkN2VBVG9ENTdDRldfbDBQb2lWY1Fma3czdnlCZHBVem1GZmxySlVGRnk3OEhBQUtFaVV0Uk5iNHU3MTlhUzhwTUpMTHY2b3ZKWHNVeFVRelRHTkt2LS1nT3F5WlZJWldqYjl1eDFFTjg1M2ZiRjJ1cjVuQdIBvgFBVV95cUxPWEFZNjd1TDdBaDBDRTRSVEdEbGdxeHZadmg1elphczFDUTBYZzIzaElkOE92ZDhqY0V6TUY4cnhENjREVm81U2V4RlAtOGgtb0lRQUJ3bGJhX3BnOWxyZ05GY0k0THFmTG42OEVTb0kzYm5TMlBFZDNSX05pSUdWdHA0bmQ1ekwtbXRIUEFwa0NCaDRhSFAwM01vbmlEV092Y3hCN2paU1FxUng5WDN0a1ZFVHNqbXRzc1RzZy1B?oc=5",
-      "source": "NDTV Profit",
-      "category": "Cement Industry",
-      "keywords": "Merger",
-      "sector": "Cement",
-      "dealType": "Merger",
-      "value": "",
-      "date": "Mar 30, 2026",
-      "dateISO": "2026-03-30T07:00:00"
-    },
-    {
-      "title": "Andhra Cements Board Approves Merger with Holding Company Sagar Cements - scanx.trade",
-      "summary": "Andhra Cements Board Approves Merger with Holding Company Sagar Cements scanx.trade",
-      "url": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxOOF84TG1EVThBT3RSM1FJVFZxeTM4QnI3S2tyMFhkNjBUcU5JRWZrWEEtelRGTXowNkZOdnVwMml3RHk4bV9GcVBXaERVY3BXNnpOZ19QSnJVQUMwYmxaQ1kzVmdKTVpBTkZvT1gwTE5mRUx0QWZ2Y2tPeEFvbHNzWXBmV1hRdEs5RFRWTWpCMWZiMjA0OXhDMk4zWExDdU8tdDl1cHBHaUFRLWxrUEE1a0tabzhBZy1UR2lOYTBtRzFwRHVQRmQyVUR1QnN3MEpLQWZXaUpnUQ?oc=5",
-      "source": "scanx.trade",
-      "category": "Cement Industry",
-      "keywords": "Merger",
-      "sector": "Cement",
-      "dealType": "Merger",
-      "value": "",
-      "date": "Mar 30, 2026",
-      "dateISO": "2026-03-30T07:00:00"
-    },
-    {
-      "title": "CEMEX, S.A.B. de C.V. (BMV:CEMEX CPO) completed the acquisition of All Assets of Omega Products International, Inc. - marketscreener.com",
-      "summary": "CEMEX, S.A.B. de C.V. (BMV:CEMEX CPO) completed the acquisition of All Assets of Omega Products International, Inc. marketscreener.com",
-      "url": "https://news.google.com/rss/articles/CBMi4gFBVV95cUxNMklhRkFyc3NnWkt0WkwxZ0JPemYxcC1VYV9GMmFKN3NxcDNUM3I5dkUtRktycGROckZpX3l2ZVFudlRIUkFsc1RRdElCblNIbGY0NHhtNWE2LXJKa2VuNTZ1TFo2MmpCMnl3ZWJELUEzSjBxZFBJbEI2RnlMX0d5RmM2b3FHdHAzaXR3bmlRZ2RfeDVzdGlHaU40T21tN2RBZy0zR1ZqWlFkYWNFcWFLNmZyNUpsSWFWOVRPbjk5OExfM2FndzV6UUl2eDJnOU1vR3ZjVERvUzhpN1J1d1RkTU1n?oc=5",
-      "source": "marketscreener.com",
-      "category": "Cemex",
-      "keywords": "Acquired",
-      "sector": "General",
-      "dealType": "Acquisition",
-      "value": "",
-      "date": "Mar 30, 2026",
-      "dateISO": "2026-03-30T07:00:00"
     }
   ]
 }
