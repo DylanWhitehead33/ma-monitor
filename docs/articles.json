@@ -1,10 +1,88 @@
 {
-  "fetchedAt": "2026-05-01T16:14:40.082115",
-  "totalArticles": 120,
-  "newToday": 33,
-  "duplicatesRemoved": 18,
+  "fetchedAt": "2026-05-02T15:34:29.734598",
+  "totalArticles": 119,
+  "newToday": 30,
+  "duplicatesRemoved": 21,
   "archiveDays": 30,
   "articles": [
+    {
+      "title": "Eagle Materials Inc $EXP Shares Acquired by Pictet Asset Management Holding SA - MarketBeat",
+      "summary": "Eagle Materials Inc $EXP Shares Acquired by Pictet Asset Management Holding SA MarketBeat",
+      "url": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxNdDNBTzkwT0VwSU1mMWdGaEdBRGt0ZTNSY1hDZVRNRmRwT2ZsN0M1YWhTamxpWi0tQWVOTm83MEcyTkZOYVgtajI2dzFEbUNlRmJSWmk0Nnk0SGpUNV93NG1lZEthVjh0bmRoZXJQQzlpU3FPbi1nejBKaDBSTGpJVklTbzlzeFNRblN0Und5NjRzZDZKR2U1djdoaFU4U3NidVdENTZtWGhxMzBGakUyd2FXVzJINWh4YzVuaURGNVFRYW9McUNRQl9mSEwyaF9tanRCYQ?oc=5",
+      "source": "MarketBeat",
+      "category": "Eagle Materials",
+      "keywords": "Acquired",
+      "sector": "General",
+      "dealType": "Acquisition",
+      "value": "",
+      "date": "May 02, 2026",
+      "dateISO": "2026-05-02T10:16:00"
+    },
+    {
+      "title": "Titan America Closes Keystone Cement Acquisition, Expanding Mid-Atlantic Footprint - TipRanks",
+      "summary": "Titan America Closes Keystone Cement Acquisition, Expanding Mid-Atlantic Footprint TipRanks",
+      "url": "https://news.google.com/rss/articles/CBMizgFBVV95cUxPbDhLb0JCaFFGVzNKdGhhc2RDenpaWFdrMmNteGVlRzRnODRjVFFDMEE4VC1vNkRjVmdsSGIzNEFCNTZzQ0thQkpRRG5ZUVFELUg5ZGJiWUdLZ3FhV1VSUlRGbjFtOWtYeVRfd2tHOFhwakJFYUo0UjZ1MGR3cjU3NERDM2lDYWMtQ1FWc1o0aE5yZDdibUhWX3JXRHFjNTlVdG9pTDYwajFxNjR5MExvTFF4ZDl2NkVlaUVObk14QVMzZ1locGdYUmFmeDBSZw?oc=5",
+      "source": "TipRanks",
+      "category": "Cement Industry",
+      "keywords": "Acquired",
+      "sector": "Cement",
+      "dealType": "Acquisition",
+      "value": "",
+      "date": "May 01, 2026",
+      "dateISO": "2026-05-01T21:17:27"
+    },
+    {
+      "title": "Keystone deal boosts Titan America (NYSE: TTAM) Mid-Atlantic reach - Stock Titan",
+      "summary": "Keystone deal boosts Titan America (NYSE: TTAM) Mid-Atlantic reach Stock Titan",
+      "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxNSFRGVVdBaTNzeFRDYkZOajRic09YbjBOckZ2ZDc2cHZwNlNpSTY5ZW9PUUhlcXNJcXAyYUI3Ylpsck5HUlFqRWFtcXo1d3ZRTnpVWWRUcnprVHdiRVBjdE83NHhEcDlSVXZNdzhNT0FSYjJ3eTFkOTJNQWJ3Vk0zZy1BdzRzOXd3ZXpwaHJiX3FXc1RNNVZzVTYzRklOSHg0RDc4TkpQcHdBd0pFd3pvVlFB?oc=5",
+      "source": "Stock Titan",
+      "category": "Aggregates Industry",
+      "keywords": "",
+      "sector": "General",
+      "dealType": "Acquisition",
+      "value": "",
+      "date": "May 01, 2026",
+      "dateISO": "2026-05-01T20:15:18"
+    },
+    {
+      "title": "St. Louis-based construction materials business being acquired by public company - The Business Journals",
+      "summary": "St. Louis-based construction materials business being acquired by public company The Business Journals",
+      "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxNVzR4cHJZaG5nSU1JV0c0RHkwTFVvdmcyMUdhX0x5M3pXSEN3MFEwOGJ0RHg4SUlmVzFyRm1aWTRYd0UyT1g4T0VQRG01V3lkVl9IekF4aFVFU1o3MDBROW4wWFJla0stY25RNTVaZnhLMFFrZ3FuOVcxa0tHa1lxbmQtVWdhaHVSMHM2eVVYaGpCTnN5bGJydlRuWlZpR2xVc1BRV2FQOGFEMU0?oc=5",
+      "source": "The Business Journals",
+      "category": "Aggregates Industry",
+      "keywords": "Acquired",
+      "sector": "General",
+      "dealType": "Acquisition",
+      "value": "",
+      "date": "May 01, 2026",
+      "dateISO": "2026-05-01T20:15:00"
+    },
+    {
+      "title": "Titan America Closes Acquisition of Keystone Cement Company - Business Wire",
+      "summary": "Titan America Closes Acquisition of Keystone Cement Company Business Wire",
+      "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxObFBVd1BJMElsNTBSUGFoMFBWRHBtQ21JMEc2UW5EQU5vM2ZmWjNQRlhyMUNnR3BYaDBJUkpVQlVuWHh3V0VJeHpXcUs5Y3BEd3hRSnBKM096dnhBOW14SUMxdEV6S3hEdk1OdXludXdDdG5jZzd0UEVsWHo2a1M3U0FaQnVGQkE5Y2dQdlRleE51cEQyUU5lN19BLUhRRnVibjVmbUVYNDFFdmxEcTVBclFLLXEyMTQ?oc=5",
+      "source": "Business Wire",
+      "category": "Aggregates Industry",
+      "keywords": "Acquired",
+      "sector": "Cement",
+      "dealType": "Acquisition",
+      "value": "",
+      "date": "May 01, 2026",
+      "dateISO": "2026-05-01T20:05:00"
+    },
+    {
+      "title": "Press Release: Titan America Closes Acquisition of Keystone Cement Company - Moomoo",
+      "summary": "Press Release: Titan America Closes Acquisition of Keystone Cement Company Moomoo",
+      "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxOQ19Sd0tvQUROYjFDbm5DaVlyVWtBWVlmZlh3SUVjRWN3ajB3anM3T0VyTGk1eGkzMFQtY0JnWHNMZXpnN3hsdzZSRjlPZkVjWTQ4bTg5OWlaeFpDZEdUWGV5bnJzZG5BbHQ3NXRESUlPVlo4UW1pVzc5S0R2cHhiWE1Ea0IwdmVib3EwN0lVLWdCODc4Q0xRZ0hySW5YM3F1QzJnWUNFRGZ1aEpNdk5hTnpac09Udw?oc=5",
+      "source": "Moomoo",
+      "category": "Cement Industry",
+      "keywords": "Acquired",
+      "sector": "Cement",
+      "dealType": "Acquisition",
+      "value": "",
+      "date": "May 01, 2026",
+      "dateISO": "2026-05-01T20:05:00"
+    },
     {
       "title": "Soukup Construction acquires Asphalt Surfacing Company - SiouxFalls.Business",
       "summary": "Soukup Construction acquires Asphalt Surfacing Company SiouxFalls.Business",
@@ -17,6 +95,19 @@
       "value": "",
       "date": "May 01, 2026",
       "dateISO": "2026-05-01T15:20:20"
+    },
+    {
+      "title": "DIBPL Finances Attock Cement Majority Stake Acquisition - Digital Pakistan",
+      "summary": "DIBPL Finances Attock Cement Majority Stake Acquisition Digital Pakistan",
+      "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxNR2pVa0p6TDdjVXpwNFRBOVVuejJXdGh4VlZuNEJaejg5UklYS2lDT1JoSWVBeW5yTnhWckRja1h3V0sxRzZfTWI3UW9tOGgzMFBnWjRKS3FLVWNLcEpRSTlRa2x6bzV2UkwzQ1dMcm83T1JCZV9XeXlyV3FVZkFIZkJuYy0yRDhFb2kw?oc=5",
+      "source": "Digital Pakistan",
+      "category": "Cement Industry",
+      "keywords": "Acquired",
+      "sector": "Cement",
+      "dealType": "Acquisition",
+      "value": "",
+      "date": "May 01, 2026",
+      "dateISO": "2026-05-01T14:30:28"
     },
     {
       "title": "West China Cement Details Valuation Basis for AfriSam Acquisition - The Globe and Mail",
@@ -279,6 +370,19 @@
       "dateISO": "2026-04-30T08:00:00"
     },
     {
+      "title": "GVA Q1 Deep Dive: Acquisitions and Federal Projects Drive Growth, Guidance Raised - StockStory",
+      "summary": "GVA Q1 Deep Dive: Acquisitions and Federal Projects Drive Growth, Guidance Raised StockStory",
+      "url": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxNeVlQd3BRejNVWEVKdGhKT0ZqMzhKcFRYRjU0SUxhWEk2NjNkT2RVSUpfdTU5Vl9jQXVYX280NGlZUEs4WDItcUVXaVY1bGxoREc5T1Z1RUVSUC01bWVWQ0hmUVpXVnhtemlwaGNPWEpqYUtDNjVKQnBNX3RiRng1ZDNzUXhwSU5YTkxxeWZVNnJxMEF5SlZ1aGFVS1NrN3dFdjRYU0x2V0lCOVFlOGFPTl9QVUU3UXROekNCeDhzZC1Wb1NpQUF4QWlrcmFaTGh0NjlQbWJ5WQ?oc=5",
+      "source": "StockStory",
+      "category": "Aggregates Industry",
+      "keywords": "Acquired",
+      "sector": "General",
+      "dealType": "Acquisition",
+      "value": "",
+      "date": "Apr 30, 2026",
+      "dateISO": "2026-04-30T07:00:00"
+    },
+    {
       "title": "Public Storage Launches PS 4.0 Strategy and Acquires National Storage Affiliates - HarianBasis.co",
       "summary": "Public Storage Launches PS 4.0 Strategy and Acquires National Storage Affiliates HarianBasis.co",
       "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxNdGdPMjNpc0hndG1DTWg1OEZSTUpPMDY0RzZFWlNXSDlKeHBiMjlSZG8yTEhTYkhZZXNCOG1FNldfRWlfaGxtS0lTRnBubExXMGhfZGZOanZ2YzJTaWpGb1BmSFpBMWlWeU5zN0QybVBYblV5dWNjekpLQWNjaTBXQmVlYXZlM2dOejE0WmVWY2pDaWM5?oc=5",
@@ -342,6 +446,19 @@
       "value": "",
       "date": "Apr 29, 2026",
       "dateISO": "2026-04-29T14:38:00"
+    },
+    {
+      "title": "Suncrete (RMIX) closes Hope Concrete deal, enters Texas and Louisiana - Stock Titan",
+      "summary": "Suncrete (RMIX) closes Hope Concrete deal, enters Texas and Louisiana Stock Titan",
+      "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxOUGNpNnVwQmR4dnBiTzBXeWp1azd5d2N6ZmRaZmF4LVJ3bnZXZWpVWHhkMXIwYWppRWlxZU1vV1FtYmpkYjM4WFB1S2ZWcW9SZ0FlMVhWY1NtQ0kyQlM3dHoyRnRldXFVM1M4eExuZXd1c1BoenM2LV9CdTdwVXdGOVpBdlZ1R3c0X0JyQ1hQNk9BSG5GUERTam4xMFFKNVVWOXY4?oc=5",
+      "source": "Stock Titan",
+      "category": "Ready-Mix Industry",
+      "keywords": "",
+      "sector": "General",
+      "dealType": "Acquisition",
+      "value": "",
+      "date": "Apr 29, 2026",
+      "dateISO": "2026-04-29T12:40:40"
     },
     {
       "title": "JK Cement acquires 60% stake in Saifco Cements for Rs 150 crore; share price zooms 885% in\u2026 - MSN",
@@ -734,6 +851,19 @@
       "dateISO": "2026-04-23T12:59:19"
     },
     {
+      "title": "Trio Petroleum Extends Deadline for Utah Asset Acquisition - The Globe and Mail",
+      "summary": "Trio Petroleum Extends Deadline for Utah Asset Acquisition The Globe and Mail",
+      "url": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxNclBhT0M1amE4dkMtQ0U4TjVRNVBvUEstbXBHbTRiajdYTi1PM21CeEVLRDJQQWtWMnpsWUlnbS1tTEpwMXFicDZzQlJUUVBkdGVNVHNKSlZraDJaaURkaXU3ZkMydW0yZU5yWEtoZ196Tnl0V3pyM3hxSk15eS0zZlB5YTVSSk9GNFB0RFBFMGlWSVR3ZGlZQ0dVVWNoVTA0RmNjLUpQeDM0MHAtVDhZZm96WlNlWmFSSFgxVE1rVG9MNWJOdV9fUFZlWUk3dDBxMGNJT2J4c1RsZHM?oc=5",
+      "source": "The Globe and Mail",
+      "category": "Asphalt Industry",
+      "keywords": "Acquired",
+      "sector": "General",
+      "dealType": "Acquisition",
+      "value": "",
+      "date": "Apr 23, 2026",
+      "dateISO": "2026-04-23T07:00:00"
+    },
+    {
       "title": "AMRZ Insider Buying: 3 Directors Acquire 8,928 Shares on April 21 - Meyka",
       "summary": "AMRZ Insider Buying: 3 Directors Acquire 8,928 Shares on April 21 Meyka",
       "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxOaERseV9WX2p3M2h3aWN1NnJLdjE2Tlc4d2lmanF1c3M5cGhiSkpDUElCa1RQeVVkYWZVN29aRTBJYlpwSG0yOXVocS02cG42M2NHdUppRmVrUklnZVlMYndoT0FaTTlGalZNM1JPMXpKWjNJX3Y2MmJ2dGs3TEFaTnZkU2tLTm5OdUhjWEtLODBfeExROURj?oc=5",
@@ -745,19 +875,6 @@
       "value": "",
       "date": "Apr 23, 2026",
       "dateISO": "2026-04-23T04:46:56"
-    },
-    {
-      "title": "Trio Petroleum Extends Deadline for Utah Asset Acquisition - TipRanks",
-      "summary": "Trio Petroleum Extends Deadline for Utah Asset Acquisition TipRanks",
-      "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxOWTlaMFVSZ3ZSdllaMVVKbXNGTVNoMUoxYkJQT1ZjMDk1bUstbHhTemgxWUQxazdNVGFJN0F4dGlCaklpLW5YT1VyY0c2Zl9zeU1HZlBzR1VGRHJoTEp1UnlLcDFIZ0Z4R0ladDMwZTlVV0NLcVR3MWxiZ1VJWXRkYXZ6LTBuVmpmM0dVNkV5RTJzQlJ3UGN3T0Y5LWtrc0dEUmxuSWI1MlI3TDl1TTBv?oc=5",
-      "source": "TipRanks",
-      "category": "Asphalt Industry",
-      "keywords": "Acquired",
-      "sector": "General",
-      "dealType": "Acquisition",
-      "value": "",
-      "date": "Apr 22, 2026",
-      "dateISO": "2026-04-22T21:26:26"
     },
     {
       "title": "Innovex completes acquisition of downhole tool maker Drilling Innovative Solutions - Drilling Contractor",
@@ -1293,17 +1410,17 @@
       "dateISO": "2026-04-08T09:00:00"
     },
     {
-      "title": "SunTx Capital Partners' Portfolio Company, Suncrete, and Haymaker Acquisition Corp. 4, Successfully Complete Business Combination - Bitget",
-      "summary": "SunTx Capital Partners' Portfolio Company, Suncrete, and Haymaker Acquisition Corp. 4, Successfully Complete Business Combination Bitget",
-      "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTFBKbkxjXzZuNUl5R0VaRTAzdEY2Wk1TYjdsZ1Z2TmRpNkFyaXlzWUpHY1dDRUpPQXB0ODVJX3dKcVZUcy11Z0tmN0RkRGZaQ05jVHdVNTBTYURvWEJFYnfSAWNBVV95cUxQNWk3SFh4THZKcFh4bXMyRVV6RUVjS3RndTQtdzlzd3JRODVvYUJXMWpYdWNPSy1QLWdMZjBJUGNuNUsxWFVPZ0NhaGNUNEJaUnlhM09vbG90RzYtSlNOb0o0Nkk?oc=5",
-      "source": "Bitget",
+      "title": "SunTx Capital Partners' Portfolio Company, Suncrete, and Haymaker Acquisition Corp. 4, Successfully Complete Business Combination - PR Newswire",
+      "summary": "SunTx Capital Partners' Portfolio Company, Suncrete, and Haymaker Acquisition Corp. 4, Successfully Complete Business Combination PR Newswire",
+      "url": "https://news.google.com/rss/articles/CBMijAJBVV95cUxOdjk4c3NzUTRZcFZYb2RGd1BWazVNNUZiU1JPRS1WdUZheUhmd25lLVNPV09XRmx5a0h5RTRoQVBGUDZmQjdsYjdEcWktWUxqc3J4Ujl2MTM1RldhQ1JWZFdncnJMSERBWE84aWNJWG1DQUZDX1BYNXB6TEV6SUpTc2UzV21tYXdNU0MzVWpIUUlYNndYX2Rkd1F3ZGJkcjVzdG9UQV9rOTlyd1NhcTRvcWVFTGp4c0FXS3ZzelJXUVNuaWY4bTc0WThZQU1DNjBIaDQ3Y19HaGU0Z0FEU1hNV2szRHlIMEw3QTB1eS1qTFJEekx3a2FrQ1hkaGZEcl9rVUpGQ3FmZG1QZXZU?oc=5",
+      "source": "PR Newswire",
       "category": "Ready-Mix Industry",
       "keywords": "Acquired",
       "sector": "General",
       "dealType": "Acquisition",
       "value": "",
       "date": "Apr 08, 2026",
-      "dateISO": "2026-04-08T05:18:40"
+      "dateISO": "2026-04-08T07:00:00"
     },
     {
       "title": "Heidelberg Materials Acquires Edmonton Assets, Expands Market Position - News and Statistics - IndexBox",
@@ -1434,136 +1551,6 @@
       "value": "",
       "date": "Apr 03, 2026",
       "dateISO": "2026-04-03T07:00:00"
-    },
-    {
-      "title": "Construction Partners acquires Four Star Paving in Nashville By Investing.com - Investing.com South Africa",
-      "summary": "Construction Partners acquires Four Star Paving in Nashville By Investing.com Investing.com South Africa",
-      "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxNUWk4NnNlUVlhQmRPdzBZeEg3YlpsMUpRbnhVM0NKOWM4UHZkUXZscTBDb3luWklON3c4QjY1ZFRhMTBVZlNOUnN1SGx1Q01BRS04Q2docWdVR0plMFZDXzgtUTZWUVg1R1daa3pOeE5aa1VrSHhRTEo5em1jNHZzVVE5Z3V3cElpVG5MX1VVWFlSTnZhQlp3bENVenVpLWR3cVk2by1jd3puT0JPenZDQzVJMXdSUGc?oc=5",
-      "source": "Investing.com South Africa",
-      "category": "Asphalt Industry",
-      "keywords": "Acquired, Investment",
-      "sector": "Paving",
-      "dealType": "Investment",
-      "value": "",
-      "date": "Apr 02, 2026",
-      "dateISO": "2026-04-02T10:11:38"
-    },
-    {
-      "title": "Construction Partners, Inc. Acquires Four Star Paving to Expand Nashville Area Operations and Strengthen Tennessee Platform - Minichart",
-      "summary": "Construction Partners, Inc. Acquires Four Star Paving to Expand Nashville Area Operations and Strengthen Tennessee Platform Minichart",
-      "url": "https://news.google.com/rss/articles/CBMi9AFBVV95cUxPWFZpbmtXVHVJMVZ4OVI3cEFUN1RrWGd3M3o0Znp3el8wSDY5cC1oYnhFMDJRN1ZfVWhwN0xOVGNDc0ZPT1B1b1h4RWRZeWl0YWNfcDRRQURpTlFXM0dIN2UtTFlGOHlQbDZCdUhfblFPS2RYVnhSUFd6ZXJZWWYwTXlNeXU1UUdjZVhBWjctSTBrc2xYcWFkVWFudjZnaE9Xb0tQY0pBU29tRERENmUtTkctTUViOVBqQjdHZk1RRHhpemRNdnVFUkZyaTBJa1JVazNhUHlfVkxIb1pYSDlrcWJnRmZNVThVcVFnYVFIM3pwaUlJ?oc=5",
-      "source": "Minichart",
-      "category": "Paving Industry",
-      "keywords": "Acquired",
-      "sector": "Paving",
-      "dealType": "Acquisition",
-      "value": "",
-      "date": "Apr 02, 2026",
-      "dateISO": "2026-04-02T07:35:00"
-    },
-    {
-      "title": "The AZEK Company Inc Shares Complete Merger with James Hardie: Key Implications for Investors - AD HOC NEWS",
-      "summary": "The AZEK Company Inc Shares Complete Merger with James Hardie: Key Implications for Investors AD HOC NEWS",
-      "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxPVjRtZnhCRHBlUWFaaks3SHdObHhldGhCVDBxYzZNUzNDeWI3bS03WG5oeUpLX2RjUjNuRlNXbDhLOXdUSVZ1NWY4enVXSVItNjFuelZXOFlSUUdfR3Bod3lVZHBYSmFZcUdKS3kyZzZOdHFYNk5qOW9yalhwMG80RkcwcGJTVFJ6OVhMWTY0X3JaWTU0NjV4d1VpUTdpaTdGTXB6Snh4Mk1Sd1BXejlRSko4ZXdFRU1RR0cw?oc=5",
-      "source": "AD HOC NEWS",
-      "category": "Cement Industry",
-      "keywords": "Merger, Investment",
-      "sector": "General",
-      "dealType": "Merger",
-      "value": "",
-      "date": "Apr 02, 2026",
-      "dateISO": "2026-04-02T07:00:00"
-    },
-    {
-      "title": "Ambuja Cements Provides Official Clarification on NCLT-Approved Penna Merger - scanx.trade",
-      "summary": "Ambuja Cements Provides Official Clarification on NCLT-Approved Penna Merger scanx.trade",
-      "url": "https://news.google.com/rss/articles/CBMizwFBVV95cUxPYTlvZ3gwelhxYnB1ZTRIeTUwMU9BTUdRVzRvYXZvRnQyMGRfLTNielNqc3hMQm5Wd1Z1UDR1akFDZDlpU2ZDSmlJSFBnekZ3WXZYY0U4eVowZTlsYlY4a21FWms0VEtFUllWVkJLcG1DeHBjOHY3Mi1GbzVGdlBJU0NkVGxSbV9wQ1dzMzVuM3BoaWtrckZhWl9vaDZtNWhXMGpxR1JpSE1ZeU5ScE1rMFl2NWptUG9XdWhMNlk2TVpJWHk0QTZVM2tqV3hXRE0?oc=5",
-      "source": "scanx.trade",
-      "category": "Cement Industry",
-      "keywords": "Merger",
-      "sector": "Cement",
-      "dealType": "Merger",
-      "value": "",
-      "date": "Apr 02, 2026",
-      "dateISO": "2026-04-02T07:00:00"
-    },
-    {
-      "title": "Fauji Cement, KAPCO kick off Attock Cement takeover - Mettis Global",
-      "summary": "Fauji Cement, KAPCO kick off Attock Cement takeover Mettis Global",
-      "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxOdHpjU3JKc0ZGMTdIMWRfMmxwa0dST0IwYW9odThxTF96MHpTWEUzclZ6LVdrNU9HN0RYclE3THA3Tkh6VFNCbWJoRnRkWGJHcU1wQmxKTVduUUtOMl9xQ3ZsQ0ZrSVRLNWNOSFR1WFNhTmdIc2p6dll5cWY2VWxyV1RYVG92czNmZlE?oc=5",
-      "source": "Mettis Global",
-      "category": "Cement Industry",
-      "keywords": "Takeover",
-      "sector": "Cement",
-      "dealType": "Acquisition",
-      "value": "",
-      "date": "Apr 02, 2026",
-      "dateISO": "2026-04-02T07:00:00"
-    },
-    {
-      "title": "10,545 Shares in Crh Plc $CRH Acquired by Applied Capital LLC FL - MarketBeat",
-      "summary": "10,545 Shares in Crh Plc $CRH Acquired by Applied Capital LLC FL MarketBeat",
-      "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxQTVVUUDkydG5aSjNlRTZ0YjRDai1EX3ZKZWF4TG1tZFFJRTl2NXBuVWVmemRkY01fakhZX0NZUXVySXpfNEZCV1FtX3p5TExxQ2Ezb3VMUzlqQ2JCaGdhalhhWnRud1dMZUNQWUZkeF9fbV84ZW5mcnlPbW4yOHJ6T1AweHV2Umw4b2VzY1FxNUtkTDBNRTZRdEFmLVJySjltZHdYaVRlNEkwNS1LcnI2MlFleGxndkt5SS1XZDROb1E?oc=5",
-      "source": "MarketBeat",
-      "category": "CRH",
-      "keywords": "Acquired",
-      "sector": "General",
-      "dealType": "Acquisition",
-      "value": "",
-      "date": "Apr 02, 2026",
-      "dateISO": "2026-04-02T07:00:00"
-    },
-    {
-      "title": "True North Fund VI LLP Divests Complete 9.54% Stake in Shree Digvijay Cement Company - scanx.trade",
-      "summary": "True North Fund VI LLP Divests Complete 9.54% Stake in Shree Digvijay Cement Company scanx.trade",
-      "url": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxOVm5kQ2hFOHBfekw4UXZ5VnJibkpHdHc4RmgxcXV1cU1SQUp0ZkNCdGdDX1k2LXZ1X1dDNk5qMmJTX19qY0NhWUJtNld2TWZCcmNtZzdURHpGMWx0Rmh5YzVKNEs2amNTTDR3eFFYYUN1eVVjMEp0REdPSUdmaFhQc0pZVjg4Q1VMWHM2bllWS00xSXhRcm1Sa3ZiaEE5T3Q3V0k1MnRhcFhnenN1S1pxa3FlRl9vVnhYYUl1RElPb1MxdjFBQmFmRU1mS0Q0MjhMZnMtREtZQQ?oc=5",
-      "source": "scanx.trade",
-      "category": "Cement Industry",
-      "keywords": "Divest",
-      "sector": "Cement",
-      "dealType": "Divestiture",
-      "value": "",
-      "date": "Apr 02, 2026",
-      "dateISO": "2026-04-02T07:00:00"
-    },
-    {
-      "title": "Commercial Metals Dividend Increase Highlights Earnings Growth From Precast Acquisitions - Yahoo Finance",
-      "summary": "Commercial Metals Dividend Increase Highlights Earnings Growth From Precast Acquisitions Yahoo Finance",
-      "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxQZFRfTUR6UFg0NVlXUTczRUxLY21OX0t1WEV2NEtXYzU2SGRRTmZubldpTFVmLWszMl9LM1lBM2QxNjVzTXNqUGlRbUVwZHNZN0hMSEwwN2hiOGM5MEt3MDZic1Q3U3ZuekpIeHRGcG1yOXoxTWx5M2dUX3B4c2d2WXd1MXNLWFpjUER5VUlOMEhES3Y4Ukg0cjVnOXMtaWpaRVpVdEhKMkhYMHJLU0NIWQ?oc=5",
-      "source": "Yahoo Finance",
-      "category": "Precast Industry",
-      "keywords": "Acquired",
-      "sector": "Precast",
-      "dealType": "Acquisition",
-      "value": "",
-      "date": "Apr 02, 2026",
-      "dateISO": "2026-04-02T07:00:00"
-    },
-    {
-      "title": "Construction Partners: Tennessee Acquisition Expands Nashville Market Presence - Pulse 2.0",
-      "summary": "Construction Partners: Tennessee Acquisition Expands Nashville Market Presence Pulse 2.0",
-      "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxQYkpURzVqYjJBV2xuTUJ4em9VVG1ORnZMU2NSeDN1aktObnJ3LXRVQ0huRTI5Z0pDUWVKZUNhZEFtWklsNHdLaWt6RW9NTkpOMTgzMnoyQzZoVzd4Ulpfd2tnR1QxYjZrZ0VfRndKZTJBek5BSDQxMW1Cb2tORzQ1eTNBTjB3YnVHblZDU2ViR3pkWVRzRlFTazRNV21NZ9IBowFBVV95cUxNR1FIY1NFVkV6UWlvWjNvRlpTZGFZeDYwR21mNmVCRkFHRVNZV1BsTl9kYW5MZTFWZjQ5MWpTMWpCTzVfQnZCLWd1VVBDZjhJVHNheDkwbWI3bGt5eEpYZlA5YVhNb0dzZWpONEs4ZFJfTlJmX2hQQkZqQS1kWnVxWnJYMnpDWGkyalctc0p1VWIyZ194cGw0aVVxRHh6d180QUln?oc=5",
-      "source": "Pulse 2.0",
-      "category": "Asphalt Industry",
-      "keywords": "Acquired",
-      "sector": "General",
-      "dealType": "Acquisition",
-      "value": "",
-      "date": "Apr 02, 2026",
-      "dateISO": "2026-04-02T03:13:05"
-    },
-    {
-      "title": "Construction Partners Expands Nashville Footprint With Four Star Acquisition - TipRanks",
-      "summary": "Construction Partners Expands Nashville Footprint With Four Star Acquisition TipRanks",
-      "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxNeWZLSURqSFFpSFJ1dWdOZEFlM3ZYcS1fdVZ0WWZlZ2JqaV9aQmFibjl4MnpxX25OSzF4RHpkb2NkQWREamNYRHNoLUtyZWZXYUpaUVV3Z3JXSmRqaXhBU2p0MTZGenB2NlY4QThYLUF0eWtxc0F4bjZtVzFsRFlOa1JSb1dxVXk3NHA0WDBMRzlyWWdMQWxfb2dmR1JGSi14Nmdmd0lGQXVUaHZ4MlJmZjNNb3dnQUlJLUlKTW1QZVRBbGpvTTUw?oc=5",
-      "source": "TipRanks",
-      "category": "Asphalt Industry",
-      "keywords": "Acquired",
-      "sector": "General",
-      "dealType": "Acquisition",
-      "value": "",
-      "date": "Apr 01, 2026",
-      "dateISO": "2026-04-01T21:02:37"
     }
   ]
 }
