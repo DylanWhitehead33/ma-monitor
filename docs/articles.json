@@ -1,8 +1,8 @@
 {
-  "fetchedAt": "2026-05-02T15:34:29.734598",
-  "totalArticles": 119,
-  "newToday": 30,
-  "duplicatesRemoved": 21,
+  "fetchedAt": "2026-05-03T15:34:18.823187",
+  "totalArticles": 121,
+  "newToday": 19,
+  "duplicatesRemoved": 15,
   "archiveDays": 30,
   "articles": [
     {
@@ -30,6 +30,19 @@
       "value": "",
       "date": "May 01, 2026",
       "dateISO": "2026-05-01T21:17:27"
+    },
+    {
+      "title": "Titan America completes Keystone Cement acquisition By Investing.com - Investing.com India",
+      "summary": "Titan America completes Keystone Cement acquisition By Investing.com Investing.com India",
+      "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxPQ05jWF9pSjdYZ1JPcWlaOGgwVGVxaFhUQkt0d3FDSFdBQU5CemRzTVAweHNEb1U3MkkzWVRBMTVwVy1xT3dQVG91XzAxcF9JdzVIb0poT1JGZ0s4RHR0WWltbzNPYmJodkxnLUdZTHM3VHFaMWZra3ZyMmpzeUloU0tYVXNWYjBHQy1BZ2loQ2NsaHRhN3JXd1d6UTdPTlMzdDVBRzdvTjNmZFdOVkJSYVJLU1pVYW5MU0lPNnBxdFhDZw?oc=5",
+      "source": "Investing.com India",
+      "category": "Aggregates Industry",
+      "keywords": "Acquired, Investment",
+      "sector": "Cement",
+      "dealType": "Investment",
+      "value": "",
+      "date": "May 01, 2026",
+      "dateISO": "2026-05-01T20:18:56"
     },
     {
       "title": "Keystone deal boosts Titan America (NYSE: TTAM) Mid-Atlantic reach - Stock Titan",
@@ -82,6 +95,19 @@
       "value": "",
       "date": "May 01, 2026",
       "dateISO": "2026-05-01T20:05:00"
+    },
+    {
+      "title": "Arcosa projects $565M adjusted EBITDA on $2.65B revenue in 2026 following $450M barge divestiture - MSN",
+      "summary": "Arcosa projects $565M adjusted EBITDA on $2.65B revenue in 2026 following $450M barge divestiture MSN",
+      "url": "https://news.google.com/rss/articles/CBMi4gFBVV95cUxPMEZGTVFkN2VReXpXVlFjNUdacUxyVFVhWkNLMWwySXJ4YWc1OS0xUG1EQ2U2OGs5YmZOSmJUcW5OOEc1b1dRUEJkQXB5QmR5MG5fempMaUVPVE8yOE1fakFXUE50RUZjekZ0UTlNNldPX1lkNXJFczlxdk1UR0J4dmxoN1ozS0cwcWNZQnhiU3EyelhWdll2ZXJldk4yZE5ua2NlNGFfb2ZZYVplbXFqQ3dsR0VHZW9kc1FwZzl2bzRiR19KcWgtM1lDSFBUU1I4cExmUjBqak44aDUzRUVvMWhn?oc=5",
+      "source": "MSN",
+      "category": "Aggregates Industry",
+      "keywords": "Divest",
+      "sector": "General",
+      "dealType": "Divestiture",
+      "value": "$2.65B",
+      "date": "May 01, 2026",
+      "dateISO": "2026-05-01T15:53:15"
     },
     {
       "title": "Soukup Construction acquires Asphalt Surfacing Company - SiouxFalls.Business",
@@ -238,6 +264,19 @@
       "value": "$76M",
       "date": "Apr 30, 2026",
       "dateISO": "2026-04-30T19:00:00"
+    },
+    {
+      "title": "New Enterprise Stone & Lime Co., Inc. Announces Acquisition - The Manila Times",
+      "summary": "New Enterprise Stone & Lime Co., Inc. Announces Acquisition The Manila Times",
+      "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxPanVzOEp4ZVlDb0poSWt3Ml83aGtqTy1NcUlVVHNnSkcyTEloLWJ5Zl9NcW55Sk1QYnVzQVdDMFBfNHNoV3FBb3pwNFF6d29YRHJOVmU0RkZkVFJ3T3Z0eTJvZkFmUDBWNUppTmltQlk4RDdpM3hYV0hQOFVudk15NTMtTGwwdDl2QWd4cktIRHAzOGdBYnY4cFVNTkZFU1MyUTVTWWluTGlOc0NEUUl6RXl4SlNyUmxMbHAycVkzc2V3ekhyWUdJ0gHMAUFVX3lxTE12V2NldU5qTWVDeUNDYnlxdTItckhTSE8xWTRBdkJfMElQNnJiM08wSVJPX1h6MmxNbnVCZkc4WUl1WmtPQ0VFSUc5cU45bzBYUUIyS1hSWldPaERTMUxKTHVVOVJCalZFZkFrUS1EUzJRVlh4VVlrc0FvSkdjLTNiRmVGTDRlcXVfbkZQemM4Nm5Yb3Y2NnVIMUo5V2Fjd242RjVFR2NoRjhnR0FsVGZYMllNSmJsYlZLeHdOVUoyTmZsQV9oZmtQN2JkVg?oc=5",
+      "source": "The Manila Times",
+      "category": "Asphalt Industry",
+      "keywords": "Acquired",
+      "sector": "General",
+      "dealType": "Acquisition",
+      "value": "",
+      "date": "Apr 30, 2026",
+      "dateISO": "2026-04-30T18:17:19"
     },
     {
       "title": "Bed Bath & Beyond begins in-store merger within The Container Store - KBTX News 3",
@@ -968,6 +1007,19 @@
       "dateISO": "2026-04-19T07:00:00"
     },
     {
+      "title": "Bitcoin Layer 2 Citrea's Tech is Proven; The Daunting Next Challenge is User Acquisition - Dailyhunt",
+      "summary": "Bitcoin Layer 2 Citrea's Tech is Proven; The Daunting Next Challenge is User Acquisition Dailyhunt",
+      "url": "https://news.google.com/rss/articles/CBMijgJBVV95cUxOZGZuaTdGWGRWc0xsM2hiUHlBb3l6UkhRUTQ1X1FqT09wMjBqVjhGM3dkVkdMeGFnSzhDWkNwbjRuZlAzZVV5UnNqR0VXWkZlSmUzZjRaeS1HZ1BGWFFyZUFBWl9ZWVA3dzVvSDJyV3RuVHV4dXMtU1RpZWNLN185OWt5dXFLMXJQeXIyU0VCWWVwRldsOFRHLTg0NWo2Y2ROQmNlX0pacUFFc0dqTE9kYmxsS1NrQ0VSV0c0WS0yRUtuWEZrNDFxa1lZRHBENzgwU1l2ZW8zSmpEYzA2ZlROSE9vVlhjQzl0Rng5TVZ1UnJOM2h2WFk3UThiUmxaeXZWN19lRkNORUJMVHFhN2c?oc=5",
+      "source": "Dailyhunt",
+      "category": "Asphalt Industry",
+      "keywords": "Acquired",
+      "sector": "General",
+      "dealType": "Acquisition",
+      "value": "",
+      "date": "Apr 19, 2026",
+      "dateISO": "2026-04-19T01:33:39"
+    },
+    {
       "title": "Star Cement Ri Pnar Cement Acquires Nitesh Minerals for Rs 17.19 Crore - InvestyWise",
       "summary": "Star Cement Ri Pnar Cement Acquires Nitesh Minerals for Rs 17.19 Crore InvestyWise",
       "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxOMW1lVDJkbWRUMHdmYS0yTWd5ZVNUNEM0S1hEZmNIcUxTeXk4N29SMVhRWHNWZm1mWTEyaUktOC1fRG44eE5DVlQ2QVEzX1h3YVI4dkQ2MHU5REdkYnAyVmpiMkhJUGVKRmZJYjJGNHVMRzdLcTVza1VodVBLaVlsdVZxMS1SVC0t?oc=5",
@@ -1085,6 +1137,19 @@
       "dateISO": "2026-04-17T07:00:00"
     },
     {
+      "title": "ROAD Jumps As Analyst Upgrade And Nashville Deal Shift Outlook - timothysykes.com",
+      "summary": "ROAD Jumps As Analyst Upgrade And Nashville Deal Shift Outlook timothysykes.com",
+      "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxQMlpldGthbWQ5UE5ydFNKTjhOd1lxeTVSTDUzbE1yaEdUWUNrc2NHSm9KeFNBTGJobjU5SWFpejdtalJqMmJMYVBoQWRubm9kcks2UUNZTlRnOE05VVdYVW9QdFdpaG9Uc3Y5akwzSzBzUTY5NkFRREtuNXhNUmtWOHNKTFM4UQ?oc=5",
+      "source": "timothysykes.com",
+      "category": "Construction Partners",
+      "keywords": "",
+      "sector": "General",
+      "dealType": "Acquisition",
+      "value": "",
+      "date": "Apr 17, 2026",
+      "dateISO": "2026-04-17T07:00:00"
+    },
+    {
       "title": "SUMA Acquisition Corporation Announces the Separate Trading of its Class A Ordinary Shares and Rights, Commencing April 20, 2026 - The Manila Times",
       "summary": "SUMA Acquisition Corporation Announces the Separate Trading of its Class A Ordinary Shares and Rights, Commencing April 20, 2026 The Manila Times",
       "url": "https://news.google.com/rss/articles/CBMirAJBVV95cUxNZHB6RWNJcWZDWC1pSGNwTXVfcWl1TnoyZF9WNDdHa00yY2VjTURoSDRIQlhXQVRfQ1RJTFJDTktURVpwOFl6c014eXh6SC1rZUNXSzViazAxMFF0M1JPRlVRckhCZ0hRYUJxUV9ObUFDdjA1Y3p6dkdONlVGUWVjX2VUclNtMWpnbDFLek90ejVlR3lsenZSMVhyRE0wWVl4Sl94cm04UVlhbW5rWlRheTYzOWp0dGU3TWtxRXNGQmlwdndYTjFWSnppM1VoZ0oyYUQ1LXhEdV9oNVp5UDFTQ1YxVWc5S19aZzVkQ3pqMWo0cUtvenV5SnNFeHg1T2tJVUxXcUhReXVsSUdDWkFCaWcxMEtkaHA5OWR5UUdyWmt5S1EwdUZZdFI1MW3SAawCQVVfeXFMTWRwekVjSXFmQ1gtaUhjcE11X3FpdU56MmRfVjQ3R2tNMmNlY01EaEg0SEJYV0FUX0NUSUxSQ05LVEVacDhZenNNeHl4ekgta2VDV0s1YmswMTBRdDNST0ZVUXJIQmdIUWFCcVFfTm1BQ3YwNWN6enZHTjZVRlFlY19lVHJTbTFqZ2wxS3pPdHo1ZUd5bHp2UjFYckRNMFlZeEpfeHJtOFFZYW1ua1pUYXk2MzlqdHRlN01rcUVzRkJpcHZ3WE4xVkp6aTNVaGdKMmFENS14RHVfaDVaeVAxU0NWMVVnOUtfWmc1ZEN6ajFqNHFLb3p1eUpzRXh4NU9rSVVMV3FIUXl1bElHQ1pBQmlnMTBLZGhwOTlkeVFHclpreUtRMHVGWXRSNTFt?oc=5",
@@ -1122,19 +1187,6 @@
       "value": "",
       "date": "Apr 16, 2026",
       "dateISO": "2026-04-16T12:11:32"
-    },
-    {
-      "title": "Bitcoin Layer 2 Citrea\u2019s Tech is Proven; The Daunting Next Challenge is User Acquisition - Cryptonews.net",
-      "summary": "Bitcoin Layer 2 Citrea\u2019s Tech is Proven; The Daunting Next Challenge is User Acquisition Cryptonews.net",
-      "url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE92WnNTQUUydlRYQzRGbHQ4QmZvTG1zbFU2VERZWkVNLVM4ZFZHdmNlTWNDMEpPM0xTUEprdGR5akNmc194RkNZZzR5b2hwS0FzaGpsR0prTDEwU3Ni?oc=5",
-      "source": "Cryptonews.net",
-      "category": "Asphalt Industry",
-      "keywords": "Acquired",
-      "sector": "General",
-      "dealType": "Acquisition",
-      "value": "",
-      "date": "Apr 15, 2026",
-      "dateISO": "2026-04-15T22:21:40"
     },
     {
       "title": "J.K. Cement Acquires 9.77% Stake in Mehrauni Electro Power for \u20b92.10 Crore - scanx.trade",
@@ -1525,32 +1577,6 @@
       "value": "",
       "date": "Apr 05, 2026",
       "dateISO": "2026-04-05T07:00:00"
-    },
-    {
-      "title": "Amrize Expands West Texas Footprint With PB Materials Acquisition - simplywall.st",
-      "summary": "Amrize Expands West Texas Footprint With PB Materials Acquisition simplywall.st",
-      "url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxQMWZMdFVVanllUE9UcG81OW1rQkktVlg5VjNRUzNicGJoRlhzd1RRZ0lBMGEzcklIaDBwcFpibUFUYnNfU3BLaXMtX2RKOTBEWTRfbkE5SUZUYng0cHI5RWs4aDRJbFdhTFVhNVRKVVpSVHdzOTlRT0ZReTRaNEc1eGo4V1lxODF3UjhiOHc3MUlUaU9seHFXa00tclc0SkVkSkRpOFQ0QTNjYVhHdkZseHVhbmtQVWVMZ09va1ItXzlDTUpDX0FhUWln0gHPAUFVX3lxTFBrcWtPU0FFLTlfbXJNNm9xM3FTeDR3azNSZ2MtQ1RYZ1dZdHhkMDF3elZJRVN4dHlhOWFEdHZ3c2RfNUVnVHNndFBFS1JxMnZNNzUwTFZKS3p0V1pBS0kxLVhWWDI4dWo3STR3MTNibG5vNl9yeVBtYlA0UGtXMGJiZFJ3dWhBNVh1OWM0Tm5EdTdkLWRTZW9ZX190SGtidy1oRWwwVTJBYVd6aVBMUWpaeFFoUGYzYWpYSVFicTRaNWZhNWlaZ0dsUEFvemMtVQ?oc=5",
-      "source": "simplywall.st",
-      "category": "Aggregates Industry",
-      "keywords": "Acquired",
-      "sector": "General",
-      "dealType": "Acquisition",
-      "value": "",
-      "date": "Apr 03, 2026",
-      "dateISO": "2026-04-03T07:00:00"
-    },
-    {
-      "title": "Are Knife River's (KNF) Mountain Deals Quietly Redefining Its Aggregates-Led Strategy? - simplywall.st",
-      "summary": "Are Knife River's (KNF) Mountain Deals Quietly Redefining Its Aggregates-Led Strategy? simplywall.st",
-      "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxNR2dMaWdFWE85Qk1TN2cwREE3cmx0RTJzdE14SEhOcTBxOUNOYnEzdVc0VXlvRDY5d3lHOTBlc0hacGhRUTVhbWRha0pEYTdPc0N1bTlvN1ZUTV9BTlZwNFlLN0JZNGEyYUUyR3JybEU1Rmctdlp1dFYtR0RiNDdQbDE0QmNNSENHVm1tcWVFS2VRcHg3VFI4VGdXNTFDRjhPZnRXYVlXdEc3VlgyWXN2N3RRVzNOMy1uVTVTeTVlaGJrRGd4NHEw0gHMAUFVX3lxTE8tdERvZWc4d2VUbmNhaWh1NjVtWlNEbEU0ZERmR1ZUWVQyZnRXYTRyVElzZ0tlLUhqWF90SXJzX0daU1JjQ29ET012UDdlQUNVaHY2Y3hDMng4WmFIam9oVDRhYm5EVklMMHdaQ0hOLXU2VmM0UTV2NXhFZ1dHdDNobjlVQ0swLVJRZTVCVFRHSmR3LTNOeXlHTXRtVy1nOHJLSE9PeW1PZTQ4MXhxWlJOZGhBZXpUeVRabHJfdlBGQnZ0SFhVd3BzWUxSVA?oc=5",
-      "source": "simplywall.st",
-      "category": "Knife River",
-      "keywords": "",
-      "sector": "Aggregates",
-      "dealType": "Acquisition",
-      "value": "",
-      "date": "Apr 03, 2026",
-      "dateISO": "2026-04-03T07:00:00"
     }
   ]
 }
