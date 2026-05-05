@@ -1,10 +1,88 @@
 {
-  "fetchedAt": "2026-05-04T18:05:15.377516",
-  "totalArticles": 128,
-  "newToday": 18,
-  "duplicatesRemoved": 11,
+  "fetchedAt": "2026-05-05T18:02:20.143798",
+  "totalArticles": 135,
+  "newToday": 20,
+  "duplicatesRemoved": 12,
   "archiveDays": 30,
   "articles": [
+    {
+      "title": "German building materials firm eyes acquisition of 134-year-old South African cement firm - CediRates",
+      "summary": "German building materials firm eyes acquisition of 134-year-old South African cement firm CediRates",
+      "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxOd096NXNKakp3WWUxWlJMR1ZwYUEzRktwa0h2Ti00R2xRRTBhUTBOc3lyX3g3RDJPVjZILVVvQ1dRQTRER2VsS1dfNWNmNjU0RURQMWhsSzRHa0hiWGVXZGo1NWJJbkd1d2FxQjZ4dmt5OEZMSkZnNmFuZXVwVXJ0bGF0ZnRhUHd6X3FVWk5RWmNYSEJ0SU1tbC1uYWcwVHMyOHNqbi1wX2V0SVdTbTY5Q2x5TmEzRDJz?oc=5",
+      "source": "CediRates",
+      "category": "Heidelberg Materials",
+      "keywords": "Acquired",
+      "sector": "Cement",
+      "dealType": "Acquisition",
+      "value": "",
+      "date": "May 05, 2026",
+      "dateISO": "2026-05-05T12:18:19"
+    },
+    {
+      "title": "TITAN Group completes the acquisition of Keystone Cement in the US - World Cement",
+      "summary": "TITAN Group completes the acquisition of Keystone Cement in the US World Cement",
+      "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxOb0VlUTIxYWtvOVJ1TkRrT1lucmVtUElhejV1QTV4WUpBa1VBUzJLZWZXOHp6N1pPYThpeWIyRjVtWk5peEs5Sk9VM3ptR0FFZWlCNnQ5aElIRk1YNzM3TnRDOE9FSzctam5ybExsejNRT2tSWFhkbXJwU2IzUEZOZ0VBRkN4akRFVDg0TXVxOFdEWE5aXzduNnFObjE0S254T1otaDNzRUNLTVd6TjZXYUxDZGJITFZ2?oc=5",
+      "source": "World Cement",
+      "category": "Cement Industry",
+      "keywords": "Acquired",
+      "sector": "Cement",
+      "dealType": "Acquisition",
+      "value": "",
+      "date": "May 05, 2026",
+      "dateISO": "2026-05-05T11:46:44"
+    },
+    {
+      "title": "Crh Plc $CRH Shares Acquired by Principal Financial Group Inc. - MarketBeat",
+      "summary": "Crh Plc $CRH Shares Acquired by Principal Financial Group Inc. MarketBeat",
+      "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxPSmc3RDd4cURVUmE5bXhjbzUyRVFwOFNuOUxSenVzM3hERFdYU0hhbnhoRFUxU19YRURFTnNvQ0h4ZF9ic1VCenVaT0JjdVV6OUFyNWx4aGF6WUNZZ21yaEg2OXZheG9rdEhycnZPdzVfYXdwYlkxbU5tNl8xSkFaRjFZb2RVd2hrNTF1UWVmSEsyN2JVZS1neXVVOWJkYjBaaWVxRkdoaEt4N3RIUWIxd29QUGxib3FQbmNFYlJn?oc=5",
+      "source": "MarketBeat",
+      "category": "CRH",
+      "keywords": "Acquired",
+      "sector": "General",
+      "dealType": "Acquisition",
+      "value": "",
+      "date": "May 05, 2026",
+      "dateISO": "2026-05-05T11:01:10"
+    },
+    {
+      "title": "Heidelberg Materials eyes potential acquisition in South Africa - marketscreener.com",
+      "summary": "Heidelberg Materials eyes potential acquisition in South Africa marketscreener.com",
+      "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxOTWRSanJHTm1UczFGNmVRdUlMX254TlNBajNGRDNmN25qZTIwRDBsTnl6QTR0WGF3XzVqT1hudGdKdFpfb2wxV01MUlctOEpuOGhXSDlrdlV6WmNKclA5NHU4WFBvWnB3YWxvNGZOLXFXOTJYUkxWNmo3V0MyaTl3TnBRTFZDTWM2SERDemk2cW5UWjVMMFhOczRiZFVPd2VtT1BEM1RZdi1aX0lCbHV5S056c3ZCT0U?oc=5",
+      "source": "marketscreener.com",
+      "category": "Heidelberg Materials",
+      "keywords": "Acquired",
+      "sector": "General",
+      "dealType": "Acquisition",
+      "value": "",
+      "date": "May 05, 2026",
+      "dateISO": "2026-05-05T08:32:24"
+    },
+    {
+      "title": "FCPT Announces Acquisition of a Belle Tire Property for $2.4 Million - Weekly Voice",
+      "summary": "FCPT Announces Acquisition of a Belle Tire Property for $2.4 Million Weekly Voice",
+      "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxNMm56VFFITGJaWjI4ek5WVjFIQUNaVFlRSXhQSUV4YXJnb0drTEl1ME44LW1maDlSWnNYeTA4MW4wTG9VRTdkY3lOR1VNWHIwTngzYUh2TjJyeEtjZUNBN0hPSFh5eEtQSmZRalo5ejAtOHRDcE1NNmNTZkRhUTdOdUZmNVYyajRpeFozeEtrSzg0TndsU2Iw?oc=5",
+      "source": "Weekly Voice",
+      "category": "GCC Cement",
+      "keywords": "Acquired",
+      "sector": "General",
+      "dealType": "Acquisition",
+      "value": "$2M",
+      "date": "May 04, 2026",
+      "dateISO": "2026-05-04T23:11:31"
+    },
+    {
+      "title": "Titan completes Keystone Cement acquisition in Pennsylvania - Investing.com UK",
+      "summary": "Titan completes Keystone Cement acquisition in Pennsylvania Investing.com UK",
+      "url": "https://news.google.com/rss/articles/CBMizAFBVV95cUxQUmk3cEtqMGdBcWs2T3lyaWJIaUlhakQ0MGN4c01rczFEVXc5a0gycm1wcUVrMmg0YjFsTDJKeGdfZE5FYnMxcG8wV3VjRks2Y1dxVG44ZzN1VFNwUkh6X1hHQjhYZnE5ZDl0MVdRR05LLWwwVVZUU1Q3azRTMFVaWi1KQ1BHWi1rRmM4a29adzNGVVJrM0N1VjJ4ZU5tQmhwdy1wUEk0aHdyR1RXWFFEaGw2NWI2VjZtOEg1UkNKNEUwb21IT1B5Z2Q1T2I?oc=5",
+      "source": "Investing.com UK",
+      "category": "Aggregates Industry",
+      "keywords": "Acquired, Investment",
+      "sector": "Cement",
+      "dealType": "Investment",
+      "value": "",
+      "date": "May 04, 2026",
+      "dateISO": "2026-05-04T14:22:08"
+    },
     {
       "title": "Titan America Completes Acquisition of Keystone Cement, Expands Mid-Atlantic Capacity - citybiz",
       "summary": "Titan America Completes Acquisition of Keystone Cement, Expands Mid-Atlantic Capacity citybiz",
@@ -435,6 +513,19 @@
       "dateISO": "2026-04-30T13:38:33"
     },
     {
+      "title": "ACC FY26 Profit \u20b92,402 Cr, Dividend \u20b97.50 Amid Ambuja Merger Process - Whalesbook",
+      "summary": "ACC FY26 Profit \u20b92,402 Cr, Dividend \u20b97.50 Amid Ambuja Merger Process Whalesbook",
+      "url": "https://news.google.com/rss/articles/CBMilgJBVV95cUxQMjZfeTExdFhSMGRkVV9DR3ZoSnA5c0t6VUxVUk5LUnBUZU1HbFdvZWUwci1lZEFxSVV1djZ1bDQyTkFNSjBDZkdhU25hT1BHUmVPbGxIdGQ4R0FrUzZwX2haTXcwVlFjWE4xNWNPUG9CejU5V2J6MThmRDV2SlVfVzlBRE45d3lFNVZFVzFLV0J1OW9aZmc4X28xTWYwSnV4NWFDdmxXWFMzR0stT1oxdV8tSEhlclBLZy1JbU0wMTlPaDdidUxkckNJWGJVLWpKS2RnN0J6ZlI0bmhhMGg1cnBFdnNmRm50bTZLTVEzcl9UTHZVdGpUUjY0SGtwMW91VldUU2QwaE1oQ2h6NVhna2R0OUN1QQ?oc=5",
+      "source": "Whalesbook",
+      "category": "Holcim",
+      "keywords": "Merger",
+      "sector": "General",
+      "dealType": "Merger",
+      "value": "",
+      "date": "Apr 30, 2026",
+      "dateISO": "2026-04-30T13:06:04"
+    },
+    {
       "title": "Wealth High Governance Capital Ltda Acquires Shares of 91,539 Crh Plc $CRH - MarketBeat",
       "summary": "Wealth High Governance Capital Ltda Acquires Shares of 91,539 Crh Plc $CRH MarketBeat",
       "url": "https://news.google.com/rss/articles/CBMizgFBVV95cUxPVFJPUzMyLUNmUEpWRUpkaHBpbFNKaXU1ZUsxOFZTWmJvY2lvSnVNMGg5RGhYMDJPTE1rRTBZc3lVcDc1QWg1WnNxU1BZRVNjeU9lTXVTNGZwVHRLaTNIeC0ydTYyaHpLc1oyZDJQYnNSaTBHVnhlZzlJYU81ZEFBY01vMFRwRjRoUkFqalFlVzRMcnZ3a0FqNFFSUDdIQ1NYYVNFSmFmR1l3NzluMGdIdDlJTlhzWDdIWDhQdXc5SXpXOFhoMTBsS1lUVGdUZw?oc=5",
@@ -667,6 +758,19 @@
       "value": "",
       "date": "Apr 28, 2026",
       "dateISO": "2026-04-28T17:49:51"
+    },
+    {
+      "title": "AI Is Driving Customer Acquisition Costs Through the Roof. Here's How to Get Around It. - Dailyhunt",
+      "summary": "AI Is Driving Customer Acquisition Costs Through the Roof. Here's How to Get Around It. Dailyhunt",
+      "url": "https://news.google.com/rss/articles/CBMiiwJBVV95cUxNb3M2YS1ad0QxbndlcGpxLUNYek1xdlhiMGZkT3drcnAzc1RybXdCaUZBa2lYY2NCZ29yNlRtdWVZS0oxMmpBSGVJaElZZ3Nialpkcms0YnVleDZKVnlEYTAzT0hPWWRkVzk1UlRDb0RXZ1lBcUwtUXRUR0hMWE1Zd0NOTzZFdWs2LTc3cFJwdVg1aHB3azJJaGowWV9BdERIVDlkTlRJWWpFaWY2Q1hlaEltRHFFaGVVczY1dEF6OTRqb0Q1NFd5YWxIZENsS2xCNURhSG5zVTZUV2Y4amV2eUlXeFg0cEc2b25OMEt4eUxKNWhMVHVFX3RRU1UxSDR3M3haS2Q3VXZ2ZXc?oc=5",
+      "source": "Dailyhunt",
+      "category": "Asphalt Industry",
+      "keywords": "Acquired",
+      "sector": "General",
+      "dealType": "Acquisition",
+      "value": "",
+      "date": "Apr 28, 2026",
+      "dateISO": "2026-04-28T17:03:42"
     },
     {
       "title": "Acquisitions turn earnings drivers for UltraTech in Q4; consolidated profit at record high - The Economic Times",
@@ -1655,19 +1759,6 @@
       "value": "",
       "date": "Apr 06, 2026",
       "dateISO": "2026-04-06T07:00:00"
-    },
-    {
-      "title": "Lockheed Martin Corporation $LMT Shares Acquired by Aberdeen Group plc - MarketBeat",
-      "summary": "Lockheed Martin Corporation $LMT Shares Acquired by Aberdeen Group plc MarketBeat",
-      "url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxOOWU0VHROS2pKU01SLTVReXhXcmdGSkpZTzFjTWNQSFhaS1VSd3g3dDhOUnJJN09ta1dlR3RzZnlnLXdjNEx6UDB6NFVPTndhZzVNdkRIaE1nRV9HZGo1M29YZjhCMTVWUmhya0tMS2tFR1pFNFM4cVBNY0ZIeWJfVEFIQXlkLThwU09FYzhyN0l4emduRWI3Y3V3d1dNWVd5QThEVEZ3TjB6NnJ4UFdEWmNFT3hBU1RVZi1xLVhuU1lsMzlZT3VMbkhR?oc=5",
-      "source": "MarketBeat",
-      "category": "Martin Marietta",
-      "keywords": "Acquired",
-      "sector": "General",
-      "dealType": "Acquisition",
-      "value": "",
-      "date": "Apr 05, 2026",
-      "dateISO": "2026-04-05T07:00:00"
     }
   ]
 }
