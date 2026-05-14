@@ -1,8 +1,8 @@
 {
-  "fetchedAt": "2026-05-13T19:24:21.275521",
-  "totalArticles": 152,
-  "newToday": 23,
-  "duplicatesRemoved": 17,
+  "fetchedAt": "2026-05-14T15:16:35.334887",
+  "totalArticles": 149,
+  "newToday": 18,
+  "duplicatesRemoved": 18,
   "archiveDays": 30,
   "articles": [
     {
@@ -500,19 +500,6 @@
       "dateISO": "2026-05-05T11:00:00"
     },
     {
-      "title": "Heidelberg weighs bid to acquire South African cement firm PPC - Moneyweb",
-      "summary": "Heidelberg weighs bid to acquire South African cement firm PPC Moneyweb",
-      "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxNbFNhb21uUHlObkpGSnprQXhkQTZ3dUpoSDVnb2dzOENkVWVNYTkxaHBlaGgxYmN1d3I2Ml9YUlhQa19hRzQyRndFTXFiMUp3WGFFMFBZdU1ZdlB1c3lCQ3F3azhjRkVLckZOVFNUZlVOUlR6dUYzamNyZU0yTTRTWFFhY054b2JvaWVHcG1uMlgxZS1VOXQ0OWZkaklmQUZxWFdfQnQ0VFY?oc=5",
-      "source": "Moneyweb",
-      "category": "Heidelberg Materials",
-      "keywords": "Acquired, To Acquire",
-      "sector": "Cement",
-      "dealType": "Acquisition",
-      "value": "",
-      "date": "May 05, 2026",
-      "dateISO": "2026-05-05T08:35:05"
-    },
-    {
       "title": "Heidelberg Materials eyes potential acquisition in South Africa - marketscreener.com",
       "summary": "Heidelberg Materials eyes potential acquisition in South Africa marketscreener.com",
       "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxOTWRSanJHTm1UczFGNmVRdUlMX254TlNBajNGRDNmN25qZTIwRDBsTnl6QTR0WGF3XzVqT1hudGdKdFpfb2wxV01MUlctOEpuOGhXSDlrdlV6WmNKclA5NHU4WFBvWnB3YWxvNGZOLXFXOTJYUkxWNmo3V0MyaTl3TnBRTFZDTWM2SERDemk2cW5UWjVMMFhOczRiZFVPd2VtT1BEM1RZdi1aX0lCbHV5S056c3ZCT0U?oc=5",
@@ -524,6 +511,19 @@
       "value": "",
       "date": "May 05, 2026",
       "dateISO": "2026-05-05T08:32:24"
+    },
+    {
+      "title": "Heidelberg Weighs Bid to Acquire South African Cement Firm PPC - Bloomberg.com",
+      "summary": "Heidelberg Weighs Bid to Acquire South African Cement Firm PPC Bloomberg.com",
+      "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxNY2JHa1R3T0JCSlZmaElsRGJZQlFjVkJONGxiaWRoQ1B4QTZxWVNIaDMxQXdUQUlYbzhOSDhyQ1NKMFIyYmVuZE9YWVFmQW5tUzFITDRBOWxxUFRYUTFYaGo0YkU1M09aWGt0NDc0YXpJenhqNTIwejF3XzFvTi04NHgyOFhjNWoxUnJwTU9RZ2xvaXRQQl93d2YtOXVEbjFRN1dnRWJrbmRKR2YyZ2J1bkpKUQ?oc=5",
+      "source": "Bloomberg.com",
+      "category": "Heidelberg Materials",
+      "keywords": "Acquired, To Acquire",
+      "sector": "Cement",
+      "dealType": "Acquisition",
+      "value": "",
+      "date": "May 05, 2026",
+      "dateISO": "2026-05-05T07:00:00"
     },
     {
       "title": "PPC rockets amid rumoured German buyout bid - News24",
@@ -1941,45 +1941,6 @@
       "value": "",
       "date": "Apr 14, 2026",
       "dateISO": "2026-04-14T19:56:00"
-    },
-    {
-      "title": "State of Alaska Department of Revenue Acquires New Stake in Crh Plc $CRH - MarketBeat",
-      "summary": "State of Alaska Department of Revenue Acquires New Stake in Crh Plc $CRH MarketBeat",
-      "url": "https://news.google.com/rss/articles/CBMizAFBVV95cUxPN25jcloteWhWQVk5SFlzWHZoQkRwZENlR3JMN1JnS1RfZjR3RXBMa1E4SHdFYmUtcmhFMUItcElaSFd1TUJfRDhGbU5fYklxV1F3cS12WE44TzQ4amZHWlBPMFZweFdCNE81WURXLUZWb2RoQU9NRjRraTI0anRVTzltSnRlZ3Itb3RtRG9vUGtSNlA5b0dkcVBuT1hqQjAtcHpBeng1THp1RnNGZnhjX0JjdUJRc1B1MUsyamRiVlJWeW9rcXd2aU5MRkU?oc=5",
-      "source": "MarketBeat",
-      "category": "CRH",
-      "keywords": "Acquired",
-      "sector": "General",
-      "dealType": "Acquisition",
-      "value": "",
-      "date": "Apr 14, 2026",
-      "dateISO": "2026-04-14T10:41:42"
-    },
-    {
-      "title": "Are Acquisitions Expanding Construction Partners' Growth Potential? - Yahoo Finance",
-      "summary": "Are Acquisitions Expanding Construction Partners' Growth Potential? Yahoo Finance",
-      "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxQQ0ZSSWNuaWFHaFRESUVJYWpiSThSRVB6ODdnMXpOSjh4TkhmX05jYy1FbXhJRDlwNHJmWkFGclVFbU5Qclh3Y1FRTDNscFRkMWtWcmR5bzRxOUNpY2oxSlhLcWFLWGlTUDMyN1FLZ1NGUGhYVWhORHhHVE50LUJIMjlJZUhudTNVRFpPbFhUd2pHc0xJbXE3a3JkU0gyMEhLbG11eEhnRk02U0JHTVk5Mng3bXdSRzg?oc=5",
-      "source": "Yahoo Finance",
-      "category": "Construction Partners",
-      "keywords": "Acquired",
-      "sector": "General",
-      "dealType": "Acquisition",
-      "value": "",
-      "date": "Apr 14, 2026",
-      "dateISO": "2026-04-14T07:00:00"
-    },
-    {
-      "title": "Suncrete (NASDAQ: RMIX) closes HYAC SPAC deal with $167.1M PIPE - Stock Titan",
-      "summary": "Suncrete (NASDAQ: RMIX) closes HYAC SPAC deal with $167.1M PIPE Stock Titan",
-      "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxNVUxfQmhsNUU1Z3docHlVWkJTTXp3WnVMSW9vZFRHTlA5WFFZOXRud1ZLMUpJX1d1WEpKZnJPN1Q5TjFsNTdZSjhqT2wxc29OcFVoLVhGbWRYTjQ1N2hMcFJTTENfdGF1Q1o0ektuZndCanFJNzY3QVdwcnF1WlZOUTNiZzh1dE1lWXEzUDZuQ0l0eGh2TWJrQVdGOEc5LUtGTkllYUVDYzFzc1pkUXJBWUpQb1hIcjg?oc=5",
-      "source": "Stock Titan",
-      "category": "Ready-Mix Industry",
-      "keywords": "",
-      "sector": "General",
-      "dealType": "Acquisition",
-      "value": "$167M",
-      "date": "Apr 14, 2026",
-      "dateISO": "2026-04-14T07:00:00"
     }
   ]
 }
