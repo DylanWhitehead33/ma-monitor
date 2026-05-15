@@ -1,10 +1,36 @@
 {
-  "fetchedAt": "2026-05-14T15:16:35.334887",
-  "totalArticles": 149,
-  "newToday": 18,
-  "duplicatesRemoved": 18,
+  "fetchedAt": "2026-05-15T15:11:37.272894",
+  "totalArticles": 148,
+  "newToday": 20,
+  "duplicatesRemoved": 17,
   "archiveDays": 30,
   "articles": [
+    {
+      "title": "News | Ajax Paving Industries acquires Fort Myers, Florida, land parcel for $3.3 million - CoStar",
+      "summary": "News | Ajax Paving Industries acquires Fort Myers, Florida, land parcel for $3.3 million CoStar",
+      "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxNazRuN3NuVFp4aFF3Qks4N2FGa3lFakxPWjZxQXhEZ2JENTd4bjlPZ0RHcFM0ZGxNMG00NUo4TDJuZktUU1ljXzQxbThkNXBKSzZEY00zV29CM0xXc2N6R0JrUE9BNzBqeTlUMVp4eVJUN3lTMnRQN1ZpZEF6T0t0YVJjWHZtazhRTW9lX1VYN29jcVZSRE44emlYS2dNNEhXNmFTQ3A4bkVaYktzUDNpY0Rrd3JrZ2VCN0ZZ?oc=5",
+      "source": "CoStar",
+      "category": "Paving Industry",
+      "keywords": "Acquired",
+      "sector": "Paving",
+      "dealType": "Acquisition",
+      "value": "$3M",
+      "date": "May 14, 2026",
+      "dateISO": "2026-05-14T15:28:13"
+    },
+    {
+      "title": "Sanghi Industries Ltd stock (INE128A01029): Ambuja Cements completes acquisition - AD HOC NEWS",
+      "summary": "Sanghi Industries Ltd stock (INE128A01029): Ambuja Cements completes acquisition AD HOC NEWS",
+      "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxPWEpSTk1kRlpzQU9iTW9OeTZUaVRGMGF2XzZ4OWM5LV9zQ1lyZTJNeTJYU0hpYVU2b1djNXJ2TllieldvOFdJZmctQ1VyVEJvamliZlpTbl82b1NqeXpoNnRBLUxGTEh4V1pnQ2VIcVdjU0JIOTM1UHpOeEo3NktYa21xanNUN0hIYjhMVXdibG10SG14SzI2WXlfcEMtYU5wWFRmbHRKMWFqNllLZnNiTUlfRlhOcjJRbW9pZ240WkwyUQ?oc=5",
+      "source": "AD HOC NEWS",
+      "category": "Cement Industry",
+      "keywords": "Acquired",
+      "sector": "Cement",
+      "dealType": "Acquisition",
+      "value": "",
+      "date": "May 14, 2026",
+      "dateISO": "2026-05-14T12:53:20"
+    },
     {
       "title": "Target acquired: Matt Hirschman returns to Seekonk Speedway as the obvious Modified Tour favorite - NASCAR.com",
       "summary": "Target acquired: Matt Hirschman returns to Seekonk Speedway as the obvious Modified Tour favorite NASCAR.com",
@@ -56,6 +82,19 @@
       "value": "",
       "date": "May 13, 2026",
       "dateISO": "2026-05-13T04:11:05"
+    },
+    {
+      "title": "YTL Cement Bhd completed the acquisition of 16.7% stake in Concrete Engineering Products Berhad for MYR 32.5 million. - marketscreener.com",
+      "summary": "YTL Cement Bhd completed the acquisition of 16.7% stake in Concrete Engineering Products Berhad for MYR 32.5 million. marketscreener.com",
+      "url": "https://news.google.com/rss/articles/CBMi5gFBVV95cUxPNzlZV0xGYld3djEzalAweThrZlA5dURvWkE3QUtEd1JtSzJabjdkODN1REhSbjE3U2dYTU5fcnh2TmNXZHFnNEFYb1FHTWFPQXZXd1pMeTJBVmF2dVdfVzlocFpSbnBTZWZzYS13VWwtWEhjZHdCN01fOWFpb0d0S3k5MlNsUE9VbDRuSFpZemZTM1pjT1R0QUU2Y3UwTUdFcVRGZTFLcDM4Sk1JUTZRVzJvdm5jRFQ4T3NrNUExZ0dGcGc5aHJhcGNNMFJud09FazZYT3pGZHJZQUJMS3h1TmxaNjFBQQ?oc=5",
+      "source": "marketscreener.com",
+      "category": "Cement Industry",
+      "keywords": "Acquired",
+      "sector": "Cement",
+      "dealType": "Acquisition",
+      "value": "",
+      "date": "May 12, 2026",
+      "dateISO": "2026-05-12T22:00:00"
     },
     {
       "title": "Protegrity Advisors Represents Atlas Asphalt in Its Acquisition by O2 Investment Partners - PR Newswire",
@@ -1889,58 +1928,6 @@
       "value": "",
       "date": "Apr 16, 2026",
       "dateISO": "2026-04-16T07:00:00"
-    },
-    {
-      "title": "J.K. Cement Acquires 9.77% Stake in Mehrauni Electro Power for \u20b92.10 Crore - scanx.trade",
-      "summary": "J.K. Cement Acquires 9.77% Stake in Mehrauni Electro Power for \u20b92.10 Crore scanx.trade",
-      "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxOYXlYenpvdGpFbEZOMlRmVW02R3VmV1dkWkpEUnZFcUhNUzlVc3IyVTlaMktadU0zVDh6MUdkY21lN3RQdHNaQ0lhcVNDUnRpd0F0cUVSLXNqZ1F3OWpGTlkzY1N6bnVKV1VmelFnSHEtZ05ocE1EM2pjVkhVaGtBel9KeUZIVFNpVjViaFZUM1ZCNVZ0VXE2VURaMWtwMlZwenAybFBtUzFSU1VEWDZBUXJGWFU5VEtPVWVRekZtYzNJamZFSnVz?oc=5",
-      "source": "scanx.trade",
-      "category": "Cement Industry",
-      "keywords": "Acquired",
-      "sector": "Cement",
-      "dealType": "Acquisition",
-      "value": "",
-      "date": "Apr 15, 2026",
-      "dateISO": "2026-04-15T12:41:12"
-    },
-    {
-      "title": "CRH Continues $300 Million Share Buyback With New U.S. Repurchases - The Globe and Mail",
-      "summary": "CRH Continues $300 Million Share Buyback With New U.S. Repurchases The Globe and Mail",
-      "url": "https://news.google.com/rss/articles/CBMi5AFBVV95cUxNZW00MmtlbHJ0c3pFM09RMm9NMGc0Y2VDQWlCa1hTMTdXMER6dlhIMWtBNXg1dHdoS0p5ZXI2Q0VUcWJJZUZBQWdxdnRvd0J1bGJvenFmNTg0ZWh3YnQ4NDZNbGVJZG15N1pQei1OU0I5RlY5NE1LZWI2Zk9TZVZaTzlvRWhrb1RaNFhTdGVBUmxqcW03MjBtUXp1WUR3ZWtFVjZwcFBBNTk4MGxqMVAzcld3R0htc0xZR3NyRjVubWhBZXpFc0NObHRYaTFKOTliNnR1TGxFNXlYNDB2X3JYQndmMkg?oc=5",
-      "source": "The Globe and Mail",
-      "category": "CRH",
-      "keywords": "Purchase",
-      "sector": "General",
-      "dealType": "Acquisition",
-      "value": "$300M",
-      "date": "Apr 15, 2026",
-      "dateISO": "2026-04-15T08:49:24"
-    },
-    {
-      "title": "Arcosa Divests Marine Unit for $450M to Focus on Infrastructure & Engineered Structures - News and Statistics - IndexBox",
-      "summary": "Arcosa Divests Marine Unit for $450M to Focus on Infrastructure & Engineered Structures - News and Statistics IndexBox",
-      "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxOa0VkUXRoaXhFWDFDRUdOQkJtQ3Y0c29Fa0VJS0xzaHhsVEdHaF9oNTNPRVU4eGV3WjZuX04xZTlYQ3hRQ2Z4NHgxZklEY3FMVFNIVW5TSlI2VWYzZ1kxelVpUS13NzNKMWdFYndkdUNaaU4wU250dUsxT1ZKZ2oyX09lcjhXOXNfMzBIajZCelNDUQ?oc=5",
-      "source": "IndexBox",
-      "category": "Arcosa",
-      "keywords": "Divest",
-      "sector": "General",
-      "dealType": "Divestiture",
-      "value": "$450M",
-      "date": "Apr 15, 2026",
-      "dateISO": "2026-04-15T04:51:00"
-    },
-    {
-      "title": "How DFW Airport would be impacted by potential American-United merger - The Business Journals",
-      "summary": "How DFW Airport would be impacted by potential American-United merger The Business Journals",
-      "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxOYWluU1U4V21YSlhWMVBPSmRyWWFqUEhrbUZpeHAtZFNaajhmTEZSdTBxUThndEtuTFpnaUhXY1VfZElTNlRsNTd0QjM4ZTZNVVFPM2Jtb1dabzFkbWlTOEFUUzZjWk1GQkQxWldEMXlPSVRDenRpVllaaENtOGxXYlY2T2FhQUtmWTJnQzlfMVBidmhQNFJYdFNpbm9YZzNwM3c?oc=5",
-      "source": "The Business Journals",
-      "category": "Cement Industry",
-      "keywords": "Merger",
-      "sector": "General",
-      "dealType": "Merger",
-      "value": "",
-      "date": "Apr 14, 2026",
-      "dateISO": "2026-04-14T19:56:00"
     }
   ]
 }
