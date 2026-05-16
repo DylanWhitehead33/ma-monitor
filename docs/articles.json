@@ -1,8 +1,8 @@
 {
-  "fetchedAt": "2026-05-15T15:11:37.272894",
-  "totalArticles": 148,
+  "fetchedAt": "2026-05-16T14:20:45.337576",
+  "totalArticles": 147,
   "newToday": 20,
-  "duplicatesRemoved": 17,
+  "duplicatesRemoved": 18,
   "archiveDays": 30,
   "articles": [
     {
@@ -394,6 +394,19 @@
       "value": "",
       "date": "May 07, 2026",
       "dateISO": "2026-05-07T12:30:00"
+    },
+    {
+      "title": "Suncrete (Nasdaq: RMIX) acquires Nelson Bros. Ready Mix in Texas expansion - Stock Titan",
+      "summary": "Suncrete (Nasdaq: RMIX) acquires Nelson Bros. Ready Mix in Texas expansion Stock Titan",
+      "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxNM3BCQjVIQVczZkdRVlZiS3VqUEVxVDIyZ1hhWlNES2tjcHNyMGluREd1NkFSQUltUVI3RDJNV0pZZkVEM28yMGFibmxUdzZkUUtNeTB1UGdLVS13SWRFOHVUdjB5czlsckZIQmJuR3h0VnotMTRSYjA5WUlmWDZHek1Nb3ZMTEtVQVpPWHdVYnhVYmtsUDk4MXhhTE43QzV5Um5B?oc=5",
+      "source": "Stock Titan",
+      "category": "Ready-Mix Industry",
+      "keywords": "Acquired",
+      "sector": "Ready-Mix",
+      "dealType": "Acquisition",
+      "value": "",
+      "date": "May 07, 2026",
+      "dateISO": "2026-05-07T07:00:00"
     },
     {
       "title": "Dubai Islamic Bank Successfully Closes USD Financing for Acquisition of Attock Cement Pakistan Limited - Biz Today",
@@ -1683,6 +1696,19 @@
       "dateISO": "2026-04-21T14:42:00"
     },
     {
+      "title": "Recycleye Deal Highlights Growth in AI Recycling Technology - reporterbyte.com",
+      "summary": "Recycleye Deal Highlights Growth in AI Recycling Technology reporterbyte.com",
+      "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxNcTlSQ2tpTERjcmh0aUh4dU0zeXU5Mm16LThsWXpoTVZRM3Y3WndqYzZncks1OTV5cS1ERUlXdWN2T0JKdFY0SHgtNGlGd3dWN2FibWNvN2xqbnVMaVgtaWxKRzZReUF5V0VzYy1QS1NTc251QzlDeWVpNEZqLTFnbnA2VlNFSF9FMUgzYWJjMmM3OG9HTHJRaXE5QQ?oc=5",
+      "source": "reporterbyte.com",
+      "category": "Precast Industry",
+      "keywords": "",
+      "sector": "General",
+      "dealType": "Acquisition",
+      "value": "",
+      "date": "Apr 21, 2026",
+      "dateISO": "2026-04-21T07:00:00"
+    },
+    {
       "title": "S$3.9 billion Paragon acquisition seals CICT's dominance in downtown retail, adds medical exposure - The Business Times",
       "summary": "S$3.9 billion Paragon acquisition seals CICT's dominance in downtown retail, adds medical exposure The Business Times",
       "url": "https://news.google.com/rss/articles/CBMizwFBVV95cUxNZDlYZlJwNUZOSnZ4d2tIZjNVZkl4bXFfX1RWVjNEWGFsQ0g4UE1RNUUxMG1nYXRMRW5pNnJrZDU4WDdLd00xOE16cEpkdF9NTmt3bTB2TVJsc0xzMy15NDhiVUhIbjVYZ19FY2w0eFhTRUNwZWFlZldnZlk5ZGxwNGdLMkc3ekQ0VVNOQmtYbjk3TlhFN0REc1U2V0wxckxtSjVubnRwTU11R1BYaXc1SFhPczlqOGMtcjN4V3VwNFVCb2VsdTJmbVluMTVja0E?oc=5",
@@ -1889,45 +1915,6 @@
       "value": "",
       "date": "Apr 16, 2026",
       "dateISO": "2026-04-16T20:26:29"
-    },
-    {
-      "title": "PPG expands road-marking portfolio with $65M Ozark acquisition - Plastics News",
-      "summary": "PPG expands road-marking portfolio with $65M Ozark acquisition Plastics News",
-      "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxOam15WHdmWXdVSXVuOEppc1VrRnc0R1poNnZDUUJlenBWdVlLU0RIVDBxZXdUcUszUFB4ejhxWE1vWElRUVIxVGNLMGd3ZU44X2VCd3hYcnRFbzYyTGZneGU1XzVBQXRiQXkxei1mOTBVNy1yNTIxLUhGQWw1RjhtSTRTLTYwUFVtdEJRNWNvZkptSUZqZFpLNWtMWTU?oc=5",
-      "source": "Plastics News",
-      "category": "Asphalt Industry",
-      "keywords": "Acquired",
-      "sector": "General",
-      "dealType": "Acquisition",
-      "value": "$65M",
-      "date": "Apr 16, 2026",
-      "dateISO": "2026-04-16T14:16:00"
-    },
-    {
-      "title": "Wells Fargo Upgrades CRH Stock to Overweight Citing Strong European Demand And Acquisitions - TIKR.com",
-      "summary": "Wells Fargo Upgrades CRH Stock to Overweight Citing Strong European Demand And Acquisitions TIKR.com",
-      "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxNVHFfeDhPYkhaek5kY3kybEUzMVV0R216V0xCaUJrV1BOZ3V2YWpTaHYyWW9WMkdkNDE0aDFEX3JuMkNKSzNlMW1MRDRKVHV0Yjg3cVdlUV81bWVVcGwxVTRJaVIycGlNMWNYa2NNXzRFc2Q4eWlaeVNNVmVIeXUtRVY0dTNwNjBfS0RNbHFXTTRJZ1BTZ05EMnFWUmItcEVYc3lLSWotX1NQRUVIOTFVX0ZmR0kyTjNwTEhhZkU5dw?oc=5",
-      "source": "TIKR.com",
-      "category": "CRH",
-      "keywords": "Acquired",
-      "sector": "General",
-      "dealType": "Acquisition",
-      "value": "",
-      "date": "Apr 16, 2026",
-      "dateISO": "2026-04-16T12:11:32"
-    },
-    {
-      "title": "East Sussex law firm acquires Bexhill-on-Sea practice - Business Sale Report",
-      "summary": "East Sussex law firm acquires Bexhill-on-Sea practice Business Sale Report",
-      "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxQSWZvUjlXZ1F4TnlvWW5salhjNzNGdHN2ZE9OendLZGh5SlU5SkVMczJIMDlvRklCUlFfaW82S25xZFZwVVlwOFNBZHNhM0s3QUs1SW1qZFVIMF9ra3RpZ1BETC1fWE1QcjdpUHpCS0d1Wkd0Ul9aQzFTTzFkWEgxWmFUbXliMVVJT2xNRFZvVWlfS1Z2QTAydURjYnItTldFcVdhU0VaZWd4cknSAasBQVVfeXFMUGtteE9wYzNOT3dNZ09yaUhwbFJtRFBGcXRXNkU3V3NUam1QdWhrZ08tOVlJWTZ0YnFlcE1CRDNkR09LLVdTOTEzeU5mUy1rOG9nTU9KR2FNZEZqY1NGRkJEWHphbmhEVUU5R2VTRGVlOVVHRDhSVHIwUGtxbnFzUVItazJNMEdsODBheUd6OWFydEEwWHFHOWQwYWZmX01Kc01zSTZlMDFhY1FZ?oc=5",
-      "source": "Business Sale Report",
-      "category": "Precast Industry",
-      "keywords": "Acquired",
-      "sector": "General",
-      "dealType": "Acquisition",
-      "value": "",
-      "date": "Apr 16, 2026",
-      "dateISO": "2026-04-16T07:00:00"
     }
   ]
 }
