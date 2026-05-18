@@ -1,10 +1,62 @@
 {
-  "fetchedAt": "2026-05-17T14:24:45.235729",
-  "totalArticles": 144,
-  "newToday": 22,
+  "fetchedAt": "2026-05-18T16:20:31.045989",
+  "totalArticles": 150,
+  "newToday": 29,
   "duplicatesRemoved": 18,
   "archiveDays": 30,
   "articles": [
+    {
+      "title": "AfriSam-West China Cements Deal: Risks to Local Cement Production in South Africa - News and Statistics - IndexBox",
+      "summary": "AfriSam-West China Cements Deal: Risks to Local Cement Production in South Africa - News and Statistics IndexBox",
+      "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxNdkpleWtlZDRkUkYwdS1XYllvdzNYdDFzSnI2TGRLSmg2clhGZEhSNzV1ZzVxT2NfMU9PT1Rla1Q3SGtXRTY4S0piVUJla2hEWFp6X1JkV21Pek81WXQ0RFZyOXBGeU5Jbmc3SmxlOFhwNGVRSDNYaVdHZWZfcUJvV1VuZkhiWl9ZOTZkZ1dRaFYyOXA4MVFYN29sRlBILUdBQ20zcFZUaW1GdHRZbjduX3lzYWpCWG9GM1BFNmtZNTNnTDQ?oc=5",
+      "source": "IndexBox",
+      "category": "Cement Industry",
+      "keywords": "",
+      "sector": "Cement",
+      "dealType": "Acquisition",
+      "value": "",
+      "date": "May 18, 2026",
+      "dateISO": "2026-05-18T12:01:00"
+    },
+    {
+      "title": "Prime Creative Media acquires Global Highways - Global Highways",
+      "summary": "Prime Creative Media acquires Global Highways Global Highways",
+      "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxNcm5FUWNERmgzQlJSV0l6LW9oQmxMaGl2N0tHMXZlSzdwaHpVMjNsSEF3S1UxOF8zZ2NEQTF3bnlZYnlCTVJFc3c0MkFqclhfX2FRdHFWMU9xUHpKV2F2WWpUNVRrNGFWbVhJZk5hWUQ1M0RaUkg2VlR1LTJjbFBkOXhsak92NnRv?oc=5",
+      "source": "Global Highways",
+      "category": "Aggregates Industry",
+      "keywords": "Acquired",
+      "sector": "General",
+      "dealType": "Acquisition",
+      "value": "",
+      "date": "May 18, 2026",
+      "dateISO": "2026-05-18T10:03:30"
+    },
+    {
+      "title": "Manufacturing Circle raises concerns over cement dumping in AfriSam acquisition - cemnet.com",
+      "summary": "Manufacturing Circle raises concerns over cement dumping in AfriSam acquisition cemnet.com",
+      "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxPbUhCU3dsTFQxV1VLeVVrUWNBNUNFNTR6ckJNY0dreEZRZnc1eURpXzhFMzhUQzVNcDktLUFHNGtYc0dkR19HVXF2N09OR1l3a0RZZk9NY3VTVWtDZEhYRXNhOEphUGFicnY3bERSTXdvZGRXQWdUcnJWNEI2QW55aDdtWWZ6U3NPQlN0ejJKdkZIMi04VFg3RmlaUWlaUElQREJDYzJlZ0RjSkYwWWVWNDVCWnd3OGVuV3FZQlczQTZsYUk?oc=5",
+      "source": "cemnet.com",
+      "category": "Cement Industry",
+      "keywords": "Acquired",
+      "sector": "Cement",
+      "dealType": "Acquisition",
+      "value": "",
+      "date": "May 18, 2026",
+      "dateISO": "2026-05-18T08:58:10"
+    },
+    {
+      "title": "Vulcan Materials Company $VMC Shares Acquired by Atria Investments Inc - MarketBeat",
+      "summary": "Vulcan Materials Company $VMC Shares Acquired by Atria Investments Inc MarketBeat",
+      "url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxNMXBEcFcycWJwUTgwLU5ZSmVJQjN4d0ZveHlNeWlualBTWUlFUmVMZ2tnX0R6SjJRWl85ZFFaQTBwN2pOX1FkekxkYjB1bWxUU0VjSm5pT3JBZWF3cnF1blVsNWFUUDR0SFc4UlRBclNlZjZIblZiMHVYN3RxT2xuMEl6REQ5YTVkOFVzUTFIVW43ZTFUak5FdlFpR2JBbFBieTBKcEdvaklFR1BIT1VzX2Z2b2lSYUZLREFyM1RDekdaYUt6Vzg2cjZB?oc=5",
+      "source": "MarketBeat",
+      "category": "Vulcan Materials",
+      "keywords": "Acquired, Investment",
+      "sector": "General",
+      "dealType": "Investment",
+      "value": "",
+      "date": "May 18, 2026",
+      "dateISO": "2026-05-18T07:44:33"
+    },
     {
       "title": "Summit Materials stock (US8666741041): merger with Argos North America reshapes US construction play - AD HOC NEWS",
       "summary": "Summit Materials stock (US8666741041): merger with Argos North America reshapes US construction play AD HOC NEWS",
@@ -30,6 +82,32 @@
       "value": "",
       "date": "May 17, 2026",
       "dateISO": "2026-05-17T06:51:37"
+    },
+    {
+      "title": "Martin Marietta Materials, Inc. $MLM Shares Acquired by Stephens Inc. AR - MarketBeat",
+      "summary": "Martin Marietta Materials, Inc. $MLM Shares Acquired by Stephens Inc. AR MarketBeat",
+      "url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxOUWowTEVtb190a0NtdjdTWXNkTHMxY1VpQ25NeldpWnFTS2F5V01tWnJyYUZTcnJRcGdSYlhTcGZQUlFTd2Vkdmx5aTdIM2JfcVZOYXVRQ2g5X3d5Q04wVTlWUEwwNHpkMWdOR1c3LW1HNlZTcHRWZzlzeHNsa2l5QzB5NnY4aExHb0VEd3gzU0Z2UnhCTVNnR2dlX3hMNDNjcHBIM0VrTS1PREtjUHRaUUxhR0V5NFZuMU8wOFlsbDgxbWdEZDhZbw?oc=5",
+      "source": "MarketBeat",
+      "category": "Martin Marietta",
+      "keywords": "Acquired",
+      "sector": "General",
+      "dealType": "Acquisition",
+      "value": "",
+      "date": "May 16, 2026",
+      "dateISO": "2026-05-16T10:38:18"
+    },
+    {
+      "title": "Amrize Ltd $AMRZ Shares Acquired by Bessemer Group Inc. - MarketBeat",
+      "summary": "Amrize Ltd $AMRZ Shares Acquired by Bessemer Group Inc. MarketBeat",
+      "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxOSmZJOG1mX3lwMkZBRFRBM0lPT181eW12X01kVWVnZFkzbFRHZTdWMm1xOWs4cE92QWhFYXhsbUlPQkNIc21aaWVXempLRVg3bDBYR0hfR0w3RlA1cTFkU0Z5SnpNQVpqUUYxVXZWNU94SEh2Smx3X3pFOHBqTWxoWE5ZSUw0V2VNMWZmZzI3NHp5OGFuMFdDQWYtZVVmSVpEb1d4WS1MVVdWMi1BendqWm9YazM?oc=5",
+      "source": "MarketBeat",
+      "category": "Amrize",
+      "keywords": "Acquired",
+      "sector": "General",
+      "dealType": "Acquisition",
+      "value": "",
+      "date": "May 16, 2026",
+      "dateISO": "2026-05-16T08:40:55"
     },
     {
       "title": "News | Ajax Paving Industries acquires Fort Myers, Florida, land parcel for $3.3 million - CoStar",
@@ -212,6 +290,19 @@
       "value": "",
       "date": "May 10, 2026",
       "dateISO": "2026-05-10T11:10:35"
+    },
+    {
+      "title": "Vulcan Materials Company $VMC Shares Acquired by ASR Vermogensbeheer N.V. - MarketBeat",
+      "summary": "Vulcan Materials Company $VMC Shares Acquired by ASR Vermogensbeheer N.V. MarketBeat",
+      "url": "https://news.google.com/rss/articles/CBMiywFBVV95cUxQVWUwNkl3M21uWkNrMjlITTJVdC1JY3JaNEV3YnBFa01acWZ2Y1VMVG9UdmNYZmh3amRDNzI0Q2hfRmd1X05hNjB2UC05S205clBZNW1yWno1OTNSeFhUbzJqMVBraWI1ZTVLYlRDUjNQN1AzVDlObzhRT3loOHlSXy1wdkRxX1hGQlpaSVNpQVlsdGhCa3g4dko2NVI3MWw3VnJrZnE3QTVWVXRvWmlpWHc5N0NUNUkxNWdtZ2E3dDBUTF9uVm50OGxtaw?oc=5",
+      "source": "MarketBeat",
+      "category": "Vulcan Materials",
+      "keywords": "Acquired",
+      "sector": "General",
+      "dealType": "Acquisition",
+      "value": "",
+      "date": "May 10, 2026",
+      "dateISO": "2026-05-10T07:29:41"
     },
     {
       "title": "Knife River\u2019s Q1 Loss and Acquisition Pipeline Might Change The Case For Investing In KNF - Sahm",
@@ -1514,6 +1605,19 @@
       "dateISO": "2026-04-27T07:00:00"
     },
     {
+      "title": "FCCL, KAPCO completes 92% takeover of Attock Cement - Mettis Global",
+      "summary": "FCCL, KAPCO completes 92% takeover of Attock Cement Mettis Global",
+      "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxObDZPSXFNbjBBdEU1amdKS3VZSzdQN01OQjctRmg0TWxCbU5tSDBPRUlFNWpodXViYVJ3NEZ3OUNTcWxOLXJNdURBUjJ1WEQyd3ZOYUhoQjZrd1pScGd4NUU3OERzVWFUUm1aTU1VRXZ1T1FvbE5MaUZGTlFxV3RRYQ?oc=5",
+      "source": "Mettis Global",
+      "category": "Cement Industry",
+      "keywords": "Takeover",
+      "sector": "Cement",
+      "dealType": "Acquisition",
+      "value": "",
+      "date": "Apr 27, 2026",
+      "dateISO": "2026-04-27T07:00:00"
+    },
+    {
       "title": "Fauji Cement, KAPCO acquire 92.03% stake in Attock Cement after completing deal - Profit by Pakistan Today",
       "summary": "Fauji Cement, KAPCO acquire 92.03% stake in Attock Cement after completing deal Profit by Pakistan Today",
       "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxPSXpwdXRFTVNfdUl5a2JVTFdUeHNvdmo0QktoaW5oa3ZReHdTQVB0Q0ZmWEJzbG05NWEySXlNM0FvOHZWdFEwaEhXSVpGMDRoWnd0LUVPdzNlWTVQdGoyTGF6TGEwdVJGc1RWczF1ckl6Qm1SVE9ab3lsQ0VYbDRmQkh2Y2l3RlhZeXhJQXB5SVF3LXpwOHMyekpMTFNRRHluN0NpRFBpc2VVd3pCRm83dmcxa2phMlIwWU1taWJkVzBPM2M?oc=5",
@@ -1564,6 +1668,19 @@
       "value": "",
       "date": "Apr 24, 2026",
       "dateISO": "2026-04-24T17:37:20"
+    },
+    {
+      "title": "Martin Marietta Materials, Inc. $MLM Shares Acquired by Turtle Creek Wealth Advisors LLC - MarketBeat",
+      "summary": "Martin Marietta Materials, Inc. $MLM Shares Acquired by Turtle Creek Wealth Advisors LLC MarketBeat",
+      "url": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxQZmVTam1tUnFUNHFRdS1QV3NGTjAxaUpoR1hkMTZhUHFNZVRRUmllZjdxWGprNk16UGdhak9lcWtyN3NKYm5QNjdpYmZ1NmcxLVNiSzEzRWFLTUxveEdYSEhDZFpodXlLbXh2b3dLc1E1OTIxRXZXWG1tY3FqSnNYTjRKSGFUNmlBcTN4b09DMFVRV1hBQkVVeDRYT19yN3hYbzhjN2Fqb0NJRmtoLXdvcWpVQW8wMC1KZ2I5QzEwSVYzUmNRRHY0YXd1Smo2WUlVc19ZMkJTTGxxS2t0MmtV?oc=5",
+      "source": "MarketBeat",
+      "category": "Martin Marietta",
+      "keywords": "Acquired",
+      "sector": "General",
+      "dealType": "Acquisition",
+      "value": "",
+      "date": "Apr 24, 2026",
+      "dateISO": "2026-04-24T07:00:00"
     },
     {
       "title": "YTL Corp among most active in early trade following takeover plan - KLSE Screener",
@@ -1735,6 +1852,19 @@
       "dateISO": "2026-04-22T07:00:00"
     },
     {
+      "title": "187,610 Shares in Amrize Ltd $AMRZ Acquired by Asset Management One Co. Ltd. - MarketBeat",
+      "summary": "187,610 Shares in Amrize Ltd $AMRZ Acquired by Asset Management One Co. Ltd. MarketBeat",
+      "url": "https://news.google.com/rss/articles/CBMizgFBVV95cUxQaHVSZHU2RDBqZ3Npc1F2QUctNFVDNkE0aWhVVTlrdmZxOEl5TV9taVlmUXFPS2xlbS1YWWVXXzNZYnEtSzlHX1hLNktmZFZoU1NpUUVGaERMVHpkUnpwUV85Ujcyd0VTekRDNktFbm1UZC1VTG95Z1ZGbWRYam5SbTBmeUg4OEdOb3lsYUZ2dlRmM0pqTHB1WGtjMmZ1UHptdjNya21jTWlnSEwwd09FbmJHVXBsQzdaRmdrQ2xlZUVzc21DY0xYanE0ZVI1dw?oc=5",
+      "source": "MarketBeat",
+      "category": "Amrize",
+      "keywords": "Acquired",
+      "sector": "General",
+      "dealType": "Acquisition",
+      "value": "",
+      "date": "Apr 22, 2026",
+      "dateISO": "2026-04-22T07:00:00"
+    },
+    {
       "title": "Holcim files Xella takeover for EU approval - MLex",
       "summary": "Holcim files Xella takeover for EU approval MLex",
       "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxNQ01vWk9iWktPUmZBZ05uSjFRRWFNOGV2bnRFUWkycy03ek9XZi1QdHBDTmZPakpYeXBuRlBtUFZiYUczMC1GOVhRaFItY0xOclRRa1NHLWJJWENBNWMwaFV2TEdpNW9XMnliRWh5SUhjcmk4NkE4YzhqT0Z1OU81MUV1V3lHQUxhQVBPZGNBV0QxQ19ITGZaZVYzSHlyakZLSHFRVHZnT0tsR2vSAVpBVV95cUxPUHM3SU82TEg5aGFVTlE2WE54TURaemdBSW0wVEZrR1hEeGFIT09COGhSMzlNSk1LMHlEWkJWZFdQdVZUeHhyN3E1Y20zVkVvUEdPQnRPWmM3MUE?oc=5",
@@ -1754,6 +1884,19 @@
       "source": "reporterbyte.com",
       "category": "Precast Industry",
       "keywords": "",
+      "sector": "General",
+      "dealType": "Acquisition",
+      "value": "",
+      "date": "Apr 21, 2026",
+      "dateISO": "2026-04-21T07:00:00"
+    },
+    {
+      "title": "20,043 Shares in Amrize Ltd $AMRZ Acquired by Tokio Marine Asset Management Co. Ltd. - MarketBeat",
+      "summary": "20,043 Shares in Amrize Ltd $AMRZ Acquired by Tokio Marine Asset Management Co. Ltd. MarketBeat",
+      "url": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxQSzRFVE1iYnlPUVlpeUdrVDJpNmRDRXpkWXZlX3lLWExXeTQtd05wNF81WHVtT0RuWXBmbmoyc2hNZ0I3OFV5RE5Rb2hIZ25nYkFOSnZsR3NmRkMzVnJsOVVDeHZwdk94X2xkaDAzSUVkS2xneHZPWW9TcmZWSExxTmQxb1RBbkJBTVJ1eGVOTjBwbDFQY0FOMFJnNDg2ZmE5TVA3MVdYcVV5aEluSDBZQXA0ajd1b3B2Vy1nOWtueUxtdEFHdVlvczg3X1JuNXpvbGQ0MzFhSVM?oc=5",
+      "source": "MarketBeat",
+      "category": "Amrize",
+      "keywords": "Acquired",
       "sector": "General",
       "dealType": "Acquisition",
       "value": "",
@@ -1811,71 +1954,6 @@
       "value": "",
       "date": "Apr 19, 2026",
       "dateISO": "2026-04-19T01:33:39"
-    },
-    {
-      "title": "Star Cement Ri Pnar Cement Acquires Nitesh Minerals for Rs 17.19 Crore - InvestyWise",
-      "summary": "Star Cement Ri Pnar Cement Acquires Nitesh Minerals for Rs 17.19 Crore InvestyWise",
-      "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxOMW1lVDJkbWRUMHdmYS0yTWd5ZVNUNEM0S1hEZmNIcUxTeXk4N29SMVhRWHNWZm1mWTEyaUktOC1fRG44eE5DVlQ2QVEzX1h3YVI4dkQ2MHU5REdkYnAyVmpiMkhJUGVKRmZJYjJGNHVMRzdLcTVza1VodVBLaVlsdVZxMS1SVC0t?oc=5",
-      "source": "InvestyWise",
-      "category": "Cement Industry",
-      "keywords": "Acquired, Investment",
-      "sector": "Cement",
-      "dealType": "Acquisition",
-      "value": "",
-      "date": "Apr 18, 2026",
-      "dateISO": "2026-04-18T09:19:19"
-    },
-    {
-      "title": "Star Cement subsidiary acquires Nitesh Minerals for Rs 17.19 crore - Business Upturn",
-      "summary": "Star Cement subsidiary acquires Nitesh Minerals for Rs 17.19 crore Business Upturn",
-      "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxNcXVJMjAybWlCd25md2o5Q19uWFpCaFZlVm5uSE9pSk11OG5oOExIN0xrU0Y3WlZRMnQya0ZCOTNvVjhZLWdwQTZVNERuOGZGUUdlcDdNTFVWM0Y2WlVucWt0UndyOTRQcHBJWThFLWtmNlhXY19MWnYwRThhNmhpWVFDSGc3enB4NEQtUXlQMGdwaC1heW1oLUxzQS10aWFKbEFjWG5ZeUp2dms?oc=5",
-      "source": "Business Upturn",
-      "category": "Cement Industry",
-      "keywords": "Acquired",
-      "sector": "Cement",
-      "dealType": "Acquisition",
-      "value": "",
-      "date": "Apr 18, 2026",
-      "dateISO": "2026-04-18T09:09:59"
-    },
-    {
-      "title": "CRH Continues $300m Buyback With New U.S. Share Repurchases - The Globe and Mail",
-      "summary": "CRH Continues $300m Buyback With New U.S. Share Repurchases The Globe and Mail",
-      "url": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxQZ2ExQWxwZXBIYUVEdDZMb3NXQ0dvVU5kNHRVaEh0d0dRa3VDMHJVc3JwZjkyd3pjMVBrbHhyaXBDODRpQk5DYnpBeGVtUnlmUk5vSlQ3a3BYRmVVWUNaNlFEc3AtZnZZU0lTSk1rQUJDNnBlUDdMR3Q0UEVlWnJKMDF3Wk9DNm5LMXI3aGpteFMweDRvSGx1X3NpRXFQWUJFV0dQX3NWcDR3cDQySXpicE45S0VYekhicnh5S3dBcHJpY2d1SlR2TFZfWmg4U0JFXzg0TWg1Yw?oc=5",
-      "source": "The Globe and Mail",
-      "category": "CRH",
-      "keywords": "Purchase",
-      "sector": "General",
-      "dealType": "Acquisition",
-      "value": "$300M",
-      "date": "Apr 18, 2026",
-      "dateISO": "2026-04-18T09:08:00"
-    },
-    {
-      "title": "Holcim in JV with Gujarat Ambuja to acquire ACC - The Economic Times",
-      "summary": "Holcim in JV with Gujarat Ambuja to acquire ACC The Economic Times",
-      "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxPT0ZrQ2dIa3E0SHdIcVIyeVVqSXBZOHR1em8xUmF5LXdOUFhyNUxiblJjd3U4Z0I0MjJZNTM1dXpKR2JIUTNlWm9GZVk0dTlVS2cxSVM3enIzUjJLVmc1NFVlN3l6eXl3MUJpWWpRZlROMnFkejhrT2Y4Z3lIbmY3NGFZTFNhQ0NmX2RxSEZFek05YURJaGlPcHJ5VjM2d2RI?oc=5",
-      "source": "The Economic Times",
-      "category": "Holcim",
-      "keywords": "Acquired, To Acquire",
-      "sector": "General",
-      "dealType": "Acquisition",
-      "value": "",
-      "date": "Apr 17, 2026",
-      "dateISO": "2026-04-17T20:03:52"
-    },
-    {
-      "title": "SOCOTEC reports integration progress after Lloyds Datum acquisition - International Fire & Safety Journal",
-      "summary": "SOCOTEC reports integration progress after Lloyds Datum acquisition International Fire & Safety Journal",
-      "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE0tVzI5SzIxQV9FMW5vdEhnNHVUc0ZLV04tUkhmMlRWbnpJRzNWZ3NwcVNCUnRaOXNySFIzcVJBVjlCSHNnUEVpV3A1NFpLZHFuYV92TnU1ZHZpRzFBSmg3Nzl4alBVUnBBVUk3aFBXcm1YU1E0X1E?oc=5",
-      "source": "International Fire & Safety Journal",
-      "category": "Precast Industry",
-      "keywords": "Acquired",
-      "sector": "General",
-      "dealType": "Acquisition",
-      "value": "",
-      "date": "Apr 17, 2026",
-      "dateISO": "2026-04-17T15:13:36"
     }
   ]
 }
