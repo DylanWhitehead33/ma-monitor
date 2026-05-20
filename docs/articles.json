@@ -1,10 +1,62 @@
 {
-  "fetchedAt": "2026-05-19T16:16:02.311533",
-  "totalArticles": 154,
-  "newToday": 27,
-  "duplicatesRemoved": 20,
+  "fetchedAt": "2026-05-20T16:22:02.548464",
+  "totalArticles": 161,
+  "newToday": 26,
+  "duplicatesRemoved": 18,
   "archiveDays": 30,
   "articles": [
+    {
+      "title": "Suncrete (RMIX) files 8-K/A with Nelson Bros. and multi-deal pro forma results - Stock Titan",
+      "summary": "Suncrete (RMIX) files 8-K/A with Nelson Bros. and multi-deal pro forma results Stock Titan",
+      "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxOS3JJaEJaS1ZTVWhLcTF2c1UteFc4MHRoanc0c0cxNWRzUlZKNHlsd2NaZVozeHc0RjNNcTZ1MXlqdEFOQjlRZGhHSm95NUpiM0tDRllWMzlFTEZfek5CdmkxMGU3OEZhZXo4NEFWZDdveVpXTXVTTDFDOWZKbWhoYnYwd3NKbVFTVGNJNDFZbVJhUnFUMjl0YTZGa3BXaUE2dGlmMWEtVjR3N2JNU3c?oc=5",
+      "source": "Stock Titan",
+      "category": "Ready-Mix Industry",
+      "keywords": "",
+      "sector": "General",
+      "dealType": "Acquisition",
+      "value": "",
+      "date": "May 20, 2026",
+      "dateISO": "2026-05-20T12:00:29"
+    },
+    {
+      "title": "Competition Commission of Pakistan Approves Maple Leaf Cement Share Acquisition in Faysal Bank - TechJuice",
+      "summary": "Competition Commission of Pakistan Approves Maple Leaf Cement Share Acquisition in Faysal Bank TechJuice",
+      "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxNUXgyMWVDTGthOWFkcUNvTDJnbGJsbERlejd1WGNfcllfdFAxQkZSbld1c1l3WFZNR2pBNWdodVNBN1VOS04wbkxDdWpUMjh4bDRnQUpCSmE0R0JIdVlqUVFpUzhRZDlvbDlaT0dGYkVpUUlMbzN2WFliNkU1V3licjl2MHM0SHNLaVZwSWd3dzVRSjlmdGswZmRxYVRWRDY0Q2tHeDNjNV9wMGR5Uzdjd0NGd3NsODdCeFdqZA?oc=5",
+      "source": "TechJuice",
+      "category": "Cement Industry",
+      "keywords": "Acquired",
+      "sector": "Cement",
+      "dealType": "Acquisition",
+      "value": "",
+      "date": "May 20, 2026",
+      "dateISO": "2026-05-20T06:22:24"
+    },
+    {
+      "title": "Heidelberg Materials stock (DE0006047004): US growth push with Ameritex deal in focus - AD HOC NEWS",
+      "summary": "Heidelberg Materials stock (DE0006047004): US growth push with Ameritex deal in focus AD HOC NEWS",
+      "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxNUkowZDQ0blBTdTVmNXQ0aFMtNVFacHN6LTB2Yl9wRWxteGxJOUlJbDgzTmYtX3l5ZmJVNklKcUtLazl3NTF2NzU1emh2WUVFYmRyNFdtZFFyN3B6RTBUcVl2c1dUb0haY2UybzJVYVVtbzlWX3cwd3A4ZGR2WkF0MmFoVy1FVkszN0dNUFlmb3h5YUQ2aDF0OXRiQmgtc05ZdUp5T0dDV2JoUGhIOUtDU3V2cHVHU1NfYi1fQUJvSlBPTHl2NXc?oc=5",
+      "source": "AD HOC NEWS",
+      "category": "US Concrete",
+      "keywords": "",
+      "sector": "General",
+      "dealType": "Acquisition",
+      "value": "",
+      "date": "May 19, 2026",
+      "dateISO": "2026-05-19T23:18:42"
+    },
+    {
+      "title": "W.W. Clyde & Co. Acquires CKC Construction & Materials - The Gila Herald",
+      "summary": "W.W. Clyde & Co. Acquires CKC Construction & Materials The Gila Herald",
+      "url": "https://news.google.com/rss/articles/CBMifEFVX3lxTE5CSzlpb0JOUUs1TVE3LWFsUnd0OThFRWo5S205VzV0c0J1Y1JjOXFKdFNiNWstRi1tcUppVjBwaTJxcDhHU0VNQkpuY0lCazd3NTRzY3Mxdk9PdTEtcUZqNEozVEpRY3pZUlZadjFyTlFwSUxqS0ZMNFg1eWI?oc=5",
+      "source": "The Gila Herald",
+      "category": "Asphalt Industry",
+      "keywords": "Acquired",
+      "sector": "General",
+      "dealType": "Acquisition",
+      "value": "",
+      "date": "May 19, 2026",
+      "dateISO": "2026-05-19T20:08:24"
+    },
     {
       "title": "Vinci Construction Acquires Canadian Firm Modern Group of Companies - Id\u00e9al Investisseur",
       "summary": "Vinci Construction Acquires Canadian Firm Modern Group of Companies Id\u00e9al Investisseur",
@@ -56,6 +108,19 @@
       "value": "",
       "date": "May 18, 2026",
       "dateISO": "2026-05-18T10:03:30"
+    },
+    {
+      "title": "Prime Creative Media acquires ITS International - ITS International",
+      "summary": "Prime Creative Media acquires ITS International ITS International",
+      "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxPcmsyVW1GQkhxQl9reHhBeVdpSElVSzdhWDdYbDlDdjZ1VkdFbzVXWkVKd2VaMVBfZlpULUNrSGg2RkFvZlJWQkVSemo3YjBZclZ2RzhqdVhQZ21NQXVOR082TU9xTk03dGdyX1BlcU1QTFFfNXlLM3d1bkRkT0hIMnRrMG9MVFoycExwRjZ3?oc=5",
+      "source": "ITS International",
+      "category": "Aggregates Industry",
+      "keywords": "Acquired",
+      "sector": "General",
+      "dealType": "Acquisition",
+      "value": "",
+      "date": "May 18, 2026",
+      "dateISO": "2026-05-18T09:47:25"
     },
     {
       "title": "Manufacturing Circle raises concerns over cement dumping in AfriSam acquisition - cemnet.com",
@@ -134,6 +199,19 @@
       "value": "",
       "date": "May 16, 2026",
       "dateISO": "2026-05-16T08:40:55"
+    },
+    {
+      "title": "PPC cites dumping risk in Chinese deal with rival AfriSam - Business Day",
+      "summary": "PPC cites dumping risk in Chinese deal with rival AfriSam Business Day",
+      "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxQbGRIbE9VSWtMWFQ4VHdsQ24wTEc5djRMNEVSYjBxMWVLbjdYUW04OWZQTHNlZWpTVTEtN0dDcTFnNmQ3OFdFNEFGX2lzMUZ0U051dXp1dVRYRE1PSXBpQ3lqamZEbWYwNURMekNSZkwycWN4UHY1ZHV5Z1h6NGJWWTFhMGlLUHJSVlRGbVdxU2t5RDd6bEl4RjJCWnVROERjNWxKU0E3dW5sNy1ZdVZlV2tNV3U?oc=5",
+      "source": "Business Day",
+      "category": "Cement Industry",
+      "keywords": "",
+      "sector": "General",
+      "dealType": "Acquisition",
+      "value": "",
+      "date": "May 16, 2026",
+      "dateISO": "2026-05-16T03:00:00"
     },
     {
       "title": "News | Ajax Paving Industries acquires Fort Myers, Florida, land parcel for $3.3 million - CoStar",
@@ -890,6 +968,19 @@
       "dateISO": "2026-05-04T04:07:24"
     },
     {
+      "title": "Martin Marietta Materials, Inc. $MLM Shares Acquired by Strs Ohio - MarketBeat",
+      "summary": "Martin Marietta Materials, Inc. $MLM Shares Acquired by Strs Ohio MarketBeat",
+      "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxOaVdQbnEtWHYxaDd5MGJpZVdIWkVxLXh6d2JJZDdXRndtSkY3RHRndFY0Mk5obU4yRHJqLTcyZGZWYU81NXg1VEtDenhaa0Jsdk01emRNcXp5dlZYQ3B4RjctN1FVX1ZDb2FiX2huVW5Oc2RaTEJFYThhZTB4aHV1c1pja0dKdmliLXVHbVdxUlNaLVBWLXpMUXlvdnM4QUVQSjNmcE1aSVpPYy1qdkljSWRoVm1NdWtoOVhoZDVIdjU?oc=5",
+      "source": "MarketBeat",
+      "category": "Martin Marietta",
+      "keywords": "Acquired",
+      "sector": "General",
+      "dealType": "Acquisition",
+      "value": "",
+      "date": "May 03, 2026",
+      "dateISO": "2026-05-03T07:00:00"
+    },
+    {
       "title": "Titan completes acquisition of Turkish cement plant Tra\u00e7im - Investing.com",
       "summary": "Titan completes acquisition of Turkish cement plant Tra\u00e7im Investing.com",
       "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxPUkRQV1IzQ0VOb1NVVkwxOEhuUTFyZ1ZCc2djV1B1RlJ3UTlpWHpxTVU2VWVVMjFuVXl2dGRFVkhWUW16T2x1UkN2QU5ObEdrSF9HOF9haXdtZmlncG9UM3BZVHF4d19Db1Z1aXBrX2NnOXlYczc4MW9SeVI3Slh2WXJ5SnlTbFNSa3laNzBBcjNkWWoxTk5EZExQdmo0T0dsMndpTDdDQVctYTVVVDZNbEZpdEZKUQ?oc=5",
@@ -1341,6 +1432,19 @@
       "sector": "General",
       "dealType": "Acquisition",
       "value": "$700M",
+      "date": "Apr 30, 2026",
+      "dateISO": "2026-04-30T07:00:00"
+    },
+    {
+      "title": "Granite lifts 2026 forecast after $912M quarter and Utah deal - Stock Titan",
+      "summary": "Granite lifts 2026 forecast after $912M quarter and Utah deal Stock Titan",
+      "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxPM2tQVERhdW95TVlxbDFUd2EyaUNvc1RVSVdkWkNfc0dUS3lTcS1Qc0VNSU9ta1pNTVFaWjRTTzFvRkE1eHJsd3ZHV2ZRaDRXYTlEMjZvemwzekVRVlJOM25QbU1PbnN3dzkwQ1VkRW1tckZ4XzIxTlpFMlZ3TEh6WmNodWRfVHVYcmhEalRRUWJ3dw?oc=5",
+      "source": "Stock Titan",
+      "category": "Granite Construction",
+      "keywords": "",
+      "sector": "General",
+      "dealType": "Acquisition",
+      "value": "$912M",
       "date": "Apr 30, 2026",
       "dateISO": "2026-04-30T07:00:00"
     },
@@ -1993,19 +2097,6 @@
       "value": "",
       "date": "Apr 21, 2026",
       "dateISO": "2026-04-21T07:00:00"
-    },
-    {
-      "title": "S$3.9 billion Paragon acquisition seals CICT's dominance in downtown retail, adds medical exposure - The Business Times",
-      "summary": "S$3.9 billion Paragon acquisition seals CICT's dominance in downtown retail, adds medical exposure The Business Times",
-      "url": "https://news.google.com/rss/articles/CBMizwFBVV95cUxNZDlYZlJwNUZOSnZ4d2tIZjNVZkl4bXFfX1RWVjNEWGFsQ0g4UE1RNUUxMG1nYXRMRW5pNnJrZDU4WDdLd00xOE16cEpkdF9NTmt3bTB2TVJsc0xzMy15NDhiVUhIbjVYZ19FY2w0eFhTRUNwZWFlZldnZlk5ZGxwNGdLMkc3ekQ0VVNOQmtYbjk3TlhFN0REc1U2V0wxckxtSjVubnRwTU11R1BYaXc1SFhPczlqOGMtcjN4V3VwNFVCb2VsdTJmbVluMTVja0E?oc=5",
-      "source": "The Business Times",
-      "category": "Cement Industry",
-      "keywords": "Acquired",
-      "sector": "General",
-      "dealType": "Acquisition",
-      "value": "$3.90B",
-      "date": "Apr 20, 2026",
-      "dateISO": "2026-04-20T06:49:00"
     }
   ]
 }
