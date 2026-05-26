@@ -1,10 +1,23 @@
 {
-  "fetchedAt": "2026-05-25T15:48:04.915260",
-  "totalArticles": 172,
-  "newToday": 28,
-  "duplicatesRemoved": 25,
+  "fetchedAt": "2026-05-26T16:39:32.852027",
+  "totalArticles": 177,
+  "newToday": 29,
+  "duplicatesRemoved": 23,
   "archiveDays": 30,
   "articles": [
+    {
+      "title": "Holcim offers EU remedies over Xella deal - MLex",
+      "summary": "Holcim offers EU remedies over Xella deal MLex",
+      "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxQb1U5eXpJTGlKSzVfSl9kUUo4YWtVTVRCcWJCYWRERkk2YWJwclVLWHZHb0M2bDVobTNGNlZqdlJCX1JhVGdfcDRKeERtaDM5V1FzRVp6d2tmblBQX0JwQWQwQWJfTDR6Ykc5eVpFQ3MxWFh3NHh5MnhRRF9UUzNJTk8tLXZ0WUtYdThtMtIBWkFVX3lxTE8yZ1Z2emtVa2taOFF5ZTYta285QnFJRERiWVZDT0t1TEdycmFnNE9xRF9QXzhUUU1HM1VoeU9zc3lsSVNZRGRuOWpKTk1RQTdnbGZKaEx1aXM1QQ?oc=5",
+      "source": "MLex",
+      "category": "Holcim",
+      "keywords": "",
+      "sector": "General",
+      "dealType": "Acquisition",
+      "value": "",
+      "date": "May 26, 2026",
+      "dateISO": "2026-05-26T14:28:00"
+    },
     {
       "title": "Dalmia's Jaiprakash acquisition gives it access to a profitable cement market - Moneycontrol.com",
       "summary": "Dalmia's Jaiprakash acquisition gives it access to a profitable cement market Moneycontrol.com",
@@ -188,6 +201,19 @@
       "dateISO": "2026-05-22T08:51:22"
     },
     {
+      "title": "Dalmia Cement inks deal to acquire JAL assets from Adani group for Rs 2,580 crore - financialexpress.com",
+      "summary": "Dalmia Cement inks deal to acquire JAL assets from Adani group for Rs 2,580 crore financialexpress.com",
+      "url": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxNVFd3UTQ3OWZDeFY0RG9nUEdMejlmUUNIZ1VIaExCazdGR21SeE1sZWQ1dnktRW1RQjBQTkdHcVJ4UjhUb1BMLXVGdWFoa1pDZThMNnk1czZCVkJMbmo1cVdfXzltUGZZTUF3OFEtZDhyNVY2LWU5Wkhka004ajVaMkdfdEd1UVEwWEJfUDNQZW9xVi1FT1EtTzRvX3hFeE13UWFRZjE2WnBUNjExUWxsZmpnUndMRkpIQm5uSFhqY01PQ19tcF9KMVFkOFN3c2JQcEgzTlBiUdIB3gFBVV95cUxNN3ZRSXB3WEFOQzQ1TmxBZDlJWGh3cTlTam9DTjNEWk9CbmFJb2J6VldFTnFGVkUyRDRJTVktbmhMVEJhU3YxeGMzRXBJVldJcTBlelRheEpVckxHMG5HWlFNSk9aQlpuU3ZHXzU2a3ZCWUQ2U1c3RVpPWWhsUFlKMFE5aVozMmljNXh4bkgtNlowWXU2eXBLYTdGZkdFaHduX2pHNkFocEFnNnF3NXNpOEFnWHZDTjZmQkN5VDEtWnY3c0M0dEF5N3I2STZmcExZSXh3NlNnaEV6bEc2RlE?oc=5",
+      "source": "financialexpress.com",
+      "category": "Cement Industry",
+      "keywords": "Acquired, To Acquire",
+      "sector": "Cement",
+      "dealType": "Acquisition",
+      "value": "",
+      "date": "May 22, 2026",
+      "dateISO": "2026-05-22T08:24:26"
+    },
+    {
       "title": "Dalmia Bharat nears deal for JAL cement assets after Adani insolvency takeover: Sources - ET Manufacturing",
       "summary": "Dalmia Bharat nears deal for JAL cement assets after Adani insolvency takeover: Sources ET Manufacturing",
       "url": "https://news.google.com/rss/articles/CBMi8wFBVV95cUxNRy1Bb1g4UkFObUttNC1Pc2Y2bHVpRElncUZ1VGNLSk1LemYtOVJWUUNiVFJqRjU3TkxzdWJtLTNsZkxOVGMyWmtzV0l4bjVncUNaM3VXbmJFcEhIcU1zY2lmTnVEVnRvc3d3bmFJbGg3OEhPaGV1Y2c1WUdSTVp0VFJYLWRFLTlueE8yQ0M4cUx4elNXcVpzRlMzM0JfSkV5V1FWdFFpdEtQQXFWZWgzUjZrbUVpdEcwU2t6RWF4WE5rbkFlLTNkTkFJS09zTDB2NXJjVVBwOGJjeWlPR0Y1YlBqd1UzelJXbldJRFUyb1RyRXPSAfgBQVVfeXFMT00wZERGNldFZHd4eVJ3UjBibGE0UDFZM2JNbENfZjJOcll4YS1RcldMR3hGUzRtbzFtU2lmRGVaT194c3AxWnJYYlRQNGhtS2xKMlVWaUs4YWFIb2lUalA5R0IzZWozdm1VWGtxa3RPTDNZM0JCQWI1Tk90b1VPSGtNcmdHTk1vc3dTVTVZUzh3M0dxSlNqMDhHckduX1NEdkpsQzNuX1F4WER2bmp0c0ptZkl0Z0R4cWN0VXBIVmpYZjBaLTROMzNfRGZqVUdTVGhJMk9nYUQ1RUx5dzlDWlJSeHRyQWV4UnR2Q3dMOU9tOFA4V3FMV00?oc=5",
@@ -199,6 +225,19 @@
       "value": "",
       "date": "May 22, 2026",
       "dateISO": "2026-05-22T07:15:37"
+    },
+    {
+      "title": "Martin Engineering acquires Australia\u2019s ConveyorTech Pty Ltd - quarrymagazine.com",
+      "summary": "Martin Engineering acquires Australia\u2019s ConveyorTech Pty Ltd quarrymagazine.com",
+      "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxOVU5tbnVoOXlQMVFYVHdwTGxCN2hxSFZHVWxjbjB5bzN1dzN4S1pZQmw2NGhfUGJLRXdlRkFfZWoyU0VULWtqME5lNTJhTDRreHVnTEhvQXdiUDJ3WFNRVWpoMW0xaXNFUGtleEZHdlNuZVBVMWZpU2FYRXIyZFI2X1dvOWhYTlNmV0ZDLWUxX3BoZHZpSkE?oc=5",
+      "source": "quarrymagazine.com",
+      "category": "Quarry Magazine \u00b7 Asphalt",
+      "keywords": "Acquired",
+      "sector": "Aggregates",
+      "dealType": "Acquisition",
+      "value": "",
+      "date": "May 22, 2026",
+      "dateISO": "2026-05-22T02:05:07"
     },
     {
       "title": "CalPortland must hire nearly all Vulcan employees as part of merger settlement - MLex",
@@ -279,6 +318,19 @@
       "dateISO": "2026-05-21T23:41:12"
     },
     {
+      "title": "Heidelberg Materials : Overview of shares acquired under the buyback programme 22 May 2026 (220526 Individual Daily Trade Fills EN) - marketscreener.com",
+      "summary": "Heidelberg Materials : Overview of shares acquired under the buyback programme 22 May 2026 (220526 Individual Daily Trade Fills EN) marketscreener.com",
+      "url": "https://news.google.com/rss/articles/CBMi5AFBVV95cUxNcG1zTnNHcUQtUWhkanF6U0F2MTJfUXRTWFdob2E4RGljdUlYcnltbzZtT0NnNGlScXU2T3ZxZFpOUXlKcG1lWUtXVlR5MWlLT0VYTW5mdmxIQWd0X3U0MTA0bVNHLVMzNEpUMzkzbFVhelM1Q2hESy1ZU1VtdS1PNWVKME1jcENMTzRhVElTX05IaTRvR1FhdEdzZHhVU2Y2MzBiY0RpODUteHIzTWpCR0ZDWllqeVgyUVRiRlVZZjNRRkpoWURhbVFqY25Wb0ExbWszZ1ZmRkxIdHZuTW1Oa0ttbEU?oc=5",
+      "source": "marketscreener.com",
+      "category": "Heidelberg Materials",
+      "keywords": "Acquired",
+      "sector": "General",
+      "dealType": "Acquisition",
+      "value": "",
+      "date": "May 21, 2026",
+      "dateISO": "2026-05-21T22:00:00"
+    },
+    {
       "title": "Dalmia Bharat to Boost Capacity with Rs 2,850 Crore Cement Asset Acquisition - TipRanks",
       "summary": "Dalmia Bharat to Boost Capacity with Rs 2,850 Crore Cement Asset Acquisition TipRanks",
       "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxPdUtCaTZscTUwTE5aUUw2M2IyYjhxY25CZ3BtMG5mSEpzYWRlb1NTcHZfQXdLVzVUVW5qYjdlSm5oTlotWWNMSXo2RW93eU5MdjJaTVNPTXc2LTZvV3o0bG9JWEVvSC1fY29ITnlpWnRpenhtbDJoeWlyR1E1ZnNtT19DOXlHcHZCNjNfb1MtdlRSWmF6aTVFLVlSOC1PaXdJWndpZ2hiWWJ4U3BLVW00cDJVd0Z2alhueHZTc25JQmJfTVB3T3c?oc=5",
@@ -316,6 +368,19 @@
       "value": "",
       "date": "May 21, 2026",
       "dateISO": "2026-05-21T13:24:16"
+    },
+    {
+      "title": "AMRZ Insider Buying: CEO Jenisch Acquires 1,000 Shares May 21, 2026 - Meyka",
+      "summary": "AMRZ Insider Buying: CEO Jenisch Acquires 1,000 Shares May 21, 2026 Meyka",
+      "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxPOW55XzBaZWdhNDl5TEw3ZDFWQ0d5U1UzVnpnYVlGV2xMYmZXM3BDdTd2NEVGb1o5anc5S1hnRzdzc0VqNTNnQXNCM290djdsakE3TUloOGJ5NFNxUFNjdGk5bnNUbE93cWRObjh4Z2paU2JZWlRyYXF3Zks5czVReWtsZDUyWWRhWVh1UHQzMGZRRThUcUZWbw?oc=5",
+      "source": "Meyka",
+      "category": "Amrize",
+      "keywords": "Acquired",
+      "sector": "General",
+      "dealType": "Acquisition",
+      "value": "",
+      "date": "May 21, 2026",
+      "dateISO": "2026-05-21T08:35:18"
     },
     {
       "title": "DOJ orders Taiheiyo to sell plants in $712M Vulcan deal - MSN",
@@ -1358,6 +1423,19 @@
       "dateISO": "2026-05-04T07:00:00"
     },
     {
+      "title": "Analysis: Danantara bets on logistics merger, stronger firms may foot the bill - The Jakarta Post",
+      "summary": "Analysis: Danantara bets on logistics merger, stronger firms may foot the bill The Jakarta Post",
+      "url": "https://news.google.com/rss/articles/CBMiywFBVV95cUxQdkZ2X2NNSmFnZTZraml3QmVvVFNRaWhJWFR0SzRNSE4yVUxBUHlGTFR0THVqMjV2cG1KYnlaeU9DZG53cW9OUmg1WnlBeXpHeXktRnd2eE5ubGtJUzVoVlRnUElMMGpOSzdrUlpGTGlPLVFERzJCNjMtSmlfcXNuOWcwV2k0X1V2d2hMd0I5dFZjNTVza1VHQnBqVHhvUzJpaDVTOEl4ZmZVX0F6MWRIaTRpN3NSUUVRbE14a28zYTdBeWJzUTZOUnRCQQ?oc=5",
+      "source": "The Jakarta Post",
+      "category": "Asphalt Industry",
+      "keywords": "Merger",
+      "sector": "General",
+      "dealType": "Merger",
+      "value": "",
+      "date": "May 04, 2026",
+      "dateISO": "2026-05-04T07:00:00"
+    },
+    {
       "title": "CX Insider Buying: CEMEX Executives Acquire 815K Shares May 04, 2026 - Meyka",
       "summary": "CX Insider Buying: CEMEX Executives Acquire 815K Shares May 04, 2026 Meyka",
       "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxPMENTTnk2YTU5RnZnNzVRUFdSQkQtZFdqdU44WXdIc01KRjdhcXJOMXk3dFFhZmc5cW1qTWgwX0JTeGQ3NjFxVm9ZNjBUbkNRcTNoNE5IRHp1WXlhaTdpRUEwTVBUNE9VUWJ2Y0prQnRobXRJaW9XeXlfczZuUDh3dS1YalA4OVVGb1plRzlKVEJvQzZXQmlsSElUQQ?oc=5",
@@ -2227,19 +2305,6 @@
       "value": "",
       "date": "Apr 27, 2026",
       "dateISO": "2026-04-27T04:30:21"
-    },
-    {
-      "title": "Ambuja Cements-Adani merger receives no objection letter from stock exchanges - Punjab News Express",
-      "summary": "Ambuja Cements-Adani merger receives no objection letter from stock exchanges Punjab News Express",
-      "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxObFpEUHd3d0hvNUZKRm82M0FqNGpJRGNaZHJLOVpjYjN6by1mMXhpT0tJUGdoWVVoX0tQNnRvemF2WUNaaVJHemQ2NXBfVkJKeWNLZlpCX2Y5QzBGMUVmWjdMV21PQkhjZFo1REpINm5QRWhZRFZvVUZuT0pjYXJndWg2RzNTNXVvTEpoNjZoY0pDZ2p3RjU1ekxpTVAyWERZRC13Zlc2Q0RBSFk?oc=5",
-      "source": "Punjab News Express",
-      "category": "Cement Industry",
-      "keywords": "Merger",
-      "sector": "Cement",
-      "dealType": "Merger",
-      "value": "",
-      "date": "Apr 25, 2026",
-      "dateISO": "2026-04-25T23:07:20"
     }
   ]
 }
