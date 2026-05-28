@@ -1,10 +1,49 @@
 {
-  "fetchedAt": "2026-05-27T16:34:35.505988",
-  "totalArticles": 170,
-  "newToday": 26,
-  "duplicatesRemoved": 22,
+  "fetchedAt": "2026-05-28T16:52:13.356922",
+  "totalArticles": 169,
+  "newToday": 27,
+  "duplicatesRemoved": 23,
   "archiveDays": 30,
   "articles": [
+    {
+      "title": "Wynnchurch Acquisition of NABRICO Highlights Ongoing Push Into Industrial Infrastructure Assets - citybiz",
+      "summary": "Wynnchurch Acquisition of NABRICO Highlights Ongoing Push Into Industrial Infrastructure Assets citybiz",
+      "url": "https://news.google.com/rss/articles/CBMizwFBVV95cUxNZW5TdzNFQ0ZqYS1CWmV0QmFTcWZMdG9FSGc5TzFmTXR4Yy1NdHJUQ09lTE10RVFnX195SUFHUUQyRUlVdE1GdjB6TlJNa2ZXd1paclc2X2ZPMGhOWkpvWVRhLU5qUWM1YVNEVlotSkNKODRBN1dQQ19tTXpQaVEtaTZPY3FYTXZJbmsxUmt4T2FURDc2Q0FmU3NyOVZsVXA0QkgwX0s2WkQ3ZVZYY04tSWtQekZLVUlKdE50bkk5UzJIa2lNemQxMnp0bm1CZXc?oc=5",
+      "source": "citybiz",
+      "category": "Arcosa",
+      "keywords": "Acquired",
+      "sector": "General",
+      "dealType": "Acquisition",
+      "value": "",
+      "date": "May 28, 2026",
+      "dateISO": "2026-05-28T13:24:31"
+    },
+    {
+      "title": "Barge maker NABRICO changes hands in Wynnchurch acquisition - Stock Titan",
+      "summary": "Barge maker NABRICO changes hands in Wynnchurch acquisition Stock Titan",
+      "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxNZ2FYdlRNZUV2YTk3V0k1aGx1ejdXeWp5Q0NKU0c2Wmk0Sms5YlpPZVMzWEJ1UjVUM2pCODNvNWJFdGtjUFY1ME1sTkJJeGRxRXA0eldkanBjSDNoSmd4UTBId29oQzdGdEpObFZDcThpc0VvSDZpRmtXWFVReU41dlU4ejJTa0J6TzAtRWVINVlXenVCUVp5cGZqWXlRU2hYSERGOTlReUd5OGFnd3V3cVBndzZveEE?oc=5",
+      "source": "Stock Titan",
+      "category": "Arcosa",
+      "keywords": "Acquired",
+      "sector": "General",
+      "dealType": "Acquisition",
+      "value": "",
+      "date": "May 28, 2026",
+      "dateISO": "2026-05-28T13:05:00"
+    },
+    {
+      "title": "C.W. Matthews Acquires Baker Constructors to Expand Florida Presence - Construction Owners Club",
+      "summary": "C.W. Matthews Acquires Baker Constructors to Expand Florida Presence Construction Owners Club",
+      "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxOVFBNbHJBVkJqVzRTWjI0cXdRUi1BejVrRFdqSXZEUTM0UFM0UDg4MUZ4OXMzNW4xVUFRNENvOTJLQS1WRGVEQTJTejc0WHR4SXJXU0I1SWRPR1ZzWkVPRklrdnJxdnljZlo5RnlxaUIwMWtZM3lfQzhXZFZIVWtyTWZiemVvZEQzYnJ1T2lNdU5QRW1XRVQwS2NfZjBrSUtDd3RBSkxaRTlTZlo0SmlQUm51UmR3a2c?oc=5",
+      "source": "Construction Owners Club",
+      "category": "Asphalt Industry",
+      "keywords": "Acquired",
+      "sector": "General",
+      "dealType": "Acquisition",
+      "value": "",
+      "date": "May 28, 2026",
+      "dateISO": "2026-05-28T10:07:06"
+    },
     {
       "title": "Holcim\u2019s CPAC (NYSE: CPAC) control deal valued near USD 1.5B explained - Stock Titan",
       "summary": "Holcim\u2019s CPAC (NYSE: CPAC) control deal valued near USD 1.5B explained Stock Titan",
@@ -1514,6 +1553,19 @@
       "dateISO": "2026-05-03T07:00:00"
     },
     {
+      "title": "How Investors May Respond To Martin Marietta (MLM) Reaffirmed 2026 Outlook And Expansion-Focused Deal Activity - Yahoo Finance",
+      "summary": "How Investors May Respond To Martin Marietta (MLM) Reaffirmed 2026 Outlook And Expansion-Focused Deal Activity Yahoo Finance",
+      "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxQYlV6ZXVac0IySTVIWjJOZU96OXB3aXZQd2tPdS16Q0ZXR1g2ck4wRlpYb3o3ODYwdWRPUHlHZ0liNjJMVVpMeTJMVTNoNEFTUDFDN2lZQkRYUHh6ZTl3d2tLUm9Gakd1Z3ZVVTlJT0VoREduNjhjRk1fU25GeFI3QjZmNWpKYXRaOVFpOTZWOHo3TEFNLTRrUE5oNmQzakJ0bHZEeA?oc=5",
+      "source": "Yahoo Finance",
+      "category": "Martin Marietta",
+      "keywords": "Investment",
+      "sector": "General",
+      "dealType": "Acquisition",
+      "value": "",
+      "date": "May 03, 2026",
+      "dateISO": "2026-05-03T07:00:00"
+    },
+    {
       "title": "Titan completes acquisition of Turkish cement plant Tra\u00e7im - Investing.com",
       "summary": "Titan completes acquisition of Turkish cement plant Tra\u00e7im Investing.com",
       "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxPUkRQV1IzQ0VOb1NVVkwxOEhuUTFyZ1ZCc2djV1B1RlJ3UTlpWHpxTVU2VWVVMjFuVXl2dGRFVkhWUW16T2x1UkN2QU5ObEdrSF9HOF9haXdtZmlncG9UM3BZVHF4d19Db1Z1aXBrX2NnOXlYczc4MW9SeVI3Slh2WXJ5SnlTbFNSa3laNzBBcjNkWWoxTk5EZExQdmo0T0dsMndpTDdDQVctYTVVVDZNbEZpdEZKUQ?oc=5",
@@ -2149,71 +2201,6 @@
       "value": "",
       "date": "Apr 28, 2026",
       "dateISO": "2026-04-28T17:03:42"
-    },
-    {
-      "title": "Acquisitions turn earnings drivers for UltraTech in Q4; consolidated profit at record high - The Economic Times",
-      "summary": "Acquisitions turn earnings drivers for UltraTech in Q4; consolidated profit at record high The Economic Times",
-      "url": "https://news.google.com/rss/articles/CBMigAJBVV95cUxPM0Jnc1QwMmIwaWRQNUY3YW1uZDNqN3B2eENvRFdNLXNZcTljOTlIYmY1S3dxU2U1alBPa2dWZlFBMnY2WlZtT09TWm84OHdOalF6VVFKQTZlSDdCZEo5X1ViX2NYQ2lwVEdGUy1TZnk1U3htUEhHLTJIV1Fkc2RQVnI0NVZsWVBLSmhOVXpzMVdoaE12M0tscTI0bUpGdG5JUERpWm9JWkp6cm9NM2JUa2ZCcjdfbWVfeXZkTlM1amQtRjRqSW95T1ZEY3lTeHE1OXIyY0paV0JDMEZLSXV2YWlCdkNMQkd1S0ZxZXFoTDlreHdPVGhVdW9LeGo1Skph0gGAAkFVX3lxTE8zQmdzVDAyYjBpZFA1RjdhbW5kM2o3cHZ4Q29EV00tc1lxOWM5OUhiZjVLd3FTZTVqUE9rZ1ZmUUEydjZaVm1PT1Nabzg4d05qUXpVUUpBNmVIN0JkSjlfVWJfY1hDaXBUR0ZTLVNmeTVTeG1QSEctMkhXUWRzZFBWcjQ1VmxZUEtKaE5VenMxV2hoTXYzS2xxMjRtSkZ0bklQRGlab0laSnpyb00zYlRrZkJyN19tZV95dmROUzVqZC1GNGpJb3lPVkRjeVN4cTU5cjJjSlpXQkMwRktJdXZhaUJ2Q0xCR3VLRnFlcWhMOWt4d09UaFV1b0t4ajVKSmE?oc=5",
-      "source": "The Economic Times",
-      "category": "Cement Industry",
-      "keywords": "Acquired, Consolidation",
-      "sector": "General",
-      "dealType": "Acquisition",
-      "value": "",
-      "date": "Apr 28, 2026",
-      "dateISO": "2026-04-28T13:14:00"
-    },
-    {
-      "title": "Cemex UK divest Wick flooring operation to Treanor Pujol - facilitiesmanagement-now.com",
-      "summary": "Cemex UK divest Wick flooring operation to Treanor Pujol facilitiesmanagement-now.com",
-      "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxPaXd4OXl4eWFUUl84cHU0YkxIZ3ZJTU16eGFZakhpLUdzTUZSeDBhZjNFZ2dMZzhfOU9ib0JKMkoxR3ZnNk40b2ZrU0FTLXRKWFNCZTRTNFVjOTg0c2tBbTl6Tk9VVEVVTGlEYlJGcGhFRVFpNnc5eGF3eEl3eWRBazZFYW45Z0MwbDNXeThjZFpuc3U2OV9XbnhQUnlNQldIYWVuSVQybU8xVG1JczZCZkdn?oc=5",
-      "source": "facilitiesmanagement-now.com",
-      "category": "Precast Industry",
-      "keywords": "Divest",
-      "sector": "General",
-      "dealType": "Divestiture",
-      "value": "",
-      "date": "Apr 28, 2026",
-      "dateISO": "2026-04-28T11:33:51"
-    },
-    {
-      "title": "175,500 Shares in Crh Plc $CRH Acquired by State of Michigan Retirement System - MarketBeat",
-      "summary": "175,500 Shares in Crh Plc $CRH Acquired by State of Michigan Retirement System MarketBeat",
-      "url": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxNb0pjdllkVXlSYmtqOW5RXzZmZDlGSTJISUM0Wm03Y21hYVpjUFZzVE14TktJb0g0amNTRXNEeHJFMjVlY19mbnBsejNHNzRDalJSeE5zVnhWV1hvNC14XzU2U3BFZmlkcjBxREFIbVVQUUJRdENBRFJadEU5aXlZVEFReHJSUUNCVnpwOEkzMER3WGFwdUhtS3RobDN1aTRwNzRVRVhNNkpqQVRfeVBrZ2lTUHFUWDhLVHZueWMyWjdxdVFFMHJZNm5BNE1NTk1fYXFv?oc=5",
-      "source": "MarketBeat",
-      "category": "Precast Industry",
-      "keywords": "Acquired",
-      "sector": "General",
-      "dealType": "Acquisition",
-      "value": "",
-      "date": "Apr 28, 2026",
-      "dateISO": "2026-04-28T10:27:49"
-    },
-    {
-      "title": "Fauji Cement, KAPCO Announce Joint Acquisition of Attock Cement - TechJuice",
-      "summary": "Fauji Cement, KAPCO Announce Joint Acquisition of Attock Cement TechJuice",
-      "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxNeURnb3J5OUIwUTFqVFNvcmpnRWxlbVV6TzFraUxOdUplVGdQcDg2eGw2b0xCRG1yWUlXd0JXQmZSRTJDNXM0M1RaZnhuRkVueXVralZNRUlOalNzSVRwT0xoV09qMXZCRFU0VVNpX2M3MHJVSWV3OEZuRG00QW5CYkZscGlGM3R6T2RJUldsTld2Zw?oc=5",
-      "source": "TechJuice",
-      "category": "Cement Industry",
-      "keywords": "Acquired",
-      "sector": "Cement",
-      "dealType": "Acquisition",
-      "value": "",
-      "date": "Apr 27, 2026",
-      "dateISO": "2026-04-27T18:20:31"
-    },
-    {
-      "title": "Granite Construction Incorporated (NYSE : GVA) acquired Kenny Seng Construction, Llc. - marketscreener.com",
-      "summary": "Granite Construction Incorporated (NYSE : GVA) acquired Kenny Seng Construction, Llc. marketscreener.com",
-      "url": "https://news.google.com/rss/articles/CBMizAFBVV95cUxONDlnNURZUHIyQ2NJVzFsd3ZrRFU1UDhTMV9UUXh3aVF5OWYzVHNvREZCZjhkWjZsSC13S3UxOWxVM2lDMVF1WUNQNjJTSlROblctaGVGN2RFZFhVVDNVYjBQUDRUVEJUSWdfR1ZsN3F3SjgzTXB3dDRudEJFakNDdmFDdndQelV5Rmo2WjFObnNVWnZsbjFCOXA0ZENWUDNDalFIUDd2U1hxMVBrZDF0Y3p4anBSeHRWd3BYRE9SQVBIT2NlYmZCUUVKMks?oc=5",
-      "source": "marketscreener.com",
-      "category": "Granite Construction",
-      "keywords": "Acquired",
-      "sector": "General",
-      "dealType": "Acquisition",
-      "value": "",
-      "date": "Apr 27, 2026",
-      "dateISO": "2026-04-27T16:36:31"
     }
   ]
 }
