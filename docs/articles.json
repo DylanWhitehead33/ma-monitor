@@ -1,10 +1,62 @@
 {
-  "fetchedAt": "2026-06-04T16:19:12.391239",
-  "totalArticles": 119,
-  "newToday": 12,
-  "duplicatesRemoved": 11,
+  "fetchedAt": "2026-06-05T15:50:30.021655",
+  "totalArticles": 116,
+  "newToday": 14,
+  "duplicatesRemoved": 10,
   "archiveDays": 30,
   "articles": [
+    {
+      "title": "Holcim expected to receive EU approval for Xella acquisition - cemnet.com",
+      "summary": "Holcim expected to receive EU approval for Xella acquisition cemnet.com",
+      "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxPVHFWcGhSczRveVZfNnRBLUVXSXpHbGc1V2dIdlFKVTZyVG85SGtib3ZFN29DekRQVXVCT21oWWtPcS1PX3Y0OTBOQmgtZENMMTFDTkg4My12dmJteW9lRnNJWDQ5WEdrNk9zR29KY2szVTRkU1RfSGdpTlgtUlZuZ1otTW0wa2NJQjBhQWVFTHBtLTlIbXJZRGh2U2YzVXRucXFkb3R5SGRHZw?oc=5",
+      "source": "cemnet.com",
+      "category": "Holcim",
+      "keywords": "Acquired",
+      "sector": "General",
+      "dealType": "Acquisition",
+      "value": "",
+      "date": "Jun 05, 2026",
+      "dateISO": "2026-06-05T08:48:03"
+    },
+    {
+      "title": "Orient Cement receives no objection from exchanges for Ambuja Cements merger - scanx.trade",
+      "summary": "Orient Cement receives no objection from exchanges for Ambuja Cements merger scanx.trade",
+      "url": "https://news.google.com/rss/articles/CBMizgFBVV95cUxQWFJLaU9fRzFQUVEwbG8tVHNoN0ZYNWw3UlQtd3k3ekFSS0NDb0pjSzBqUi16YlRBWUpVRXR0SG5qb2ZTb1VVX1pCaURucnE3MER0a3dIaTBwbDdYYzdhTTd0NWJBRlpORTUxa0FOUVN4azZqRGcxNHFRcHNVT2ZBUnJfSFc4cWdyVXI0cHhGODI0TDFLSExQSDdncHg0ZXluUmFvQVh1THVTNmVhdHJUS2RZWDhENkZXV05sUkhTdWFLSElXQlQzX1UydTJGdw?oc=5",
+      "source": "scanx.trade",
+      "category": "Cement Industry",
+      "keywords": "Merger",
+      "sector": "Cement",
+      "dealType": "Merger",
+      "value": "",
+      "date": "Jun 04, 2026",
+      "dateISO": "2026-06-04T19:14:48"
+    },
+    {
+      "title": "Adani cement mergers move closer as exchanges clear ACC, Ambuja, Orient schemes - ETLegalWorld.com",
+      "summary": "Adani cement mergers move closer as exchanges clear ACC, Ambuja, Orient schemes ETLegalWorld.com",
+      "url": "https://news.google.com/rss/articles/CBMi-AFBVV95cUxNWDR6d09Eck5SSnJNMVV2Z2RCSThrOXZ1eUh1Q2RWZVJEZWlqbGtIUzhXY2o5NFhrSUJWdTZiSUtMMS1MYW13RlpWLTllazE5N21GTU9xeUYzQ2QxQklwblItMWhhUE5uS3FlWElldlZvRHNoS0hJRk9WdVVWTXk4NUFYZFhJVTkxWUxIQTk2SWNTNExZSzJ1bG5MZ3ZvYU9ha19kb3dVN05JSGg3WTlUYnZWeFE4QktJTlR3a2VPUXp4TFZFQlVoWmljMzQ0WVpnT3hkTExLSDNPODJGV0hjcWxhd1FIQVBleWx4SDhuWkJwMVRUY2hsZtIB_gFBVV95cUxOOThZWFhqbjZNYll5SjhWWTV6QW9NY0c5el9GbkVJcWxIWkJTeGJ5UlQtYWsyeXp1RTI2TFhNT2oydDFvYTdsSDQ5SDF2T0U3VHFlRGd3NEdaOU84ZnpKQ0dER2tSN05wWDU1WEJoNnIxQllJZ0VwSXY0ZzAwX25iNGFkRVhSX3AxTGhhQkJ6eWo1UkNFYl8tZzdISXlMQUszeURkdVplMkY4bDAtTEZfMTJ4eE1hNFBKaXBlemNfYk1FN2VjSFFMbnhsSXRVZ0NneGF6QjhpeTFOOW5DdXNSTTN6UjBWdHFYVjZJazhQOXk4VE1Od3lOYVBtcTAwUQ?oc=5",
+      "source": "ETLegalWorld.com",
+      "category": "Cement Industry",
+      "keywords": "Merger",
+      "sector": "Cement",
+      "dealType": "Merger",
+      "value": "",
+      "date": "Jun 04, 2026",
+      "dateISO": "2026-06-04T18:10:59"
+    },
+    {
+      "title": "JK Lakshmi Cement board approves acquisition of 26% in solar power entity - Dailyhunt",
+      "summary": "JK Lakshmi Cement board approves acquisition of 26% in solar power entity Dailyhunt",
+      "url": "https://news.google.com/rss/articles/CBMi8wFBVV95cUxNeEdvbl9RRHE4aDlmWG0zTlpDLVNKdFlZRHVCcGpXM2RoSzdHNGQ3X1RrUGJDMldueWREREs1MWoyemdqUi1UM3BjbXB3M0U1VFVWZXpyRElpTWNpNHRSeVRaUUdEamVWZnhpdmJYcGpLVDdkRFM5d2tHVlZRb2Y0STBHaTNqbWRnTWVrVHE2MXJNdmFNYlcyUGFibEphanFQYlE0SFNlRjlWMS1HUUZFRkYxR0dLaUNpMEFidVBUTjludEM0T2ZKX2syQTJjX0pqeDcyc2VzVmpTTW5jSGZtSlVBSFF6eDczNjNYTjhPNFl1V1E?oc=5",
+      "source": "Dailyhunt",
+      "category": "Cement Industry",
+      "keywords": "Acquired",
+      "sector": "Cement",
+      "dealType": "Acquisition",
+      "value": "",
+      "date": "Jun 04, 2026",
+      "dateISO": "2026-06-04T14:05:32"
+    },
     {
       "title": "Holcim Ltd stock (CH0012214059): EU review of Xella deal keeps Swiss shares in focus - AD HOC NEWS",
       "summary": "Holcim Ltd stock (CH0012214059): EU review of Xella deal keeps Swiss shares in focus AD HOC NEWS",
@@ -359,7 +411,7 @@
     {
       "title": "Dalmia Bharat to acquire JAL Cement assets in Rs 2,850 cr deal - The Hans India",
       "summary": "Dalmia Bharat to acquire JAL Cement assets in Rs 2,850 cr deal The Hans India",
-      "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxNMHY5ZlJ5MzNIcU15OGJMTk5kV1h1eUpWRWpyNmt6WTZpa0RhdWtJaFNTSmRJR2ZyT2tYWTFhTG1fMDJVZlM0Z3lnYmQ5UmpQTzI3QzlGMWNSRW9CTEdwZHBjc1plZ0E2V2Z2Qjdudko3cWR4dWNMV0VqaWNfSG93UXNYZjJRR1gyUVJESkdxUUJfTDc5WFhOLXAzSmhDMVZWOUVudkcwdm5SSElpbnVrbtIBsAFBVV95cUxNMHY5ZlJ5MzNIcU15OGJMTk5kV1h1eUpWRWpyNmt6WTZpa0RhdWtJaFNTSmRJR2ZyT2tYWTFhTG1fMDJVZlM0Z3lnYmQ5UmpQTzI3QzlGMWNSRW9CTEdwZHBjc1plZ0E2V2Z2Qjdudko3cWR4dWNMV0VqaWNfSG93UXNYZjJRR1gyUVJESkdxUUJfTDc5WFhOLXAzSmhDMVZWOUVudkcwdm5SSElpbnVrbg?oc=5",
+      "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxPU3I4VHNIWkxubGJKWThQdnI5V1Ryd2wxX3NGSU9MR0k0V3Y5bTktZC1RSE14dDM1NlBXeDh4Wk5FSDY1ZzhRczFaUmVIdkZydmdjX3VJWWljMUhjUk5RVk9Xam45Xzg0YWN4WGhEYjNEdWw4cnBpZTBSa3FreF90MlFrNlRGVy1ObXV6STBfMWNrRU5TWldicldxTTEyYnJCUl8yUnAzUVZkYnfSAbABQVVfeXFMTTB2OWZSeTMzSHFNeThiTE5OZFdYdXlKVkVqcjZrelk2aWtEYXVrSWhTU0pkSUdmck9rWFkxYUxtXzAyVWZTNGd5Z2JkOVJqUE8yN0M5RjFjUkVvQkxHcGRwY3NaZWdBNldmdkI3bnZKN3FkeHVjTFdFamljX0hvd1FzWGYyUUdYMlFSREpHcVFCX0w3OVhYTi1wM0poQzFWVjlFbnZHMHZuUkhJaW51a24?oc=5",
       "source": "The Hans India",
       "category": "Cement Industry",
       "keywords": "Acquired, To Acquire",
@@ -367,7 +419,7 @@
       "dealType": "Acquisition",
       "value": "",
       "date": "May 23, 2026",
-      "dateISO": "2026-05-23T06:12:37"
+      "dateISO": "2026-05-23T07:00:00"
     },
     {
       "title": "Dalmia Bharat to acquire JAL's cement assets in \u20b92,850 crore deal after Adani takeover - ET Realty",
@@ -1460,97 +1512,6 @@
       "value": "",
       "date": "May 06, 2026",
       "dateISO": "2026-05-06T21:44:00"
-    },
-    {
-      "title": "Holcim wants to close around 15 acquisitions in 2026, and the scale of its buying spree shows that the battle to dominate global construction is entering a new phase - Vozpopuli",
-      "summary": "Holcim wants to close around 15 acquisitions in 2026, and the scale of its buying spree shows that the battle to dominate global construction is entering a new phase Vozpopuli",
-      "url": "https://news.google.com/rss/articles/CBMirgJBVV95cUxORlhxT1pqZEF4WDZ1RGhINVVMYzBYWEhRUlJ4OFV6M0ZBb1hMWFhwQV85MkozTDNEbW9rVkN3WjR4OWFJV0IzUGJjTGFxa2YzWWIyQWRxSUhqT0pXNE81XzhKM1lyRHNFLUF3c0Zld09lckJNYV9oS0daMWhyeERwTVJNbjF5RVNCZUNVdkFGMWxhUWdGOTU2RThXV2J5ZGlINEJTRmdEWjZ4Z1VObzZqNFY0dk1iMm02b2VfNm1EWXRGZENPZnFtQnpoNjZQTEdUSm1mNGlSMnhSaGI0WUJXQ241T0hjTFF0enEyRmFxREdrLTN2RHlIT1VzalJPcDA2b3BGa1RRVENDSGo4cUNTOWFkbl9ZamFQaTNFQXh0S2VnOTlGSnd4ZWpXRE1QZw?oc=5",
-      "source": "Vozpopuli",
-      "category": "Holcim",
-      "keywords": "Acquired",
-      "sector": "General",
-      "dealType": "Acquisition",
-      "value": "",
-      "date": "May 06, 2026",
-      "dateISO": "2026-05-06T13:45:00"
-    },
-    {
-      "title": "Dubai Islamic Bank Pakistan Limited (DIBPL) Successfully Closes USD Financing for Acquisition of Attock Cement Pakistan Limited - ProPakistani",
-      "summary": "Dubai Islamic Bank Pakistan Limited (DIBPL) Successfully Closes USD Financing for Acquisition of Attock Cement Pakistan Limited ProPakistani",
-      "url": "https://news.google.com/rss/articles/CBMi-AFBVV95cUxNRE5kazcyQ1FFQURmMEduNnFKR2VDTlJsU21SZ1RRRGVnbHJzSkVWNHpGS2lqeHlVVVJ3aGc2eXBUcVZreG9Jc2owSWhLVktQeFlGM1N5RFk2ampRemVCbkdVSmcyc3B2M2hsNVBNYXcwUFNLYlZyTlA3bHBuUVFKVmFCM0o4UFNLbG1TLWhELTlVY2E1NFM3UW9oUzMybkV1OGgxZHE3bmZxdGZCUDJvb3pxaGQ1ZHRkMGdWMXJ4bUhxZTE1WFNfRkhiUHY4S2E3dXBkdEJVNk9kSDNlU2NMaFhrZ2xMNVJSeXRoNnRFcDVuR1RaV1pmR9IB-AFBVV95cUxNRE5kazcyQ1FFQURmMEduNnFKR2VDTlJsU21SZ1RRRGVnbHJzSkVWNHpGS2lqeHlVVVJ3aGc2eXBUcVZreG9Jc2owSWhLVktQeFlGM1N5RFk2ampRemVCbkdVSmcyc3B2M2hsNVBNYXcwUFNLYlZyTlA3bHBuUVFKVmFCM0o4UFNLbG1TLWhELTlVY2E1NFM3UW9oUzMybkV1OGgxZHE3bmZxdGZCUDJvb3pxaGQ1ZHRkMGdWMXJ4bUhxZTE1WFNfRkhiUHY4S2E3dXBkdEJVNk9kSDNlU2NMaFhrZ2xMNVJSeXRoNnRFcDVuR1RaV1pmRw?oc=5",
-      "source": "ProPakistani",
-      "category": "Cement Industry",
-      "keywords": "Acquired",
-      "sector": "Cement",
-      "dealType": "Acquisition",
-      "value": "",
-      "date": "May 06, 2026",
-      "dateISO": "2026-05-06T10:09:49"
-    },
-    {
-      "title": "TTAM: Solid Q1 2026 results, Keystone acquisition, and innovation drive reaffirmed 2026 outlook - TradingView",
-      "summary": "TTAM: Solid Q1 2026 results, Keystone acquisition, and innovation drive reaffirmed 2026 outlook TradingView",
-      "url": "https://news.google.com/rss/articles/CBMihgJBVV95cUxQTHpleTk1LWlBaHp0T1BfUndtSHBSS3FGX3Y3UjJPQk92WGZWUm1Xcl9WR19xMkJxam5Kc0N6NXUzUVFXSHZHVktmaU91SVhRRGoydFAza3JveFZoWDdITURtenBHenhBZjI5Ty1uT0VYYlp6YUhDSzZIVkhkWF95YkxRLXpvZk9HRmZYR1FfUnJNX2lCS3lFOVFmdTNjLXo5Ni14eHpXVkJqVjZzWU5feGx3NmJzTlI2Rmh4ZHBqc0FKRDhfTmFnbWdlby1BOVBSU1B0TmRVSXRuUEw3eUVnSnlXNjh6TWJRQlRsaU5tY3VSTnN5VlV2V2NZY2l1V3YyLVZoOVpB?oc=5",
-      "source": "TradingView",
-      "category": "Cement Industry",
-      "keywords": "Acquired",
-      "sector": "General",
-      "dealType": "Acquisition",
-      "value": "",
-      "date": "May 06, 2026",
-      "dateISO": "2026-05-06T10:03:11"
-    },
-    {
-      "title": "Amrize Ltd $AMRZ Shares Acquired by Wilson Asset Management International PTY Ltd. - MarketBeat",
-      "summary": "Amrize Ltd $AMRZ Shares Acquired by Wilson Asset Management International PTY Ltd. MarketBeat",
-      "url": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxQSHpQNWVYN2dzMDllWGdHMkkyZUhWRlJfcnN6Y2V0d2dlTzFPWi11bGUzMFdWNzNIWlRPaEdwQTIwZldVMmJDTGlERnNvU0QwaEdUcGs2LU01Wjh3MzltOWwxT1hFdnJzTWFPVzhPTVNRMmtYSjlWeWdIR1d4VkhuTVowWTR3M19FWUJjUXpnMEVwdEZpcVB3d2Rfdy1aaWpBTkZCTmdZdl94UzBrTnZuVXdqc1lSblliRVJiU2dtbG1aVkJjcDg1aFlpS1NKX1lqUWUzMFhUekU?oc=5",
-      "source": "MarketBeat",
-      "category": "Amrize",
-      "keywords": "Acquired",
-      "sector": "General",
-      "dealType": "Acquisition",
-      "value": "",
-      "date": "May 06, 2026",
-      "dateISO": "2026-05-06T07:00:00"
-    },
-    {
-      "title": "TITAN Group Completes Acquisition Of Keystone Cement In The United States - Pulse 2.0",
-      "summary": "TITAN Group Completes Acquisition Of Keystone Cement In The United States Pulse 2.0",
-      "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxQakstbWtSRGdKclBIWGVtZmRuNTgzTGRzMHJWdU1jejJPSTdHdFBEd1VTTGJPZHd5OE1nVzdqR2J6SnNRQlZyM2UxMjYwWDdxZEhaclpmcUZiWDk0MDd6T3VpTzVvWkxUQ3ZpSjNXbTNjN3V6a2hVcEhja01UcUdDOEhPbXMtMlpvYlR5RkJsYVNSSmlKdzJxQdIBngFBVV95cUxQZXBLWUZzRTlCMWdvbDloaWk5dWVpaGF4UVRBdUd1SG5LcUhMUXV5dWlwdHhJNjhyY0dnMWIyRW5OU3d5WXo2Q290MzRlY0tPam53VkhRTllJUTBaeENFOWxKZHFJQl94TE4xWGtzQ2xwSkFMWDVyVDBnd3ZXa181bS1lTlNNb3pFNzg5ZUVhQWhGdW8teGRxblo5WTNxUQ?oc=5",
-      "source": "Pulse 2.0",
-      "category": "Aggregates Industry",
-      "keywords": "Acquired",
-      "sector": "Cement",
-      "dealType": "Acquisition",
-      "value": "",
-      "date": "May 06, 2026",
-      "dateISO": "2026-05-06T07:00:00"
-    },
-    {
-      "title": "Suncrete issues shares for ready-mix acquisition, plans possible $10 million earnout - Investing.com India",
-      "summary": "Suncrete issues shares for ready-mix acquisition, plans possible $10 million earnout Investing.com India",
-      "url": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxOTFhhY1p0NW9POFVJUGtnVlRqVDVpaFZQMjVVcEI3LTBGeUhyUjZ2UEZpYU5fcGl1RDVNNnR3Y1VMTjktZG5SWFp0SEVVNGFQYmFVS3BuN3ZHaUhaZ1Z2QnJ6SEV6Mzk1MDNTUkVDWGVnQ2xZcjJERkVEdE85d2NyX2tjM0had0wxNnhSZjVwclB1b2lmVmhrWVJwSGxUODZTQ3VZT0gtQzFXejg5bFkzUlNna0F3Sml0Qld5QjZraWNfVE44N2VBS01MNEQ2S0NoTUE?oc=5",
-      "source": "Investing.com India",
-      "category": "Ready-Mix Industry",
-      "keywords": "Acquired, Investment",
-      "sector": "Ready-Mix",
-      "dealType": "Investment",
-      "value": "$10M",
-      "date": "May 05, 2026",
-      "dateISO": "2026-05-05T20:48:58"
-    },
-    {
-      "title": "Suncrete issues shares for ready-mix acquisition, plans possible $10 million earnout By Investing.com - Investing.com South Africa",
-      "summary": "Suncrete issues shares for ready-mix acquisition, plans possible $10 million earnout By Investing.com Investing.com South Africa",
-      "url": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxPQzBJSS1relMtYlM4QUlIYk1UY00tX0IzSHRwSi0tclpxUU9nclhCb0lUTHpjZHRyeGYzb1Fxem9DUldTclplQ24xX2VMd1ROazJGLUZTNE5NUk44VUNGcXlpb3hJbGJKUXlmTG8wSHFBOFFwYzgwVVhYRjY2WjVGemFaOXpwYkZ6cHhTSXN5aUtXdHJIcVlzLXR0eG1kWjViRm92RjA1RElJX2NGdVRuMUVaUTU4Wkl0SDY2ZHdtM0tfMG9UZER6TW5DNzI3cjRMOHc?oc=5",
-      "source": "Investing.com South Africa",
-      "category": "Ready-Mix Industry",
-      "keywords": "Acquired, Investment",
-      "sector": "Ready-Mix",
-      "dealType": "Investment",
-      "value": "$10M",
-      "date": "May 05, 2026",
-      "dateISO": "2026-05-05T20:44:02"
     }
   ]
 }
