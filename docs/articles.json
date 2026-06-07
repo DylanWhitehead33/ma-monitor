@@ -1,8 +1,8 @@
 {
-  "fetchedAt": "2026-06-06T14:27:26.102197",
-  "totalArticles": 110,
-  "newToday": 10,
-  "duplicatesRemoved": 8,
+  "fetchedAt": "2026-06-07T14:49:50.580882",
+  "totalArticles": 105,
+  "newToday": 12,
+  "duplicatesRemoved": 10,
   "archiveDays": 30,
   "articles": [
     {
@@ -162,19 +162,6 @@
       "dateISO": "2026-06-01T14:52:41"
     },
     {
-      "title": "One Equity Partners Acquires Leviat - 01net",
-      "summary": "One Equity Partners Acquires Leviat 01net",
-      "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTFBrR0p4WTFiZWdsU1FyOEthay1WWUE2dXdNV3RQV0tTYWZaUXZNLTBtWF9HdU9YUVRuTHNPT19xRTFENUxERTczdHZ6eUliTDVEQ1lKeUdFYWx2VEJ1TUpEby1lbzJYcWNp?oc=5",
-      "source": "01net",
-      "category": "CRH",
-      "keywords": "Acquired",
-      "sector": "General",
-      "dealType": "Acquisition",
-      "value": "",
-      "date": "Jun 01, 2026",
-      "dateISO": "2026-06-01T14:00:00"
-    },
-    {
       "title": "SRS snaps up CORCO's commercial roofing business - HBS Dealer",
       "summary": "SRS snaps up CORCO's commercial roofing business HBS Dealer",
       "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTFBoQ1BkQWpMdlBSR2xNQWdqc1hwcG1KY2MzMFV3bUgxckV1c3I1T0RMMlFvQ1pXRW5aUFo1elRTOFRqUUt1b0cyYW11T0dpTzFGYmdlQjB6bjM2cE9Nei11R25aS296d2pBVFBZWGl4eUJYb1Yt?oc=5",
@@ -199,6 +186,19 @@
       "value": "",
       "date": "Jun 01, 2026",
       "dateISO": "2026-06-01T12:10:14"
+    },
+    {
+      "title": "One Equity Partners Acquires Leviat - Business Wire",
+      "summary": "One Equity Partners Acquires Leviat Business Wire",
+      "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxPaUlSRDFKYVZaZUFfYjB2b3BBNkhSLU13dU05R2s2aUR5LXNFREdQWkQzTmgyV1F6UndJWVZ6OHRrTUdCeF9vNDhXbHhFYlJqNm5FQnpDMFNhUllPTXNORzlLdDFTby11dVM1MlZ4WkwzV3llUjhRM2VQZnJ1dzZGX0pMWWpoeEdETTJiYVI5NjFUWXcxRG5r?oc=5",
+      "source": "Business Wire",
+      "category": "CRH",
+      "keywords": "Acquired",
+      "sector": "General",
+      "dealType": "Acquisition",
+      "value": "",
+      "date": "Jun 01, 2026",
+      "dateISO": "2026-06-01T11:00:00"
     },
     {
       "title": "Standard Bank advises West China Cement on AfriSam acquisition - africaprivateequitynews.com",
@@ -617,6 +617,19 @@
       "dateISO": "2026-05-22T08:24:26"
     },
     {
+      "title": "Dalmia Bharat stock climbs 3% as JAL deal may add 5.2 MTPA cement capacity; other key details - Dailyhunt",
+      "summary": "Dalmia Bharat stock climbs 3% as JAL deal may add 5.2 MTPA cement capacity; other key details Dailyhunt",
+      "url": "https://news.google.com/rss/articles/CBMigAJBVV95cUxPMmcwMVhfelhVUkNRRDNjR3VYMWkzYzZyMWdhWk1jSk1YeFBuaGNEejZyOHFnZzhSdHJsVGZ4NVZxNW5jSGFzc0paOWR1UkQ5SW85TjdYSlRaUTlPdHNDZHk1M3JTUG0xYTdMMURFcTcwMFNMb3ZJa3BYY0RVbGFqeFhINEM5bWF4bjl2eENrbUNTUXBnb1h6MHhleUVsQW5Zc1c0OEpJVTJEOFc3ZWk3ajlEQVdkYkJ3ZFpUVXlhNWl1SWIzZV9RQnNxVFRqVkpRd3Z2bWRGS1FQb0hBdG10aWdMamxvVkdvZFVoazZkeXJwcnFRc2ZhWXFjUUtDRWJh?oc=5",
+      "source": "Dailyhunt",
+      "category": "Cement Industry",
+      "keywords": "",
+      "sector": "Cement",
+      "dealType": "Acquisition",
+      "value": "",
+      "date": "May 22, 2026",
+      "dateISO": "2026-05-22T07:00:00"
+    },
+    {
       "title": "Martin Engineering acquires Australia\u2019s ConveyorTech Pty Ltd - quarrymagazine.com",
       "summary": "Martin Engineering acquires Australia\u2019s ConveyorTech Pty Ltd quarrymagazine.com",
       "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxOVU5tbnVoOXlQMVFYVHdwTGxCN2hxSFZHVWxjbjB5bzN1dzN4S1pZQmw2NGhfUGJLRXdlRkFfZWoyU0VULWtqME5lNTJhTDRreHVnTEhvQXdiUDJ3WFNRVWpoMW0xaXNFUGtleEZHdlNuZVBVMWZpU2FYRXIyZFI2X1dvOWhYTlNmV0ZDLWUxX3BoZHZpSkE?oc=5",
@@ -654,6 +667,19 @@
       "value": "",
       "date": "May 22, 2026",
       "dateISO": "2026-05-22T01:56:00"
+    },
+    {
+      "title": "California AG, US DOJ settle antitrust concerns over concrete merger - MLex",
+      "summary": "California AG, US DOJ settle antitrust concerns over concrete merger MLex",
+      "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxPSFpkNlVuTU5WaWdKb212cURyLXhTRDVSVFFnSXdDaVU5NDBpZEF5VnpUNy1kc1NFOG5Xai1ETWN1UGQtSFhrR2lIb1ZYRGpTQUI1S2pLdkhRWDFRQk5UQ3hpcHZUV0Jmb2x3YWNUSzYzV0dUWXZfRUZsNUNLbVI5cm94YS1KaV85NlprWFA1OW1TZUlKRG9aSGhwc1FlanlzbXFxa2F5TWYzVmxfLWhF0gFaQVVfeXFMTURXTEVnR0dHdEdldFNTamppaU9tVk56eUNsQWV3TWF6VzRDODJla2lUdldXUk5MN3RnNDA2VFJmZi13MnNzNFN3cWkzY0RaMnNxUnhLRFB1SnlR?oc=5",
+      "source": "MLex",
+      "category": "Vulcan Materials",
+      "keywords": "Merger",
+      "sector": "General",
+      "dealType": "Merger",
+      "value": "",
+      "date": "May 22, 2026",
+      "dateISO": "2026-05-22T01:53:00"
     },
     {
       "title": "US DOJ, California file proposed settlement in ready-mix concrete merger - MLex",
@@ -1343,97 +1369,6 @@
       "value": "$2.65B",
       "date": "May 08, 2026",
       "dateISO": "2026-05-08T15:03:53"
-    },
-    {
-      "title": "Successful takeover in infrastructure expansion in southern Germany - STRABAG SE",
-      "summary": "Successful takeover in infrastructure expansion in southern Germany STRABAG SE",
-      "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxQbGN3NURlVEJhaWVEb0tISFpWNzMwNHZ1OHBqbU9JZ092SWpFbFBBTXpWb283dXJ2VFF3YW9FSVFyV0RIUk9MZDVtbXEySnd6d29ZaG9ZTEI1VUpTRkp6T0libXhwdy10UDFMMmgwVXlxNnhNTVFNR2Q5M1dJVWQxTTNtU2poSURmVWJNdVJpVXlXYXV1azQ4c0xlWklqMFZJRzlQN0IxQWxlQUtTRmFEZU43Y3htQkQ0Zjg5dzFkb2ttTC05cEdj?oc=5",
-      "source": "STRABAG SE",
-      "category": "Asphalt Industry",
-      "keywords": "Takeover",
-      "sector": "General",
-      "dealType": "Acquisition",
-      "value": "",
-      "date": "May 08, 2026",
-      "dateISO": "2026-05-08T10:57:13"
-    },
-    {
-      "title": "Titan Cement International stock (BE0974338704): Keystone Cement deal closed in US market expansion - AD HOC NEWS",
-      "summary": "Titan Cement International stock (BE0974338704): Keystone Cement deal closed in US market expansion AD HOC NEWS",
-      "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxPSGJJRXFNNUl5ME1qMVJ3MDlxUjJWc2IyMXNYN0lTUzREVndOY1lrSHFnOXFLYjFIT09jX3Zuak9ONWxDR0VPbWJ1b0ZBZDZzblRhS0hjbHBHYUxuZURmZFViTXlsSl9hQ2tnX0N1VXZqVEhWWFdfdno2VndxUXFOaWJFX01kdm1MamhmdDVaRTg0bG5WU1hpV25LZlZ2cXFTTmVoa0tfcXNhWGhWRkRZcFl4SERrdS04UzB4RGRWOWlQd0E?oc=5",
-      "source": "AD HOC NEWS",
-      "category": "Aggregates Industry",
-      "keywords": "",
-      "sector": "Cement",
-      "dealType": "Acquisition",
-      "value": "",
-      "date": "May 08, 2026",
-      "dateISO": "2026-05-08T10:34:56"
-    },
-    {
-      "title": "Precast concrete producer secures funding to continue acquisitive growth - Business Sale Report",
-      "summary": "Precast concrete producer secures funding to continue acquisitive growth Business Sale Report",
-      "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxNZzY2ZDRjaGNwaF9zVHRxNjRUaFpJWUdGTnROdzUyOG8wTXdNXzI0cm91ZXdld2gxTnNVc1M4b09JemNKbm9qUDJoeUNJRk9qY2paVFh3bzVLYnhGTGNDbUszZXE3aVdwQzZ1S2x6TFh3c0N5NmUtZV9uU2dVa2k1dWt2dkttYUg1QVBPWGl2QmlBM3d5UFdnMjd6XzJ3elBYektVRFJVU0UxcmxJalhaaGlMejZPNlA4XzBuRzlDNkpJTV9yTV9j0gHHAUFVX3lxTE5lNEVhbkV2LU9sQ2xtb2h2Q3VUVS1LTENoWWpKRVdiQUJOLTJHLV9fUWpOaFVoMnpQcjZieXQ3emVzZW1ObVJFRHZBZl9rWElJVThMT2g2V0ZKdGl2YnYzdTZZMXJCeXpQX0ZibmpjMjA1a0tSRFNrcWJNS2hTbzJPaklyRzVQMVlyUU9CcTRTcXRZd0xxb3IwbVgtODgzYU9pU0s1MGRkMHhQNlRndk81REZfNUFtS3M1a3lDSUJ6bDllZ1NOUGM?oc=5",
-      "source": "Business Sale Report",
-      "category": "Precast Industry",
-      "keywords": "Acquired",
-      "sector": "Precast",
-      "dealType": "Acquisition",
-      "value": "",
-      "date": "May 08, 2026",
-      "dateISO": "2026-05-08T07:00:00"
-    },
-    {
-      "title": "Education recruitment specialist completes ninth acquisition - Business Sale Report",
-      "summary": "Education recruitment specialist completes ninth acquisition Business Sale Report",
-      "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxNY0x0ei1tdXg2NlotRG42U091dmFnem9UZ1YwdWdDVDlhUWc2c01WQnBfa0NJc0pTdVpEWXJJQlZRbzN0Q2pOdERtOGhBdVNJVnk1ZDlhdVYyODRkQVNIbk5Xei1JdGltZS13anNDQWlMbUkxYmpwbEdlOGp5Ui1kQ3hZV0F1T2NiTWJmTE9kMXJBOFdhb29LMlBNUDhLaEhMd0ZQeGRnbmxObHlDWlVzX3NmQWowSEHSAbcBQVVfeXFMT19jOFBwd0kzWDIzZzFLOS1NNVJCakFSU2R2S3BHTWVVRHlsSXlJejVPYmpGellWWHBwTS1WaHl4dFJ6YWtnOWE2Q2hPajdnc29QWDd2UzN1NmlCQ1duYWo4Z0dpT3hzcThqUDNkMUJrUFZodEwwQk5uSUNKYUNQZXI1bjY2djdtOXdhODFsa3NscGhBWm5xOXVXTjlzWExYNFhaTHJvX1pobGNkV01ncmFRWUpLc1RF?oc=5",
-      "source": "Business Sale Report",
-      "category": "Precast Industry",
-      "keywords": "Acquired",
-      "sector": "General",
-      "dealType": "Acquisition",
-      "value": "",
-      "date": "May 07, 2026",
-      "dateISO": "2026-05-07T23:00:00"
-    },
-    {
-      "title": "Suncrete Acquires Nelson Bros. Ready Mix: $42.3M Cash, 1.3M Shares, Up to $18M Earnout - TradingView",
-      "summary": "Suncrete Acquires Nelson Bros. Ready Mix: $42.3M Cash, 1.3M Shares, Up to $18M Earnout TradingView",
-      "url": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxQQ0ljLXk5Tkg0ZHR1alpqbGd2cW9aSlVrU3d2TEdQRG1VV3FqVXJBVEptTU1IWDJ6Nk8tVS04dUJqdHZBbWVGNmtmeG9jeUdDeXlOVjRxN0NrSmJCZFNwa2NxNzNRSXFGUWwxVm9mUlVHNW93NnhhUXhzMTlQYlotVGFVZnJweHV4enNaSU1GTU93YUlaWlJfTXgzYTJiRkVDZ2xyak5Qc3R0TnF6TVVHNklDS0ZTSm9vZHI2MFZrM21tV0xBR3RPeVpxVk5JM1hHWENQa3ptME9OUQ?oc=5",
-      "source": "TradingView",
-      "category": "Ready-Mix Industry",
-      "keywords": "Acquired",
-      "sector": "Ready-Mix",
-      "dealType": "Acquisition",
-      "value": "$42M",
-      "date": "May 07, 2026",
-      "dateISO": "2026-05-07T20:37:06"
-    },
-    {
-      "title": "Amrize (AMRZ) Q1 2026 results: lower EBITDA, PB Materials deal, dividends - Stock Titan",
-      "summary": "Amrize (AMRZ) Q1 2026 results: lower EBITDA, PB Materials deal, dividends Stock Titan",
-      "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxQU1p1eE1iWVctZGRDVUI3d1FaOFg2bGtDYjBsdVdyV0R5RmFpUEZPYUxyT1RxOV9EejU4eUd4TEVZeTZQcHpqNzlsVGd1b2dtcFZFWGpuT2dHcWsxbHlaOTZqNTZTVE1iQTNPd2xzT3NDeldHS1BnZXJZZlMzSnpibUMzSG5rTnZDbnFfbW5MRTgwQzNxb3FGeW5ud2hONktoR3FhWDBB?oc=5",
-      "source": "Stock Titan",
-      "category": "Amrize",
-      "keywords": "",
-      "sector": "General",
-      "dealType": "Acquisition",
-      "value": "",
-      "date": "May 07, 2026",
-      "dateISO": "2026-05-07T20:19:33"
-    },
-    {
-      "title": "Titan America acquires Pa. cement manufacturer, adding 125 employees - Virginia Business",
-      "summary": "Titan America acquires Pa. cement manufacturer, adding 125 employees Virginia Business",
-      "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxPRUozZU1vMHlzZm9GWU1qei00QTdGc2taRExad3dydUl3a19JX3Vkc3Y5dDFHOWZDTVU5VnFXbWRHdW1PbDBON2ZOcFVYWHlVWWJuM2d4N1lmRVAyVVh2S1hoR3RWUEt2THpNdlR6NXJFTnJVdWoxTHAxRjVjR3pLSm5WeGlRYnpsWjFpRG1SZmJUblplcng5QTBfR0E?oc=5",
-      "source": "Virginia Business",
-      "category": "Aggregates Industry",
-      "keywords": "Acquired",
-      "sector": "Cement",
-      "dealType": "Acquisition",
-      "value": "",
-      "date": "May 07, 2026",
-      "dateISO": "2026-05-07T16:09:49"
     }
   ]
 }
