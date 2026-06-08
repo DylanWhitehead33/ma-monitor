@@ -1,10 +1,62 @@
 {
-  "fetchedAt": "2026-06-07T14:49:50.580882",
-  "totalArticles": 105,
-  "newToday": 12,
-  "duplicatesRemoved": 10,
+  "fetchedAt": "2026-06-08T16:46:19.013543",
+  "totalArticles": 108,
+  "newToday": 14,
+  "duplicatesRemoved": 8,
   "archiveDays": 30,
   "articles": [
+    {
+      "title": "Vulcan Materials falls 3.1% as investors digest California concrete exit and Brannan aggregates deal - Quiver Quantitative",
+      "summary": "Vulcan Materials falls 3.1% as investors digest California concrete exit and Brannan aggregates deal Quiver Quantitative",
+      "url": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxQV2tNTmt5ZjZzUFRQcWt4OGg1Y1VSVmdzZjVtQXRBdUZHeEFEWkNvOTZpZHJNYVVDSDY3Q3BvWHNVRFdZUVZ5Ui1Dai1yS3otcjNZcE5SdUQxekVCTEI2OXd2MzdWazdJQW0wMDJLeWxnY25MT1prN010ak90Nmg3d0JHYmxjUEYzQTFNalBLcHhYOWE5elljRUkwNHB6OU9hYThOLUlLYnZ3aWh6N0hYblNIMHdXdmRmZFVwYlNuQ2tENWRoWTEySmtCRkxTX21C?oc=5",
+      "source": "Quiver Quantitative",
+      "category": "Ready-Mix Industry",
+      "keywords": "Investment",
+      "sector": "Aggregates",
+      "dealType": "Acquisition",
+      "value": "",
+      "date": "Jun 08, 2026",
+      "dateISO": "2026-06-08T15:52:00"
+    },
+    {
+      "title": "Vulcan Materials completes California exit, Colorado acquisition - Investing.com UK",
+      "summary": "Vulcan Materials completes California exit, Colorado acquisition Investing.com UK",
+      "url": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxQdUUtUFp6Q3IwYnBOOUVsVlJxUHdYSkpFUm52MldLekVtMU5LVnBxMmJjRVJKUERNSGlNa2lrUG5EQndVcW1sR0w3TFptMnlsTjZjLWFRSmJKdU82ekplNktrQllKYTlNTlZPSEo5V1BJcnp1T2hWd1loR2UtLXA4NVhNbjdHUzg5ek5uZHNseFRrSFZZcVA0eXBuRlUyZHZ2NlZMTm96LVNOSVhTR0s5SjJITWhjQjNhYUxZN2xoWS1sYWtDR2oxTHhMbkUyZElaSkE?oc=5",
+      "source": "Investing.com UK",
+      "category": "Aggregates Industry",
+      "keywords": "Acquired, Investment",
+      "sector": "General",
+      "dealType": "Investment",
+      "value": "",
+      "date": "Jun 08, 2026",
+      "dateISO": "2026-06-08T14:41:48"
+    },
+    {
+      "title": "Andhra Cements and Sagar Cements Merger: How Many Shares Will Investors Receive? - Trade Brains",
+      "summary": "Andhra Cements and Sagar Cements Merger: How Many Shares Will Investors Receive? Trade Brains",
+      "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxPM0FpTzVVSW9RSFRTdWhRMTgtdUVENDMzSUd4X3lVaWxVZllGTERzSElMYzJoQ0FiVzNvZG9ES3NQUDBlZXBqelRuN3V6NWFHOEdHTlYwRG8tYm5TaDJXRU0waHlMWmlfWncxMGxISEJYaUc1Z0JzYjQ1UDlqZWZISmk5c09GdGlyeWRjbE96VEN1Ylk0ZzBGT01vbmM3X1RldHVrag?oc=5",
+      "source": "Trade Brains",
+      "category": "Cement Industry",
+      "keywords": "Merger, Investment",
+      "sector": "Cement",
+      "dealType": "Merger",
+      "value": "",
+      "date": "Jun 08, 2026",
+      "dateISO": "2026-06-08T08:03:00"
+    },
+    {
+      "title": "Taiheiyo Cement Expands U.S. Footprint with California Ready-Mix Acquisition - TipRanks",
+      "summary": "Taiheiyo Cement Expands U.S. Footprint with California Ready-Mix Acquisition TipRanks",
+      "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxNWXZUNnVoOTFXTXZHMkI4VzgwUnBRei11bDM3eXp3VFJiUWpIa2NobFdOZ2g1VGI4bF9Xb0h6UVVCRi1sYzZteXN3X0RLQ1J4c0l4dTZQczNpeHk5Y2pvSnlLOFk2RjYwMDRScXJ3UktiMTgwRWVFMEFqMGpoSU0xUWstTmJ2d2VZT3NkUEdPUml5LXlpQVZhTnhGN3pEbm83WE92MXNJbWg2NnNvR0xQSm5uZHQzVEJlRHdBeUI1Vzd5bTlDcXc?oc=5",
+      "source": "TipRanks",
+      "category": "Cement Industry",
+      "keywords": "Acquired",
+      "sector": "Multiple",
+      "dealType": "Acquisition",
+      "value": "",
+      "date": "Jun 08, 2026",
+      "dateISO": "2026-06-08T02:34:29"
+    },
     {
       "title": "Leviat Acquired By One Equity Partners To Accelerate Global Growth - Pulse 2.0",
       "summary": "Leviat Acquired By One Equity Partners To Accelerate Global Growth Pulse 2.0",
@@ -69,6 +121,19 @@
       "value": "",
       "date": "Jun 04, 2026",
       "dateISO": "2026-06-04T18:10:59"
+    },
+    {
+      "title": "Orient Cement Receives Exchange No-Objection for Ambuja Cements Merger - Whalesbook",
+      "summary": "Orient Cement Receives Exchange No-Objection for Ambuja Cements Merger Whalesbook",
+      "url": "https://news.google.com/rss/articles/CBMi_wFBVV95cUxNMl82Xy1MS0dwa3JJU0FJNGFIcGQ1bGlzT3BkeERHV3ZoSHZuaGNQZDFmNG9xamdJZUs2Y2lxdk5qUEkzOGwxUm43YzZ6cDc0dkxsWUZlTkI2bUpsWmdZNFFIMEpLSzA3VHlVUlN5TjAyck83ZGc5SmJZY2p5QmstY2JkUUk2eFB0Zmp3WVlmeHpQOUhYS0k1Zkk3bFlvOVUteDc5ZWdPN0ItbXlWQ0R5Y0pYQTlnUmVibS1Dc29GcjA1Mm9RNlMwaEtzT214LXJTdGZuOWxrbXFIWEUzUU5kRzNmVEFVSnEzNG1zQXBReWtoUlhINE1kWDNtdXdnUFU?oc=5",
+      "source": "Whalesbook",
+      "category": "Cement Industry",
+      "keywords": "Merger",
+      "sector": "Cement",
+      "dealType": "Merger",
+      "value": "",
+      "date": "Jun 04, 2026",
+      "dateISO": "2026-06-04T14:11:41"
     },
     {
       "title": "JK Lakshmi Cement board approves acquisition of 26% in solar power entity - Dailyhunt",
@@ -303,6 +368,19 @@
       "value": "",
       "date": "May 28, 2026",
       "dateISO": "2026-05-28T10:07:06"
+    },
+    {
+      "title": "Dalmia Cement Limited completed the acquisition of Cement Plants Located at Rewa, Churk, Chunar and Sadwa from Jaiprakash Associates Limited and Adani Infra Limited in enterprise value INR 28.5 billion. - marketscreener.com",
+      "summary": "Dalmia Cement Limited completed the acquisition of Cement Plants Located at Rewa, Churk, Chunar and Sadwa from Jaiprakash Associates Limited and Adani Infra Limited in enterprise value INR 28.5 billion. marketscreener.com",
+      "url": "https://news.google.com/rss/articles/CBMi5AFBVV95cUxQT0tMS3dfN1pDQTc4cWtOVVBmMTN0QUZvUjlGejNnYjBlMUs0aGJMNjJVRzl5ZFBxQUNRZ2VFdkM4bkZUU2ZvN285VENIYU1RWEViYmNUNlUwempmSnRyQ253OHZ6YlRwVmVERks4dHhPZVhIS1B3RHdiekZPX2ZBYURWal9zb3RFSXYxYmFKeV9FU2lKbWVlU29tNlJVd3UwcHdzOW03dmpSZ04yZTQ4WUVON1BRTTZIUnpSNGkzMjIxbHhsOUxRWkZKTnN1SDBWTUd2ME5XZ1ZMa3JYYnI2NU14aTY?oc=5",
+      "source": "marketscreener.com",
+      "category": "Cement Industry",
+      "keywords": "Acquired",
+      "sector": "Cement",
+      "dealType": "Acquisition",
+      "value": "",
+      "date": "May 28, 2026",
+      "dateISO": "2026-05-28T07:00:00"
     },
     {
       "title": "Suzano S.A. (SUZ) Sees Modest Gains as Shares Hold Above Key Support - Merger Arbitrage - newsline.com",
@@ -1330,45 +1408,6 @@
       "value": "",
       "date": "May 09, 2026",
       "dateISO": "2026-05-09T17:37:11"
-    },
-    {
-      "title": "Heidelberg Materials stock (DE0006047004): Robust start to 2026 with new acquisitions and stake incr - AD HOC NEWS",
-      "summary": "Heidelberg Materials stock (DE0006047004): Robust start to 2026 with new acquisitions and stake incr AD HOC NEWS",
-      "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxOZ2Y2ZGd3THNPTzNCY2V2OTdBMDNWOVctRGx1YVRkQjRzeGtXSmJ2Slo2TkJFYW5tLWxJODJ3b1hxZ3oxWWF0WXVkTW1uM3BWVER5RGR2bURkOVF6TzFNX2R6dXlwdXpkcmJESklvLWFGNXBZS1loVVd6QkpUX3lHMWIwNUw5bGpzcm9UUmRZWUt6TWVqcnBIMjh5WXZzRmxtM2lkVzNiV0JjU3pCNkxlVHFpUUlZZVFER01MN2hBcWhTVnEwY1pF?oc=5",
-      "source": "AD HOC NEWS",
-      "category": "Aggregates Industry",
-      "keywords": "Acquired",
-      "sector": "General",
-      "dealType": "Acquisition",
-      "value": "",
-      "date": "May 09, 2026",
-      "dateISO": "2026-05-09T10:25:40"
-    },
-    {
-      "title": "Mergers & Acquisitions News News Live Feed - Stock Titan",
-      "summary": "Mergers & Acquisitions News News Live Feed Stock Titan",
-      "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE9OYm50OEYzMWg4MFlLcmM2Q0ExRWwyVHk0d0d6UVY5c1k1bkRSSGhfbURBdzd1LThjMHRxMVMwbTlNM3dzbmIzd1F6bEYzSU8zQlc0ZnlkR29BVm5GeFE?oc=5",
-      "source": "Stock Titan",
-      "category": "Ready-Mix Industry",
-      "keywords": "Acquired, Merger",
-      "sector": "General",
-      "dealType": "Merger",
-      "value": "",
-      "date": "May 08, 2026",
-      "dateISO": "2026-05-08T23:19:00"
-    },
-    {
-      "title": "Arcosa projects $565M adjusted EBITDA on $2.65B revenue in 2026 following $450M barge divestiture - MSN",
-      "summary": "Arcosa projects $565M adjusted EBITDA on $2.65B revenue in 2026 following $450M barge divestiture MSN",
-      "url": "https://news.google.com/rss/articles/CBMi-AJBVV95cUxQNzFJMExKTEw2TjZaUGZTcEdmb1BLLVV2aTFXZ1NIcWs2UHBRQlJJQzRZakY3czJHbi0yRGNCVTJNcC1nd3FOTnBDUUJiOVlTR1VhZ3JFejhkM0F4Q3Zxd2tfYng3QmxpVWRmT3Zia05nZjJyTHhleHVrRkljaWhEYUJLZWdHS1cxTWJuQk03UXhkeE1uczNQejBCWVlpTkpid0I4WEswWS01R2cyMUs0WmRBc2hSanpLRGMxSkNmbVRYdUFVTzRLR1c2bjluNFZ1UVFOYlA2ZU9rd1BvcGNNSFczblBKZUdRSDJkNkxFbmJIWE11YXFtYkM1QmRGU1ZxVDBLclVPSWNOVThrUC1IamUyNGhSUXhmSGxSSU5OdXpGLWc5Sm5sUDBPV2x6LU5LeE1HbjRyV2t4Qkx1a3pBLUcyOEtQeHdteGxfQ3gyY19yX2ZQaXl3amtEbG1fLTZuUWdJSTZzOFlsQXdDSzh2dkhiamRRVUpo?oc=5",
-      "source": "MSN",
-      "category": "Aggregates Industry",
-      "keywords": "Divest",
-      "sector": "General",
-      "dealType": "Divestiture",
-      "value": "$2.65B",
-      "date": "May 08, 2026",
-      "dateISO": "2026-05-08T15:03:53"
     }
   ]
 }
