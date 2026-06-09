@@ -1,10 +1,88 @@
 {
-  "fetchedAt": "2026-06-08T16:46:19.013543",
-  "totalArticles": 108,
-  "newToday": 14,
-  "duplicatesRemoved": 8,
+  "fetchedAt": "2026-06-09T15:52:00.724051",
+  "totalArticles": 118,
+  "newToday": 21,
+  "duplicatesRemoved": 7,
   "archiveDays": 30,
   "articles": [
+    {
+      "title": "Japan-based concrete firm wheels and deals for some San Jose properties - East Bay Times",
+      "summary": "Japan-based concrete firm wheels and deals for some San Jose properties East Bay Times",
+      "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxNdTJfdlVKeVpYRjZDNm5DVDY5TDJKM1NSRkdKcXF4bm5UU2VwOV9meHhqdHdrNWpwMXdHUkxMNWczVFVHMzN0cDdaRFJfTnpYUGY1MUF1cDJTZlJqTGgzQW1iVDNNNlg0SDVNSGVwb1AwcVEzM2llcnktNVBBNXZqc0l0T0ROZXVQYTIwbU9BR3M2T0RtVzhjaDhwV01Hclh3bUZwdGUxazZsMlItcFdmcUdLcUbSAbQBQVVfeXFMTXUyX3ZVSnlaWEY2QzZuQ1Q2OUwySjNTUkZHSnFxeG5uVFNlcDlfZnh4anR3azVqcDF3R1JMTDVnM1RVRzMzdHA3WkRSX056WFBmNTFBdXAyU2ZSakxoM0FtYlQzTTZYNEg1TUhlcG9QMHFRMzNpZXJ5LTVQQTV2anNJdE9ETmV1UGEyMG1PQUdzNk9EbVc4Y2g4cFdNR3JYd21GcHRlMWs2bDJSLXBXZnFHS3FG?oc=5",
+      "source": "East Bay Times",
+      "category": "Ready-Mix Industry",
+      "keywords": "",
+      "sector": "General",
+      "dealType": "Acquisition",
+      "value": "",
+      "date": "Jun 09, 2026",
+      "dateISO": "2026-06-09T13:50:06"
+    },
+    {
+      "title": "UK-based Breedon acquires US aggregates quarry for $120m - Construction Briefing",
+      "summary": "UK-based Breedon acquires US aggregates quarry for $120m Construction Briefing",
+      "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxNaUVQLTZWY210Tld6Z0ZrN3NKWlZHc2RNLTRaVnc1ZEpwcXhrMXBWeHFlQlBaX2Rqc0o5THdGMmlNUi1NRUdiNTNDZWFPTHo5Z3A3NVI2OEZuZUZ4cmZkV2t6czMxaFdBa1dWTjFmUnBWYndvZVpkaTZoc1ZFUC0wa2lPVTdxcFFGb0UxQWcwNjROUURwWG9KNlNNSEFxZlN1bFhnSkdGN1h4aGFGdl8yTzFybw?oc=5",
+      "source": "Construction Briefing",
+      "category": "Aggregates Industry",
+      "keywords": "Acquired",
+      "sector": "Aggregates",
+      "dealType": "Acquisition",
+      "value": "$120M",
+      "date": "Jun 09, 2026",
+      "dateISO": "2026-06-09T10:11:35"
+    },
+    {
+      "title": "Breedon acquires Falling Springs Quarry for $120m - Sharecast.com",
+      "summary": "Breedon acquires Falling Springs Quarry for $120m Sharecast.com",
+      "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxNcnFtWGppczdVZzdMenptZzNYd05RdVBkNE1EUHFSWDlndWlOX2REWmo5cmJJMnBYbFBzNTVha0JNMFNrdmpFRzhTQjBvbFZBSHNIR2RpRGdzSXFPTklZRjdENGdmTFRQVjd4Q0VJWWlaMnZqa3lwNjA3d3FEcm5Fdmp3?oc=5",
+      "source": "Sharecast.com",
+      "category": "Aggregates Industry",
+      "keywords": "Acquired",
+      "sector": "Aggregates",
+      "dealType": "Acquisition",
+      "value": "$120M",
+      "date": "Jun 09, 2026",
+      "dateISO": "2026-06-09T09:49:30"
+    },
+    {
+      "title": "London's FTSE 100 falls as GSK slides after Nuvalent deal - Invezz",
+      "summary": "London's FTSE 100 falls as GSK slides after Nuvalent deal Invezz",
+      "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxNb1RhaXZwMHJtSjIyZVpjX1k1MGtiSkJicXc4bG9mWDZlQ3pobFJmN3VrU1FidGNLWFloLWR2QmN1QndreW9wdkV1QnZNVHNYbG5MX292bWR6b01zSEtuQ3FYOC0xZTh2YTNQcDBTSG1MVFNoRTlCc3JDYW85MjBzWUU1UjVQdWliS0FEMk90ellJSEtubUQzdDg1RQ?oc=5",
+      "source": "Invezz",
+      "category": "CRH",
+      "keywords": "",
+      "sector": "General",
+      "dealType": "Acquisition",
+      "value": "",
+      "date": "Jun 09, 2026",
+      "dateISO": "2026-06-09T09:38:14"
+    },
+    {
+      "title": "Breedon acquires Falling Springs Quarry - Builders' Merchants News",
+      "summary": "Breedon acquires Falling Springs Quarry Builders' Merchants News",
+      "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxOSU53ekFnNlNUbXNUS0VzcVlteG00b1FMeUNvTE5lM2hadjlheFJnRVcxVzF0bzVwNkZkVmJGSzlOblRPeDRfbEY3czZNdFoxOHgtZDlvdzczeUZiN0ZON3A2c3c2QkpfSUYyV2hHRWw0Z2dyMS1COUJ5Yko4aTQtd0JwdXdCR1I1dV9JcVhfTWkxaWlIcTdpY1BJNkcyUQ?oc=5",
+      "source": "Builders' Merchants News",
+      "category": "Aggregates Industry",
+      "keywords": "Acquired",
+      "sector": "Aggregates",
+      "dealType": "Acquisition",
+      "value": "",
+      "date": "Jun 09, 2026",
+      "dateISO": "2026-06-09T09:03:04"
+    },
+    {
+      "title": "Breedon acquire Falling Springs Quarry for US$120 million - Agg-Net",
+      "summary": "Breedon acquire Falling Springs Quarry for US$120 million Agg-Net",
+      "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxNMDBsNFU3RkpHMzZzYUtNS2dRZnBKaFloMkpkV0I2N2F1NElvdEpoeXlTUk1vVFNEZWhaX3A3cUlkNE82OWwxU21XN29iODU1WFZfaDNlS0pwS09odlA0ekQ0akhMaUUydG5VRDRzcWdvY2ZtOWtRZzhXcTdkbHNkRXgxSXpJV3FSSnJSZEt3?oc=5",
+      "source": "Agg-Net",
+      "category": "Aggregates Industry",
+      "keywords": "Acquired",
+      "sector": "Aggregates",
+      "dealType": "Acquisition",
+      "value": "$120M",
+      "date": "Jun 09, 2026",
+      "dateISO": "2026-06-09T07:46:13"
+    },
     {
       "title": "Vulcan Materials falls 3.1% as investors digest California concrete exit and Brannan aggregates deal - Quiver Quantitative",
       "summary": "Vulcan Materials falls 3.1% as investors digest California concrete exit and Brannan aggregates deal Quiver Quantitative",
@@ -30,6 +108,32 @@
       "value": "",
       "date": "Jun 08, 2026",
       "dateISO": "2026-06-08T14:41:48"
+    },
+    {
+      "title": "ATWEC Technologies Closes Acquisition of Park-Aid Asphalt and Maintenance Ltd., a Leading Heavy Civil & Infrastructure Contractor in the Edmonton, Alberta Market - Weatherford Democrat",
+      "summary": "ATWEC Technologies Closes Acquisition of Park-Aid Asphalt and Maintenance Ltd., a Leading Heavy Civil & Infrastructure Contractor in the Edmonton, Alberta Market Weatherford Democrat",
+      "url": "https://news.google.com/rss/articles/CBMiogJBVV95cUxPSjZoektrQTY4NGs2dzF6STZBT21wV2JXa3QxVHd3c0RlaFdiMzlKc1RpTlpHVUFmRXJ0QWI2Nks0a1hFandUMFlmdzBDMzBRa0c4bHNZYXhGdkF4Z1RDaXdiUGs3YURwS0hwbVpVMXVKNHRaTGdkdjd5R2NFbGh0T1M2WGFJbGR1MEZRdXBPOTZKUTZKY3psa2YwZlJUaEk1VVJaSnZ4R1Zha0xlTkNLcmxFNTk2ZlZNZ1N3dXhyWHNxMlBjVVYzdU9rWU5RRVZMeXVGS3o0RUpTaThWSy1Ocm1GaFd0Nm80dGxwdWh2WWY2dFhEOVl1eEtIbXB2SC1VaU5rOFd3YVpwUWM5Y3hVV0FZTTliYXFOekI3ZjVETk1nQQ?oc=5",
+      "source": "Weatherford Democrat",
+      "category": "Asphalt Industry",
+      "keywords": "Acquired",
+      "sector": "Asphalt",
+      "dealType": "Acquisition",
+      "value": "",
+      "date": "Jun 08, 2026",
+      "dateISO": "2026-06-08T12:02:59"
+    },
+    {
+      "title": "Taiheiyo Cement Completes California Asset Acquisition Through CalPortland - marketscreener.com",
+      "summary": "Taiheiyo Cement Completes California Asset Acquisition Through CalPortland marketscreener.com",
+      "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxPdnRzRjZkV2MxNmJ6X1VhVy13eXB1Wm9WS25OakdzYzZmTW9USUV5Wjkxd2tRZ1M3cXBlUVhORDNYWS0zb3J6UXNLbVd5bFJmc1RkS2FELUVOTHcxM2w0WEI5SktMYWRhczhMT3liT1c3LXR3RHJvWEhzWFN5U1lBbV9zb2JBalJlQ3lZRmtnREI2S1VnOXYtWHFXWUtnSXRXT0ZabnJUYmJoYXY5bWh2U3VmV1l5clRVYVZfLTVIWlRKRWVzeEE?oc=5",
+      "source": "marketscreener.com",
+      "category": "Cement Industry",
+      "keywords": "Acquired",
+      "sector": "Cement",
+      "dealType": "Acquisition",
+      "value": "",
+      "date": "Jun 08, 2026",
+      "dateISO": "2026-06-08T09:25:36"
     },
     {
       "title": "Andhra Cements and Sagar Cements Merger: How Many Shares Will Investors Receive? - Trade Brains",
@@ -58,6 +162,32 @@
       "dateISO": "2026-06-08T02:34:29"
     },
     {
+      "title": "Vulcan Materials Company acquired Dallas-Fort Worth operations of Brannan Sand & Gravel, LLC. - marketscreener.com",
+      "summary": "Vulcan Materials Company acquired Dallas-Fort Worth operations of Brannan Sand & Gravel, LLC. marketscreener.com",
+      "url": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxNQnNmYUhfbDBjdDBJLW9xVnkyOTVnWmhCTi1iQUFUUWZTWkVVTlMwTWFhc2N5ZmFsUlRKUXpucHVGVkstMUt3bUhHNmwwNWJWQkQ3eVZXc1RubkxmajlkTncxa1VXY2RpY24zckZnOEJIclRWTHM0MVEtdDQyMERmVERfMEppZndGc09WSFZNSXE5cTB1TUNVdFJoTjczQTVLMGZBNVp4dUZkUjBzazVFellqbVo1QmZ2ZXFhR2d1Nnl0Nk1pcE9FdW5NTnJHeHBTXzNpc3hTWlZfZw?oc=5",
+      "source": "marketscreener.com",
+      "category": "Vulcan Materials",
+      "keywords": "Acquired",
+      "sector": "Aggregates",
+      "dealType": "Acquisition",
+      "value": "",
+      "date": "Jun 07, 2026",
+      "dateISO": "2026-06-07T22:00:00"
+    },
+    {
+      "title": "Savannah Clinker Hikes Bamburi Cement Acquisition Offer by 9.4% - The Kenyan Wallstreet",
+      "summary": "Savannah Clinker Hikes Bamburi Cement Acquisition Offer by 9.4% The Kenyan Wallstreet",
+      "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxNYVNST3k2SkxkamNDTVJUSldzT29tcjZrMUEyTWIwQnpPOTVpMnpQeGo0SzJyVFlWUzJrb1Q5ZUxRTnVyeUl5SUluR2d5ei14dkxyeWlEV2dYTXZVS0xvdEdtNV9fTUlkOVdNWjE5bHR3SlNnZXpBdnBucUdJNW1Td0RkVGctZHNOZ2RlbW4zamxkVU41Mnc?oc=5",
+      "source": "The Kenyan Wallstreet",
+      "category": "Cement Industry",
+      "keywords": "Acquired",
+      "sector": "Cement",
+      "dealType": "Acquisition",
+      "value": "",
+      "date": "Jun 06, 2026",
+      "dateISO": "2026-06-06T17:31:49"
+    },
+    {
       "title": "Leviat Acquired By One Equity Partners To Accelerate Global Growth - Pulse 2.0",
       "summary": "Leviat Acquired By One Equity Partners To Accelerate Global Growth Pulse 2.0",
       "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxOQ0FGbFBmdFB3eWJpb0pEclNBTnAxVzJ0elVnZzVYSl8ya0g4dmdPcS1DYWxTUFNjeEY4Nm1Wa3pXUkFYSE5KakxKNVFQREZobERMd1ZxRGMzNllWaEg0dXpHQXpnWldfa1B5MS1DNGpOZndNMXZVWk9ybGRkNFBCeDRkUmhzbTl1TGIxOGVWc9IBlAFBVV95cUxQdTEzOXp1RUxuYzJZRDRSc1ZHWXRLM1dIMURUb2JOck1ldTd0VEpxTDd3Q2I4RVpGZktLUFl5c3JDNXd4dDUwYXQxeWdLaXF2Z3NYZG5GQk9Eb2Fia0FBRW1MR0I1Nk40SEszOEZBamotRGFuaGdFR0FJTFZxVXBrcjhkLXRUSDhOeFNXdXRTbXNIaHpt?oc=5",
@@ -82,6 +212,19 @@
       "value": "",
       "date": "Jun 06, 2026",
       "dateISO": "2026-06-06T13:17:00"
+    },
+    {
+      "title": "Arcosa (NYSE: ACA) boosts 2026 guidance and cuts leverage after $450M barge divestiture - Stock Titan",
+      "summary": "Arcosa (NYSE: ACA) boosts 2026 guidance and cuts leverage after $450M barge divestiture Stock Titan",
+      "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxNb2FUUWYtdFFGSUs0M2RuNVpXQnNVMWFsTG9PS1N6ZlhUaldZd1hNNkMyVF9NaFJMQUtnV0FyaFpvZXV4aUlnNU1BLXdWUFZuaF91OVZpQkhpVEZVUFZnMHh5eDF4NTBXSXVnWkVZNURUV0tONHRqRWpjRWk2V0wxV2dfcy1kTTF3d3RhZ01RaWRmb2EwMnM2WHdBZ2V2ZWM?oc=5",
+      "source": "Stock Titan",
+      "category": "Arcosa",
+      "keywords": "Divest",
+      "sector": "General",
+      "dealType": "Divestiture",
+      "value": "$450M",
+      "date": "Jun 05, 2026",
+      "dateISO": "2026-06-05T20:47:31"
     },
     {
       "title": "Holcim expected to receive EU approval for Xella acquisition - cemnet.com",
@@ -149,6 +292,19 @@
       "dateISO": "2026-06-04T14:05:32"
     },
     {
+      "title": "Top Changes At Concrete Engineering Following YTL Takeover - BusinessToday Malaysia",
+      "summary": "Top Changes At Concrete Engineering Following YTL Takeover BusinessToday Malaysia",
+      "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxNZTdjLVlJSmMzVHNsenpvNFNGMFZsRU96Wl9rNXNMd3FHS05FMGR6Q1N4dEpJb0Z3NlBYdzFvMUc2Uy03SEQ3SlVPYmdkUWdPUndBZ2QzS29RYXNUZmFEcjN6M2V0cXJZZzBPRTlzUEZSVUF2MUhoT0pLd0paMVBsN0lIWmV4WHIzV01WWDZNbjktOXBIaUNJanFsVmRYODBSMlIyNGx3?oc=5",
+      "source": "BusinessToday Malaysia",
+      "category": "Cement Industry",
+      "keywords": "Takeover",
+      "sector": "General",
+      "dealType": "Acquisition",
+      "value": "",
+      "date": "Jun 03, 2026",
+      "dateISO": "2026-06-03T10:00:50"
+    },
+    {
       "title": "Holcim Ltd stock (CH0012214059): EU review of Xella deal keeps Swiss shares in focus - AD HOC NEWS",
       "summary": "Holcim Ltd stock (CH0012214059): EU review of Xella deal keeps Swiss shares in focus AD HOC NEWS",
       "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxOTEl5NXR5SFk0ZFRhRlIxaHVkcWlZbEpGbFFrZWppeEVDZ3BRbFZHM3RfR2dMa0lneVFGdkNjeFFIY0hOeHNRTzE0aUs3QjVhOWE5VGQzdkNseXB3dnVxdEpBWVFDU0tjZ2tGYVR2c1J4Ulg2a21YRXY2V2ljSjhDQS1SOTg2VmFvNmhRdzJpTHFzSDBtRnQxTlpNXzN2dmh5Uk5zcjNGNk9HTklFeGEwY2lacm1Hd1lTMkR5LXcwdG5sdw?oc=5",
@@ -160,6 +316,19 @@
       "value": "",
       "date": "Jun 03, 2026",
       "dateISO": "2026-06-03T06:57:46"
+    },
+    {
+      "title": "Monthly Merger Review Snapshot - Law360",
+      "summary": "Monthly Merger Review Snapshot Law360",
+      "url": "https://news.google.com/rss/articles/CBMiekFVX3lxTE9kc1N4a1Z6TWdXQ0w2NnZfQmhwZlpQSUV2dTdXekZIVXdsS2MyMGZ4a0o3a21DcWZxcWNWS3JrM25ScWVjZ1N4YmFlcF9JQ3RIcXNUZ0JfLTMwa1NXT3FVTjA5WU1Vb1E1eUhkRmxUNVVza2pXdXlBYzJ30gFWQVVfeXFMTzNzOTVYdEgtVy1aTlpXUTV2VnI4NmRBelI5dDU1M0MtMGlSMEZZZi1tVFJrNGVIeEFaLTZmNmp2ZUllVXFIV2FYbHd1M0cwYWpDcDlCLXc?oc=5",
+      "source": "Law360",
+      "category": "Vulcan Materials",
+      "keywords": "Merger",
+      "sector": "General",
+      "dealType": "Merger",
+      "value": "",
+      "date": "Jun 02, 2026",
+      "dateISO": "2026-06-02T20:33:00"
     },
     {
       "title": "Holcim Ltd stock (CH0012214059): EU review of Xella deal and latest earnings in focus - AD HOC NEWS",
@@ -702,6 +871,19 @@
       "category": "Cement Industry",
       "keywords": "",
       "sector": "Cement",
+      "dealType": "Acquisition",
+      "value": "",
+      "date": "May 22, 2026",
+      "dateISO": "2026-05-22T07:00:00"
+    },
+    {
+      "title": "Explained - How the Jaiprakash assets acquisition benefits Dalmia Bharat - CNBC TV18",
+      "summary": "Explained - How the Jaiprakash assets acquisition benefits Dalmia Bharat CNBC TV18",
+      "url": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxOYnJGSnJRdHh2cFIyaTNYcllhZEVtaW1PQ0YtN3FMdHZCMy05d05JTzFQbDVFenU4emZTdkRTTjNqU09IbjVnMGRNcC1NV0NxMDRyRnBmeGdXUlN2SzRfT3Z6TWFKZ2liRjhKaHFHd2xUVDBobTV3YXc1aEF1WmwzNHNYazlscThQTXNac1VmMEloRDRDRGhVRmtRWXpfVldyaTN4ZWNXUGRYeVotalBPaGc0MVU0TTYtLXBZdmN6cDF5ZGN2c040OU5Tc2pvYzZ0ZWVCN9IB2gFBVV95cUxNWDdObmlxclpxWEEtSTJMRWZBNHBSQTM2WWhaZ2x4R0pSbmJSeldhSkdFN2pjQ0J2WXZJZDM4UUFjUnByeFpmWUt4RHJNU2tUZ21uVzBDU0h0MjgxY29QU2hidmdMNno4enNseDY5cUdwYVBWcy1yYUlPbjA0dUloYkF5bzhWRFZmenBiRHR3UXlmMzZiZFk1MlhSTzBPTV9mSWpoSEtHY0thM0pBUk5NUWVRakMwMDV0WktFVjgxTFI2b2ROdzhJVktoU1dxSS1EbkxUaDBzZ2pRUQ?oc=5",
+      "source": "CNBC TV18",
+      "category": "Cement Industry",
+      "keywords": "Acquired",
+      "sector": "General",
       "dealType": "Acquisition",
       "value": "",
       "date": "May 22, 2026",
@@ -1356,58 +1538,6 @@
       "value": "",
       "date": "May 10, 2026",
       "dateISO": "2026-05-10T18:03:33"
-    },
-    {
-      "title": "Record Backlog And Acquisition Pipeline Might Change The Case For Investing In Knife River (KNF) - Yahoo Finance UK",
-      "summary": "Record Backlog And Acquisition Pipeline Might Change The Case For Investing In Knife River (KNF) Yahoo Finance UK",
-      "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxPQUoxVTRabk9TTEF0c0NuNkVZQjI2djE2N3Y1RVZIOS1mdElRUExWSWM1YmNtUjlFRzgxdlVuaEJSSENKcWxFY2F3TURuVXNDRWhGWUlZTTVXcUxaTm0xWG1uc2t3bHQtNUJTcC1BYy1HWngwLVJLY1pzbFU5bDhKNzJtY1d1NzZQWHgzZjRVMUYzUHpJ?oc=5",
-      "source": "Yahoo Finance UK",
-      "category": "Knife River",
-      "keywords": "Acquired, Investment",
-      "sector": "General",
-      "dealType": "Investment",
-      "value": "",
-      "date": "May 10, 2026",
-      "dateISO": "2026-05-10T11:10:35"
-    },
-    {
-      "title": "Vulcan Materials Company $VMC Shares Acquired by ASR Vermogensbeheer N.V. - MarketBeat",
-      "summary": "Vulcan Materials Company $VMC Shares Acquired by ASR Vermogensbeheer N.V. MarketBeat",
-      "url": "https://news.google.com/rss/articles/CBMiywFBVV95cUxQVWUwNkl3M21uWkNrMjlITTJVdC1JY3JaNEV3YnBFa01acWZ2Y1VMVG9UdmNYZmh3amRDNzI0Q2hfRmd1X05hNjB2UC05S205clBZNW1yWno1OTNSeFhUbzJqMVBraWI1ZTVLYlRDUjNQN1AzVDlObzhRT3loOHlSXy1wdkRxX1hGQlpaSVNpQVlsdGhCa3g4dko2NVI3MWw3VnJrZnE3QTVWVXRvWmlpWHc5N0NUNUkxNWdtZ2E3dDBUTF9uVm50OGxtaw?oc=5",
-      "source": "MarketBeat",
-      "category": "Vulcan Materials",
-      "keywords": "Acquired",
-      "sector": "General",
-      "dealType": "Acquisition",
-      "value": "",
-      "date": "May 10, 2026",
-      "dateISO": "2026-05-10T07:29:41"
-    },
-    {
-      "title": "Mitsubishi UFJ Asset Management Co. Ltd. Purchases New Holdings in Amrize Ltd $AMRZ - MarketBeat",
-      "summary": "Mitsubishi UFJ Asset Management Co. Ltd. Purchases New Holdings in Amrize Ltd $AMRZ MarketBeat",
-      "url": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxQUGFXRUdySkJ4ZnFSeFdqbFRWQ1JaMnBLMXNESzBWcWh1ZHRuM1B1Zm1PV1JzTndUZlhRaGRrM3lBQjJXWlVHVUlQT1ZDWHFKR19GelpxRkFBZDQwQ1hackdrbnhMazdXdnk5Ym9RTUhnUWZNNnc5ak52aG1uUk80RU5UaXpadHFhczdaaU1FWE14RXRpR3JNOFc3UUVPS0FLeU9wc0kxUEtDRllwUlhsUGZPVjRGbkZGVWdjN1UyQzlGeTRJenkzVXQ0OU83anhwQ2toLVlGMUk?oc=5",
-      "source": "MarketBeat",
-      "category": "Amrize",
-      "keywords": "Purchase",
-      "sector": "General",
-      "dealType": "Acquisition",
-      "value": "",
-      "date": "May 10, 2026",
-      "dateISO": "2026-05-10T07:00:00"
-    },
-    {
-      "title": "Knife River\u2019s Q1 Loss and Acquisition Pipeline Might Change The Case For Investing In KNF - Sahm",
-      "summary": "Knife River\u2019s Q1 Loss and Acquisition Pipeline Might Change The Case For Investing In KNF Sahm",
-      "url": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxPNzJ1cUZoY1phM0pwbUxSLUdBdVhPeC1JbGRGTTNldDVxamtoMUt6UjFaLWdZNFVweW5KMUZGUTg0eW9BekNGdUU4WnZMcHpMMzlsWjg5YjNCb25nalNOWFNUZ1FLR3NrTktSTzh0T3ByazgyOGsyd1RWZVhGVGdDRHVRalZ6M1VpbFV2WlNoaU8tT1FVQ0JGVTFHY1ZCMFVVRjY3NWt5RDhCeFMtQXZJT0k5eENxWHlEc1A5UTNGeXlEam5TQkZhVmNCVnBJUnQ1YjJST3NPUQ?oc=5",
-      "source": "Sahm",
-      "category": "Asphalt Industry",
-      "keywords": "Acquired, Investment",
-      "sector": "General",
-      "dealType": "Investment",
-      "value": "",
-      "date": "May 09, 2026",
-      "dateISO": "2026-05-09T17:37:11"
     }
   ]
 }
