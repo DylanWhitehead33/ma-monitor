@@ -1,10 +1,75 @@
 {
-  "fetchedAt": "2026-06-09T15:52:00.724051",
-  "totalArticles": 118,
-  "newToday": 21,
-  "duplicatesRemoved": 7,
+  "fetchedAt": "2026-06-10T16:33:09.942051",
+  "totalArticles": 120,
+  "newToday": 14,
+  "duplicatesRemoved": 8,
   "archiveDays": 30,
   "articles": [
+    {
+      "title": "Birmingham-based construction company makes acquisition in 2 states - AL.com",
+      "summary": "Birmingham-based construction company makes acquisition in 2 states AL.com",
+      "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxPY0Vvdmx6NFR6TnZIb3EyeF81djctY2swNW1rcWdrUFZPRzZHMUF1RDRmcm8wMGZUemVrRllSSC16Mm5JbG9hQzk4bVo5Ul94Z3RnRDdfVlFYZkp5djNFWTVTampnMWphdkoyU0N0SFRheDI2OEo5NUcwY1hQNFFoQnpFbGx5b0dGTjVHZEtrN2pDc0l6N0tkQS16QjNxMnJQVTFodWhacEM0SHpo?oc=5",
+      "source": "AL.com",
+      "category": "Aggregates Industry",
+      "keywords": "Acquired",
+      "sector": "General",
+      "dealType": "Acquisition",
+      "value": "",
+      "date": "Jun 10, 2026",
+      "dateISO": "2026-06-10T15:00:00"
+    },
+    {
+      "title": "UltraTech Cement Acquires Stake in Renewable Energy Firm FPEL Services - InvestyWise",
+      "summary": "UltraTech Cement Acquires Stake in Renewable Energy Firm FPEL Services InvestyWise",
+      "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxPV0cyclRnLWpJM0VSMmZ0b1dUSkc1R0hjWE9kdk1zdFJYSEhFLVFZWTJ1UVNwXzlHdHM1bzlDV1RHamMyRTMyVzF1eEZWb1J2eUxHT3RXaWw2aXdJWE5Jd2lzUE1VWmdFaWdybzJpbm1QMHdqcWhvVHYtTzhrT3FFV3BfMFRWbXBNRS1ZMmlIaklFbEFI?oc=5",
+      "source": "InvestyWise",
+      "category": "Cement Industry",
+      "keywords": "Acquired, Investment",
+      "sector": "Cement",
+      "dealType": "Acquisition",
+      "value": "",
+      "date": "Jun 10, 2026",
+      "dateISO": "2026-06-10T13:52:43"
+    },
+    {
+      "title": "ICICI Prudential Mutual Fund Acquires Over 5% Stake in JK Lakshmi Cement Ltd. - InvestyWise",
+      "summary": "ICICI Prudential Mutual Fund Acquires Over 5% Stake in JK Lakshmi Cement Ltd. InvestyWise",
+      "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxPbTdMWTlTRW04RnhhUmJBWk80ZkpDOUg1djF5YlJ6c24tMDBIVmM2dkZuY0FId3k2NG1LRi1FaU1IdVRHUU85T3hSSGZfaGJIOGVjVHhqOWhobWtBVkVyalRtNzRjaFp6aWdfZ2lMV193UWtDTVBFazdfN0RhOWRGbWlMUVduU1BaSi1nY1ZhSkhCYTJ4?oc=5",
+      "source": "InvestyWise",
+      "category": "Cement Industry",
+      "keywords": "Acquired, Investment",
+      "sector": "Cement",
+      "dealType": "Acquisition",
+      "value": "",
+      "date": "Jun 10, 2026",
+      "dateISO": "2026-06-10T06:06:54"
+    },
+    {
+      "title": "Breedon Acquires Falling Springs Quarry: US$120M Deal Enhances US Platform - News and Statistics - IndexBox",
+      "summary": "Breedon Acquires Falling Springs Quarry: US$120M Deal Enhances US Platform - News and Statistics IndexBox",
+      "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxQX3NGR2ttOU1XdFFwM2tOZGwzWWc0NG8yenRKc00zS1VMZVdGaGV2T2xwRlRLZGJrR0V5WDR1R2NDQ1lRRjI3S2E3Y0JrbWVvSFVnSjBtUkFBcGtXRnROTzhUczd5dWgxcUhTSjREUzBWMy1MeFV2TGYyM1hMUlNVYUMxTm9GUHV6YVJGazdNUXhjYWlvWnR4eXFnUmgyVTFxWFE?oc=5",
+      "source": "IndexBox",
+      "category": "Aggregates Industry",
+      "keywords": "Acquired",
+      "sector": "Aggregates",
+      "dealType": "Acquisition",
+      "value": "$120M",
+      "date": "Jun 10, 2026",
+      "dateISO": "2026-06-10T00:50:00"
+    },
+    {
+      "title": "Vulcan Materials acquires Colorado, Texas operations - The Business Journals",
+      "summary": "Vulcan Materials acquires Colorado, Texas operations The Business Journals",
+      "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxQWmFmWjN3Vm9VRml1YjQxS3p5WlpraUV0ZDZ5QVJzQ1EwenZveXNEa2RzSkpRSGI4dUFoM1czVHhrd29UNkQ1aVVkWHlWeFl1azhFR05rVGVZSE5zdDJ0dzJoNnlyS18wNzFlbm5hQU1PRUFrSkRoUUU3clFNdDJGM2I5TnJSR0FlYzA2cE8yVzlRUHM?oc=5",
+      "source": "The Business Journals",
+      "category": "Aggregates Industry",
+      "keywords": "Acquired",
+      "sector": "General",
+      "dealType": "Acquisition",
+      "value": "",
+      "date": "Jun 09, 2026",
+      "dateISO": "2026-06-09T23:52:00"
+    },
     {
       "title": "Japan-based concrete firm wheels and deals for some San Jose properties - East Bay Times",
       "summary": "Japan-based concrete firm wheels and deals for some San Jose properties East Bay Times",
@@ -17,6 +82,19 @@
       "value": "",
       "date": "Jun 09, 2026",
       "dateISO": "2026-06-09T13:50:06"
+    },
+    {
+      "title": "Amsons Group Acquires Bamburi Cement in Successful Buyout Deal - The Kenyan Wallstreet",
+      "summary": "Amsons Group Acquires Bamburi Cement in Successful Buyout Deal The Kenyan Wallstreet",
+      "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxNekx4ZWxNM1BuT29STm1SR0d1QXZ1cDZpOGNtSTdERUZjUlF4VmI1Vkg2LXZuQWFBVldIN1J4Mk0yWVZ4VHhUT0ZXMGJkYjAwbC13TU5nazdEVkF1VVY5cmRuU3pOaGt3U1I0T3NUcTlybWJWc05tOGlZdHVjMFdZVGtCVXFmY1F4OE5XLTdTY2UtMFZqMEE?oc=5",
+      "source": "The Kenyan Wallstreet",
+      "category": "Cement Industry",
+      "keywords": "Acquired, Buyout",
+      "sector": "Cement",
+      "dealType": "Acquisition",
+      "value": "",
+      "date": "Jun 09, 2026",
+      "dateISO": "2026-06-09T11:08:49"
     },
     {
       "title": "UK-based Breedon acquires US aggregates quarry for $120m - Construction Briefing",
@@ -1486,58 +1564,6 @@
       "value": "",
       "date": "May 12, 2026",
       "dateISO": "2026-05-12T07:00:00"
-    },
-    {
-      "title": "Carlisle\u2019s DSD Construction acquired by Fox Group - Business Crack",
-      "summary": "Carlisle\u2019s DSD Construction acquired by Fox Group Business Crack",
-      "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxQaU1SS19qV0FHOHp1bllEMW1xcTFjdW94djc2SC02STJHMXd3QWl2SGJTZHJud240ejJxWUdlSC1md2kwem02dGlpWlNRd3A4UVFENXpyV0NWQzlVcExhTVYxOFg3X1NUYno4bS1RRGdwUGdPTDNpdXd1WFZaVWR3eklmODFzUzFQQlNsYk1KYXZKdw?oc=5",
-      "source": "Business Crack",
-      "category": "Aggregates Industry",
-      "keywords": "Acquired",
-      "sector": "General",
-      "dealType": "Acquisition",
-      "value": "",
-      "date": "May 11, 2026",
-      "dateISO": "2026-05-11T15:09:59"
-    },
-    {
-      "title": "41,971 Shares in Amrize Ltd $AMRZ Acquired by Swedbank AB - MarketBeat",
-      "summary": "41,971 Shares in Amrize Ltd $AMRZ Acquired by Swedbank AB MarketBeat",
-      "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxQNlg1NTJ6YWJ1R2ppdElEejRkU3VrWXRIVnV0RzVaaGg0amxkYzdtVl9FN1Zha05uQmktMmtaRHQwUXRXYjNiSjFmZjVTMVlKN01FdlRXSHk0ZmxIdTg2cXM5NURPWWF3ODJSU2cwc2tERUtQb3REdFRlQmh6ZV93aGZNd0dERm0tdGRmSTRPNDhadHdxQWFWRFk2dnZUOFVlbGNvR2xqVW9va1ZlMkprdTdYUUtYbHM?oc=5",
-      "source": "MarketBeat",
-      "category": "Amrize",
-      "keywords": "Acquired",
-      "sector": "General",
-      "dealType": "Acquisition",
-      "value": "",
-      "date": "May 11, 2026",
-      "dateISO": "2026-05-11T11:21:57"
-    },
-    {
-      "title": "Amrize Ltd $AMRZ Shares Sold by Kailix Advisors LLC - MarketBeat",
-      "summary": "Amrize Ltd $AMRZ Shares Sold by Kailix Advisors LLC MarketBeat",
-      "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxQbnluTmw5M1dPMTBXUjdGQXROcU10b1B2djBiN210OEstelR5ZjhTdVZhUGVjMFRXQ016Y3dNRkdBMVlGbXlaUDBLdW1Lcm1VS2w0QzYyWVRvRmp0YTJ4d2hTS056Ukk5ckpXU2hHemZ4Q1hPXzRlTTJkQ19nc3VJUDVmcG42OG5zUXpzR3ZxanFZVEotZDZOUEJNX0NkUjF1bGJOTTBxdVJYc3BEUlR5eg?oc=5",
-      "source": "MarketBeat",
-      "category": "Amrize",
-      "keywords": "",
-      "sector": "General",
-      "dealType": "Divestiture",
-      "value": "",
-      "date": "May 11, 2026",
-      "dateISO": "2026-05-11T07:00:00"
-    },
-    {
-      "title": "Titan Cement International stock (BE0974338704): Keystone Cement deal closes in Pennsylvania - AD HOC NEWS",
-      "summary": "Titan Cement International stock (BE0974338704): Keystone Cement deal closes in Pennsylvania AD HOC NEWS",
-      "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxOY1I2STg1aWJXeklic0hEdVlhY05CN09qVVJOeDFJeDJhaGtRU01ySTd3Q2RfVmhtcFBoVjBsYWFGV0xYZlN5aGNpQ2xvMVgwbW5PdnpnZGRKWXNkdmFEeTZnS21BamdtWW1sWVhxWmxFaVdZUS1YcWxrNG9pdmFhOHdLdUh0dTRGOG8tUWg0Z21TWE4xMGdycEhpRk5HSE5ySFRUdHBFWU5NemptdDdnTUtSOURZWV8tRnBnNVVicC04R3c?oc=5",
-      "source": "AD HOC NEWS",
-      "category": "Aggregates Industry",
-      "keywords": "",
-      "sector": "Cement",
-      "dealType": "Acquisition",
-      "value": "",
-      "date": "May 10, 2026",
-      "dateISO": "2026-05-10T18:03:33"
     }
   ]
 }
