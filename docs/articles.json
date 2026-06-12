@@ -1,10 +1,23 @@
 {
-  "fetchedAt": "2026-06-11T16:51:26.656191",
-  "totalArticles": 121,
-  "newToday": 16,
-  "duplicatesRemoved": 12,
+  "fetchedAt": "2026-06-12T16:14:48.930717",
+  "totalArticles": 119,
+  "newToday": 18,
+  "duplicatesRemoved": 13,
   "archiveDays": 30,
   "articles": [
+    {
+      "title": "Holcim wins conditional EU antitrust nod for \u20ac1.85 billion Xella acquisition - Reuters",
+      "summary": "Holcim wins conditional EU antitrust nod for \u20ac1.85 billion Xella acquisition Reuters",
+      "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxNVTBTMmZ3ZTBXd0JFV0JQeHFVeFBoenh5U2NIMHcyNnRfOTlFa3Z0SzMwWmZ5RjlVUlZVQlpvUW9XLURQMEpFN2lSak1rVkpadUgxTmFSTUd0amNKQXE2eVFwUHFWb0dLR19BV3ptQUVaa0VGeE90TG1FUmt5ZFZFM2h1UzdjNDR2ZzZLVWFSeHJxYVJNUGw3aV82RXlIR1FRd0xocVpQVEhDSWZWVU1WZW4zVjlWdw?oc=5",
+      "source": "Reuters",
+      "category": "Cement Industry",
+      "keywords": "Acquired",
+      "sector": "General",
+      "dealType": "Acquisition",
+      "value": "",
+      "date": "Jun 12, 2026",
+      "dateISO": "2026-06-12T16:02:08"
+    },
     {
       "title": "ATWEC Technologies Names Jeff Eales CEO Following Park-Aid Acquisition - citybiz",
       "summary": "ATWEC Technologies Names Jeff Eales CEO Following Park-Aid Acquisition citybiz",
@@ -95,6 +108,32 @@
       "value": "",
       "date": "Jun 10, 2026",
       "dateISO": "2026-06-10T13:52:43"
+    },
+    {
+      "title": "CalPortland Co completes Vulcan RMC acquisition - cemnet.com",
+      "summary": "CalPortland Co completes Vulcan RMC acquisition cemnet.com",
+      "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxNQXJnWlJkZFpuOWJrWFF0X0hldGhRMkl0Rklkb1A3bjJ2U2xBTUVLbWhRSHBzclEzZExHclV2WElYT2U4d2d3QVYzRnpDWjN6M3g3czFQR2ZoTGhXOVBuejQ4VG1xbUpXamFKY2NZYmIyaFhEeFFEbFZPeF9MeTFRTHdRNTZ1dWtBZWlyTENmMnYtbzhCQVNDbw?oc=5",
+      "source": "cemnet.com",
+      "category": "Ready-Mix Industry",
+      "keywords": "Acquired",
+      "sector": "Cement",
+      "dealType": "Acquisition",
+      "value": "",
+      "date": "Jun 10, 2026",
+      "dateISO": "2026-06-10T07:00:00"
+    },
+    {
+      "title": "Breedon Group acquires Missouri limestone quarry - cemnet.com",
+      "summary": "Breedon Group acquires Missouri limestone quarry cemnet.com",
+      "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxQYzVFZkxEZW9mR2RKMXhqd2R6ZjlpY09BNm5oVS1QZ0p6dDl6czUxNXk4a2ZIaFM5RVFLOHdmMThlcm04SXV4cEJGY2QzQmwzVktMbGJaVlF0eUtsYUNqaEc3ZTFhSk1GTWpteHJhUmJUV2hob1dTWW5YZmFsZEdFUXJHY1FiTUtIVVR5RGFxdkp4Zks3NXBHSkln?oc=5",
+      "source": "cemnet.com",
+      "category": "Holcim",
+      "keywords": "Acquired",
+      "sector": "Aggregates",
+      "dealType": "Acquisition",
+      "value": "",
+      "date": "Jun 10, 2026",
+      "dateISO": "2026-06-10T07:00:00"
     },
     {
       "title": "ICICI Prudential Mutual Fund Acquires Over 5% Stake in JK Lakshmi Cement Ltd. - InvestyWise",
@@ -498,6 +537,19 @@
       "value": "",
       "date": "Jun 02, 2026",
       "dateISO": "2026-06-02T09:23:51"
+    },
+    {
+      "title": "Holcim offers divestment in EU review of Xella deal - MLex",
+      "summary": "Holcim offers divestment in EU review of Xella deal MLex",
+      "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxNLWlFa21tcENwcEhlTTZRNkpqRXJ0VGYzajluVDhFU2RwdHM4R2Z6TGxhSFlrNU9UTzVhZkNHa2d2cGxybDJtWTdxdlE2bzlIajNucHVVWnJsWGpTRURfZDNDOW5FdWtFN0lRNGw2aDJpTUJiT1o4ZlNFZ1dJanlBaUVlXzJIVjBvX0k2SHpHOWk4Vk9OUTNQMVNR0gFaQVVfeXFMTnNfWVdMUGZvRnA5VFVHZEc2Rlp0V3hYMS1MWXNCdXdleTN0ODlLNEFqbV9LQnNqUGc3LUJMUThmUkY1YVI4RXJxYWxBenpfVENLamlUeFozQ1FB?oc=5",
+      "source": "MLex",
+      "category": "Holcim",
+      "keywords": "Divest",
+      "sector": "General",
+      "dealType": "Divestiture",
+      "value": "",
+      "date": "Jun 02, 2026",
+      "dateISO": "2026-06-02T07:39:00"
     },
     {
       "title": "Exclusive: Holcim to get EU nod for 1.85 billion euro Xella acquisition after offer to sell Romanian asset, sources say - Reuters",
@@ -1397,6 +1449,19 @@
       "dateISO": "2026-05-17T13:00:19"
     },
     {
+      "title": "UP-NS Action Center adds public letters to merger site - Railway Supply",
+      "summary": "UP-NS Action Center adds public letters to merger site Railway Supply",
+      "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxPR0VRVXp0TEkwWHQ2RTdjcGVQeU5JdUwzZVZxSkt5c1QtOFhBakh1eU1TRnVTQmFRR3VZTFJGeEY1VXlZdnhCczk5M0ZUVHB1bHM0Q0lyaFNLbHViSGpaRFhxYnJnLW1xd1pYQm1pS0tuOXRLTnpMRXlPQmQtQkhORS15SHpBX3ItTmc?oc=5",
+      "source": "Railway Supply",
+      "category": "Martin Marietta",
+      "keywords": "Merger",
+      "sector": "General",
+      "dealType": "Merger",
+      "value": "",
+      "date": "May 17, 2026",
+      "dateISO": "2026-05-17T07:00:00"
+    },
+    {
       "title": "Al Naqool purchases 12 concrete trucks worth SAR 5.9M - \u0627\u0631\u0642\u0627\u0645",
       "summary": "Al Naqool purchases 12 concrete trucks worth SAR 5.9M \u0627\u0631\u0642\u0627\u0645",
       "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTE01ZVpzc3BoeUxMV2h2QjFyVnJ4V3RJcGlVc2l2TjVEX0M1aGtMenl3R2pla3kwbEVseVpLNTdwVjRRemRjbG9IVi00R2FyN3c2VGphV3NhTDA4MlhDZld4aE9rYmNlZE5rVW5peDMtYw?oc=5",
@@ -1486,97 +1551,6 @@
       "value": "",
       "date": "May 14, 2026",
       "dateISO": "2026-05-14T09:20:24"
-    },
-    {
-      "title": "Target acquired: Matt Hirschman returns to Seekonk Speedway as the obvious Modified Tour favorite - NASCAR.com",
-      "summary": "Target acquired: Matt Hirschman returns to Seekonk Speedway as the obvious Modified Tour favorite NASCAR.com",
-      "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxPZU01YXBSLXM0LUhib29Ma05rTDhrZ1JaV0FwMEdKUXJFalVTMEV4Ul9XcWZYM29ZVGg3QWoxcUttdmEwVWVPNXdrY3QxaVQ2RktEN2hfT0ZTMHlsVHpWSG80RXUzMFFMa19LV0UwLU81cFRlanVqem5udXpLdjN5a2hKRlBsQUVxM0HSAY8BQVVfeXFMTWN6Mkd6UXRuSTVIVnJpV2Rrd1AzZGwzY1FTc2wzdzRuMFJWN1ZmQk5DNnVBWmJmWHgyVm9vLXNFazI0bWFfSUJNUzRHQjg4aHNjS2NUelhlRWpZUHF6MHQtbUFsVFpFd19GVDFaRl9OSkRoVVdfajRkSlVVM3FFekJFdjA1OGtZYzNXc2tHelU?oc=5",
-      "source": "NASCAR.com",
-      "category": "Asphalt Industry",
-      "keywords": "Acquired",
-      "sector": "Asphalt",
-      "dealType": "Acquisition",
-      "value": "",
-      "date": "May 13, 2026",
-      "dateISO": "2026-05-13T14:02:46"
-    },
-    {
-      "title": "Fox Group boost acquisition portfolio - Lancashire Business View",
-      "summary": "Fox Group boost acquisition portfolio Lancashire Business View",
-      "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxQZDJYcWk5U1ZHZmdRRzctNTNZSVY3ZEhzeVFvOWJJS0FRSm1LSW9TYk1SUE93VVp1YTFVa3ZXbDVjWi1FUWNLTk5yd1BobnRzVmJUckVMdG5DWDJIenFyQ21tMVlZcG4xc3IwUzNJeWFxaVAtQXNwSTVkbmFlbW05OWJxY0JBTk4tcVU1dlhPMHJLeVdTWHdOajNNQ0hzUVg0aFlUNlh3?oc=5",
-      "source": "Lancashire Business View",
-      "category": "Asphalt Industry",
-      "keywords": "Acquired",
-      "sector": "General",
-      "dealType": "Acquisition",
-      "value": "",
-      "date": "May 13, 2026",
-      "dateISO": "2026-05-13T06:04:04"
-    },
-    {
-      "title": "Taiheiyo Cement Sets Terms for First Japanese ASR-Linked Stock Acquisition Rights - TipRanks",
-      "summary": "Taiheiyo Cement Sets Terms for First Japanese ASR-Linked Stock Acquisition Rights TipRanks",
-      "url": "https://news.google.com/rss/articles/CBMizgFBVV95cUxPQ01FTUUwVnBHdnk1WjRmR3d1YnA4MTRvX2d3Z1dQTDdCR3pmQl9adFhja0hkZUJYQjF0ZGFXeFhMR1RHX2RQbG5UUmpGeV9od0hCanFBZTE0ZXRhS0x1RTZMbzFJTEVuRW40cmIxWTIxNTFKMVpWbWx1ajNqVVJGUUxIelYxSnNxd2pCeGlpbVRTdlJ6cXNhSUNSWTgwZkY0eHNGajBsVzBDVEYyekRIemp3YlZybzc3UmFOS0xnYktVZlFheDE3M3g1R1JwZw?oc=5",
-      "source": "TipRanks",
-      "category": "Cement Industry",
-      "keywords": "Acquired",
-      "sector": "Cement",
-      "dealType": "Acquisition",
-      "value": "",
-      "date": "May 13, 2026",
-      "dateISO": "2026-05-13T04:57:01"
-    },
-    {
-      "title": "Taiheiyo Cement : Notice of the Result and Completion of the Acquisition of Own Shares through Off-Auction Own Share Repurchase Trading System (ToSTNeT-3) - marketscreener.com",
-      "summary": "Taiheiyo Cement : Notice of the Result and Completion of the Acquisition of Own Shares through Off-Auction Own Share Repurchase Trading System (ToSTNeT-3) marketscreener.com",
-      "url": "https://news.google.com/rss/articles/CBMi5gFBVV95cUxQOEN2Y0V0UGhPbmQxOGhYb1NiMXdHRmEzWjVRRnB0am41SUlsbjREaE1XQkVna2ptMjRrQVhDSGU3bENJeEdkUnAxM3pjeUNNbDB6N01NYkN6c20xTjBJYjlBMnJRX0RaY3B1LXhlMDM5TUhSYTRJVEo3R0c4aklMeHlwRDRZYUM1Z2ljNTd2dWhpTXdGR091WDlMY0s5dC1tTk1sQlVDVlo2ZU9ucUFnR2F5Q2RBeVRHTlNwaHhCM2ljcks1SHdyQlUyNlY5UzFTaERYZi03WTBMOHhBMTNVZlBSUjJnQQ?oc=5",
-      "source": "marketscreener.com",
-      "category": "Cement Industry",
-      "keywords": "Acquired, Purchase",
-      "sector": "Cement",
-      "dealType": "Acquisition",
-      "value": "",
-      "date": "May 13, 2026",
-      "dateISO": "2026-05-13T04:11:05"
-    },
-    {
-      "title": "YTL Cement Bhd completed the acquisition of 16.7% stake in Concrete Engineering Products Berhad for MYR 32.5 million. - marketscreener.com",
-      "summary": "YTL Cement Bhd completed the acquisition of 16.7% stake in Concrete Engineering Products Berhad for MYR 32.5 million. marketscreener.com",
-      "url": "https://news.google.com/rss/articles/CBMi5gFBVV95cUxPNzlZV0xGYld3djEzalAweThrZlA5dURvWkE3QUtEd1JtSzJabjdkODN1REhSbjE3U2dYTU5fcnh2TmNXZHFnNEFYb1FHTWFPQXZXd1pMeTJBVmF2dVdfVzlocFpSbnBTZWZzYS13VWwtWEhjZHdCN01fOWFpb0d0S3k5MlNsUE9VbDRuSFpZemZTM1pjT1R0QUU2Y3UwTUdFcVRGZTFLcDM4Sk1JUTZRVzJvdm5jRFQ4T3NrNUExZ0dGcGc5aHJhcGNNMFJud09FazZYT3pGZHJZQUJMS3h1TmxaNjFBQQ?oc=5",
-      "source": "marketscreener.com",
-      "category": "Cement Industry",
-      "keywords": "Acquired",
-      "sector": "Cement",
-      "dealType": "Acquisition",
-      "value": "",
-      "date": "May 12, 2026",
-      "dateISO": "2026-05-12T22:00:00"
-    },
-    {
-      "title": "Protegrity Advisors Represents Atlas Asphalt in Its Acquisition by O2 Investment Partners - PR Newswire",
-      "summary": "Protegrity Advisors Represents Atlas Asphalt in Its Acquisition by O2 Investment Partners PR Newswire",
-      "url": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxNZjR6QWVmcXpSZnhiZFlJNTZNaF9Cd1ZMU25WRlRYOHFsUmF3dkd3Q3l6TzQ3R3lDTW9Eek9oNkFNVDZMc2I4c0FIOVJiMy1aSFZMSkJ4VzFXeHdPR1lFRFpyVDI3V05JUHg4X0pZSS1jeDNRb0drVkFIUXVBdEFMRnZhZnhNa1RUNkJxUXJ4R2g0cmFhb1hjeFlBQTBWaDcyVWxJZzJMMHZIaXdPblVNRFViS09xWGNCVTE0N0gtVC1NNEUxUklFdFlfS0tTQVc1b1JLRlJLVmlVTFhKeGc?oc=5",
-      "source": "PR Newswire",
-      "category": "Asphalt Industry",
-      "keywords": "Acquired, Investment",
-      "sector": "Asphalt",
-      "dealType": "Investment",
-      "value": "",
-      "date": "May 12, 2026",
-      "dateISO": "2026-05-12T20:39:00"
-    },
-    {
-      "title": "BulkOne enters bulk explosives market with acquisition - Pit & Quarry",
-      "summary": "BulkOne enters bulk explosives market with acquisition Pit & Quarry",
-      "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxQeTJudF9PMTFtMDdoS3Q5RExmRm83dUNXWS1VQXNTVlRsR2stWTJWaTFtR0luSTk3V05EN2owR25XUjF1Z05wNk95YTlXXzZpNkRDNDBFUmdqUzNmNjYwanhSRDlrM3hLWUYxMkdHMkgyMW1MVk1NU3lwbE1EOUpyb3BsU3hqUl9LUjQwYg?oc=5",
-      "source": "Pit & Quarry",
-      "category": "Pit & Quarry \u00b7 Aggregates",
-      "keywords": "Acquired",
-      "sector": "Aggregates",
-      "dealType": "Acquisition",
-      "value": "",
-      "date": "May 12, 2026",
-      "dateISO": "2026-05-12T19:11:03"
     }
   ]
 }
