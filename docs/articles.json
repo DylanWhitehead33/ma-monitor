@@ -1,10 +1,36 @@
 {
-  "fetchedAt": "2026-06-12T16:14:48.930717",
-  "totalArticles": 119,
-  "newToday": 18,
+  "fetchedAt": "2026-06-13T14:57:26.100615",
+  "totalArticles": 121,
+  "newToday": 17,
   "duplicatesRemoved": 13,
   "archiveDays": 30,
   "articles": [
+    {
+      "title": "Holcim\u2019s Xella takeover wins EU clearance with conditions - MLex",
+      "summary": "Holcim\u2019s Xella takeover wins EU clearance with conditions MLex",
+      "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxNSEdNRkt0UnZ4UnN6a2VaV0VaV1NhdUplUDVzYWxrQmNWdUM0eXp5OHNyNTFDUUpaNGV1d1BWTTJaajZ1VU1mMElCeHdMWWtKM0d0cjhkdW9QS2ZzOTE5STN3VHFfUGNReTRFcVN5WWUtd2ZUS2dLdnBCUFRNYVViNkhHNElNQVBNSVBOeS1ZZ05zUUJFVkJpejNOb9IBWkFVX3lxTE1ERVRpYlVpZ3lyUkE3a3FiaTY4bW1CZTdmZlV2NDdLNVJwaVMtZWVJY3lTTHNpTzRKMjZkc05tdWVQaXZuUmRMM2FqcHcyYmxlYU1SMmwwNm1SUQ?oc=5",
+      "source": "MLex",
+      "category": "Holcim",
+      "keywords": "Takeover",
+      "sector": "General",
+      "dealType": "Acquisition",
+      "value": "",
+      "date": "Jun 12, 2026",
+      "dateISO": "2026-06-12T16:16:00"
+    },
+    {
+      "title": "Holcim wins conditional EU antitrust nod for EUR1.85 billion Xella acquisition - marketscreener.com",
+      "summary": "Holcim wins conditional EU antitrust nod for EUR1.85 billion Xella acquisition marketscreener.com",
+      "url": "https://news.google.com/rss/articles/CBMiywFBVV95cUxNN0FJSFVrZW1kQXZvMEVROGZvSWNOaVpIUVhJQ0RMSU9XbjNDN25oY2JRN2ZaeGZSRENlRl9KakZnbVMxTk9RWnN3NldoUFNkWEgzWERDTGUyTXFncHdXclNPM2FpVnBic1FtYjItakU1TTBZTGZzRGtkalR5NklPNFdCOEMzaWV0MDJmdzRKNGFubGJ5LWRaam1UbTAycWhGWTJJSzc5U1FMTm1VUmlBUUY0a1JmemRwOTVvOEw1czBrRVhEU2ZrY193VQ?oc=5",
+      "source": "marketscreener.com",
+      "category": "Holcim",
+      "keywords": "Acquired",
+      "sector": "General",
+      "dealType": "Acquisition",
+      "value": "",
+      "date": "Jun 12, 2026",
+      "dateISO": "2026-06-12T16:02:09"
+    },
     {
       "title": "Holcim wins conditional EU antitrust nod for \u20ac1.85 billion Xella acquisition - Reuters",
       "summary": "Holcim wins conditional EU antitrust nod for \u20ac1.85 billion Xella acquisition Reuters",
@@ -17,6 +43,19 @@
       "value": "",
       "date": "Jun 12, 2026",
       "dateISO": "2026-06-12T16:02:08"
+    },
+    {
+      "title": "Cyprus Cement Public Company Ltd acquires own shares - Cyprus Mail",
+      "summary": "Cyprus Cement Public Company Ltd acquires own shares Cyprus Mail",
+      "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxQYkpsWFpaYnpObzBoUXU5aDM1WkRVbEJRTnl5RU9lRlh1RzQxUjJTakhzeFJGZ2FpRmM0LXprUi1UcWVGQW9YV1c1MjU3cDZLdV81ZzdpQnUyRWx3LVI3VmtMZjNyN3ZqVGNwaHh4Y0lBMktlaXA2aVItSEZld2VCUUFWSUVDbWFFN1hBOTQ4RlQ?oc=5",
+      "source": "Cyprus Mail",
+      "category": "Cement Industry",
+      "keywords": "Acquired",
+      "sector": "Cement",
+      "dealType": "Acquisition",
+      "value": "",
+      "date": "Jun 12, 2026",
+      "dateISO": "2026-06-12T15:32:00"
     },
     {
       "title": "ATWEC Technologies Names Jeff Eales CEO Following Park-Aid Acquisition - citybiz",
@@ -290,6 +329,19 @@
       "value": "",
       "date": "Jun 08, 2026",
       "dateISO": "2026-06-08T12:02:59"
+    },
+    {
+      "title": "Vulcan Materials completes California exit, Colorado acquisition By Investing.com - Investing.com Australia",
+      "summary": "Vulcan Materials completes California exit, Colorado acquisition By Investing.com Investing.com Australia",
+      "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxNYmZLR29jTGw1aE9NWU9pVnd6Sk84RlE3TGI0RWhpVkVVYXh3cVg2YlZOMUVpQ1E4cW5BNjAxTUtSRUIxYnBhWU5oS2xucFZUM3lvblNUMGxkZVVqSS1HTi1lVzdHZF9oOHlhVy1KRGVFaFROZGszUmM4V3BOVjhoYWR6TTFXRk1YOWN0cWFnTXd0eGVwRk4wMFFOaldhTnZTN0Y1S2JnaXE2ZGZJc2RYNXJ4UmFtVDJzeV9kMkxqS3hVZw?oc=5",
+      "source": "Investing.com Australia",
+      "category": "Aggregates Industry",
+      "keywords": "Acquired, Investment",
+      "sector": "General",
+      "dealType": "Investment",
+      "value": "",
+      "date": "Jun 08, 2026",
+      "dateISO": "2026-06-08T11:39:06"
     },
     {
       "title": "Taiheiyo Cement Completes California Asset Acquisition Through CalPortland - marketscreener.com",
@@ -1525,32 +1577,6 @@
       "value": "$3M",
       "date": "May 14, 2026",
       "dateISO": "2026-05-14T15:28:13"
-    },
-    {
-      "title": "Sanghi Industries Ltd stock (INE128A01029): Ambuja Cements completes acquisition - AD HOC NEWS",
-      "summary": "Sanghi Industries Ltd stock (INE128A01029): Ambuja Cements completes acquisition AD HOC NEWS",
-      "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxPWEpSTk1kRlpzQU9iTW9OeTZUaVRGMGF2XzZ4OWM5LV9zQ1lyZTJNeTJYU0hpYVU2b1djNXJ2TllieldvOFdJZmctQ1VyVEJvamliZlpTbl82b1NqeXpoNnRBLUxGTEh4V1pnQ2VIcVdjU0JIOTM1UHpOeEo3NktYa21xanNUN0hIYjhMVXdibG10SG14SzI2WXlfcEMtYU5wWFRmbHRKMWFqNllLZnNiTUlfRlhOcjJRbW9pZ240WkwyUQ?oc=5",
-      "source": "AD HOC NEWS",
-      "category": "Cement Industry",
-      "keywords": "Acquired",
-      "sector": "Cement",
-      "dealType": "Acquisition",
-      "value": "",
-      "date": "May 14, 2026",
-      "dateISO": "2026-05-14T12:53:20"
-    },
-    {
-      "title": "CRH involved in \u20ac600m deal to buy US water treatment firm - Echo.ie",
-      "summary": "CRH involved in \u20ac600m deal to buy US water treatment firm Echo.ie",
-      "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxQUlA4UklsN3hlQjd3Y3VneWRSbGZQMHl0THdkUmVSNUdyOWN3cmM3S2ZNZHRNMlY1S3ZfbHB6cF85eF93XzNUZDlGVjFFRnNSbHhYWDV3dXQyd2RvUFA4SzI0SlFhb1NvNzlRTUNpUlJXekUyc0RCYXZUYXpScjlVTEJNbWg?oc=5",
-      "source": "Echo.ie",
-      "category": "CRH",
-      "keywords": "",
-      "sector": "General",
-      "dealType": "Acquisition",
-      "value": "",
-      "date": "May 14, 2026",
-      "dateISO": "2026-05-14T09:20:24"
     }
   ]
 }
