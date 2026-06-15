@@ -1,10 +1,88 @@
 {
-  "fetchedAt": "2026-06-14T15:06:19.363532",
-  "totalArticles": 121,
-  "newToday": 14,
+  "fetchedAt": "2026-06-15T17:50:43.610500",
+  "totalArticles": 126,
+  "newToday": 21,
   "duplicatesRemoved": 13,
   "archiveDays": 30,
   "articles": [
+    {
+      "title": "LIG Assets Acquires 1,132-Acre Limestone Quarry in Florida for $151.5 Million - MEXC",
+      "summary": "LIG Assets Acquires 1,132-Acre Limestone Quarry in Florida for $151.5 Million MEXC",
+      "url": "https://news.google.com/rss/articles/CBMiSEFVX3lxTE81WUNJQ3JiN0xMblFheFhtNW1scXhBLUZqdFdDQkVwTTNXc0wyWm84YXFzZjRISWhkdXQyRzJnRWtwOEt4T3RBNQ?oc=5",
+      "source": "MEXC",
+      "category": "Aggregates Industry",
+      "keywords": "Acquired",
+      "sector": "Aggregates",
+      "dealType": "Acquisition",
+      "value": "$152M",
+      "date": "Jun 15, 2026",
+      "dateISO": "2026-06-15T17:00:09"
+    },
+    {
+      "title": "LIG Assets, Inc. Executes Restructuring and Conversion Agreement and Finalizes Acquisition of 1,132 Acres at Brooks Quarry in Marianna, Florida Though Wholly-Owned Subsidiary Gold Run, Inc. for $151.5 Million - TradingView",
+      "summary": "LIG Assets, Inc. Executes Restructuring and Conversion Agreement and Finalizes Acquisition of 1,132 Acres at Brooks Quarry in Marianna, Florida Though Wholly-Owned Subsidiary Gold Run, Inc. for $151.5 Million TradingView",
+      "url": "https://news.google.com/rss/articles/CBMi8gJBVV95cUxNZEs5enpVWldUdTlYQ2lmWVVHNzliNWJTaW5Ob0ZFcTZVUkNWeE1sT3EwNUlzNFlTOHNYa2M1bHltMnRyV1ZlV1IwYjM5RDdxcDg0MVgtWHJDLXI2TXVaQnhkT2R3cGRUaU1RS3pYWGUwV2lvZmwzT0U2UDNiYTZmRWV2V05RaG45aTVjaXdjLXRPdFBUUlZvci1Dd0stb1Y4WkZhVzNEekFpbEhpaFhsTE5FTXduRWFEdUwybFYtZ3B3VVNQcGlweUVQLUx0WHFCVF9xYlNnQWMtNVhqaEFwVi1SbFpTOTRmd0o5NmlESzYybk5iVWNyNGNNa3FKSUNhV294T3dHLVVGamFGcUswOGJ2Y2RGQjlQcVpPRUFVZmliem9oN2hnVkZ4alNoWVJDM1dKOG9mWkdQdHp0dDlFbU1INXFGWGpiREtTdHRXdWdXVUxsNTJuZEd4WUd0dldlZnNTTmEzNzl0MFhJR0Q0RnJB?oc=5",
+      "source": "TradingView",
+      "category": "Aggregates Industry",
+      "keywords": "Acquired",
+      "sector": "Aggregates",
+      "dealType": "Acquisition",
+      "value": "$152M",
+      "date": "Jun 15, 2026",
+      "dateISO": "2026-06-15T14:05:31"
+    },
+    {
+      "title": "Herige Industries: Edycem to Acquire BHR's Concrete Operations in Loire-Atlantique - Id\u00e9al Investisseur",
+      "summary": "Herige Industries: Edycem to Acquire BHR's Concrete Operations in Loire-Atlantique Id\u00e9al Investisseur",
+      "url": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxPMmZmVjh5SzNPMF83bXZmNTdXYkRXU2NzYkFPVnpMalkzMnFEMG40d2Y3TUxUeDRLZ1BtTXpBRWlfemdoUkFQckFUVG5hU0tlVi1kSTkwSlFCTUVzVjIxYVd0bndldklfWEZnNW5iWUdZcENMMmhDTF9KajBvb3JpT3NHXzhkX1QwMk1fajh6cXktYkVtR1dyOWtNQWJlc0ROTWN6cmNqVnFzOGdubGpXY0RmbHVOSWI3SnN2WjI1b2xUelE3YWVCc3NPcTBhSFVrU1Yzdmg3QQ?oc=5",
+      "source": "Id\u00e9al Investisseur",
+      "category": "Ready-Mix Industry",
+      "keywords": "Acquired, Investment, To Acquire",
+      "sector": "General",
+      "dealType": "Acquisition",
+      "value": "",
+      "date": "Jun 15, 2026",
+      "dateISO": "2026-06-15T07:06:00"
+    },
+    {
+      "title": "HERIGE INDUSTRIE: PROJECT TO ACQUIRE THE READY-MIX CONCRETE PLANTS OPERATED BY BHR IN LOIRE-ATLANTIQUE - ActusNews.com",
+      "summary": "HERIGE INDUSTRIE: PROJECT TO ACQUIRE THE READY-MIX CONCRETE PLANTS OPERATED BY BHR IN LOIRE-ATLANTIQUE ActusNews.com",
+      "url": "https://news.google.com/rss/articles/CBMi6wFBVV95cUxNUTFKVEpIWk1sRDlTdEdhNlpfOW5LcjZpU2RVOGtFemI0bWl6Z0o5anlfWklhTEFTWWNPMGhJQ2Q0bVRfdmF2UFBLN3JJQklBazl0WDVZZmRtcmZoMkZWMTV5OFZTME83N3RsTndjOGFwbnBzcWdLZmdjMWFORU9Dd1RvMDZvNEpKZUlJdkwxQWN0NC1oXzdBNGYwZnlFZU4zVXQtRjcxek1FOGlFRVlXRTZ0WE5XRE84VnFRMEdkUDd6SUlGZjFKU1NKVWM5ODdOay1fYVhuSTRuc3ZNdnBCdXc1OEFlSVptcEtj0gHrAUFVX3lxTE1RMUpUSkhaTWxEOVN0R2E2Wl85bktyNmlTZFU4a0V6YjRtaXpnSjlqeV9aSWFMQVNZY08waElDZDRtVF92YXZQUEs3cklCSUFrOXRYNVlmZG1yZmgyRlYxNXk4VlMwTzc3dGxOd2M4YXBucHNxZ0tmZ2MxYU5FT0N3VG8wNm80SkplSUl2TDFBY3Q0LWhfN0E0ZjBmeUVlTjNVdC1GNzF6TUU4aUVFWVdFNnRYTldETzhWcVEwR2RQN3pJSUZmMUpTU0pVYzk4N05rLV9hWG5JNG5zdk12cEJ1dzU4QWVJWm1wS2M?oc=5",
+      "source": "ActusNews.com",
+      "category": "Ready-Mix Industry",
+      "keywords": "Acquired, To Acquire",
+      "sector": "Ready-Mix",
+      "dealType": "Acquisition",
+      "value": "",
+      "date": "Jun 15, 2026",
+      "dateISO": "2026-06-15T05:42:55"
+    },
+    {
+      "title": "Holcim Wins EU Approval for Xella Acquisition Following Romanian Divestment - PYMNTS.com",
+      "summary": "Holcim Wins EU Approval for Xella Acquisition Following Romanian Divestment PYMNTS.com",
+      "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxQaHBTZ0JyZEx0dUJXUFJXMGg0NVJ1YTZEWkJQZUxXZlVHMV9HX2p1RUkyb3ZUMW1DVW81Y1VMWUdRQmVtS0xwN3BhVkN5VkRQcEVFRnZsQ0tQUGdKbnlLOE1MNWoxZkRSZVhWMWloaFQ3dmxUM2pRal94SjJCNFBWeUg2SFF2cV9aRGUxaG42UEpYckRreEFyUXVIb3p3UXVWYVN5aGUtOFpCRktEbHc?oc=5",
+      "source": "PYMNTS.com",
+      "category": "Holcim",
+      "keywords": "Acquired, Divest",
+      "sector": "General",
+      "dealType": "Divestiture",
+      "value": "",
+      "date": "Jun 14, 2026",
+      "dateISO": "2026-06-14T18:02:10"
+    },
+    {
+      "title": "EU Commission conditionally approves Holcim\u2019s acquisition of Xella - INSIGHT EU MONITORING",
+      "summary": "EU Commission conditionally approves Holcim\u2019s acquisition of Xella INSIGHT EU MONITORING",
+      "url": "https://news.google.com/rss/articles/CBMizAFBVV95cUxOd1lvMVgzWWJBSmJIN2dROXFkQWJGMGVPUGo5dXpLMzQ0MDVhQkdRWkwxdHNMdFRaMG5nd2hJWnh5UmJnWnBiYXI5aVZNQzkwb2dsQl8wZXpuOTctc29MNUhTT1dJNElDZ1BkcGZiWUdkWEdxRHcyU3h0WURpZ2NPNWNidDc1bDY1V1BYazF5dWJVZkZuYnVnN3owMGdGLWZZMm9mU0otZ3NDbDFqbWxYM2s1V3Z4UDJJdzFJQWpuajBZWFY0U1hGZWlmQVE?oc=5",
+      "source": "INSIGHT EU MONITORING",
+      "category": "Aggregates Industry",
+      "keywords": "Acquired",
+      "sector": "General",
+      "dealType": "Acquisition",
+      "value": "",
+      "date": "Jun 12, 2026",
+      "dateISO": "2026-06-12T23:05:38"
+    },
     {
       "title": "Holcim\u2019s Xella takeover wins EU clearance with conditions - MLex",
       "summary": "Holcim\u2019s Xella takeover wins EU clearance with conditions MLex",
@@ -344,17 +422,17 @@
       "dateISO": "2026-06-08T11:39:06"
     },
     {
-      "title": "Taiheiyo Cement Completes California Asset Acquisition Through CalPortland - marketscreener.com",
-      "summary": "Taiheiyo Cement Completes California Asset Acquisition Through CalPortland marketscreener.com",
-      "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxPdnRzRjZkV2MxNmJ6X1VhVy13eXB1Wm9WS25OakdzYzZmTW9USUV5Wjkxd2tRZ1M3cXBlUVhORDNYWS0zb3J6UXNLbVd5bFJmc1RkS2FELUVOTHcxM2w0WEI5SktMYWRhczhMT3liT1c3LXR3RHJvWEhzWFN5U1lBbV9zb2JBalJlQ3lZRmtnREI2S1VnOXYtWHFXWUtnSXRXT0ZabnJUYmJoYXY5bWh2U3VmV1l5clRVYVZfLTVIWlRKRWVzeEE?oc=5",
-      "source": "marketscreener.com",
+      "title": "Taiheiyo Cement Completes California Asset Acquisition Through CalPortland - Moomoo",
+      "summary": "Taiheiyo Cement Completes California Asset Acquisition Through CalPortland Moomoo",
+      "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxPX2JhWWNBRHJwcXA2TnlXTlA1Sm10d3BQc096TjQtaEhZQnZBRE5UUWdsZklXekNQWFlPanhiOVJnbkZRdHQwS05FM3htZFQ5cF83c2xaREs0QldfYkRBQzA4ZjNqXzE2RFVDSDA4UkhCRm4wQXo0cVpMSExaM1liWmFzdjZOVmdtc0ZJZ05lNXRWTGZLNnhmaWF2UEloRVZJVnY0N3BzSDVsbE8tNFZpZ3VKX1pzTGM?oc=5",
+      "source": "Moomoo",
       "category": "Cement Industry",
       "keywords": "Acquired",
       "sector": "Cement",
       "dealType": "Acquisition",
       "value": "",
       "date": "Jun 08, 2026",
-      "dateISO": "2026-06-08T09:25:36"
+      "dateISO": "2026-06-08T09:19:06"
     },
     {
       "title": "Andhra Cements and Sagar Cements Merger: How Many Shares Will Investors Receive? - Trade Brains",
@@ -390,6 +468,19 @@
       "category": "Vulcan Materials",
       "keywords": "Acquired",
       "sector": "Aggregates",
+      "dealType": "Acquisition",
+      "value": "",
+      "date": "Jun 07, 2026",
+      "dateISO": "2026-06-07T22:00:00"
+    },
+    {
+      "title": "ATWEC Technologies, Inc. completed the acquisition of Park-Aid Asphalt and Maintenance Ltd. - marketscreener.com",
+      "summary": "ATWEC Technologies, Inc. completed the acquisition of Park-Aid Asphalt and Maintenance Ltd. marketscreener.com",
+      "url": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxORk9YNHdock91Wk5kS3BleDBJYlN0SVZqcVU0NUNGWE5ucWQyVjQyaFBCZnFGRmt6N3BDYjZzRUh4d3VZT0d6ZENNX2xoZ3lJR0gwS2RwM0NoR2dNbndyd0hnMENXYWJNcG56Nm9xX2NsS3NZSnViS3lMVlI2LXEtUjVhcEIyUkRCQmFvVGlHSm96Y25CQWcxbzA4WC1yaW82a3BNeEhpcldyYWZXVnZHbTg4eUxtQWhnRldtTWtsVVlod0NhSGYxdDRJYm90WEtMR0I5V3pGSlk?oc=5",
+      "source": "marketscreener.com",
+      "category": "Asphalt Industry",
+      "keywords": "Acquired",
+      "sector": "Asphalt",
       "dealType": "Acquisition",
       "value": "",
       "date": "Jun 07, 2026",
@@ -864,6 +955,19 @@
       "dateISO": "2026-05-26T07:00:00"
     },
     {
+      "title": "Dalmia Bharat to acquire Jaiprakash Associates cement assets under insolvency process for INR 2,850 crore - Prop News Time",
+      "summary": "Dalmia Bharat to acquire Jaiprakash Associates cement assets under insolvency process for INR 2,850 crore Prop News Time",
+      "url": "https://news.google.com/rss/articles/CBMi7gFBVV95cUxQNHFEUk5idzFhWWFnbDlxVXpyZ29KaGN5RkI3WVJISFYtc1puLWxNV1AyVUFaYjhJQ0YtcEZsSE82QjdGR2xQNExoOVVYMDV3NFB0bURsMjhrRmVEMldVenljNWNFbGRXTW5TSkFvN3NfMWtZYmVyYndseURNNUZGRjVEb2I3RHlHSEZLSmJqczlFdXpjYkI1UU5yeGptc2Y4bXZweW53ZUM1bExkb3ViSlRlelFxN1hxV0JxcE90ODdNQXE2emZZRXdtTkN2U3FIM01vVWdENWtjaWVEeXU4djlNeDZsVmp1M3lkNm9B?oc=5",
+      "source": "Prop News Time",
+      "category": "Cement Industry",
+      "keywords": "Acquired, To Acquire",
+      "sector": "Cement",
+      "dealType": "Acquisition",
+      "value": "",
+      "date": "May 26, 2026",
+      "dateISO": "2026-05-26T07:00:00"
+    },
+    {
       "title": "Dalmia Bharat to Acquire 5.2 MnTPA Cement Capacity in Central India - Machine Maker",
       "summary": "Dalmia Bharat to Acquire 5.2 MnTPA Cement Capacity in Central India Machine Maker",
       "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxQSnlENU53VnUzZm41UjNZQmdYTlR5cUVPdHhzMkNYMklJT0dRLXBKT2JmTWtyUS1ReGJKOVFWZlB4M2xyN1RJcms2WldTdHRsZ2s2M2RHb3lsTlVLRWViZ3Q5R0pPZHJSbDRWQ0ZMMmpjZXhsT0Q2NmtvMlljemtIRXptbXZ2V1BYUnFFU1lHOWhUVlJ1TlY3c0swdFBnSjZGNTdr?oc=5",
@@ -1137,6 +1241,19 @@
       "dateISO": "2026-05-22T07:00:00"
     },
     {
+      "title": "CalPortland must hire nearly all Vulcan employees as part of merger settlement - MLex",
+      "summary": "CalPortland must hire nearly all Vulcan employees as part of merger settlement MLex",
+      "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxNMXhwazc2b1MtWWdxSmhJdEtSSHBwWjJMTW9HNGFXUHNwTEJRLWtvZ2d1SWpLaHlsWEhuaXB5RjJ5U0pZbG9sM0s0RGhCRnptc1p5QXVOZXdFYkkxVEtjZDdaRno2dDM2SEc2RGFENDR1ZW4xb0U1WTNfc3VYTGFYUzUyQ0ZEcFJTWGxOVC1MUGs1X2dNbWlyVklINk9NSHBVckpLVkZQRE9YRF82bGR5ZVBhVXdBaEhWWFEyTWN30gFaQVVfeXFMTzZCNnFPMEdteHYzU0hlR2VUaUZWa29ZcEktNjlzSmZkWUhOMjNGbnB0Y3BzQlg0azRFX2o3bFctbWxEdWpQWkJhaGwxam1WVFJrb2xsQWFkWVpR?oc=5",
+      "source": "MLex",
+      "category": "Ready-Mix Industry",
+      "keywords": "Merger",
+      "sector": "Cement",
+      "dealType": "Merger",
+      "value": "",
+      "date": "May 22, 2026",
+      "dateISO": "2026-05-22T07:00:00"
+    },
+    {
       "title": "Martin Engineering acquires Australia\u2019s ConveyorTech Pty Ltd - quarrymagazine.com",
       "summary": "Martin Engineering acquires Australia\u2019s ConveyorTech Pty Ltd quarrymagazine.com",
       "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxOVU5tbnVoOXlQMVFYVHdwTGxCN2hxSFZHVWxjbjB5bzN1dzN4S1pZQmw2NGhfUGJLRXdlRkFfZWoyU0VULWtqME5lNTJhTDRreHVnTEhvQXdiUDJ3WFNRVWpoMW0xaXNFUGtleEZHdlNuZVBVMWZpU2FYRXIyZFI2X1dvOWhYTlNmV0ZDLWUxX3BoZHZpSkE?oc=5",
@@ -1148,19 +1265,6 @@
       "value": "",
       "date": "May 22, 2026",
       "dateISO": "2026-05-22T02:05:07"
-    },
-    {
-      "title": "CalPortland must hire nearly all Vulcan employees as part of merger settlement - MLex",
-      "summary": "CalPortland must hire nearly all Vulcan employees as part of merger settlement MLex",
-      "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE82QjZxTzBHbXh2M1NIZUdlVGlGVmtvWXBJLTY5c0pmZFlITjIzRm5wdGNwc0JYNGs0RV9qN2xXLW1sRHVqUFpCYWhsMWptVlRSa29sbEFhZFlaUdIBWkFVX3lxTE82QjZxTzBHbXh2M1NIZUdlVGlGVmtvWXBJLTY5c0pmZFlITjIzRm5wdGNwc0JYNGs0RV9qN2xXLW1sRHVqUFpCYWhsMWptVlRSa29sbEFhZFlaUQ?oc=5",
-      "source": "MLex",
-      "category": "Ready-Mix Industry",
-      "keywords": "Merger",
-      "sector": "Cement",
-      "dealType": "Merger",
-      "value": "",
-      "date": "May 22, 2026",
-      "dateISO": "2026-05-22T01:57:00"
     },
     {
       "title": "Cement Companies Reach Merger Settlement With California, DOJ - Bloomberg Law News",
@@ -1538,45 +1642,6 @@
       "value": "",
       "date": "May 17, 2026",
       "dateISO": "2026-05-17T06:51:37"
-    },
-    {
-      "title": "Martin Marietta Materials, Inc. $MLM Shares Acquired by Stephens Inc. AR - MarketBeat",
-      "summary": "Martin Marietta Materials, Inc. $MLM Shares Acquired by Stephens Inc. AR MarketBeat",
-      "url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxOUWowTEVtb190a0NtdjdTWXNkTHMxY1VpQ25NeldpWnFTS2F5V01tWnJyYUZTcnJRcGdSYlhTcGZQUlFTd2Vkdmx5aTdIM2JfcVZOYXVRQ2g5X3d5Q04wVTlWUEwwNHpkMWdOR1c3LW1HNlZTcHRWZzlzeHNsa2l5QzB5NnY4aExHb0VEd3gzU0Z2UnhCTVNnR2dlX3hMNDNjcHBIM0VrTS1PREtjUHRaUUxhR0V5NFZuMU8wOFlsbDgxbWdEZDhZbw?oc=5",
-      "source": "MarketBeat",
-      "category": "Martin Marietta",
-      "keywords": "Acquired",
-      "sector": "General",
-      "dealType": "Acquisition",
-      "value": "",
-      "date": "May 16, 2026",
-      "dateISO": "2026-05-16T10:38:18"
-    },
-    {
-      "title": "Amrize Ltd $AMRZ Shares Acquired by Bessemer Group Inc. - MarketBeat",
-      "summary": "Amrize Ltd $AMRZ Shares Acquired by Bessemer Group Inc. MarketBeat",
-      "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxOSmZJOG1mX3lwMkZBRFRBM0lPT181eW12X01kVWVnZFkzbFRHZTdWMm1xOWs4cE92QWhFYXhsbUlPQkNIc21aaWVXempLRVg3bDBYR0hfR0w3RlA1cTFkU0Z5SnpNQVpqUUYxVXZWNU94SEh2Smx3X3pFOHBqTWxoWE5ZSUw0V2VNMWZmZzI3NHp5OGFuMFdDQWYtZVVmSVpEb1d4WS1MVVdWMi1BendqWm9YazM?oc=5",
-      "source": "MarketBeat",
-      "category": "Amrize",
-      "keywords": "Acquired",
-      "sector": "General",
-      "dealType": "Acquisition",
-      "value": "",
-      "date": "May 16, 2026",
-      "dateISO": "2026-05-16T08:40:55"
-    },
-    {
-      "title": "PPC cites dumping risk in Chinese deal with rival AfriSam - TimesLIVE",
-      "summary": "PPC cites dumping risk in Chinese deal with rival AfriSam TimesLIVE",
-      "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxPMVBpNHpva3FwMHFmY2xsRzhra2M5NVV5dTVQZnIwV28xNF9VX1k1RGYzUTdIZENtWGgwaWxocEJQcDI4Q3k3bDYzOFdjTWloa1NrNVhJZnVYNFJ1RmdWZFpBbHV3TkZtbGdodHpweFF4Rl9pdXBaVW45MjJjbDVQaVJ3T0d0dVhYckdtUG9UY3lpc0FQMVNTUXFkX2MtV281NW1rV0NQWDJmbjlpa25HUE1fdzhCVFFhaFE?oc=5",
-      "source": "TimesLIVE",
-      "category": "Cement Industry",
-      "keywords": "",
-      "sector": "General",
-      "dealType": "Acquisition",
-      "value": "",
-      "date": "May 16, 2026",
-      "dateISO": "2026-05-16T07:00:00"
     }
   ]
 }
