@@ -1,10 +1,36 @@
 {
-  "fetchedAt": "2026-06-15T17:50:43.610500",
+  "fetchedAt": "2026-06-16T18:01:42.557415",
   "totalArticles": 126,
-  "newToday": 21,
+  "newToday": 16,
   "duplicatesRemoved": 13,
   "archiveDays": 30,
   "articles": [
+    {
+      "title": "Niraj Cement Promoter Acquires 41.04% Stake, Triggers Open Offer - Whalesbook",
+      "summary": "Niraj Cement Promoter Acquires 41.04% Stake, Triggers Open Offer Whalesbook",
+      "url": "https://news.google.com/rss/articles/CBMi7wFBVV95cUxNOWdaMGx6XzBjdHhRT2szRFVQR3hoc0ZwcW5GS3Bmb0ZrRk9lV2dfbmhUbW1CMU93MU42VDdXM0ljd1ZrQzhUeUVIUUI3WGxpakI5Q0dLejVxN0FGenJlb1JpT255MngzcFpXLWpuQUloUnhSdnBMejcwYWdpTjJ5RmMwVGVJZUE2eXNzY1ZxakwtNUtQVGtNOWVoTW1jZ0tzdnluYVNkaEtrYVFHTkZCVlZXdkJOaTdHYWxSRW5ITTR2aUNZZUtrZFd4NS1TeDgzMVVFaHc1SVkzdUZwZGFTb2pJTmlkNkd0YnUyaVpxOA?oc=5",
+      "source": "Whalesbook",
+      "category": "Cement Industry",
+      "keywords": "Acquired",
+      "sector": "Cement",
+      "dealType": "Acquisition",
+      "value": "",
+      "date": "Jun 16, 2026",
+      "dateISO": "2026-06-16T12:57:30"
+    },
+    {
+      "title": "Suncrete acquires ABC Block Company in Arkansas By Investing.com - Investing.com Australia",
+      "summary": "Suncrete acquires ABC Block Company in Arkansas By Investing.com Investing.com Australia",
+      "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxPaFBiUTRPSDJyUHdRdnRCSHRvY2VrV1p3UTZHeElRVFB5NzE0aTBnLUZQdXpOWGRaalNsT0Q5bHhkanJJYXBQdzR4Q0ZodDJ0NEUtQ1VBakJKcUhLbW5mWHZUMXJtWVF1ci0wTF9Td3N4RTJCVDRvNk9KOEJ5WE1oTU1PNi1WWEt3Qk5WdVFsSW1qeTQ2WXM0ZnJ0aGkyN2R5QkUwa1FqSjlUYTRyQWN6bmFZYmNqVFBCTksyaw?oc=5",
+      "source": "Investing.com Australia",
+      "category": "Ready-Mix Industry",
+      "keywords": "Acquired, Investment",
+      "sector": "General",
+      "dealType": "Investment",
+      "value": "",
+      "date": "Jun 15, 2026",
+      "dateISO": "2026-06-15T20:44:44"
+    },
     {
       "title": "LIG Assets Acquires 1,132-Acre Limestone Quarry in Florida for $151.5 Million - MEXC",
       "summary": "LIG Assets Acquires 1,132-Acre Limestone Quarry in Florida for $151.5 Million MEXC",
@@ -30,6 +56,19 @@
       "value": "$152M",
       "date": "Jun 15, 2026",
       "dateISO": "2026-06-15T14:05:31"
+    },
+    {
+      "title": "EU Approves Holcim's Proposed Acquisition of Xella International - marketscreener.com",
+      "summary": "EU Approves Holcim's Proposed Acquisition of Xella International marketscreener.com",
+      "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxQSVRLeUJYU0xab2hCd19wY0kyX3BiYTg0NFEya0s0eFFycFZpQVBuTVFubF9GRzhYSzFlb3dpYUQyVFZOVlUtNGdYVTNMM0NwMDJBSEgxZXJQNGZoUHltNjlaVTFfekV3a0lmZHdVWjVfak9aYzN4bHRlZ0NnUUhNZXhKWTNVdDdSaGgwQi1SUU1GTHR6eTg0bmxDVEU3dDhMLUdXNXVZYVUtUEhqZHR6MGF3clBnaHpC?oc=5",
+      "source": "marketscreener.com",
+      "category": "Holcim",
+      "keywords": "Acquired",
+      "sector": "General",
+      "dealType": "Acquisition",
+      "value": "",
+      "date": "Jun 15, 2026",
+      "dateISO": "2026-06-15T07:48:38"
     },
     {
       "title": "Herige Industries: Edycem to Acquire BHR's Concrete Operations in Loire-Atlantique - Id\u00e9al Investisseur",
@@ -1603,45 +1642,6 @@
       "value": "$5.25B",
       "date": "May 18, 2026",
       "dateISO": "2026-05-18T07:00:00"
-    },
-    {
-      "title": "Summit Materials stock (US8666741041): merger with Argos North America reshapes US construction play - AD HOC NEWS",
-      "summary": "Summit Materials stock (US8666741041): merger with Argos North America reshapes US construction play AD HOC NEWS",
-      "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxNS1M4WUlKQ1N3MTVDcXJ2UUg2QUVieWtheWtJdjdHTWVlS0lMUmNaYk5wY3hBM1NpYjhpMVljN0ZXMGhxMW1ZUkYwUk1TUkhseGs3SHoyOFBNaTItQ1hPNkFaXzRmU2pSUWZqWDllbmpjcFZKQ2toWEhxdmh5MUliS0N6OElZeDNJZFBOSXZTbzBRZkx6aG9tYnV2bHpsZzF6S3l2cDNxZHFZS0t6TG5KWnhlb0VlVklTT0FLUUdkNjNLOGFP?oc=5",
-      "source": "AD HOC NEWS",
-      "category": "Aggregates Industry",
-      "keywords": "Merger",
-      "sector": "General",
-      "dealType": "Merger",
-      "value": "",
-      "date": "May 17, 2026",
-      "dateISO": "2026-05-17T13:00:19"
-    },
-    {
-      "title": "UP-NS Action Center adds public letters to merger site - Railway Supply",
-      "summary": "UP-NS Action Center adds public letters to merger site Railway Supply",
-      "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxPR0VRVXp0TEkwWHQ2RTdjcGVQeU5JdUwzZVZxSkt5c1QtOFhBakh1eU1TRnVTQmFRR3VZTFJGeEY1VXlZdnhCczk5M0ZUVHB1bHM0Q0lyaFNLbHViSGpaRFhxYnJnLW1xd1pYQm1pS0tuOXRLTnpMRXlPQmQtQkhORS15SHpBX3ItTmc?oc=5",
-      "source": "Railway Supply",
-      "category": "Martin Marietta",
-      "keywords": "Merger",
-      "sector": "General",
-      "dealType": "Merger",
-      "value": "",
-      "date": "May 17, 2026",
-      "dateISO": "2026-05-17T07:00:00"
-    },
-    {
-      "title": "Al Naqool purchases 12 concrete trucks worth SAR 5.9M - \u0627\u0631\u0642\u0627\u0645",
-      "summary": "Al Naqool purchases 12 concrete trucks worth SAR 5.9M \u0627\u0631\u0642\u0627\u0645",
-      "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTE01ZVpzc3BoeUxMV2h2QjFyVnJ4V3RJcGlVc2l2TjVEX0M1aGtMenl3R2pla3kwbEVseVpLNTdwVjRRemRjbG9IVi00R2FyN3c2VGphV3NhTDA4MlhDZld4aE9rYmNlZE5rVW5peDMtYw?oc=5",
-      "source": "\u0627\u0631\u0642\u0627\u0645",
-      "category": "Ready-Mix Industry",
-      "keywords": "Purchase",
-      "sector": "General",
-      "dealType": "Acquisition",
-      "value": "",
-      "date": "May 17, 2026",
-      "dateISO": "2026-05-17T06:51:37"
     }
   ]
 }
