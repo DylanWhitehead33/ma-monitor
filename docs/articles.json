@@ -1,10 +1,62 @@
 {
-  "fetchedAt": "2026-06-16T18:01:42.557415",
-  "totalArticles": 126,
-  "newToday": 16,
-  "duplicatesRemoved": 13,
+  "fetchedAt": "2026-06-17T16:37:01.090111",
+  "totalArticles": 128,
+  "newToday": 22,
+  "duplicatesRemoved": 12,
   "archiveDays": 30,
   "articles": [
+    {
+      "title": "Gautam Adani's Biggest Business Acquisitions That Built His Empire - Business Outreach Magazine",
+      "summary": "Gautam Adani's Biggest Business Acquisitions That Built His Empire Business Outreach Magazine",
+      "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxPRzFxNkh5OGhUU0VMMWtYelNqcEFWSXBRb05ENURXalRLX0xRS1U5SzYwOWN3VS1HMWxpTmdvR1RHXy0wZ0hTVjI4Qi1udG5Gel9EZ1RmRzQybUVoaGlZQUxBWER6bFZVMGFSczZOZVJaaXlaQzFBYm85aXF2cEtCa1NB?oc=5",
+      "source": "Business Outreach Magazine",
+      "category": "Cement Industry",
+      "keywords": "Acquired",
+      "sector": "General",
+      "dealType": "Acquisition",
+      "value": "",
+      "date": "Jun 17, 2026",
+      "dateISO": "2026-06-17T12:31:59"
+    },
+    {
+      "title": "Lockheed Martin Corporation $LMT Shares Acquired by &PARTNERS - MarketBeat",
+      "summary": "Lockheed Martin Corporation $LMT Shares Acquired by &PARTNERS MarketBeat",
+      "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxPNXlrMFJDcDhHYU5EdGRNRHZxMTI1TGhRcVZONk1mVE9BZG5FWjhlSnQwVE0zTEY3OHQtQ1BCZEVJeHVQR0pGTTZEeFVtRXBONTJELXBLcmxmeGxpSkdVT1lFQmd5OTA2UDJMV1Q0RlNET3YwMmwxdlZDUlFUX3JSbk9ZQ25ZNlpmV3NHdlRDUDJEbDVqeXNOMnFsbElXXzhHa2wxTXFRMTFhSkhpSGxMc2h5NnJzTjdUazdZVw?oc=5",
+      "source": "MarketBeat",
+      "category": "Martin Marietta",
+      "keywords": "Acquired",
+      "sector": "General",
+      "dealType": "Acquisition",
+      "value": "",
+      "date": "Jun 17, 2026",
+      "dateISO": "2026-06-17T07:31:34"
+    },
+    {
+      "title": "Breedon bolts on Falling Springs Quarry with acquisition - Pit & Quarry",
+      "summary": "Breedon bolts on Falling Springs Quarry with acquisition Pit & Quarry",
+      "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxPeUhlLTRTTmNBQ0RJNUNqX1I4RWpMYXJYVkNjN05qaW8zOXZZSVI3YVdrenRJeGZ0OWZiRG1OTmFEY25VY3N0aVZyNXZOT09QVDNTT0s2OGFpWEY1cnJKamQ2NU5fRnNhZDJrUzVQcE82ZW5UVHE2RHE1azVnNThJN3hXX2t5VkZxalZka3ZPQQ?oc=5",
+      "source": "Pit & Quarry",
+      "category": "Pit & Quarry \u00b7 Aggregates",
+      "keywords": "Acquired",
+      "sector": "Aggregates",
+      "dealType": "Acquisition",
+      "value": "",
+      "date": "Jun 16, 2026",
+      "dateISO": "2026-06-16T19:46:42"
+    },
+    {
+      "title": "Summit Materials Inc Stock (US8666741041): Earnings Momentum And Post-Merger Scale In Focus - AD HOC NEWS",
+      "summary": "Summit Materials Inc Stock (US8666741041): Earnings Momentum And Post-Merger Scale In Focus AD HOC NEWS",
+      "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxQVHRLc3NmVEg5QVBwc29VRUp3aXlsREFjWmdrZi1KOEpJd3Z2R1RQOHBsWFJOclVocDBOYmRNWUkwOE1hZmlzZG40RE84YjdZeFM2S3BWdzBna3RaeHBzdkxTZzJTVUQ5QjBxaHg1RUltWDZlQ3RNRl9jdE1Jb2VwUWlERXUyVktoaWh4cTJJMUFoZW5pZWRwVjJrbGVuM1dVNHhXS1VUQjBsQWJNM2sycFA3bEUzYW1IRlNFMA?oc=5",
+      "source": "AD HOC NEWS",
+      "category": "Aggregates Industry",
+      "keywords": "Merger",
+      "sector": "General",
+      "dealType": "Merger",
+      "value": "",
+      "date": "Jun 16, 2026",
+      "dateISO": "2026-06-16T18:12:52"
+    },
     {
       "title": "Niraj Cement Promoter Acquires 41.04% Stake, Triggers Open Offer - Whalesbook",
       "summary": "Niraj Cement Promoter Acquires 41.04% Stake, Triggers Open Offer Whalesbook",
@@ -19,6 +71,32 @@
       "dateISO": "2026-06-16T12:57:30"
     },
     {
+      "title": "3,806 Shares in Lockheed Martin Corporation $LMT Acquired by University of Texas Texas AM Investment Management Co. - MarketBeat",
+      "summary": "3,806 Shares in Lockheed Martin Corporation $LMT Acquired by University of Texas Texas AM Investment Management Co. MarketBeat",
+      "url": "https://news.google.com/rss/articles/CBMigwJBVV95cUxQbUJSLUN6X2Y4VmZqVGUwRHVTZ1JiSnRfdHhjTW16ekN4ZVB0ZzV4V0tyT3ZqekFXcjBTRm10VjNvUVNaWkFKdWE5OFF6NVE1Wl82S2p0eHRBMEFWLXFsZkYyX0xaUHBMMTVHWmY0RGhLVVpvM256QkQ3MWRNTUJJYWVUa0E0SkhhbFYwWWVOd05TRnV6SmtoNTR2ZVgxY0lUMmV6MXRuaUt4dWx6amVfYy1YQnZaZERZVzRWbDJ1bzZPclpFQ000MFdyczhkMUVoenMtQll0bzdLLTJsQUdCbUlrckUyZFdzeXp1M1pVNTRiY3QtTlk1aVFtYUdXTDJxSWRF?oc=5",
+      "source": "MarketBeat",
+      "category": "Martin Marietta",
+      "keywords": "Acquired, Investment",
+      "sector": "General",
+      "dealType": "Investment",
+      "value": "",
+      "date": "Jun 16, 2026",
+      "dateISO": "2026-06-16T11:49:06"
+    },
+    {
+      "title": "Suncrete acquires ABC Block Company in Arkansas - Investing.com UK",
+      "summary": "Suncrete acquires ABC Block Company in Arkansas Investing.com UK",
+      "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxNZ2c4ZmZBc1E4TWRYaG1jTXBqalpiXzFpcFhMQWlZMkZLZXNnT0pJekVKUll4d1V2cEg4NjN0aW5oelFxeUtGYnFMdHQ5RVNRVzdvR3hXam1qS3EtVjZYOWtwUjBsZTR1MnBwdTYxODhZQXEyekFGOXVISXpMek1tcTltNVA4OG5VZU1UMEU1SHI4bGJCeHVCSEF1X2NBVGNmdlRCTlM1U2Z5V2xoU1k4XzhjSktjdjBoR1J4ag?oc=5",
+      "source": "Investing.com UK",
+      "category": "Ready-Mix Industry",
+      "keywords": "Acquired, Investment",
+      "sector": "General",
+      "dealType": "Investment",
+      "value": "",
+      "date": "Jun 16, 2026",
+      "dateISO": "2026-06-16T03:47:35"
+    },
+    {
       "title": "Suncrete acquires ABC Block Company in Arkansas By Investing.com - Investing.com Australia",
       "summary": "Suncrete acquires ABC Block Company in Arkansas By Investing.com Investing.com Australia",
       "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxPaFBiUTRPSDJyUHdRdnRCSHRvY2VrV1p3UTZHeElRVFB5NzE0aTBnLUZQdXpOWGRaalNsT0Q5bHhkanJJYXBQdzR4Q0ZodDJ0NEUtQ1VBakJKcUhLbW5mWHZUMXJtWVF1ci0wTF9Td3N4RTJCVDRvNk9KOEJ5WE1oTU1PNi1WWEt3Qk5WdVFsSW1qeTQ2WXM0ZnJ0aGkyN2R5QkUwa1FqSjlUYTRyQWN6bmFZYmNqVFBCTksyaw?oc=5",
@@ -30,6 +108,19 @@
       "value": "",
       "date": "Jun 15, 2026",
       "dateISO": "2026-06-15T20:44:44"
+    },
+    {
+      "title": "Suncrete's fifth deal since April: Arkansas concrete supplier with 40+ delivery vehicles - Stock Titan",
+      "summary": "Suncrete's fifth deal since April: Arkansas concrete supplier with 40+ delivery vehicles Stock Titan",
+      "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxQblVOUGhDOFBnQkRaODQ2cFN6MXdJdURfNzkxeHQybXo1QUhnQ0hfXzZDTDFLZHFUOG9XS2FRMjJUWlJBMzA2WFNfSGZtbzVFNDAxRWIxeXFkR2d1Z1U2UVJZMXhQaWUtYlNRampVcWc1VnhNUG8zRkxwa1VMMVZFdWJjbmZkWk9QUlRyMmpBZw?oc=5",
+      "source": "Stock Titan",
+      "category": "Ready-Mix Industry",
+      "keywords": "",
+      "sector": "General",
+      "dealType": "Acquisition",
+      "value": "",
+      "date": "Jun 15, 2026",
+      "dateISO": "2026-06-15T20:15:00"
     },
     {
       "title": "LIG Assets Acquires 1,132-Acre Limestone Quarry in Florida for $151.5 Million - MEXC",
@@ -734,6 +825,19 @@
       "dateISO": "2026-06-02T07:39:00"
     },
     {
+      "title": "Holcim Expected to Win EU Approval to Acquire Xella - marketscreener.com",
+      "summary": "Holcim Expected to Win EU Approval to Acquire Xella marketscreener.com",
+      "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxOVWt0VEFKRm1PQUZyTEM2MzFlaFY1djQ1amNqckYzYmdMLUlGVWRwQUE3V2YtUmMxMktOMVEzc0V3cmszUzZCQ1RvYmE1c1Y2b25TTDF3QXNtaXRPU3puSzJ1d0JQV083eDlEeHZOTFY4ZmFzellsM2s2aHVTVDI3Z0RvNUE1Nno0Mm9acEx4WkU1V1ZpSWRhMW5FT1RxVU5JYXpPNEp3NA?oc=5",
+      "source": "marketscreener.com",
+      "category": "Holcim",
+      "keywords": "Acquired, To Acquire",
+      "sector": "General",
+      "dealType": "Acquisition",
+      "value": "",
+      "date": "Jun 02, 2026",
+      "dateISO": "2026-06-02T07:00:00"
+    },
+    {
       "title": "Exclusive: Holcim to get EU nod for 1.85 billion euro Xella acquisition after offer to sell Romanian asset, sources say - Reuters",
       "summary": "Exclusive: Holcim to get EU nod for 1.85 billion euro Xella acquisition after offer to sell Romanian asset, sources say Reuters",
       "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxPY21Iejc0QmVUUzNkR1BUaHNwWm10MTJab1ZnMTV6ZFozUUdHQW45b1BSdkxOcThlalVPOXpoanVoc29uRkdzamQxczNYU1BtS05fUVlpcnl6cE1ERHZ1Y29rZ0hFV1ZWaGJQVkFlNE9WcWFjaTI3UFQxTWs1R3o5bEFTNjVwMlhfYXdTQ2dQUy1qYkhCQkJ2TkJyWVZLOW9YZVljb2RBc2pWRk9JMWhUVlI0VWRmMmNVVndlTjVKbF8?oc=5",
@@ -1293,6 +1397,19 @@
       "dateISO": "2026-05-22T07:00:00"
     },
     {
+      "title": "'It is a...' - What Equirus says on Dalmia Bharat acquiring JP Associates cement biz from Adani - Business Today",
+      "summary": "'It is a...' - What Equirus says on Dalmia Bharat acquiring JP Associates cement biz from Adani Business Today",
+      "url": "https://news.google.com/rss/articles/CBMi4wFBVV95cUxPZ2U3QXEtbmh1bHhRQ3NtdGhUSFZ2OThDLW9iTzFiclZtdjhmTi03WTgzWk5fNWVCVHcwQlZ5Q2ZPRnZTaldyak1CbTlTaUNRcXRxSzZiRXRNMzRlZF9QY3NuLUhrZEY0MVVFbVJ2c2hvbmJvczN0SE5aQ0RtUEI5QjhITGxiVjAtX19uNGloeGsyMzdfR2QtNlpJTGxiMnpLbS1fT0Q1ZEVHaEVMc25NVTVEWmg4TnpKUHJEcDF4amI2N3ZVX1llS09SNGhPaWQ5VEw2dUFOMnEzWmJqWjJMRWFEZ9IB6AFBVV95cUxQaUdwNHJBQmNUMVdQaDBnSXdGVC1LdGxuNWkySG9Ed1pQYU1LbkJwS1FITjRGU0ZaWnpvMG9UOUhyb3BaTkN6Y3A5ZFFGOGtWYzlXZW1DZmdZLXlLY2gteFRqc090S3h2NTItX0c4ZHpCREc4SVBwLXpUMW9aX0tGQ0JqTjJGanptVjZMcVVFbjNwYmNxVS1sTWZaLTg4UnVEcUdhTXBuT0xESEhtbERma2dncXlWaWNuTm1ZaW1GQUhVVW1VTWRoMEZKQlBkY05hY0Z1bmhLNzl6ME9WQ00xbnRFZWllOGVS?oc=5",
+      "source": "Business Today",
+      "category": "Cement Industry",
+      "keywords": "Acquired",
+      "sector": "Cement",
+      "dealType": "Acquisition",
+      "value": "",
+      "date": "May 22, 2026",
+      "dateISO": "2026-05-22T07:00:00"
+    },
+    {
       "title": "Martin Engineering acquires Australia\u2019s ConveyorTech Pty Ltd - quarrymagazine.com",
       "summary": "Martin Engineering acquires Australia\u2019s ConveyorTech Pty Ltd quarrymagazine.com",
       "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxOVU5tbnVoOXlQMVFYVHdwTGxCN2hxSFZHVWxjbjB5bzN1dzN4S1pZQmw2NGhfUGJLRXdlRkFfZWoyU0VULWtqME5lNTJhTDRreHVnTEhvQXdiUDJ3WFNRVWpoMW0xaXNFUGtleEZHdlNuZVBVMWZpU2FYRXIyZFI2X1dvOWhYTlNmV0ZDLWUxX3BoZHZpSkE?oc=5",
@@ -1436,6 +1553,19 @@
       "dateISO": "2026-05-21T08:35:18"
     },
     {
+      "title": "Following the Adani Group's mega takeover of Jaiprakash Associates (JAL) under the IBC framework, Dalmia Cement has officially swooped in. Executing a fresh business transfer agreement worth enterprise value of \u20b92,850 crore, Dalmia is walking away with - LinkedIn",
+      "summary": "Following the Adani Group's mega takeover of Jaiprakash Associates (JAL) under the IBC framework, Dalmia Cement has officially swooped in. Executing a fresh business transfer agreement worth enterprise value of \u20b92,850 crore, Dalmia is walking away with LinkedIn",
+      "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxPR3BGSE5odGNyVGtOYlBxYVNZOTRYTXdMOWJqMFJ5UGtIc2ZiN3hFY28wVEZ3SmhFLVQ5d29tUkUxNjljQ1hablh5ellIeExuWmRIYXdqc01LZFY0WU1VdmRVcHkyVXF4RXVQRm5lVlVxbUlOWkNXcG1nLTROSTF1SG9OUHlrb1I1MTlkRWRPMlk0bV9aNzNBYlAzWnpCRDE1VzJPenQ0M2VwbTFhV25yWGd0Yw?oc=5",
+      "source": "LinkedIn",
+      "category": "Cement Industry",
+      "keywords": "Takeover",
+      "sector": "Cement",
+      "dealType": "Acquisition",
+      "value": "",
+      "date": "May 21, 2026",
+      "dateISO": "2026-05-21T07:00:00"
+    },
+    {
       "title": "DOJ orders Taiheiyo to sell plants in $712M Vulcan deal - MSN",
       "summary": "DOJ orders Taiheiyo to sell plants in $712M Vulcan deal MSN",
       "url": "https://news.google.com/rss/articles/CBMi7AFBVV95cUxPVUtpZlI4QjdmS1EwNDNTSVZ5ajVpOHVKSTZHS2NzanFoUjdyN2hfU0t6bzVqTi1OVlV1QlBjM3pNYnNYelc5ME5VV0pGSlJVRHRjZHRKTURFNTJPV0xRbDgxcnhWVnJoR0FSNEVJeTBzRElEamZSdHRmbVRxaXpUbGRTejNTVERlMG05TnBHdDBXc1A5MEZoSTQ2ZEJBMWVtR1c5dWxtejhBdWFlNDlfaE9qVnRTaTlEUDF2c3J3b1VBQXcwZTdQTEVwQ0o3aGZ0UVZ4aGc3SXlCeGVxcHJOUHl0a21ZU1k1VFVXeg?oc=5",
@@ -1538,110 +1668,6 @@
       "value": "",
       "date": "May 19, 2026",
       "dateISO": "2026-05-19T07:18:00"
-    },
-    {
-      "title": "VINCI strengthens its presence in Canada with the acquisition of Modern Group of Companies - Vinci",
-      "summary": "VINCI strengthens its presence in Canada with the acquisition of Modern Group of Companies Vinci",
-      "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxQaFo3UjBtV0dxNWF2Wmc3dkZhd3N1eFc5ZHduT083SnA5WVNpWDdIWngwdWY5R1ZxbWo2QWRPeUVjYWFXYVFfT2NkTjlPenh0YXBWQ1JLRWlVazZxMWNTTC1ZV2J1MWJoVkMtQ291Q0t1akVfblFXNHJ5SXRvOE44WDJRTi1id0pYVGxJb3k4T0U5NzBNb0ozWUtTNm43ZHc0d25YVUFEcjlRV1lOd044a196RFprTnliS0tQd3NB?oc=5",
-      "source": "Vinci",
-      "category": "Aggregates Industry",
-      "keywords": "Acquired",
-      "sector": "General",
-      "dealType": "Acquisition",
-      "value": "",
-      "date": "May 18, 2026",
-      "dateISO": "2026-05-18T16:35:55"
-    },
-    {
-      "title": "AfriSam-West China Cements Deal: Risks to Local Cement Production in South Africa - News and Statistics - IndexBox",
-      "summary": "AfriSam-West China Cements Deal: Risks to Local Cement Production in South Africa - News and Statistics IndexBox",
-      "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxNdkpleWtlZDRkUkYwdS1XYllvdzNYdDFzSnI2TGRLSmg2clhGZEhSNzV1ZzVxT2NfMU9PT1Rla1Q3SGtXRTY4S0piVUJla2hEWFp6X1JkV21Pek81WXQ0RFZyOXBGeU5Jbmc3SmxlOFhwNGVRSDNYaVdHZWZfcUJvV1VuZkhiWl9ZOTZkZ1dRaFYyOXA4MVFYN29sRlBILUdBQ20zcFZUaW1GdHRZbjduX3lzYWpCWG9GM1BFNmtZNTNnTDQ?oc=5",
-      "source": "IndexBox",
-      "category": "Cement Industry",
-      "keywords": "",
-      "sector": "Cement",
-      "dealType": "Acquisition",
-      "value": "",
-      "date": "May 18, 2026",
-      "dateISO": "2026-05-18T12:01:00"
-    },
-    {
-      "title": "Prime Creative Media acquires Global Highways - Global Highways",
-      "summary": "Prime Creative Media acquires Global Highways Global Highways",
-      "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxNcm5FUWNERmgzQlJSV0l6LW9oQmxMaGl2N0tHMXZlSzdwaHpVMjNsSEF3S1UxOF8zZ2NEQTF3bnlZYnlCTVJFc3c0MkFqclhfX2FRdHFWMU9xUHpKV2F2WWpUNVRrNGFWbVhJZk5hWUQ1M0RaUkg2VlR1LTJjbFBkOXhsak92NnRv?oc=5",
-      "source": "Global Highways",
-      "category": "Aggregates Industry",
-      "keywords": "Acquired",
-      "sector": "General",
-      "dealType": "Acquisition",
-      "value": "",
-      "date": "May 18, 2026",
-      "dateISO": "2026-05-18T10:03:30"
-    },
-    {
-      "title": "Prime Creative Media acquires ITS International - ITS International",
-      "summary": "Prime Creative Media acquires ITS International ITS International",
-      "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxPcmsyVW1GQkhxQl9reHhBeVdpSElVSzdhWDdYbDlDdjZ1VkdFbzVXWkVKd2VaMVBfZlpULUNrSGg2RkFvZlJWQkVSemo3YjBZclZ2RzhqdVhQZ21NQXVOR082TU9xTk03dGdyX1BlcU1QTFFfNXlLM3d1bkRkT0hIMnRrMG9MVFoycExwRjZ3?oc=5",
-      "source": "ITS International",
-      "category": "Aggregates Industry",
-      "keywords": "Acquired",
-      "sector": "General",
-      "dealType": "Acquisition",
-      "value": "",
-      "date": "May 18, 2026",
-      "dateISO": "2026-05-18T09:47:25"
-    },
-    {
-      "title": "Manufacturing Circle raises concerns over cement dumping in AfriSam acquisition - cemnet.com",
-      "summary": "Manufacturing Circle raises concerns over cement dumping in AfriSam acquisition cemnet.com",
-      "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxPbUhCU3dsTFQxV1VLeVVrUWNBNUNFNTR6ckJNY0dreEZRZnc1eURpXzhFMzhUQzVNcDktLUFHNGtYc0dkR19HVXF2N09OR1l3a0RZZk9NY3VTVWtDZEhYRXNhOEphUGFicnY3bERSTXdvZGRXQWdUcnJWNEI2QW55aDdtWWZ6U3NPQlN0ejJKdkZIMi04VFg3RmlaUWlaUElQREJDYzJlZ0RjSkYwWWVWNDVCWnd3OGVuV3FZQlczQTZsYUk?oc=5",
-      "source": "cemnet.com",
-      "category": "Cement Industry",
-      "keywords": "Acquired",
-      "sector": "Cement",
-      "dealType": "Acquisition",
-      "value": "",
-      "date": "May 18, 2026",
-      "dateISO": "2026-05-18T08:58:10"
-    },
-    {
-      "title": "Vulcan Materials Company $VMC Shares Acquired by Atria Investments Inc - MarketBeat",
-      "summary": "Vulcan Materials Company $VMC Shares Acquired by Atria Investments Inc MarketBeat",
-      "url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxNMXBEcFcycWJwUTgwLU5ZSmVJQjN4d0ZveHlNeWlualBTWUlFUmVMZ2tnX0R6SjJRWl85ZFFaQTBwN2pOX1FkekxkYjB1bWxUU0VjSm5pT3JBZWF3cnF1blVsNWFUUDR0SFc4UlRBclNlZjZIblZiMHVYN3RxT2xuMEl6REQ5YTVkOFVzUTFIVW43ZTFUak5FdlFpR2JBbFBieTBKcEdvaklFR1BIT1VzX2Z2b2lSYUZLREFyM1RDekdaYUt6Vzg2cjZB?oc=5",
-      "source": "MarketBeat",
-      "category": "Vulcan Materials",
-      "keywords": "Acquired, Investment",
-      "sector": "General",
-      "dealType": "Investment",
-      "value": "",
-      "date": "May 18, 2026",
-      "dateISO": "2026-05-18T07:44:33"
-    },
-    {
-      "title": "VINCI strenghtens its presence in Canada with the acquisition of Modern Group of Companies - Yahoo Finance",
-      "summary": "VINCI strenghtens its presence in Canada with the acquisition of Modern Group of Companies Yahoo Finance",
-      "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxOU3VjaExYaUpUNlVPRzlOTG5HeWhVNVFySzFDaGdlVzRJNFBrU1J5RFdqa25IQmpndVdQY3dNY3prNlNkUHhyREk4ZUtycHpoaTFMVlJJc2JvMVpyNVE2aUI3SkdVYzExcDEyaVNnY1BYWnliQ2p1WkpsVGhuTTlHaEdCM0hzRnB5ZnhfQzhHVVk5b2J1alRPVTZkazNvRzlOZkt2b21oQjZoMEk3WG93?oc=5",
-      "source": "Yahoo Finance",
-      "category": "Asphalt Industry",
-      "keywords": "Acquired",
-      "sector": "General",
-      "dealType": "Acquisition",
-      "value": "",
-      "date": "May 18, 2026",
-      "dateISO": "2026-05-18T07:00:00"
-    },
-    {
-      "title": "Adani Group plans $5.25 billion debt refinancing, including Ambuja deal-linked loans - Moneycontrol.com",
-      "summary": "Adani Group plans $5.25 billion debt refinancing, including Ambuja deal-linked loans Moneycontrol.com",
-      "url": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxPOUhHY3A0ZEhSTlJFRGZ5MV9fQUgwX2FOeGRNZU9URlhWc1NHd25jNXVuUzRtZU42ekpOUm9uQVlnQXFhb3pBUDJHcXJfM29vbTE2bWJUencxWGFUUVdxWkR0dG1uY3Rzc1c2WGdPSV9xemlsUTBJaHkxcmdvd2QtdFJ3TWE1SG8xblk1OUZFXzhlZmkzSE02YW1KT3Ezc3p3alRNRFBoMnlVbXhCa21DR2Q1dGRTUGI2Ym5ibzB4QURzNGhaRGtRaW1lc0c3MU55cWtndGxCR1FDRUHSAeABQVVfeXFMTzBaSF9LeWo1R01PRmhHaGlNNmM1bE1lbV9yV0l2YzZwQ190eW5kSFk1OFQyZzRDaDJpNFZrTUtLVWMwelZ0SU9FZzYxSmNReFV0SHZJR2hjTWJUYlVON1VSdUxEbDZZLWlGbHZFR2JLY3drOGVEbVVueVhlaTl6NzlGc3Ixa3J4SEw5N3BINVpYbzhCSzVhY3BsQndZeUstcDRTbEdrVE1iUThsbUt2NGgxa1B5cXFXMElXUk5qZUdvZmhlUVdHaUZleEVfblo3NVc2ZU5pRG1HbWktSi1Lc0U?oc=5",
-      "source": "Moneycontrol.com",
-      "category": "Cement Industry",
-      "keywords": "",
-      "sector": "General",
-      "dealType": "Acquisition",
-      "value": "$5.25B",
-      "date": "May 18, 2026",
-      "dateISO": "2026-05-18T07:00:00"
     }
   ]
 }
