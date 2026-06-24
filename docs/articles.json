@@ -1,10 +1,88 @@
 {
-  "fetchedAt": "2026-06-23T15:44:53.883218",
-  "totalArticles": 144,
-  "newToday": 28,
-  "duplicatesRemoved": 18,
+  "fetchedAt": "2026-06-24T15:31:55.919192",
+  "totalArticles": 155,
+  "newToday": 29,
+  "duplicatesRemoved": 15,
   "archiveDays": 30,
   "articles": [
+    {
+      "title": "CRH agrees $8.5 billion Arcosa deal, shares in focus on NYSE - Ad-hoc-news.de",
+      "summary": "CRH agrees $8.5 billion Arcosa deal, shares in focus on NYSE Ad-hoc-news.de",
+      "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxNSmVTdmE5X2NkQnhqM1NTUlV6c0t6QjkxbllnM1h2VURfb19lbnlRLXRxNzhYUGNBT3RoOTRxMGRUZFB4d1pzY2VhUDVUSkoxTUpXSmQ1Sll3emlYWTFkbzByUC1fR2VfSXAzcl9SMWJIYlhLS2EwcUFXYTdjcUp2dE1HSkRqb3ZUSFdsMlJoaThzUEJaYXJGVnJXU3RuVkFIMy14d2NNbmVuWWxfUDVBQUFEampUZVJo?oc=5",
+      "source": "Ad-hoc-news.de",
+      "category": "Aggregates Industry",
+      "keywords": "",
+      "sector": "General",
+      "dealType": "Acquisition",
+      "value": "$8.50B",
+      "date": "Jun 24, 2026",
+      "dateISO": "2026-06-24T09:18:25"
+    },
+    {
+      "title": "Dallas Aggregates & Infrastructure Products Co. Arcosa To Be Acquired by CRH for $8.5B - Dallas Innovates",
+      "summary": "Dallas Aggregates & Infrastructure Products Co. Arcosa To Be Acquired by CRH for $8.5B Dallas Innovates",
+      "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxQQVV0Mm91YjJ6U1lXc0RsdUJSbDU0R2pDQlNGTWpXbEw2djdYZFlTcjBMYkFFS0d0TUoyX0xtNWFGOE11N0ltQmYxcTRnOFFmZ2FIZTIxSzZ0Tl83MkpFV2c1bmFmbjlXcmZUMEhCbVRaQUIzMzl5Y2gtYklHNHk5aWxQMWlPb0VmeU0tN0lWM3FtVW45SkRDU2JQS2RRUUQ4QlhsOVp1V01Yd1N3aGI3Sw?oc=5",
+      "source": "Dallas Innovates",
+      "category": "Aggregates Industry",
+      "keywords": "Acquired",
+      "sector": "Aggregates",
+      "dealType": "Acquisition",
+      "value": "$8.50B",
+      "date": "Jun 23, 2026",
+      "dateISO": "2026-06-23T22:23:43"
+    },
+    {
+      "title": "Bernstein reiterates CRH stock Outperform on Arcosa acquisition - Investing.com UK",
+      "summary": "Bernstein reiterates CRH stock Outperform on Arcosa acquisition Investing.com UK",
+      "url": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxNeFM1cjh0dGMzVmRsekRjUlNzbVVBY2szclJiVk1CM253aEtpaGl5WW1BYXZZOEhPbjg0b3RudnZFNXltQVh5akdZNVFESG5JQVBKRXVLWjVBR0JRSkhzakt3N18weXZyUkJydklmRUlUaFNkVXpNTFE2THRGNU9kM2MwdXFFNk1fMHZSb3lFRUU0NmFrdHM3bUMyOGFZVnNmY29DNHRnY0luZVVKRnRiWWJmQUpLWmtEeTdleU9melNmR3J4UGhkTzNhMXN0eHBCaWc?oc=5",
+      "source": "Investing.com UK",
+      "category": "Aggregates Industry",
+      "keywords": "Acquired, Investment",
+      "sector": "General",
+      "dealType": "Investment",
+      "value": "",
+      "date": "Jun 23, 2026",
+      "dateISO": "2026-06-23T19:18:21"
+    },
+    {
+      "title": "Holcim clears Xella acquisition milestone, shares steady on SIX - Ad-hoc-news.de",
+      "summary": "Holcim clears Xella acquisition milestone, shares steady on SIX Ad-hoc-news.de",
+      "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxQcGNHaXloY0hGNHBPdTJ5X0ZLZkJRUXhvNURrVVJBa2trblNLVlRIa0RBRTZjNlN4SmJyQl9KYjZMNW43VlVNeE5mc0pOTldrSFRkYlJwM21mMUZXSHdPeVg3RXdUMndoRVdXRVMwMkx6eFFsenFYY3dIUS1tZ0EwdHY3RXUxeDdOU0FoRmhtVTFtcmN4ZXM4aWUwa1YzSTNHYVJDdzd3UFlOdVplQy1QSGVFNzIxZjlMeml4Ynl3?oc=5",
+      "source": "Ad-hoc-news.de",
+      "category": "Cement Industry",
+      "keywords": "Acquired",
+      "sector": "General",
+      "dealType": "Acquisition",
+      "value": "",
+      "date": "Jun 23, 2026",
+      "dateISO": "2026-06-23T18:36:29"
+    },
+    {
+      "title": "CRH edges higher after Arcosa deal report, shares stay supported on NYSE - Ad-hoc-news.de",
+      "summary": "CRH edges higher after Arcosa deal report, shares stay supported on NYSE Ad-hoc-news.de",
+      "url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxPaVNnQmVOaXVrWWt6NWM0SHQtQXViSnRZME15UU5xNUJEMU9saE1GTWxRVVV0UDJWT25ZQTNoMGdnbXZHWjFRYl96dTZKaTJWd3AydXZUUU9ESTBQMWZ3YXpDeWtWSDZLci1DNlRvcm9HeHFlYmFlUXVnajFEREtrSkt2MFkxaWdFb1JoQTMxekJGWlFmcG5pNUR4dVpnOFd6NDFxS2hDWHZ5d3l6VlBhUDVQb2swUjRPaDVMalBwVGg3SG40R2hKUkVB?oc=5",
+      "source": "Ad-hoc-news.de",
+      "category": "Arcosa",
+      "keywords": "",
+      "sector": "General",
+      "dealType": "Acquisition",
+      "value": "",
+      "date": "Jun 23, 2026",
+      "dateISO": "2026-06-23T17:52:29"
+    },
+    {
+      "title": "Warner Brothers Paramount Merger Protest In New York City - Martinsville Bulletin",
+      "summary": "Warner Brothers Paramount Merger Protest In New York City Martinsville Bulletin",
+      "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxPQU5ydXAyazd5d293Wk14YXhlVXl1UTI4RmlGTGFlUmhHNUxRNXNHRk53M3VNVHJmNERBNldDcjRVeWx2bXNSUjBpRE80MFl6eE94Z2RqMUQ5SEFZd3N6R21oQVRnMnlodEc4V2M2bzVUWkN1VWhnc1ZheE9rcXNyeGFqSnNVM0k?oc=5",
+      "source": "Martinsville Bulletin",
+      "category": "Asphalt Industry",
+      "keywords": "Merger",
+      "sector": "General",
+      "dealType": "Merger",
+      "value": "",
+      "date": "Jun 23, 2026",
+      "dateISO": "2026-06-23T15:47:35"
+    },
     {
       "title": "Breedon Group acquires Falling Springs Quarry - Construction & Demolition Recycling",
       "summary": "Breedon Group acquires Falling Springs Quarry Construction & Demolition Recycling",
@@ -17,6 +95,19 @@
       "value": "",
       "date": "Jun 23, 2026",
       "dateISO": "2026-06-23T15:12:00"
+    },
+    {
+      "title": "Infrastructure Manufacturer Arcosa Stock Climbs as Building Materials Giant CRH Acquires It For $8.5 Billion - TIKR.com",
+      "summary": "Infrastructure Manufacturer Arcosa Stock Climbs as Building Materials Giant CRH Acquires It For $8.5 Billion TIKR.com",
+      "url": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxOM0NLSWNBU2tOQi1ud2dBc3VHRWhFTXhNbE5iWGc5Sk5pX3hqTG92Ym5tbjZ4UzZpT3U0M3EwWGJlblJiQTJkYXVlY2E2bVlNd1NRTlY3U1JIbWFqQXZ0NmlHQ0VZM0tFX0k1RlhKem91cTRBTklKbXFzWURROTM4RlZlUF9kT0RWeFJ1NVFlRFMyNl9UZ1pHaGx4bkg5bEREc0VHc0Q0c01hblFMbG5RNHpveFQ0a2xCTnBSVEN0aXVCaC1HZjh1MFpWWjBUdmtzZEUyYQ?oc=5",
+      "source": "TIKR.com",
+      "category": "Aggregates Industry",
+      "keywords": "Acquired",
+      "sector": "General",
+      "dealType": "Acquisition",
+      "value": "$8.50B",
+      "date": "Jun 23, 2026",
+      "dateISO": "2026-06-23T13:59:22"
     },
     {
       "title": "Is CRH's $8.5 Billion Arcosa Acquisition a Game Changer? - TradingView",
@@ -43,6 +134,19 @@
       "value": "$8.50B",
       "date": "Jun 23, 2026",
       "dateISO": "2026-06-23T11:10:52"
+    },
+    {
+      "title": "2,843 Shares in Lockheed Martin Corporation $LMT Acquired by Worth Asset Management LLC - MarketBeat",
+      "summary": "2,843 Shares in Lockheed Martin Corporation $LMT Acquired by Worth Asset Management LLC MarketBeat",
+      "url": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxPeTdpdUE4X0V2eEV1N0ZWOEJha3pqZ29yWVNiZTdNZmhiVlFrcHdoR2kyVnN6MEsxUTc5TjYzYmdhQi1HeExLSlljcWxCR3FDaW90d25CdW5zR2I0Q2hIRzA4U2tGRV9PbWtJdTdRd1lOMnlpTjBlM1JYOUg5MFRmOU5RVlBYVC1HTXZfcjVDSy01ZmdlUUNtZi04X3puSWg4ODBTVnJJX3Rabzh3ZDlYRjNPVVJac0tWcUQzR2F6RUFLa0dfb241QkFETTM5VHdRSUwtVnJaX3hValRtSjBF?oc=5",
+      "source": "MarketBeat",
+      "category": "Martin Marietta",
+      "keywords": "Acquired",
+      "sector": "General",
+      "dealType": "Acquisition",
+      "value": "",
+      "date": "Jun 23, 2026",
+      "dateISO": "2026-06-23T10:57:16"
     },
     {
       "title": "HBM Nigeria Plc Reaffirms Commitment To Growth After $1 Billion Chinese Acquisition - Brand Spur - Brand Spur",
@@ -188,6 +292,19 @@
       "dateISO": "2026-06-22T15:14:20"
     },
     {
+      "title": "CRH is buying Arcosa in an $8.5 billion all-cash deal - qz.com",
+      "summary": "CRH is buying Arcosa in an $8.5 billion all-cash deal qz.com",
+      "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTFB4UUYzSFVTdHpBY29uNGZyY3Q4MnZ3TXUzSGZMVHhUendsX0RVVTljR0x1SlhrQmJWRmlNcVc2Q2M1MG5MUFEycjluM1pMM0RVMV9PVVpta0IyX1Yyd0VZazBhdXRjRjM0?oc=5",
+      "source": "qz.com",
+      "category": "Aggregates Industry",
+      "keywords": "",
+      "sector": "General",
+      "dealType": "Acquisition",
+      "value": "$8.50B",
+      "date": "Jun 22, 2026",
+      "dateISO": "2026-06-22T15:11:21"
+    },
+    {
       "title": "Lafarge Nigeria Rebrands as HBM Nigeria Plc Following Huaxin Cement Acquisition - Arbiterz",
       "summary": "Lafarge Nigeria Rebrands as HBM Nigeria Plc Following Huaxin Cement Acquisition Arbiterz",
       "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxQbDdWaGlvNFNvUFg5RDR4NVpscVIyWEpBSUV6WVUwS1VYX0JJamxDODA2a3A3eG1SOXEzdGhzaVFFZlg2UmlfY3NENmVxOFlFVEFiQ3Vybm5vWVdlTUVSOVZVY2t4bEFidnkwZk5OVENlZ0h5RnN6TUdtNXlPTWR1b3N2SW1ndGNwYjUyYVJzT0E1U0RQX3k2T2FOTVhlWm41NHpz?oc=5",
@@ -264,6 +381,19 @@
       "value": "$8.50B",
       "date": "Jun 22, 2026",
       "dateISO": "2026-06-22T13:04:48"
+    },
+    {
+      "title": "Arcosa stock rises on $8.5 billion acquisition by CRH - MSN",
+      "summary": "Arcosa stock rises on $8.5 billion acquisition by CRH MSN",
+      "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxPR3BmYlJXSGlQYlhfbFhpdUxtY216OEZGOFh1b2U3MndjNjhaYVZXUVo1XzM0X1RzSlBfUEJNcE91X1RjTUViZVVJcnJZcnFSVW5DaXZqdWRMNUtDUEJSb3JnX2lUUl9WRVczVDRJRXlsdUVWenFRVmJxVFZQSHFMNHJLTmt6YjR5NXI1NGtCMElCZFNGZkNEN0VJLUJzcGtEVmd1V0h1X2lxUQ?oc=5",
+      "source": "MSN",
+      "category": "CRH",
+      "keywords": "Acquired",
+      "sector": "General",
+      "dealType": "Acquisition",
+      "value": "$8.50B",
+      "date": "Jun 22, 2026",
+      "dateISO": "2026-06-22T12:56:15"
     },
     {
       "title": "CRH Eyes $8 Billion Arcosa Acquisition, Potential Deal Values Target at 13.7x EBITDA - Meyka",
@@ -524,6 +654,19 @@
       "value": "",
       "date": "Jun 19, 2026",
       "dateISO": "2026-06-19T06:21:00"
+    },
+    {
+      "title": "Holcim Wraps Up the Acquisition of Xella - marketscreener.com",
+      "summary": "Holcim Wraps Up the Acquisition of Xella marketscreener.com",
+      "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxQS1VPQnZOY2F1SUxoOEtsMW1BTDc1MUNzQnVBY0tMbEJKM0QteThsVGRkOGZwWTdwYXJtUVBULVdkZ3E2Z2Utdy1iR25NMVl6V3lXdnB5RFg3WXlfLURLZkdNMlptcThlc1JDSVlma1o5MG1Oa2tBWFBLdHNoYkVmX1JFLUJ2dE5WOHltVFFObm9GTlMyMGZoWg?oc=5",
+      "source": "marketscreener.com",
+      "category": "Holcim",
+      "keywords": "Acquired",
+      "sector": "General",
+      "dealType": "Acquisition",
+      "value": "",
+      "date": "Jun 19, 2026",
+      "dateISO": "2026-06-19T05:47:20"
     },
     {
       "title": "Holcim Closes EUR1.9 Billion Xella Acquisition - marketscreener.com",
@@ -979,6 +1122,19 @@
       "value": "",
       "date": "Jun 11, 2026",
       "dateISO": "2026-06-11T08:00:00"
+    },
+    {
+      "title": "After Park-Aid acquisition, ATWEC puts industry veteran in charge - Stock Titan",
+      "summary": "After Park-Aid acquisition, ATWEC puts industry veteran in charge Stock Titan",
+      "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxNR2xfcGdYWlB3czVtZTNDS2Nyb1lIZWNERHc2R19IUVhJcG40bF90N2psQ25ual9jdmhyX0x3VHV6MmJWUnktVkl3eFIzNTlvWHM4dVN0UEdkbS1NSWlEYmpveGZpTDUycmUzc0hRdUt3NHRKNWk4SFlZb0x2SjBnbU44Vmt2X25jckRlNmd3Wkt3UzJGQ3hIMXNzQUV4Zjhva0NIdlZ2alBkNk9RXzJDQTFRNEZRdE9sM0E1dQ?oc=5",
+      "source": "Stock Titan",
+      "category": "Asphalt Industry",
+      "keywords": "Acquired",
+      "sector": "General",
+      "dealType": "Acquisition",
+      "value": "",
+      "date": "Jun 11, 2026",
+      "dateISO": "2026-06-11T07:00:00"
     },
     {
       "title": "Vulcan Materials acquires Colorado, Texas operations - The Business Journals",
@@ -1774,6 +1930,19 @@
       "dateISO": "2026-05-27T13:30:25"
     },
     {
+      "title": "JP Power shares rise up to 20% after Adani Power acquires stake - TradingView",
+      "summary": "JP Power shares rise up to 20% after Adani Power acquires stake TradingView",
+      "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxQcDAwSVVKNVFZbWdtSFplNy1ycjZwZEt4VTBCaFRoVG00bWZFbkpQcVhLRzJjNFRaWm5WT0RYMUxEbFQwMmdhUW5IRndtc3FTWERUOFNKQnNlbTVxLVRFa1M1Z3lxT0xUa2FsbDBQamFjNnBsazBTczhjaFVrbngzeEtmaDhtMlZXbVdCcTBNNHVqOGcweXhTbEJGY0J3WmoyV0Yxc200QnpiVGJsQTVrU255bTlTV18xZE9mVlBrc0xaa1U?oc=5",
+      "source": "TradingView",
+      "category": "Cement Industry",
+      "keywords": "Acquired",
+      "sector": "General",
+      "dealType": "Acquisition",
+      "value": "",
+      "date": "May 27, 2026",
+      "dateISO": "2026-05-27T07:00:00"
+    },
+    {
       "title": "ACQUISITIONS & MERGERS NEWS: Justice Department mandates divestiture in Taiheiyo-Calportland acquisition of Vulcan ready-mix concrete assets - VitalLaw.com",
       "summary": "ACQUISITIONS & MERGERS NEWS: Justice Department mandates divestiture in Taiheiyo-Calportland acquisition of Vulcan ready-mix concrete assets VitalLaw.com",
       "url": "https://news.google.com/rss/articles/CBMirgJBVV95cUxOTm1MZ2s4M2xDNG1hbVpkR1RQQzRUNlVLZWViNGhRczFmQ25CVW5BT21DbEYwNk1qaXltVGh0MTFZQ0lEbEFQa2ZERzNNSWx4b3RDSExlUzZhbVlsa1hCVnZhZ0V5TVhqaXloT1BXSDZpdjg2cWxYdFU1RFBnYWZzQms1aEFHM00xS1pJU1l4SVVtdEdSdGNtSFE0RnNoVHpwWmlQcWlDRGx1Z05PNXlLRzc3bFpfYW1Talp6bkkyWUVKRUFCOVFmVGR2ZEVpRDJyTUlJc2UyeTdNMnlvVElaSzA1dlJrNEZVVGFvTVdOVjBsX3JvZ19nazBuN1FwazJoejZJN0lYTDh2Q3d4b2kycXo0QWdGZDlzLXJ6VVlEV0RpSDJjTHk5Q09BbDJOZw?oc=5",
@@ -1839,43 +2008,17 @@
       "dateISO": "2026-05-26T07:00:00"
     },
     {
-      "title": "Dalmia Bharat to Acquire 5.2 MnTPA Cement Capacity in Central India - Machine Maker",
-      "summary": "Dalmia Bharat to Acquire 5.2 MnTPA Cement Capacity in Central India Machine Maker",
-      "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxQSnlENU53VnUzZm41UjNZQmdYTlR5cUVPdHhzMkNYMklJT0dRLXBKT2JmTWtyUS1ReGJKOVFWZlB4M2xyN1RJcms2WldTdHRsZ2s2M2RHb3lsTlVLRWViZ3Q5R0pPZHJSbDRWQ0ZMMmpjZXhsT0Q2NmtvMlljemtIRXptbXZ2V1BYUnFFU1lHOWhUVlJ1TlY3c0swdFBnSjZGNTdr?oc=5",
-      "source": "Machine Maker",
+      "title": "Tanzanian giant Amsons nears $250 million takeover of strategic East African fuel network - Business Insider Africa",
+      "summary": "Tanzanian giant Amsons nears $250 million takeover of strategic East African fuel network Business Insider Africa",
+      "url": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxNRHBPRW5ldG5SMXFYX0VhemI1TjdxVS1KQmJHbkdsTk9ZTTdoNjU4WWlJWjR0Q21VVEoxSFYtb2F6SjlyVXBmWkFEV1RseHVXS0VFYi13ejU5bU42UXEzYjQ4azRBT3dpaDI5eUkxbU1jZlNmUkpjZC1Gd1I1dnNhNXFiMXB6dEhnZDFPSUJLOW55S3hudlhiWFh6WXdqeG5UN2FPWlB4cm1zMDFtT3YtZ3o3MHlDeVEwaFFiUDZMdUtrbklvXzhiZldtRk5GOGhz?oc=5",
+      "source": "Business Insider Africa",
       "category": "Cement Industry",
-      "keywords": "Acquired, To Acquire",
-      "sector": "Cement",
+      "keywords": "Takeover",
+      "sector": "General",
       "dealType": "Acquisition",
-      "value": "",
-      "date": "May 25, 2026",
-      "dateISO": "2026-05-25T11:41:42"
-    },
-    {
-      "title": "Dalmia's Jaiprakash acquisition gives it access to a profitable cement market - Moneycontrol.com",
-      "summary": "Dalmia's Jaiprakash acquisition gives it access to a profitable cement market Moneycontrol.com",
-      "url": "https://news.google.com/rss/articles/CBMizgFBVV95cUxOWnlLWGsxaUdfcHFDbGk2a2RVYURFRmwtVGFYRjZMTzBjVjM5dFQwYko1LWJWXzlzV09kSUhCXzRIUWNFdTlOTDdGd2h3S1hyZGVmcjAxV2NNWndiTlpBaVotWWV0dkljd3R0a0FpWFBndS03bzZFRTVHTEJreW1wRXEzemZ4bG5TSGRlS242LVVnX1MtRFNLWW42SGhOa0JGTUN6R1V3RXc4U2J1M3BZNy1vTXdzOWp5UnUwQkszbFN3aEVvRzRMMnlJYm1ud9IB0wFBVV95cUxNUlppOEwyaVdXdy1ELVhTNm04SWtQcE5vSGY1cFZHOHdPTFNPN0JYVnB5MEV6cGxXcVRzOG1DQ3ZhcDFFQ3lpejVFaFoyaFExQTRNeEdxZ1ZSd2JjSGdXZHVZckpxODlmY1lSaW40R0dQU0hCUzlmU0Izam1PTmMxVm1KSGFieVhSS0Z5V1oxNGN6dkRxMGJ0VkJNdnN2clhHMVhCZWxxT0xsTm5DY2pPTktyZmlJakwySkxtd0ROLTVhR0k5TVJFc0ljTmNsQUhNelk0?oc=5",
-      "source": "Moneycontrol.com",
-      "category": "Cement Industry",
-      "keywords": "Acquired",
-      "sector": "Cement",
-      "dealType": "Acquisition",
-      "value": "",
-      "date": "May 25, 2026",
-      "dateISO": "2026-05-25T06:18:11"
-    },
-    {
-      "title": "Dalmia Cement acquires JAL cement assets - Construction Week India",
-      "summary": "Dalmia Cement acquires JAL cement assets Construction Week India",
-      "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxNSXhZODlsZ3ByVzZBSXQzMUJZV1N2a1VNNFlJUXNpUjFIek91bHpURnNXRllaQ2JsSWRtUTJEQ3Q1TWxVSGxOMllDS05OS2VLaXl2M3huZW5BVV85YzBzblV5MHNFT0NRSGxtdVFjdzdsbDduSlhLZVFYcUtYeWNfanhWVm0wMF8xWk1B?oc=5",
-      "source": "Construction Week India",
-      "category": "Cement Industry",
-      "keywords": "Acquired",
-      "sector": "Cement",
-      "dealType": "Acquisition",
-      "value": "",
-      "date": "May 25, 2026",
-      "dateISO": "2026-05-25T06:08:11"
+      "value": "$250M",
+      "date": "May 26, 2026",
+      "dateISO": "2026-05-26T07:00:00"
     }
   ]
 }
