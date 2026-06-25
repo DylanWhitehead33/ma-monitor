@@ -1,10 +1,75 @@
 {
-  "fetchedAt": "2026-06-24T15:31:55.919192",
-  "totalArticles": 155,
+  "fetchedAt": "2026-06-25T15:41:24.354132",
+  "totalArticles": 160,
   "newToday": 29,
-  "duplicatesRemoved": 15,
+  "duplicatesRemoved": 19,
   "archiveDays": 30,
   "articles": [
+    {
+      "title": "Anhui Conch Cement Company Limited (00914.HK) received an acquisition of 3.909 million H-shares by Artisan Partners Holdings LP and its affiliates, valued at approximately HK$69.676 million. - \u5bcc\u9014\u725b\u725b",
+      "summary": "Anhui Conch Cement Company Limited (00914.HK) received an acquisition of 3.909 million H-shares by Artisan Partners Holdings LP and its affiliates, valued at approximately HK$69.676 million. \u5bcc\u9014\u725b\u725b",
+      "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxPZk50Vlp0bXVONVhtZnBoQWdnbUdhaTh6MFF2czV6OWhNUFdYNmFDVDAtSS1rQ0t0WU85c0Nsa1NBRG5jYTBQLWdERy1LaVdkSXp0c29BbTRtbDgxU1R2cFhKcy11RUNCS1pqTmxSbzl3NlF4bUxIZDZyMGU3b3dqLTB0aVhnR3FFaDZoODVfTzdiSmNSVUFnekwxbHJGSGJ1RzhXS2JjVzJfbEwt?oc=5",
+      "source": "\u5bcc\u9014\u725b\u725b",
+      "category": "Cement Industry",
+      "keywords": "Acquired",
+      "sector": "Cement",
+      "dealType": "Acquisition",
+      "value": "$70M",
+      "date": "Jun 25, 2026",
+      "dateISO": "2026-06-25T11:02:37"
+    },
+    {
+      "title": "Lafarge Africa Rebrands to HBM Nigeria Following Historic Huaxin Acquisition - streamlinefeed.co.ke",
+      "summary": "Lafarge Africa Rebrands to HBM Nigeria Following Historic Huaxin Acquisition streamlinefeed.co.ke",
+      "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxPQTlTYmtrbk9XRzczSGZwQ2xKU1JnamJDTDBoMDdZdnpaSW9RV2RNVmpNV2FHaTk3TUxkU0tUY21yQlRiN3oxNU5uSXdPYjRSMHFlNk44WlNIM3dDZjFNV2lRYUJJNHdQUFFZUkFGRjhPRGxVRnliUG5XN256QzNNbFdnZGJuWUhCMHFOMThjM3BPMG5xZzlzcE5OVHJVTFJ0R2RVQ0xaRlpxODlxbGhV?oc=5",
+      "source": "streamlinefeed.co.ke",
+      "category": "Aggregates Industry",
+      "keywords": "Acquired",
+      "sector": "General",
+      "dealType": "Acquisition",
+      "value": "",
+      "date": "Jun 25, 2026",
+      "dateISO": "2026-06-25T09:21:25"
+    },
+    {
+      "title": "CRH to acquire Arcosa for $8.5B - Construction & Demolition Recycling",
+      "summary": "CRH to acquire Arcosa for $8.5B Construction & Demolition Recycling",
+      "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTE5yNkhjbkxWZVhLN1IweHQxR2J1ZGFmanNUZlAtLVFjM0lUclI2S0dUNVlPaWJ4YXJZTGdDOFg0MHd2V0VyWlhSTEw3Yk9wLXVncXdaZjlUSjRNNmdQVDhzNnhrTDRyNGQ0ZDhSZjhTMGNJVk5DQ29V?oc=5",
+      "source": "Construction & Demolition Recycling",
+      "category": "Aggregates Industry",
+      "keywords": "Acquired, To Acquire",
+      "sector": "General",
+      "dealType": "Acquisition",
+      "value": "$8.50B",
+      "date": "Jun 24, 2026",
+      "dateISO": "2026-06-24T19:53:00"
+    },
+    {
+      "title": "CRH acquiring Arcosa for $8.5 billion - Pit & Quarry",
+      "summary": "CRH acquiring Arcosa for $8.5 billion Pit & Quarry",
+      "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTFBkdnJpcWhwYkNBSjdIRFJiUEhtWVd2MUdyQ19jb1Q2QnBObk5TVjh3eEVwb1Q2OXI4Y19MZ0txQk1MaXZPUThRR1BtaTNoSUttMzBlTkR1V2dtZ1dSbm5ablFwTzRZd1FZMUhFc193S1dKODQ?oc=5",
+      "source": "Pit & Quarry",
+      "category": "Pit & Quarry \u00b7 Aggregates",
+      "keywords": "Acquired",
+      "sector": "Aggregates",
+      "dealType": "Acquisition",
+      "value": "$8.50B",
+      "date": "Jun 24, 2026",
+      "dateISO": "2026-06-24T16:21:57"
+    },
+    {
+      "title": "Massive aggregates market shakeup: CRH acquires Arcosa - HBS Dealer",
+      "summary": "Massive aggregates market shakeup: CRH acquires Arcosa HBS Dealer",
+      "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxNMFRkU2QzVFdETHRGcTFWV3hQRHBaMTFTWnJMT2RkRVlBbnRseWxnazJ1TXZ5RkRJRDd5RFQxRGtVSDVQVkFaaTZMaG41QXJKX3BEMGV6VHhHTjdxMlAtWFljdlpOUWVjUWlIRkdGbW9CVE9IaXBJNXQ5Wm9XVDBiVg?oc=5",
+      "source": "HBS Dealer",
+      "category": "Aggregates Industry",
+      "keywords": "Acquired",
+      "sector": "Aggregates",
+      "dealType": "Acquisition",
+      "value": "",
+      "date": "Jun 24, 2026",
+      "dateISO": "2026-06-24T15:07:23"
+    },
     {
       "title": "CRH agrees $8.5 billion Arcosa deal, shares in focus on NYSE - Ad-hoc-news.de",
       "summary": "CRH agrees $8.5 billion Arcosa deal, shares in focus on NYSE Ad-hoc-news.de",
@@ -110,11 +175,11 @@
       "dateISO": "2026-06-23T13:59:22"
     },
     {
-      "title": "Is CRH's $8.5 Billion Arcosa Acquisition a Game Changer? - TradingView",
-      "summary": "Is CRH's $8.5 Billion Arcosa Acquisition a Game Changer? TradingView",
-      "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxOZHJYMy1mNUYwVVlYb0VuQzdNcG5hc3pvOU92TnhmNnlibWxBc1ZiMV9LYTBYOUJ0VjJCWjQ3elRlSXB4WTc0dGMySTh4bFNXVjRqUWZqTUZGNHRKSHN5c0dNdUJxcW5fWDV4NVlRN2o2UnZOeUtkU3JFd0xUZHhRMl9BbXREcVk4cGlma1V1TUpxb09RRUVJcU1xQVpKdHpnTFBXTlRwcXYzQ0hsTDVR?oc=5",
-      "source": "TradingView",
-      "category": "Aggregates Industry",
+      "title": "Is CRH's $8.5 Billion Arcosa Acquisition a Game Changer? - Yahoo Finance",
+      "summary": "Is CRH's $8.5 Billion Arcosa Acquisition a Game Changer? Yahoo Finance",
+      "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxOS3RKSlhuZ1VlX0ZPUDNzdzNBZ3ZqUnNabkpXQWRlbC05WXNObXZrZENGQ2FvSXVjYTJhWWtYLXNwWkF0U1pmYkdmaGpzZW54LW9rU1E0SXVjbnZDUTRtYTZNTzVhdjFrQ2hSMnQxdWgzdjVaX3d3XzZtRjQwMFpKTkNLTkJxaUQ4OExxb1k5Y05pUQ?oc=5",
+      "source": "Yahoo Finance",
+      "category": "Arcosa",
       "keywords": "Acquired",
       "sector": "General",
       "dealType": "Acquisition",
@@ -225,6 +290,19 @@
       "value": "",
       "date": "Jun 22, 2026",
       "dateISO": "2026-06-22T22:48:56"
+    },
+    {
+      "title": "Dallas-based company set to be acquired in $8.5 billion deal - Dallas News",
+      "summary": "Dallas-based company set to be acquired in $8.5 billion deal Dallas News",
+      "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxNTmY5MTVZd2YxdGJDX3FqcXJxTTF0Sm5VamxYWUNWcnNyUS1CaWN2MFpnNjJCWTVUOVdjOC0xd3kxVG5MdHNZVUg5UDYxTWJpRVhBVW5JSFRPOXhSak5lelFEZGV6TXpGX3dUakV3dFRUSk1OMm1GS2hmaGU5WUlZOVZaVUQwRC1HOVE1T19jRnlOV054b1lGLVJzazhjT2FzcWZFb2pqZHZRcmRmM0gzNXUwSFFVT01K?oc=5",
+      "source": "Dallas News",
+      "category": "Arcosa",
+      "keywords": "Acquired",
+      "sector": "General",
+      "dealType": "Acquisition",
+      "value": "$8.50B",
+      "date": "Jun 22, 2026",
+      "dateISO": "2026-06-22T21:59:56"
     },
     {
       "title": "$1b Chinese takeover: HMB commits to Nigeria\u2019s industrial growth - The Guardian Nigeria News",
@@ -1215,6 +1293,19 @@
       "dateISO": "2026-06-10T07:00:00"
     },
     {
+      "title": "Afrimat fulfils tribunal\u2019s Lafarge acquisition conditions with quarries and plants sale - Business Day",
+      "summary": "Afrimat fulfils tribunal\u2019s Lafarge acquisition conditions with quarries and plants sale Business Day",
+      "url": "https://news.google.com/rss/articles/CBMi6wFBVV95cUxORl82c0Z2UkU4VkQ0R3hMZnU0VThzR3I5ZlJMZVh1TkdYLXJacjVpdTFkRUFWdHNNRmppVGVmQTVFNWJwdC12dFE4dUdiLVptSER5U1VoenVCbUcxRU9DLTNsTFE3V1cxUF9vQzNadDdqN09aM3RTbFN4N0s1OGotV0hXWGtGWElkWkRoQ0hBaWpfSk5iMGFGVFoxeUxjU0xZSGdnZmJ0bTl5R2tObDFudGRHNXhHVDRRNzZJTXJ2TFJFYjNrcnlTVmhsR2Q1bHJRc2J6VVhBY25NUktSQ09naTFqZGhCWnBtX3Jj?oc=5",
+      "source": "Business Day",
+      "category": "Cement Industry",
+      "keywords": "Acquired",
+      "sector": "General",
+      "dealType": "Acquisition",
+      "value": "",
+      "date": "Jun 10, 2026",
+      "dateISO": "2026-06-10T07:00:00"
+    },
+    {
       "title": "ICICI Prudential Mutual Fund Acquires Over 5% Stake in JK Lakshmi Cement Ltd. - InvestyWise",
       "summary": "ICICI Prudential Mutual Fund Acquires Over 5% Stake in JK Lakshmi Cement Ltd. InvestyWise",
       "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxPbTdMWTlTRW04RnhhUmJBWk80ZkpDOUg1djF5YlJ6c24tMDBIVmM2dkZuY0FId3k2NG1LRi1FaU1IdVRHUU85T3hSSGZfaGJIOGVjVHhqOWhobWtBVkVyalRtNzRjaFp6aWdfZ2lMV193UWtDTVBFazdfN0RhOWRGbWlMUVduU1BaSi1nY1ZhSkhCYTJ4?oc=5",
@@ -1327,6 +1418,19 @@
       "keywords": "Acquired, Joint Venture, To Acquire",
       "sector": "General",
       "dealType": "Acquisition",
+      "value": "",
+      "date": "Jun 09, 2026",
+      "dateISO": "2026-06-09T07:00:00"
+    },
+    {
+      "title": "Paving the way for more UK merger control approvals? CMA proposes new approach to efficiencies - A&O Shearman",
+      "summary": "Paving the way for more UK merger control approvals? CMA proposes new approach to efficiencies A&O Shearman",
+      "url": "https://news.google.com/rss/articles/CBMizAFBVV95cUxPdEM2RU9mc1lJRzZXVE84eGE1SXVGOWdMRVh1SVdGXzd6YVY1OGdrcHlYbHYyNlpBbGdGM0I0SVVERXpGYjRsZUM5RUR1X2J2QXUxekhrdUIxR1B6aWVyaGtUWVFQbkNnMmtSUjFIaVpWa0g1UHZTck4tWUh5VUxROXpUQUxGU0NhcHJMY3Q2TFBwNHNTTjI4UnFFNHByYTVRT3QwSVJac0k0b2J5ZnppdktneFFrZmpuMVpzMC1DWVR5bmMyOXR3Zml4NlU?oc=5",
+      "source": "A&O Shearman",
+      "category": "Paving Industry",
+      "keywords": "Merger",
+      "sector": "Paving",
+      "dealType": "Merger",
       "value": "",
       "date": "Jun 09, 2026",
       "dateISO": "2026-06-09T07:00:00"
@@ -1683,6 +1787,19 @@
       "dateISO": "2026-06-02T07:00:00"
     },
     {
+      "title": "ATWEC Technologies Announces Letter of Intent to Acquire Leading Heavy Civil & Infrastructure Contractor - The Globe and Mail",
+      "summary": "ATWEC Technologies Announces Letter of Intent to Acquire Leading Heavy Civil & Infrastructure Contractor The Globe and Mail",
+      "url": "https://news.google.com/rss/articles/CBMinAJBVV95cUxNWTdYeW51TmN3Qklpb3FWcUhseXI3SkZrbEhsRHJCa0YzbU95SEdlV0lRMXZhUjlDZl91eFlHQmZkdzVyNm5PVG9WRXJ5N2p5TUdEY1pORk52em5tc2Y5ZmY0N2QyZUVDTW9ENHluNGJtM3pPeWlHNU13Z3lLbURja0N4RXk4LVZZa2c5OHhQY0JpUjJBSU42WHpnQWMyRDhaT3Z3X29fRzJVWEo5RDg4MWxmZklVMkdERElIV2lMMlhCaEF1RENJQTU2ZnlQRUlXRUc1M0NtOXpzMGJKTDBZQWwySnhvejZ3TG5wRWlVamZtV3RMVloyb0hRdkJkS1hfclVYWlpabVdzQUNOdXVPOEJOQ1FEcWpmRjZUeg?oc=5",
+      "source": "The Globe and Mail",
+      "category": "Asphalt Industry",
+      "keywords": "Acquired, To Acquire",
+      "sector": "General",
+      "dealType": "Acquisition",
+      "value": "",
+      "date": "Jun 02, 2026",
+      "dateISO": "2026-06-02T07:00:00"
+    },
+    {
       "title": "Exclusive: Holcim to get EU nod for 1.85 billion euro Xella acquisition after offer to sell Romanian asset, sources say - Reuters",
       "summary": "Exclusive: Holcim to get EU nod for 1.85 billion euro Xella acquisition after offer to sell Romanian asset, sources say Reuters",
       "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxPY21Iejc0QmVUUzNkR1BUaHNwWm10MTJab1ZnMTV6ZFozUUdHQW45b1BSdkxOcThlalVPOXpoanVoc29uRkdzamQxczNYU1BtS05fUVlpcnl6cE1ERHZ1Y29rZ0hFV1ZWaGJQVkFlNE9WcWFjaTI3UFQxTWs1R3o5bEFTNjVwMlhfYXdTQ2dQUy1qYkhCQkJ2TkJyWVZLOW9YZVljb2RBc2pWRk9JMWhUVlI0VWRmMmNVVndlTjVKbF8?oc=5",
@@ -1943,6 +2060,19 @@
       "dateISO": "2026-05-27T07:00:00"
     },
     {
+      "title": "CRH Leans Into Infrastructure With Axius Water Deal And Business Sales - simplywall.st",
+      "summary": "CRH Leans Into Infrastructure With Axius Water Deal And Business Sales simplywall.st",
+      "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxQUlV3WUJyMlQ5MFFlQVpGQ1JSNjI0cTlvVjJuaEd1eDRLakJqVW1rMlNXcnBzYXVjS1RFdy1XTm4tM3Q0Tzl1amRPTnl1ZXVSRmdlbDh6MWpLZmhqd0VNeFQ1dmI2VEl1YTZVZXMyNWZQLUd3OVhPU0U2cS1qaTRrR2RoS0hidWMwdWQ4eUlKbWFYWWU0VlRLUTJJRlBXckM2QmFfMU5yWVJfQmZvcTVCR0c5MkJiSWt1MWdpbNIBwgFBVV95cUxNdEhNZFVDLVRCM21BRFFhbmQ5d2NtVXJiQUplU0U5a0d3MVp4MGVJeEQxMjVneEI0YVAtb0U2eGFMS1Bnb0NMeDE3MHNQM0tjcVFZLXRiaXJUa0ZXbHk1bURfZFo0Q0oxSDg4WTZ0MXVXN1k2Q0FieEZoN3U3ajlKR2lPV3VKbEdMNXRyLUwwSUVHa1BwN3BqRjJic3VVN1RCLTB4MldLaG10RnpIVzNGNWk4MFBBa0pmMlpOb0V2Rm9XQQ?oc=5",
+      "source": "simplywall.st",
+      "category": "Eagle Materials",
+      "keywords": "",
+      "sector": "General",
+      "dealType": "Acquisition",
+      "value": "",
+      "date": "May 27, 2026",
+      "dateISO": "2026-05-27T07:00:00"
+    },
+    {
       "title": "ACQUISITIONS & MERGERS NEWS: Justice Department mandates divestiture in Taiheiyo-Calportland acquisition of Vulcan ready-mix concrete assets - VitalLaw.com",
       "summary": "ACQUISITIONS & MERGERS NEWS: Justice Department mandates divestiture in Taiheiyo-Calportland acquisition of Vulcan ready-mix concrete assets VitalLaw.com",
       "url": "https://news.google.com/rss/articles/CBMirgJBVV95cUxOTm1MZ2s4M2xDNG1hbVpkR1RQQzRUNlVLZWViNGhRczFmQ25CVW5BT21DbEYwNk1qaXltVGh0MTFZQ0lEbEFQa2ZERzNNSWx4b3RDSExlUzZhbVlsa1hCVnZhZ0V5TVhqaXloT1BXSDZpdjg2cWxYdFU1RFBnYWZzQms1aEFHM00xS1pJU1l4SVVtdEdSdGNtSFE0RnNoVHpwWmlQcWlDRGx1Z05PNXlLRzc3bFpfYW1Talp6bkkyWUVKRUFCOVFmVGR2ZEVpRDJyTUlJc2UyeTdNMnlvVElaSzA1dlJrNEZVVGFvTVdOVjBsX3JvZ19nazBuN1FwazJoejZJN0lYTDh2Q3d4b2kycXo0QWdGZDlzLXJ6VVlEV0RpSDJjTHk5Q09BbDJOZw?oc=5",
@@ -1954,71 +2084,6 @@
       "value": "",
       "date": "May 26, 2026",
       "dateISO": "2026-05-26T22:06:17"
-    },
-    {
-      "title": "Holcim offers EU remedies over Xella deal - MLex",
-      "summary": "Holcim offers EU remedies over Xella deal MLex",
-      "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxQb1U5eXpJTGlKSzVfSl9kUUo4YWtVTVRCcWJCYWRERkk2YWJwclVLWHZHb0M2bDVobTNGNlZqdlJCX1JhVGdfcDRKeERtaDM5V1FzRVp6d2tmblBQX0JwQWQwQWJfTDR6Ykc5eVpFQ3MxWFh3NHh5MnhRRF9UUzNJTk8tLXZ0WUtYdThtMtIBWkFVX3lxTE8yZ1Z2emtVa2taOFF5ZTYta285QnFJRERiWVZDT0t1TEdycmFnNE9xRF9QXzhUUU1HM1VoeU9zc3lsSVNZRGRuOWpKTk1RQTdnbGZKaEx1aXM1QQ?oc=5",
-      "source": "MLex",
-      "category": "Holcim",
-      "keywords": "",
-      "sector": "General",
-      "dealType": "Acquisition",
-      "value": "",
-      "date": "May 26, 2026",
-      "dateISO": "2026-05-26T14:28:00"
-    },
-    {
-      "title": "CalPortland required to sell batching plants in San Jose in order to acquire Vulcan Materials\u2019 California ready-mix business - megaproject.com",
-      "summary": "CalPortland required to sell batching plants in San Jose in order to acquire Vulcan Materials\u2019 California ready-mix business megaproject.com",
-      "url": "https://news.google.com/rss/articles/CBMi8AFBVV95cUxQcHBDMlNOdG1HQU55VUZINFZWbUFORENaTWdLOXZxTzhFZE1hVWlLQnhhN05iMzRsXzNfandUa0VVUUkxckJaZTN0M29jTEQ2ZU1WbHpBOEtrWE5abXluR1AxN1NCbzhjNUNRN29mZHE3Z3J1UjlDQlpxSkFmNHJ5RDY3Yy1qdE1xTXpaWk92aDBkdHFFVm5Fb0ltdHpxbWp5OGx1anFWSVp6b2tHSU1XQkxvd0RTNGtNZi1PMDNUaGlyQjdPS09mVTJ2QlNpMG8wTEpjNWtoVlQ3M2xVZXEyZkF6czFxWkVoSXYzUk90Njc?oc=5",
-      "source": "megaproject.com",
-      "category": "Ready-Mix Industry",
-      "keywords": "Acquired, To Acquire",
-      "sector": "Multiple",
-      "dealType": "Acquisition",
-      "value": "",
-      "date": "May 26, 2026",
-      "dateISO": "2026-05-26T07:00:00"
-    },
-    {
-      "title": "Dalmia Cement to Acquire 5.2 MnTPA Capacity - Construction World",
-      "summary": "Dalmia Cement to Acquire 5.2 MnTPA Capacity Construction World",
-      "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxPd0NwQXdkbFAxYnRxZjdoMFh0MEp6blhrSFQyU2lmRzA3SHFIWjkwVkpTalJseml6ZU41UVFKODlvTGlZc1hzMlJPT0o3QlczZ2d1clA4YWRqanNTUDh3YnNsN1ktOTc5aWNadUlyUVJMX1hvcENaMDJ2WHlmaC14NlIzTjQyYU95Uk05X1NYcktsT1B5cEVCS2Nn?oc=5",
-      "source": "Construction World",
-      "category": "Cement Industry",
-      "keywords": "Acquired, To Acquire",
-      "sector": "Cement",
-      "dealType": "Acquisition",
-      "value": "",
-      "date": "May 26, 2026",
-      "dateISO": "2026-05-26T07:00:00"
-    },
-    {
-      "title": "Dalmia Bharat to acquire Jaiprakash Associates cement assets under insolvency process for INR 2,850 crore - Prop News Time",
-      "summary": "Dalmia Bharat to acquire Jaiprakash Associates cement assets under insolvency process for INR 2,850 crore Prop News Time",
-      "url": "https://news.google.com/rss/articles/CBMi7gFBVV95cUxQNHFEUk5idzFhWWFnbDlxVXpyZ29KaGN5RkI3WVJISFYtc1puLWxNV1AyVUFaYjhJQ0YtcEZsSE82QjdGR2xQNExoOVVYMDV3NFB0bURsMjhrRmVEMldVenljNWNFbGRXTW5TSkFvN3NfMWtZYmVyYndseURNNUZGRjVEb2I3RHlHSEZLSmJqczlFdXpjYkI1UU5yeGptc2Y4bXZweW53ZUM1bExkb3ViSlRlelFxN1hxV0JxcE90ODdNQXE2emZZRXdtTkN2U3FIM01vVWdENWtjaWVEeXU4djlNeDZsVmp1M3lkNm9B?oc=5",
-      "source": "Prop News Time",
-      "category": "Cement Industry",
-      "keywords": "Acquired, To Acquire",
-      "sector": "Cement",
-      "dealType": "Acquisition",
-      "value": "",
-      "date": "May 26, 2026",
-      "dateISO": "2026-05-26T07:00:00"
-    },
-    {
-      "title": "Tanzanian giant Amsons nears $250 million takeover of strategic East African fuel network - Business Insider Africa",
-      "summary": "Tanzanian giant Amsons nears $250 million takeover of strategic East African fuel network Business Insider Africa",
-      "url": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxNRHBPRW5ldG5SMXFYX0VhemI1TjdxVS1KQmJHbkdsTk9ZTTdoNjU4WWlJWjR0Q21VVEoxSFYtb2F6SjlyVXBmWkFEV1RseHVXS0VFYi13ejU5bU42UXEzYjQ4azRBT3dpaDI5eUkxbU1jZlNmUkpjZC1Gd1I1dnNhNXFiMXB6dEhnZDFPSUJLOW55S3hudlhiWFh6WXdqeG5UN2FPWlB4cm1zMDFtT3YtZ3o3MHlDeVEwaFFiUDZMdUtrbklvXzhiZldtRk5GOGhz?oc=5",
-      "source": "Business Insider Africa",
-      "category": "Cement Industry",
-      "keywords": "Takeover",
-      "sector": "General",
-      "dealType": "Acquisition",
-      "value": "$250M",
-      "date": "May 26, 2026",
-      "dateISO": "2026-05-26T07:00:00"
     }
   ]
 }
