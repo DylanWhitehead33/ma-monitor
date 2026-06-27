@@ -1,8 +1,8 @@
 {
-  "fetchedAt": "2026-06-26T15:21:49.739444",
-  "totalArticles": 158,
-  "newToday": 23,
-  "duplicatesRemoved": 21,
+  "fetchedAt": "2026-06-27T14:26:36.601681",
+  "totalArticles": 153,
+  "newToday": 21,
+  "duplicatesRemoved": 19,
   "archiveDays": 30,
   "articles": [
     {
@@ -108,6 +108,19 @@
       "value": "$8.50B",
       "date": "Jun 24, 2026",
       "dateISO": "2026-06-24T09:18:25"
+    },
+    {
+      "title": "CRH is said to near $8 billion deal for Arcosa - MSN",
+      "summary": "CRH is said to near $8 billion deal for Arcosa MSN",
+      "url": "https://news.google.com/rss/articles/CBMitwJBVV95cUxOQ2I5eU1JSnpWTEwxQ3pGWTlZcUQxd3pZOHpYRG9iRkhsejE4ei1nYzRITjRpX3ZJXzVRNVo3M1QtUW1VWE5Wcm8xRTE0NV9NeXk2YTlHNFlmZERDTVRlUmlvZ2E0WlYyVmpTZGNjOUxzNU54OUNvTUVldndCeE81bkxRNEFRODF0cWhVZ1ptTG9YRUJObTFqSXd4RDU0TUZzNlRsd0stMHJzY05MOEhNVnhBTGlXLUdIclV3UGRLN3ZTVElzQWJ4Y1ZBNU1tNExaRnIwUWY1UENjYmVrY3l5TW1EelF3ZmRYeWduUGluNXRNVVVzcDZOZVk5V3dHVzVlNHl1Qm8wN1ZxWUFVWWM3MmJaN1pBYlFHc2tqMERvbHZMYUo1YUdsQzNISWM3ZUZ5dVp1YXNDSQ?oc=5",
+      "source": "MSN",
+      "category": "CRH",
+      "keywords": "",
+      "sector": "General",
+      "dealType": "Acquisition",
+      "value": "$8.00B",
+      "date": "Jun 24, 2026",
+      "dateISO": "2026-06-24T03:32:44"
     },
     {
       "title": "Dallas Aggregates & Infrastructure Products Co. Arcosa To Be Acquired by CRH for $8.5B - Dallas Innovates",
@@ -1943,6 +1956,19 @@
       "dateISO": "2026-05-29T07:00:00"
     },
     {
+      "title": "SA Tech targets \u20b9200 crore revenue post-Mindpool merger in FY27 - scanx.trade",
+      "summary": "SA Tech targets \u20b9200 crore revenue post-Mindpool merger in FY27 scanx.trade",
+      "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxQR0h0cnZUYWtGcEFaNENQVTZub2NseDdsbkFmNGNubWE3VjVyTWZuTEwzclRYTFVTV3ctREtEOUlPNkdNT1R6cTVjYXAxX1ptdjRpNzBUSGsyRG80dWY0YmRHVnh1M2YxVUpnZWNPbk9NMTlSNWNoMm10MjdZczdkWncwRmtwYTc2RjdqMGdJRmxBTUpfV3YxQy1vMDZKa2lkbUppbmh3eFY2QkV0NHpzbTQ0VQ?oc=5",
+      "source": "scanx.trade",
+      "category": "GCC Cement",
+      "keywords": "Merger",
+      "sector": "General",
+      "dealType": "Merger",
+      "value": "",
+      "date": "May 29, 2026",
+      "dateISO": "2026-05-29T07:00:00"
+    },
+    {
       "title": "Heidelberg Materials : Overview of shares acquired under the buyback programme 29 May 2026 (290526 Individual Daily Trade Fills EN) - marketscreener.com",
       "summary": "Heidelberg Materials : Overview of shares acquired under the buyback programme 29 May 2026 (290526 Individual Daily Trade Fills EN) marketscreener.com",
       "url": "https://news.google.com/rss/articles/CBMi5AFBVV95cUxOcXMzMm13ekV4VHg3Zzd3SW1ZSW5JZko5ZTdOMlVwQ25DQnhKd0Jnb0VBajRCX1pFWEhfRGVLMVIzUHk5U01LeElrcUthLThnUUJ1ckpGYWM4c0xMdm9OOWxpSDNFY01mQXlWT0JUODI0WllocjBwWDV4YnZqUFlsbHptQmtrMTBwS1hMdktVTWR3NE9pZ29ELTUtWkhBV1c4YlEyVFhKd2xIY3ZBbF9vWDZzZ2VLcjd2aTFSa05pNUZjMFZTZEI1NGtIblZsU09jSzBLSlk5MFRPbzZpMXZza1F2dEI?oc=5",
@@ -1967,97 +1993,6 @@
       "value": "",
       "date": "May 28, 2026",
       "dateISO": "2026-05-28T16:03:00"
-    },
-    {
-      "title": "Wynnchurch Acquisition of NABRICO Highlights Ongoing Push Into Industrial Infrastructure Assets - citybiz",
-      "summary": "Wynnchurch Acquisition of NABRICO Highlights Ongoing Push Into Industrial Infrastructure Assets citybiz",
-      "url": "https://news.google.com/rss/articles/CBMizwFBVV95cUxNZW5TdzNFQ0ZqYS1CWmV0QmFTcWZMdG9FSGc5TzFmTXR4Yy1NdHJUQ09lTE10RVFnX195SUFHUUQyRUlVdE1GdjB6TlJNa2ZXd1paclc2X2ZPMGhOWkpvWVRhLU5qUWM1YVNEVlotSkNKODRBN1dQQ19tTXpQaVEtaTZPY3FYTXZJbmsxUmt4T2FURDc2Q0FmU3NyOVZsVXA0QkgwX0s2WkQ3ZVZYY04tSWtQekZLVUlKdE50bkk5UzJIa2lNemQxMnp0bm1CZXc?oc=5",
-      "source": "citybiz",
-      "category": "Arcosa",
-      "keywords": "Acquired",
-      "sector": "General",
-      "dealType": "Acquisition",
-      "value": "",
-      "date": "May 28, 2026",
-      "dateISO": "2026-05-28T13:24:31"
-    },
-    {
-      "title": "Barge maker NABRICO changes hands in Wynnchurch acquisition - Stock Titan",
-      "summary": "Barge maker NABRICO changes hands in Wynnchurch acquisition Stock Titan",
-      "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxNZ2FYdlRNZUV2YTk3V0k1aGx1ejdXeWp5Q0NKU0c2Wmk0Sms5YlpPZVMzWEJ1UjVUM2pCODNvNWJFdGtjUFY1ME1sTkJJeGRxRXA0eldkanBjSDNoSmd4UTBId29oQzdGdEpObFZDcThpc0VvSDZpRmtXWFVReU41dlU4ejJTa0J6TzAtRWVINVlXenVCUVp5cGZqWXlRU2hYSERGOTlReUd5OGFnd3V3cVBndzZveEE?oc=5",
-      "source": "Stock Titan",
-      "category": "Arcosa",
-      "keywords": "Acquired",
-      "sector": "General",
-      "dealType": "Acquisition",
-      "value": "",
-      "date": "May 28, 2026",
-      "dateISO": "2026-05-28T13:05:00"
-    },
-    {
-      "title": "C.W. Matthews Acquires Baker Constructors to Expand Florida Presence - Construction Owners Club",
-      "summary": "C.W. Matthews Acquires Baker Constructors to Expand Florida Presence Construction Owners Club",
-      "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxOVFBNbHJBVkJqVzRTWjI0cXdRUi1BejVrRFdqSXZEUTM0UFM0UDg4MUZ4OXMzNW4xVUFRNENvOTJLQS1WRGVEQTJTejc0WHR4SXJXU0I1SWRPR1ZzWkVPRklrdnJxdnljZlo5RnlxaUIwMWtZM3lfQzhXZFZIVWtyTWZiemVvZEQzYnJ1T2lNdU5QRW1XRVQwS2NfZjBrSUtDd3RBSkxaRTlTZlo0SmlQUm51UmR3a2c?oc=5",
-      "source": "Construction Owners Club",
-      "category": "Asphalt Industry",
-      "keywords": "Acquired",
-      "sector": "General",
-      "dealType": "Acquisition",
-      "value": "",
-      "date": "May 28, 2026",
-      "dateISO": "2026-05-28T10:07:06"
-    },
-    {
-      "title": "Dalmia Cement Limited completed the acquisition of Cement Plants Located at Rewa, Churk, Chunar and Sadwa from Jaiprakash Associates Limited and Adani Infra Limited in enterprise value INR 28.5 billion. - marketscreener.com",
-      "summary": "Dalmia Cement Limited completed the acquisition of Cement Plants Located at Rewa, Churk, Chunar and Sadwa from Jaiprakash Associates Limited and Adani Infra Limited in enterprise value INR 28.5 billion. marketscreener.com",
-      "url": "https://news.google.com/rss/articles/CBMi5AFBVV95cUxQT0tMS3dfN1pDQTc4cWtOVVBmMTN0QUZvUjlGejNnYjBlMUs0aGJMNjJVRzl5ZFBxQUNRZ2VFdkM4bkZUU2ZvN285VENIYU1RWEViYmNUNlUwempmSnRyQ253OHZ6YlRwVmVERks4dHhPZVhIS1B3RHdiekZPX2ZBYURWal9zb3RFSXYxYmFKeV9FU2lKbWVlU29tNlJVd3UwcHdzOW03dmpSZ04yZTQ4WUVON1BRTTZIUnpSNGkzMjIxbHhsOUxRWkZKTnN1SDBWTUd2ME5XZ1ZMa3JYYnI2NU14aTY?oc=5",
-      "source": "marketscreener.com",
-      "category": "Cement Industry",
-      "keywords": "Acquired",
-      "sector": "Cement",
-      "dealType": "Acquisition",
-      "value": "",
-      "date": "May 28, 2026",
-      "dateISO": "2026-05-28T07:00:00"
-    },
-    {
-      "title": "Jamie Dimon Signals JPMorgan Chase Could Pursue $20 Billion Acquisition, Acknowledges Regulatory Hurdles - Dividend Earnings Report - newsline.com",
-      "summary": "Jamie Dimon Signals JPMorgan Chase Could Pursue $20 Billion Acquisition, Acknowledges Regulatory Hurdles - Dividend Earnings Report newsline.com",
-      "url": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxPUjRFWFN5MlZuekxqZGVzcFlQclA1akdqeHpKcXNTZE42WV9MVU9aMEUwRndycFRpdnJUYk93UVFuVl9GSlB4emQyLVJfWFhlakl1bFo3dWJ1ZDFtenF6Y0pDUGoxazU5NmdhMDZLcm1RNU9OMzNlbko0eVBqeF9HRjVHcjhrSEhsRkRzamtxWUlTQS10R3hQUXotTVppVWhUVkNwaW81dHBSWjV3SkVKYjcyVDZKY0xscmVESGZGcEdhMU1nenRBdURxbVZreUIzTmRQeWUtUGxwdw?oc=5",
-      "source": "newsline.com",
-      "category": "Eagle Materials",
-      "keywords": "Acquired",
-      "sector": "General",
-      "dealType": "Acquisition",
-      "value": "$20.00B",
-      "date": "May 28, 2026",
-      "dateISO": "2026-05-28T07:00:00"
-    },
-    {
-      "title": "Andretti Acquisition Corp. II (POLE) Holds Steady Near Trust Value Amid Minimal Volatility - On Balance Volume - newsline.com",
-      "summary": "Andretti Acquisition Corp. II (POLE) Holds Steady Near Trust Value Amid Minimal Volatility - On Balance Volume newsline.com",
-      "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxObHNOWHVyMW1ja0FNNndrNEUyMXRFRENiTU1FVmhRMGlOVzNRRmVNSTE0V1huRGxlUEdLM3hTLXNCSE9CUG1tQjYzMEJlM1pyeHRWWk9fbXo2aWE1OXRaeGVaaENPNlctbVM5aTJwZzlxcU5VeXoxV2JQc1VPNldGUDZFUkpfWk1yMmtMdmVFVzRLVzFmVVRIbGxkLW5DajZQYXZuVHpicXBsYXEwdE4xSF9Za2ZFUDNySWIxYmtXQ1JFRzR0NVE?oc=5",
-      "source": "newsline.com",
-      "category": "Eagle Materials",
-      "keywords": "Acquired",
-      "sector": "General",
-      "dealType": "Acquisition",
-      "value": "",
-      "date": "May 28, 2026",
-      "dateISO": "2026-05-28T07:00:00"
-    },
-    {
-      "title": "Suzano S.A. (SUZ) Sees Modest Gains as Shares Hold Above Key Support - Merger Arbitrage - newsline.com",
-      "summary": "Suzano S.A. (SUZ) Sees Modest Gains as Shares Hold Above Key Support - Merger Arbitrage newsline.com",
-      "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxQUXlVNzdOUFdVNGpjd1RhNjF0X2FpaTBHdk9rOWwtT1RpNUVua2VsTjhBem1kQ3paR1oySXVpc2JQc0VyOURWeWZ6RGtrdjdON1RTSVdXUmxmNmg1Yk5pTFd6Yzhqc3AydUJCeGlnZTlFYXpXa3VNemFpY0dZQ3RuTXpvdXl5ZnJZejRsMDY4b05FQVBZTnluVnd6U19uWTBHdUJEcFNkSnRFYTRtaXc?oc=5",
-      "source": "newsline.com",
-      "category": "Granite Construction",
-      "keywords": "Merger",
-      "sector": "General",
-      "dealType": "Merger",
-      "value": "",
-      "date": "May 27, 2026",
-      "dateISO": "2026-05-27T17:35:16"
     }
   ]
 }
