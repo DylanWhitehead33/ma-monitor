@@ -1,10 +1,101 @@
 {
-  "fetchedAt": "2026-06-28T14:46:33.187294",
-  "totalArticles": 151,
-  "newToday": 23,
-  "duplicatesRemoved": 20,
+  "fetchedAt": "2026-06-29T16:37:04.584476",
+  "totalArticles": 162,
+  "newToday": 32,
+  "duplicatesRemoved": 19,
   "archiveDays": 30,
   "articles": [
+    {
+      "title": "Martin Marietta Materials (MLM) Announces Acquisition of Lhoist North America - GuruFocus",
+      "summary": "Martin Marietta Materials (MLM) Announces Acquisition of Lhoist North America GuruFocus",
+      "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxPSmtSZVF4M2RWbEpJVDlhSGhHb01aekVLNTdEYVBpXzZJRU0zMm5ZUEpQbDd6bkNKT1c0LXMtbjU5MzBJbi1veEEyMVRINURfQjFTWGlqYUN6TFgzbW5wbERwRFNyUTNaM0NxUjZMWHpfUHJlUlIxc0hTZDRXeVZldUJSSkRVTWhqcHo4MUg0TDlpdk8yVXlRa2oxMnBwMV8za3l1VmlpNU5uZDczRlNYeWtKXzc?oc=5",
+      "source": "GuruFocus",
+      "category": "Martin Marietta",
+      "keywords": "Acquired",
+      "sector": "General",
+      "dealType": "Acquisition",
+      "value": "",
+      "date": "Jun 29, 2026",
+      "dateISO": "2026-06-29T15:56:15"
+    },
+    {
+      "title": "Martin Marietta is buying Lhoist North America in a $13.5 billion deal - qz.com",
+      "summary": "Martin Marietta is buying Lhoist North America in a $13.5 billion deal qz.com",
+      "url": "https://news.google.com/rss/articles/CBMiekFVX3lxTFBKU1RnSW5UWi1vTlhlOTJJUHBnUzRiaHVOeHFXQlZCRU5GTkpHZUl2bm5MM2FMOG1ocmtlaDNQN2Noa0FDbHRTVVJDd3Qzdm9RNm1LT1drMnJmS1lSU0k0dFZrelljU0JfMlV6RGE4U2JBTUVpN2x1Tmdn?oc=5",
+      "source": "qz.com",
+      "category": "Martin Marietta",
+      "keywords": "",
+      "sector": "General",
+      "dealType": "Acquisition",
+      "value": "$13.50B",
+      "date": "Jun 29, 2026",
+      "dateISO": "2026-06-29T14:34:26"
+    },
+    {
+      "title": "Martin Marietta (MLM) Acquires Lhoist North America for $13.5 Bi - GuruFocus",
+      "summary": "Martin Marietta (MLM) Acquires Lhoist North America for $13.5 Bi GuruFocus",
+      "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxNOGNoR0JBZjctNEM4Q3dOTnV5TFlEQV94NnJaWUIwaWs4ZXEzUmVNRlhaNUZ6X05MUE01T0VSTzdqSDQ4Z2NoaGJKb0lRM2phcm5ocHNTSHN3SEdPY25kaUdxZHk3Vk1UM0FUWUxhNUlPZEdRX095MjRBeEpESHlvUC14alRyOEpja2gxdXpSZzlUdV9SUkw2Ry1nWl8xV2tKYzN4cmNRVQ?oc=5",
+      "source": "GuruFocus",
+      "category": "Martin Marietta",
+      "keywords": "Acquired",
+      "sector": "General",
+      "dealType": "Acquisition",
+      "value": "",
+      "date": "Jun 29, 2026",
+      "dateISO": "2026-06-29T14:34:01"
+    },
+    {
+      "title": "Martin Marietta (MLM) Announces $13.5 Billion Acquisition of Laf - GuruFocus",
+      "summary": "Martin Marietta (MLM) Announces $13.5 Billion Acquisition of Laf GuruFocus",
+      "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxOd3FYNVo4U1pmR2lHTTBJTGNoZlFwbWVVRXBZSlpmcTV1ZVFLR1NzcHJOSE1JRURTM19uLWhSN2htN2FDbVJsbmlQRmpjc0VNTlctM1UzRTRYRDFJSmpNcEF0UWRrdGlHeWpKOFpmdFdzZXVvcm5uRlViYmpSaUx0S0ZhN2UxZmFGeU1IdmJJZEQtLXhSZDUwUjJvSklEdW1RQzY5RndyX20wclItcDZ5SUE4TTR4aXJa?oc=5",
+      "source": "GuruFocus",
+      "category": "Martin Marietta",
+      "keywords": "Acquired",
+      "sector": "General",
+      "dealType": "Acquisition",
+      "value": "$13.50B",
+      "date": "Jun 29, 2026",
+      "dateISO": "2026-06-29T14:11:54"
+    },
+    {
+      "title": "Martin Marietta to buy Lhoist North America in $13.5 billion deal - Reuters",
+      "summary": "Martin Marietta to buy Lhoist North America in $13.5 billion deal Reuters",
+      "url": "https://news.google.com/rss/articles/CBMizwFBVV95cUxPR1pvZGRIazAtNWtrS0hXVXFpVk13eDZUYWE5VFE1NERaMHR2Q09Zb0ZwRXFqUjVtck42SFRiSlpSTmE5ZXNrQkhXTmdWME9lbm5jYWVNVVpkWnJLU2lkS0pLamZJS2JPRnZzMFVxLUc4V01JTjM3cURhTEE5SWR0YVZtWGEzSVN3M0hzSUExSzUyRy04bHF3dGVOMGFsZ0tCYTAyZUR6NG9XMURqeE13anZDcmUydzNpdzVWTUV0Z0Y5Y0R0aGkydXpYcmIyQzA?oc=5",
+      "source": "Reuters",
+      "category": "Martin Marietta",
+      "keywords": "",
+      "sector": "General",
+      "dealType": "Acquisition",
+      "value": "$13.50B",
+      "date": "Jun 29, 2026",
+      "dateISO": "2026-06-29T14:03:58"
+    },
+    {
+      "title": "Martin Marietta Strikes $13.5 Billion Deal for Limestone Supplier - WSJ",
+      "summary": "Martin Marietta Strikes $13.5 Billion Deal for Limestone Supplier WSJ",
+      "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxPMGNpbjBJWFZxd2p5eVgzSS1RQjFhcDFMRUR2Y3FRRWhTUlY4bnR1bWZDeGpLZmZhdnpWWXdDX2hDYTdpLTIzZklHQlc5akdBbVNGVE1HZG44MFVyYkZGeHBpQUtQb0hEaDFldDQxRWhTZWpMXzdRWTFkT1p4N0x1TFZjYWhYSm9FeE83SW5nU1FHa2J4b2txOFo0X3JyRUkxN005MlRSaGpyMDZ2?oc=5",
+      "source": "WSJ",
+      "category": "Martin Marietta",
+      "keywords": "",
+      "sector": "General",
+      "dealType": "Acquisition",
+      "value": "$13.50B",
+      "date": "Jun 29, 2026",
+      "dateISO": "2026-06-29T11:39:00"
+    },
+    {
+      "title": "Martin Marietta agrees on $13.5 billion Lhoist deal, shares steady on NYSE - AD HOC NEWS",
+      "summary": "Martin Marietta agrees on $13.5 billion Lhoist deal, shares steady on NYSE AD HOC NEWS",
+      "url": "https://news.google.com/rss/articles/CBMiywFBVV95cUxNRHpCOHNtS2kwQ3lvYnFNMHlnQm5VS1J6RTl2UmwtNGpOVmlBZXNzTEtza2NDUUh1TDQxRXNKNS1hcXl0d3kzenhVMDlYZ3Z6NHZ5azBiRTNfRmYzcERlUm9kVUREcW9HYi1fVEdienFJYTllcnl1ZDVoVlRPVW1UUVAyNWZPeTAxcUZZZnBlXzQ3eHdTTGZvZzlNSG40UzVlVVFPaDF2bmktSmQ0el9fU19hMmtJU2xEWGwyeEdTUXZuYV9FQllPY0pqOA?oc=5",
+      "source": "AD HOC NEWS",
+      "category": "Aggregates Industry",
+      "keywords": "",
+      "sector": "General",
+      "dealType": "Acquisition",
+      "value": "$13.50B",
+      "date": "Jun 29, 2026",
+      "dateISO": "2026-06-29T10:43:56"
+    },
     {
       "title": "Holcim completes 1.85 bln euro acquisition of SEE-active Xella - SeeNews",
       "summary": "Holcim completes 1.85 bln euro acquisition of SEE-active Xella SeeNews",
@@ -539,6 +630,19 @@
       "dateISO": "2026-06-22T13:04:48"
     },
     {
+      "title": "CRH to Acquire Arcosa for $8.5 Billion, Strengthening Position as North America\u2019s Top Infrastructure and Aggregates Leader \u2013 Minichart - Minichart",
+      "summary": "CRH to Acquire Arcosa for $8.5 Billion, Strengthening Position as North America\u2019s Top Infrastructure and Aggregates Leader \u2013 Minichart Minichart",
+      "url": "https://news.google.com/rss/articles/CBMi8gFBVV95cUxQQ3dBY2JwSEk4WXBGQ2VzVk5iTUJUVGFuaV9HbWlVWnVuc2RYUVVLMVRuTmozZ1hNOUVxdEgyNHYzRWxpd2syQk43OEc2Z2xQcTZZTjRjTWNTQVpaMnJWeHhLTVlhUU5tZXlrVGg2bnVtekQ5ZGlzR3hWUERWdEpqVlpHSnA5SDRhNEtQNThyVW5vajhEYjQySUpKUUctNXBQRDMtelg3WXkxU2xuRFU0MjA1VDFTbnhweEotZ2FQNjNoNDJUWEMteE4wd3hVekJXX3BuX2oxVGpvZ1JCUTZXamlsYlpqT3FEMGZhTzJIaERJQQ?oc=5",
+      "source": "Minichart",
+      "category": "Aggregates Industry",
+      "keywords": "Acquired, To Acquire",
+      "sector": "Aggregates",
+      "dealType": "Acquisition",
+      "value": "$8.50B",
+      "date": "Jun 22, 2026",
+      "dateISO": "2026-06-22T12:30:00"
+    },
+    {
       "title": "CRH Eyes $8 Billion Arcosa Acquisition, Potential Deal Values Target at 13.7x EBITDA - Meyka",
       "summary": "CRH Eyes $8 Billion Arcosa Acquisition, Potential Deal Values Target at 13.7x EBITDA Meyka",
       "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxORXhSQm8xakpvOWcxdE54VXpoaWV5LTE3WWhXX0E3a0xkZF9TRkdLZDN1LU8xOHNnZ1hBYlFhM0M5MUlPWEVpUjBURnZCMElrbmRGRDJHZzMtN0t2eVl1NFBTWTRlcWNjakpCcFZEQm1pQUtUelVPXy1KRnNmZXBjaWZLZHNPalEzd1BibkRya2Nndmt6NjN4azV0c2JNcmc0Q1NZRjhvaHFGYU91UlpZRQ?oc=5",
@@ -851,6 +955,19 @@
       "dateISO": "2026-06-18T11:27:29"
     },
     {
+      "title": "Vedanta Power Completes Promoter Stake Acquisition of 56.38% Post NCLT Scheme - Whalesbook",
+      "summary": "Vedanta Power Completes Promoter Stake Acquisition of 56.38% Post NCLT Scheme Whalesbook",
+      "url": "https://news.google.com/rss/articles/CBMi9wFBVV95cUxNdXdBazRtYk05dk44aE5pdGYwaVdMVG1lcGFRNHlVaE1UR0Nkc19aSFpsTTJvZHVoVlhlcXhtLTg4WjBuTDcxMWx4Qm5QSVdFN2xNY0FRSnE3VHdJdU1WRnVMYU1aWllpSGdiTXR3dXdzWEpOTEIxMzlPdW81dnB0cEItNk0wZVpIWEhjajl5RUJTeERkdER6cFZfY1g3Uy00R25Sb3hNRFpiWHpjanFtSHdMajlLRmhmSlVvYk1sWWV0dGNDcWJGYUwwc2pBam9kdEZyZ1phTkQxU0hJSGNoLV9UR3RWTU1US05PR0tWVFV6WVMxTkZZ?oc=5",
+      "source": "Whalesbook",
+      "category": "Cement Industry",
+      "keywords": "Acquired",
+      "sector": "General",
+      "dealType": "Acquisition",
+      "value": "",
+      "date": "Jun 18, 2026",
+      "dateISO": "2026-06-18T04:54:29"
+    },
+    {
       "title": "Gautam Adani's Biggest Business Acquisitions That Built His Empire - Business Outreach Magazine",
       "summary": "Gautam Adani's Biggest Business Acquisitions That Built His Empire Business Outreach Magazine",
       "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxPRzFxNkh5OGhUU0VMMWtYelNqcEFWSXBRb05ENURXalRLX0xRS1U5SzYwOWN3VS1HMWxpTmdvR1RHXy0wZ0hTVjI4Qi1udG5Gel9EZ1RmRzQybUVoaGlZQUxBWER6bFZVMGFSczZOZVJaaXlaQzFBYm85aXF2cEtCa1NB?oc=5",
@@ -953,6 +1070,19 @@
       "value": "",
       "date": "Jun 16, 2026",
       "dateISO": "2026-06-16T12:57:30"
+    },
+    {
+      "title": "Cyprus Cement Public Company Ltd completes purchase of 1,244 own shares | Cyprus inform - Cyprus Inform",
+      "summary": "Cyprus Cement Public Company Ltd completes purchase of 1,244 own shares | Cyprus inform Cyprus Inform",
+      "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxPN3ktc2RYQ2ZkOXZuV1Z1WmJZWVBacGVQTGpra29WMmhNOFJVZF95TlFlUGhuOUVFRjFIVy11T3BqT3RHMURxaFNYWDRsMWFiUGlrei1ZLXRudFA5dTBPSGpmVnoxb19UaDk5aHVtc0k5bGpWanZRX1JDVlJCQ2ZsdE5EcFVMUzJkR1J6TnJuX0JqS1B2emVvdDl5VV9IR21RS1UzUU0zdEYyblVKWDI5WDdhWEjSAboBQVVfeXFMTUVZc0VMX3Y3Nzc4bnlWcUZmUThDaGVTaVp1QzlCNDYwVEFERUpPanNQSVcyNEhZdkI5VGFoMS1FR2I0bjdlQ09iSVluUl9FNEc1QTNjUzR4T0lNdjBhZzNONjh6OEJFQmlNVWw5UlM4THJTd2JTN3htSVEybmpoTWM2WXJwVFdkQTA4bU5TQkQ2NWlwMF9LeFA5UVRxOGhsVkZGdWY3aGx6cGd4dWFfNFdUZEJrSU83a193?oc=5",
+      "source": "Cyprus Inform",
+      "category": "Cement Industry",
+      "keywords": "Purchase",
+      "sector": "Cement",
+      "dealType": "Acquisition",
+      "value": "",
+      "date": "Jun 16, 2026",
+      "dateISO": "2026-06-16T12:04:45"
     },
     {
       "title": "3,806 Shares in Lockheed Martin Corporation $LMT Acquired by University of Texas Texas AM Investment Management Co. - MarketBeat",
@@ -1501,6 +1631,19 @@
       "dateISO": "2026-06-09T07:00:00"
     },
     {
+      "title": "Meghmani Organics Shareholders Approve Merger of Two Subsidiaries - Whalesbook",
+      "summary": "Meghmani Organics Shareholders Approve Merger of Two Subsidiaries Whalesbook",
+      "url": "https://news.google.com/rss/articles/CBMi5AFBVV95cUxNd1ltRDlfV0JiaHhvV2ZJVkFPa1BkcURob2JQTHpVMTdoc2Utekc0cHJwaTM3Qm9vUkpBZGpxc2dmS2k1dXJubkZlSXowdVZaeW96a1RwcVF4VGZMM1R0Nlg1Y29RRWkxX1JLbDBac0VaakladWx2ekVUWHUzTTBmOS1zSFZPaHo2eVZ4WlNKNEt5SEZ0ekJxLXJDaTU0aDR6UGdlM3Z5R1R2VGNfYnM3WlFDTTFFZ0k4R2NVMVdlQVJSam1NT3lXVDVfVVdtUDFYMEc0UFJhcnQ1R2pUYXFHcDNDbW4?oc=5",
+      "source": "Whalesbook",
+      "category": "Cement Industry",
+      "keywords": "Merger",
+      "sector": "Asphalt",
+      "dealType": "Merger",
+      "value": "",
+      "date": "Jun 09, 2026",
+      "dateISO": "2026-06-09T07:00:00"
+    },
+    {
       "title": "Vulcan Materials falls 3.1% as investors digest California concrete exit and Brannan aggregates deal - Quiver Quantitative",
       "summary": "Vulcan Materials falls 3.1% as investors digest California concrete exit and Brannan aggregates deal Quiver Quantitative",
       "url": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxQV2tNTmt5ZjZzUFRQcWt4OGg1Y1VSVmdzZjVtQXRBdUZHeEFEWkNvOTZpZHJNYVVDSDY3Q3BvWHNVRFdZUVZ5Ui1Dai1yS3otcjNZcE5SdUQxekVCTEI2OXd2MzdWazdJQW0wMDJLeWxnY25MT1prN010ak90Nmg3d0JHYmxjUEYzQTFNalBLcHhYOWE5elljRUkwNHB6OU9hYThOLUlLYnZ3aWh6N0hYblNIMHdXdmRmZFVwYlNuQ2tENWRoWTEySmtCRkxTX21C?oc=5",
@@ -1748,6 +1891,19 @@
       "dateISO": "2026-06-04T14:05:32"
     },
     {
+      "title": "FGR accelerates USA expansion & defence sector exposure with strategic acquisition of MITO\u00ae Material Solutions - PR Newswire UK",
+      "summary": "FGR accelerates USA expansion & defence sector exposure with strategic acquisition of MITO\u00ae Material Solutions PR Newswire UK",
+      "url": "https://news.google.com/rss/articles/CBMi-gFBVV95cUxPejByd1pqMDJfTWYwZFNTVVNFdFFmNEwycjRad1lWb052TGpYVi1KNGhVd0U0TGhtQTkxSGJLOFJXejIzU19QWFNrM0Y4YUVobzhuX2E3QzhxWGJTUTNtNTdRQ1A0V2NNdjNXa3VjZHhnTXZWeU9SM05abjEwYjRXN2xqUndkU0xZVlk1WFVrZUdSUkNaNzBpTGF6UFRPdlJOSFkxU095OHBzSlBrTzJwV3picXlBZ2p3MTNXRTlLZ2JhWDVHc0hkdlBSeDVRSUxseVA0UC02dXh1Vk5QY2VTWXh3dG5hTDJPNEYtUEJ5RU1YVHg0S3dfUzBB?oc=5",
+      "source": "PR Newswire UK",
+      "category": "Cement Industry",
+      "keywords": "Acquired",
+      "sector": "General",
+      "dealType": "Acquisition",
+      "value": "",
+      "date": "Jun 04, 2026",
+      "dateISO": "2026-06-04T07:00:00"
+    },
+    {
       "title": "Top Changes At Concrete Engineering Following YTL Takeover - BusinessToday Malaysia",
       "summary": "Top Changes At Concrete Engineering Following YTL Takeover BusinessToday Malaysia",
       "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxNZTdjLVlJSmMzVHNsenpvNFNGMFZsRU96Wl9rNXNMd3FHS05FMGR6Q1N4dEpJb0Z3NlBYdzFvMUc2Uy03SEQ3SlVPYmdkUWdPUndBZ2QzS29RYXNUZmFEcjN6M2V0cXJZZzBPRTlzUEZSVUF2MUhoT0pLd0paMVBsN0lIWmV4WHIzV01WWDZNbjktOXBIaUNJanFsVmRYODBSMlIyNGx3?oc=5",
@@ -1759,6 +1915,19 @@
       "value": "",
       "date": "Jun 03, 2026",
       "dateISO": "2026-06-03T10:00:50"
+    },
+    {
+      "title": "Santander CIB participates in Molins\u2019 \u20ac500 million bond issuance to support the acquisition of Secil - capital-riesgo.es",
+      "summary": "Santander CIB participates in Molins\u2019 \u20ac500 million bond issuance to support the acquisition of Secil capital-riesgo.es",
+      "url": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxNMk9FdjNlb1J3WXFwc1podndFcjhvRDFvd0FZbWY3cTM2SmZ2WVRjaWlRamtBajlPclhNVGtZS05XRHNZbUw3MG9odDFlV3F3Y1RkVWl4OEVMMUdyTUh3MXYwQVdRSjFVbGhEN1BqQm91TmVwTmJCREd1dlgzN0s1Z0xwd2lWRTA5YUtNTGVUWTlIdU43TGNBSDhlZmVSbHJYZjRfOXB1NmNidXJtZ2hqd3JNZDVyU3A3c1RJdW5nVE5PRllWLVhIdk5QVG5BZWtKTFMw?oc=5",
+      "source": "capital-riesgo.es",
+      "category": "Cement Industry",
+      "keywords": "Acquired",
+      "sector": "General",
+      "dealType": "Acquisition",
+      "value": "",
+      "date": "Jun 03, 2026",
+      "dateISO": "2026-06-03T07:00:00"
     },
     {
       "title": "Holcim Ltd stock (CH0012214059): EU review of Xella deal keeps Swiss shares in focus - AD HOC NEWS",
@@ -1941,32 +2110,6 @@
       "value": "",
       "date": "Jun 01, 2026",
       "dateISO": "2026-06-01T11:00:00"
-    },
-    {
-      "title": "Standard Bank advises West China Cement on AfriSam acquisition - africaprivateequitynews.com",
-      "summary": "Standard Bank advises West China Cement on AfriSam acquisition africaprivateequitynews.com",
-      "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE1WcXVVMnNseE0xdnlhbkhQWU10M09nUGhsZzZoLU9IOFZLb1EyMHdZS2E2TVUxU2FIWDZHcy1IZk15YjE4OTZVVFF6YjVQazQ2dEh1WjRiV09ITmlNUkZ6NGFOb1pjbTFSaEFpTkRWSTZuZlBoUzFkeUR4WkVibEk?oc=5",
-      "source": "africaprivateequitynews.com",
-      "category": "Cement Industry",
-      "keywords": "Acquired",
-      "sector": "Cement",
-      "dealType": "Acquisition",
-      "value": "",
-      "date": "May 30, 2026",
-      "dateISO": "2026-05-30T12:16:55"
-    },
-    {
-      "title": "Dalmia Bharat Completes Jaiprakash Associates Cement Plant Acquisition - Whalesbook",
-      "summary": "Dalmia Bharat Completes Jaiprakash Associates Cement Plant Acquisition Whalesbook",
-      "url": "https://news.google.com/rss/articles/CBMi_wFBVV95cUxOUlJSSWpKZW5zWExUQmVEcERlcWJvV3VucjIxQlprd2dTb2RCbktlN1Ayamd3bkNfYUhucF9GSTk3aW9hZmVHSWxQd1BLQ3BPQVNFSVZISkM1dE5LYzhpQnhJMVBNSENHRHd6Y1NrdERZOXZqcW5LMnFzZVljczhJdUphbmtuUmk0eDRuamRoNWFaMjRVQjFlbVl4RmpuM0RjZk56dkZZSTBESlV6OTdKRFV3ZU1LM2ZhZVJhLXZiV2ltYmU3NDBRZ19ZRGhOaW9wS0pkSXRCNE1sckVtZmlGNGMxSk9kTU9yRVJ5cV9PaHhlR19ENHBrX2Z5LVJtR2M?oc=5",
-      "source": "Whalesbook",
-      "category": "Cement Industry",
-      "keywords": "Acquired",
-      "sector": "Cement",
-      "dealType": "Acquisition",
-      "value": "",
-      "date": "May 30, 2026",
-      "dateISO": "2026-05-30T00:21:19"
     }
   ]
 }
