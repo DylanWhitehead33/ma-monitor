@@ -1,10 +1,62 @@
 {
-  "fetchedAt": "2026-06-30T15:23:57.914400",
-  "totalArticles": 175,
-  "newToday": 39,
-  "duplicatesRemoved": 26,
+  "fetchedAt": "2026-07-01T15:38:57.013129",
+  "totalArticles": 177,
+  "newToday": 31,
+  "duplicatesRemoved": 24,
   "archiveDays": 30,
   "articles": [
+    {
+      "title": "Hogan Lovells and Cadwalader cement $3.9bn merger - The Global Legal Post",
+      "summary": "Hogan Lovells and Cadwalader cement $3.9bn merger The Global Legal Post",
+      "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxNZ3FSZXpTSU1DUDgzUzJpR29hZEg0R3Y3dzVTLUZfc29nWnlCbTNWSnZNOGIxOXVKak8yWEFSS3VQX2trMFpIOHA4VGtBLU9IRFVnbkdYSmFVRFdjSXlGX1FhRkNQUDliTG5JTzY4ZHc0VmdvS0p6OEU4UmUzOElOY0FpVXdpX0JqUTZtUkpZanpDaVpHaGR2cC1R?oc=5",
+      "source": "The Global Legal Post",
+      "category": "Cement Industry",
+      "keywords": "Merger",
+      "sector": "Cement",
+      "dealType": "Merger",
+      "value": "",
+      "date": "Jul 01, 2026",
+      "dateISO": "2026-07-01T11:30:00"
+    },
+    {
+      "title": "Sandvik acquiring Diemme Filtration - Pit & Quarry",
+      "summary": "Sandvik acquiring Diemme Filtration Pit & Quarry",
+      "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTE5wN2lqSmRZRC1NTFk0Mi1IREFIcldfSTAyczhEdWd1Q1RjQ1pXYmNya3JVQ1E3YWE1NU1ldER0Rnk4Ujc2c0x0TGhyY3lCOTQxdHRxUTVPYy1CMXhIbVN5YjhudUpvX05iTmRiMjRUQXdsUUE?oc=5",
+      "source": "Pit & Quarry",
+      "category": "Pit & Quarry \u00b7 Aggregates",
+      "keywords": "Acquired",
+      "sector": "Aggregates",
+      "dealType": "Acquisition",
+      "value": "",
+      "date": "Jun 30, 2026",
+      "dateISO": "2026-06-30T19:51:33"
+    },
+    {
+      "title": "Will the Lhoist Acquisition Strengthen Martin Marietta's Market Lead? - Yahoo Finance",
+      "summary": "Will the Lhoist Acquisition Strengthen Martin Marietta's Market Lead? Yahoo Finance",
+      "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxPQk5wcGUzNEFhOGx5ckNmT3lxUTN4Vmo5TTZVbEZVMmlGdTJZVWRZdEROOV9lWXo2S3FncVd2SEN0em9ISS1NNUVFbWxrNGRjYjhtVlRfTWFLRlN1WWtBZWE2YmFoOW9OcGR6U3JYRTctUVhSVjRwOVZkRFFCdWV6Sm9SQ0lOLUZDUTJPZkx5M1p4dTNXeDUxTk1BWkc4X0tEX1ZaZ2NXbDBZWVFteEtqXw?oc=5",
+      "source": "Yahoo Finance",
+      "category": "Martin Marietta",
+      "keywords": "Acquired",
+      "sector": "General",
+      "dealType": "Acquisition",
+      "value": "",
+      "date": "Jun 30, 2026",
+      "dateISO": "2026-06-30T18:21:00"
+    },
+    {
+      "title": "Star Cement Acquires 30% Stake in JSW Green Energy Six - Machine Maker",
+      "summary": "Star Cement Acquires 30% Stake in JSW Green Energy Six Machine Maker",
+      "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxOM3JwRXJzQldtLXNYVDR1WU1ZbnMyYlBVZE5XUjNyZm1JYVBtOUZ6LUI2N0VDRGdDMkNJSWFScTZUMjQ5dmJubHk4VldRUEh6ZGFFVFBqak9fektrYW9PSkJ2SWVWSVNQdkZvQTBRZ0VxV0ZqUDNOSWpfamdqR2lCUmZWcDJqNExqV0E?oc=5",
+      "source": "Machine Maker",
+      "category": "Cement Industry",
+      "keywords": "Acquired",
+      "sector": "Cement",
+      "dealType": "Acquisition",
+      "value": "",
+      "date": "Jun 30, 2026",
+      "dateISO": "2026-06-30T17:06:10"
+    },
     {
       "title": "Pave America Expands in the Carolinas with Acquisition of Bennett Paving, Inc. - PR Newswire",
       "summary": "Pave America Expands in the Carolinas with Acquisition of Bennett Paving, Inc. PR Newswire",
@@ -97,6 +149,19 @@
       "dateISO": "2026-06-29T23:14:00"
     },
     {
+      "title": "Raymond James reiterates Martin Marietta stock rating on lime deal synergies - Investing.com South Africa",
+      "summary": "Raymond James reiterates Martin Marietta stock rating on lime deal synergies Investing.com South Africa",
+      "url": "https://news.google.com/rss/articles/CBMi4wFBVV95cUxPWFZSeEZVYnptUHF0SGd4dUtpTG5jYmpUQXZXdmNSRE9hUWFXM0RMRzEzQlFBUFhzRF9xOTlFLWNwdmRReVB6bC1lSTlRSzFGRWhZOS11Q0dITGdlNDdKV2NnQW9mbkFJcU9VMjdCWlZGSlJIWEhOOGpOMXJZRVRJU212T2lEbFR1Vllyc25fMnVyc09CVWF4SXo5T0dKbmJjS3BJWTNqc01UemduWkdLQ0JFUmtvM0VTMmRyWjZtTG84REtSbFJJN0Rnb183Z3IxRG8zR2l2WHVwc3FrQTU3a0JvTQ?oc=5",
+      "source": "Investing.com South Africa",
+      "category": "Martin Marietta",
+      "keywords": "Investment",
+      "sector": "General",
+      "dealType": "Investment",
+      "value": "",
+      "date": "Jun 29, 2026",
+      "dateISO": "2026-06-29T22:13:49"
+    },
+    {
       "title": "Martin Marietta (MLM) to Acquire Lhoist North America in $13.5 B - GuruFocus",
       "summary": "Martin Marietta (MLM) to Acquire Lhoist North America in $13.5 B GuruFocus",
       "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxNUGZHaE5mNFpKZjIzczVmb0I2N0pfUDIwUzhPemxPYnRJaHFNSHFiczJRMkZPcHJ6UTBmTWlqUWdaV01kQ2liNFBHRUpZWVk0bV9qVFkwWldsSzFoNnlrTkRwNy1WcURQZVRUY2N4NWZQek1vQ3VEY3B3Vk5aNEpPdkhfcE1tWkJqdDhzdnpUX2h1dllqSExEaG1EeHBjNDRCLXdDWER3SWhrd2RYUXJJajVyaEVoV1VISjZvUmhkbw?oc=5",
@@ -134,19 +199,6 @@
       "value": "",
       "date": "Jun 29, 2026",
       "dateISO": "2026-06-29T16:38:23"
-    },
-    {
-      "title": "Raymond James reiterates Martin Marietta stock rating on lime deal synergies - Investing.com UK",
-      "summary": "Raymond James reiterates Martin Marietta stock rating on lime deal synergies Investing.com UK",
-      "url": "https://news.google.com/rss/articles/CBMi4wFBVV95cUxPZXJFRmlOcUlrZC16YXRpaWhGOTh4RWtTMUZycVc0dlNzUmJPMWZVeGNrUG1TRkg4ZWdFaUhjQ1dsOHhyLWltbFZfT296MEphN3dXUUxIZ0pNeGZpb1lzbFhTMTRTeUQxMkk2OFFDdWczWEl3R0s2dVZibGlOSzExNUlVVHg1Q0VvRTZaWHVxdU9sSFNzZFoxR09yVmt5ejhvZV96cFlESUdvWHlROE9VUktwVzVBSnNaWFhCMGV3MHVJd0YwLWxLa2FtNFlTSFp4ZFdzdWlXMmRxNWkxa1Qxd0Frbw?oc=5",
-      "source": "Investing.com UK",
-      "category": "Martin Marietta",
-      "keywords": "Investment",
-      "sector": "General",
-      "dealType": "Investment",
-      "value": "",
-      "date": "Jun 29, 2026",
-      "dateISO": "2026-06-29T16:04:08"
     },
     {
       "title": "Martin Marietta Materials (MLM) Announces Acquisition of Lhoist North America - GuruFocus",
@@ -422,6 +474,19 @@
       "dateISO": "2026-06-23T17:52:29"
     },
     {
+      "title": "Bernstein reiterates CRH stock Outperform on Arcosa acquisition By Investing.com - Investing.com Australia",
+      "summary": "Bernstein reiterates CRH stock Outperform on Arcosa acquisition By Investing.com Investing.com Australia",
+      "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxQX0d3c3IycUdjdnlVOEQzT25yd3VnWFJfd2Z6ZmRaSC1PZVZjaHBrVkN6S2wya0hzVm4yYUtyTFo4MXZMc2dBTGtiMmpIcEZRT2xFRXhqcVI0QnJ6R093MmVicDVGS2hHa2VNUU85MS16b1pkRGp4MHoybk5FUWN0N09JaGpIdkRlZmRfR0pMX0VLM1p0dF9LZ04yQVpySDlpVDRKM0UxU1lSeFZhTWNqMzBMTlBLS055TVZBbHNGenk3QQ?oc=5",
+      "source": "Investing.com Australia",
+      "category": "CRH",
+      "keywords": "Acquired, Investment",
+      "sector": "General",
+      "dealType": "Investment",
+      "value": "",
+      "date": "Jun 23, 2026",
+      "dateISO": "2026-06-23T16:57:58"
+    },
+    {
       "title": "Warner Brothers Paramount Merger Protest In New York City - Martinsville Bulletin",
       "summary": "Warner Brothers Paramount Merger Protest In New York City Martinsville Bulletin",
       "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxPQU5ydXAyazd5d293Wk14YXhlVXl1UTI4RmlGTGFlUmhHNUxRNXNHRk53M3VNVHJmNERBNldDcjRVeWx2bXNSUjBpRE80MFl6eE94Z2RqMUQ5SEFZd3N6R21oQVRnMnlodEc4V2M2bzVUWkN1VWhnc1ZheE9rcXNyeGFqSnNVM0k?oc=5",
@@ -693,6 +758,19 @@
       "value": "",
       "date": "Jun 22, 2026",
       "dateISO": "2026-06-22T17:42:00"
+    },
+    {
+      "title": "CRH to Acquire Arcosa for $8.5 Billion Amid Market Skepticism - GuruFocus",
+      "summary": "CRH to Acquire Arcosa for $8.5 Billion Amid Market Skepticism GuruFocus",
+      "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxOeUdGNTNXNmV4bjhMbW9GRHQtVE1LUEQxZmx3NTF0R2FxVTRrLVhKWUszZW11N0N5d0VTLWJlbDVmUDdvWEFPMjF3MzFPRW9pRzFqNzRGRExWLTZHcmRJZWtacjA5UVhqT1ZyMllPNXYwWU9lZkh2dlRZb2NSVUVPTHBJUkRMbHo0N0JVRl9adjE3STVrN3NpMk0xSEo3UWtVTFRobWVEeEdlTTR5dUNv?oc=5",
+      "source": "GuruFocus",
+      "category": "Aggregates Industry",
+      "keywords": "Acquired, To Acquire",
+      "sector": "General",
+      "dealType": "Acquisition",
+      "value": "$8.50B",
+      "date": "Jun 22, 2026",
+      "dateISO": "2026-06-22T15:21:53"
     },
     {
       "title": "CRH to Buy Arcosa in $8.5B Construction Aggregates Deal - Modern Distribution Management",
@@ -1670,6 +1748,19 @@
       "dateISO": "2026-06-10T07:00:00"
     },
     {
+      "title": "India Cements to acquire 12.48% stake in FPEL Services for \u20b910.78 crore - scanx.trade",
+      "summary": "India Cements to acquire 12.48% stake in FPEL Services for \u20b910.78 crore scanx.trade",
+      "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxNd2lzaEVXVHZHQVBrSkhXVEJkVkNqdUdONGl3S0FLZXlOVkJPSDFBMElBTWZGdWlUdjdTUW9HdzhTN294WjRVMDVSX2hmQ3JhcjlqelV2QWo5WXZkN3ZCbnVSdjNpRTlKelhobksteE5JN3Fwd09jUEJvTTRnMm1sYWJUeHRmVm5kNkl2cjFVV3BIdm1RYW9ydzFNZzhYT2ZsQ0l5Nmg5VGI2U1dfTzE1Zk8zRlFNd2N1bk01UTFVcjd6SkNV?oc=5",
+      "source": "scanx.trade",
+      "category": "Cement Industry",
+      "keywords": "Acquired, To Acquire",
+      "sector": "Cement",
+      "dealType": "Acquisition",
+      "value": "",
+      "date": "Jun 10, 2026",
+      "dateISO": "2026-06-10T07:00:00"
+    },
+    {
       "title": "ICICI Prudential Mutual Fund Acquires Over 5% Stake in JK Lakshmi Cement Ltd. - InvestyWise",
       "summary": "ICICI Prudential Mutual Fund Acquires Over 5% Stake in JK Lakshmi Cement Ltd. InvestyWise",
       "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxPbTdMWTlTRW04RnhhUmJBWk80ZkpDOUg1djF5YlJ6c24tMDBIVmM2dkZuY0FId3k2NG1LRi1FaU1IdVRHUU85T3hSSGZfaGJIOGVjVHhqOWhobWtBVkVyalRtNzRjaFp6aWdfZ2lMV193UWtDTVBFazdfN0RhOWRGbWlMUVduU1BaSi1nY1ZhSkhCYTJ4?oc=5",
@@ -2214,71 +2305,6 @@
       "value": "",
       "date": "Jun 02, 2026",
       "dateISO": "2026-06-02T07:00:00"
-    },
-    {
-      "title": "Exclusive: Holcim to get EU nod for 1.85 billion euro Xella acquisition after offer to sell Romanian asset, sources say - Reuters",
-      "summary": "Exclusive: Holcim to get EU nod for 1.85 billion euro Xella acquisition after offer to sell Romanian asset, sources say Reuters",
-      "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxPY21Iejc0QmVUUzNkR1BUaHNwWm10MTJab1ZnMTV6ZFozUUdHQW45b1BSdkxOcThlalVPOXpoanVoc29uRkdzamQxczNYU1BtS05fUVlpcnl6cE1ERHZ1Y29rZ0hFV1ZWaGJQVkFlNE9WcWFjaTI3UFQxTWs1R3o5bEFTNjVwMlhfYXdTQ2dQUy1qYkhCQkJ2TkJyWVZLOW9YZVljb2RBc2pWRk9JMWhUVlI0VWRmMmNVVndlTjVKbF8?oc=5",
-      "source": "Reuters",
-      "category": "Cement Industry",
-      "keywords": "Acquired",
-      "sector": "General",
-      "dealType": "Acquisition",
-      "value": "",
-      "date": "Jun 01, 2026",
-      "dateISO": "2026-06-01T14:55:17"
-    },
-    {
-      "title": "Holcim to get EU nod for 1.85 billion euro Xella acquisition after offer to sell Romanian asset, sources say - TradingView",
-      "summary": "Holcim to get EU nod for 1.85 billion euro Xella acquisition after offer to sell Romanian asset, sources say TradingView",
-      "url": "https://news.google.com/rss/articles/CBMiiAJBVV95cUxPcHRPOUJsd1FyTnR3REQwVGI3TzZrdEdMVW92Qm9CdWhhcUp5SDd6SWo2a2pzV3JUd2dVN1JjMmZCSGlMNmxpSDhrRUxmOExwZ1FFRWdVWVVJdW1CU0Y1WExqVFhuSXdCUnVVN0N5dWpGS1I0dXNubTRFRDcyVnMtdmdYWkpfWkxOYmdUTFhzRHhKaVVXd0NwNG9VR0NVemRPZWNqbnczTmZUYWdObExuZXJUZHRHWVA5dGRGSHZUdG1ocjhpQVAxVzlfY3JzX19KVWlMWWNNNFk3XzZvRzlwY2J4ZFlHWlBST0x6UEdCVG5uRC1TZ1UxZHJiM1RfeTZBQ0hyZGlUSDU?oc=5",
-      "source": "TradingView",
-      "category": "Holcim",
-      "keywords": "Acquired",
-      "sector": "General",
-      "dealType": "Acquisition",
-      "value": "",
-      "date": "Jun 01, 2026",
-      "dateISO": "2026-06-01T14:52:41"
-    },
-    {
-      "title": "SRS snaps up CORCO's commercial roofing business - HBS Dealer",
-      "summary": "SRS snaps up CORCO's commercial roofing business HBS Dealer",
-      "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTFBoQ1BkQWpMdlBSR2xNQWdqc1hwcG1KY2MzMFV3bUgxckV1c3I1T0RMMlFvQ1pXRW5aUFo1elRTOFRqUUt1b0cyYW11T0dpTzFGYmdlQjB6bjM2cE9Nei11R25aS296d2pBVFBZWGl4eUJYb1Yt?oc=5",
-      "source": "HBS Dealer",
-      "category": "Asphalt Industry",
-      "keywords": "",
-      "sector": "General",
-      "dealType": "Acquisition",
-      "value": "",
-      "date": "Jun 01, 2026",
-      "dateISO": "2026-06-01T13:33:13"
-    },
-    {
-      "title": "One Equity Partners Acquires Leviat to Accelerate Global Construction Solutions Growth - citybiz",
-      "summary": "One Equity Partners Acquires Leviat to Accelerate Global Construction Solutions Growth citybiz",
-      "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxOTWFLcHN4Y0xSU09yc1U2TjBWT1BPUjZteXQzS2RncHJUNkgySnljYXVvSnhJR3JiR0tQMkdrZktRVDdmNmxsRmc4V3dEWWZrRmJzTnRIQTVhbkRDVFQwaEJoS09WcWIydmF4WGVqYWkwY1hyOTNOcWJ2QWhrWXVoX3J0RXRSRlFHd0lqY2F2X3dQRkc3QjNQY0R5X18wZXpIa2s2djFmRllsWkJMRVBSRXVTcHQ5MVJ5Z0tHQUZkM1I5eWc?oc=5",
-      "source": "citybiz",
-      "category": "CRH",
-      "keywords": "Acquired",
-      "sector": "General",
-      "dealType": "Acquisition",
-      "value": "",
-      "date": "Jun 01, 2026",
-      "dateISO": "2026-06-01T12:10:14"
-    },
-    {
-      "title": "One Equity Partners Acquires Leviat - Business Wire",
-      "summary": "One Equity Partners Acquires Leviat Business Wire",
-      "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxPaUlSRDFKYVZaZUFfYjB2b3BBNkhSLU13dU05R2s2aUR5LXNFREdQWkQzTmgyV1F6UndJWVZ6OHRrTUdCeF9vNDhXbHhFYlJqNm5FQnpDMFNhUllPTXNORzlLdDFTby11dVM1MlZ4WkwzV3llUjhRM2VQZnJ1dzZGX0pMWWpoeEdETTJiYVI5NjFUWXcxRG5r?oc=5",
-      "source": "Business Wire",
-      "category": "CRH",
-      "keywords": "Acquired",
-      "sector": "General",
-      "dealType": "Acquisition",
-      "value": "",
-      "date": "Jun 01, 2026",
-      "dateISO": "2026-06-01T11:00:00"
     }
   ]
 }
