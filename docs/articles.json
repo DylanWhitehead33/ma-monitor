@@ -1,10 +1,23 @@
 {
-  "fetchedAt": "2026-07-01T15:38:57.013129",
-  "totalArticles": 177,
-  "newToday": 31,
-  "duplicatesRemoved": 24,
+  "fetchedAt": "2026-07-02T15:11:55.970853",
+  "totalArticles": 175,
+  "newToday": 27,
+  "duplicatesRemoved": 22,
   "archiveDays": 30,
   "articles": [
+    {
+      "title": "Cementir Holding, through its subsidiary Aalborg Portland Holding, completes the acquisition of Nym\u00f8lle Stenindustrier A/S in Denmark - World Cement",
+      "summary": "Cementir Holding, through its subsidiary Aalborg Portland Holding, completes the acquisition of Nym\u00f8lle Stenindustrier A/S in Denmark World Cement",
+      "url": "https://news.google.com/rss/articles/CBMiigJBVV95cUxQV29PMTlmUlROb01FeUxIYUdwT1JUcTY2RHN1aEN0U2NCcms4WEhIaTZOQzJvOG43VVRBcVR1anY5cFBkTXY3Nk5aUmNQMlloQ1FRMThBWUdFZVZPcWZXaW1BODZSaHZYQS1PNzlSLVV5TVgyVTZ3ZkNoN2tXZkVkTkdzRW80dXpEWW1pUFlaVVdGX1hLaksxNnlUX1k1RXpfdzQ4T1ZMYUNxY25hU0lpcl94Y2k1aE5uRzl3TFpEOERDN2hmVDJEbGdTcFpFbml0bVZPUHZ1S1BqWXNyRTZhT2UzaWJmdzBkNzB4eDRVNkE4Q0ZVa2ZmTmxKS2pxb1hGZC1vYXE0a1ZRUQ?oc=5",
+      "source": "World Cement",
+      "category": "Cement Industry",
+      "keywords": "Acquired",
+      "sector": "Cement",
+      "dealType": "Acquisition",
+      "value": "",
+      "date": "Jul 02, 2026",
+      "dateISO": "2026-07-02T08:58:36"
+    },
     {
       "title": "Hogan Lovells and Cadwalader cement $3.9bn merger - The Global Legal Post",
       "summary": "Hogan Lovells and Cadwalader cement $3.9bn merger The Global Legal Post",
@@ -17,6 +30,32 @@
       "value": "",
       "date": "Jul 01, 2026",
       "dateISO": "2026-07-01T11:30:00"
+    },
+    {
+      "title": "Martin Marietta to acquire Lhoist North America for US$13.5bn - cemnet.com",
+      "summary": "Martin Marietta to acquire Lhoist North America for US$13.5bn cemnet.com",
+      "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxNNl9PTFo2N1EzN3JjbDBxVjR5dW14ZVlJODJ0QVJ4TjBIWkpBTGR0SWR6YUoteXkzS3lJUlhtTzRXMy1sdTdHWGtfYWNIMHJBQW1zYjFaQkhzZ3dHWF83dEppT1hxbllueGVJY1pYTXdnZkZ2QXJhNXlIekRVdGRyaEJiYVVNdGJCdzR0T2M5Zm5UVDViek9wT3dGQjAtNkxaSUxkQ0gtaEx6M1E?oc=5",
+      "source": "cemnet.com",
+      "category": "Martin Marietta",
+      "keywords": "Acquired, To Acquire",
+      "sector": "General",
+      "dealType": "Acquisition",
+      "value": "",
+      "date": "Jul 01, 2026",
+      "dateISO": "2026-07-01T07:32:21"
+    },
+    {
+      "title": "Angel Castillo Reiterates Buy on Martin Marietta, Maintains $664 Price Target Following Transformative Lhoist North America Acquisition - TipRanks",
+      "summary": "Angel Castillo Reiterates Buy on Martin Marietta, Maintains $664 Price Target Following Transformative Lhoist North America Acquisition TipRanks",
+      "url": "https://news.google.com/rss/articles/CBMikgJBVV95cUxNa185a0k0Ung5M0QzRXQ1V3dOZDNyVXZaX0dKc09tLW02dXlpejRzRmg3clZjMFZiTjFxSG5SYnMzS2Z0c2l6MG81ZnVNRDREek9GOWYxNlAyXzE4R3Zfc1k1cExtNnJIQkZJNkJlZk96eUJDdE5YSXZ5b0xodnNqRjZvUElUTU03amJObzNEWDhyQ0dlcUFDT3N0TVdOZE5sZHBYWElhWGlKempYLV9VWDNPc01tSGthUzdUY1pIaXVhakxKdUc3SURVWW50UFI1WVI4MVU2bEZFZWRSbVhyNTVvUDNEWXBWR0VWd3JKV21KRjVBZ2ZWaEVLb293cVgwUU5Yd25Rck90ZUNKSUJIYlhn?oc=5",
+      "source": "TipRanks",
+      "category": "Martin Marietta",
+      "keywords": "Acquired",
+      "sector": "General",
+      "dealType": "Acquisition",
+      "value": "",
+      "date": "Jun 30, 2026",
+      "dateISO": "2026-06-30T22:41:00"
     },
     {
       "title": "Sandvik acquiring Diemme Filtration - Pit & Quarry",
@@ -32,17 +71,17 @@
       "dateISO": "2026-06-30T19:51:33"
     },
     {
-      "title": "Will the Lhoist Acquisition Strengthen Martin Marietta's Market Lead? - Yahoo Finance",
-      "summary": "Will the Lhoist Acquisition Strengthen Martin Marietta's Market Lead? Yahoo Finance",
-      "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxPQk5wcGUzNEFhOGx5ckNmT3lxUTN4Vmo5TTZVbEZVMmlGdTJZVWRZdEROOV9lWXo2S3FncVd2SEN0em9ISS1NNUVFbWxrNGRjYjhtVlRfTWFLRlN1WWtBZWE2YmFoOW9OcGR6U3JYRTctUVhSVjRwOVZkRFFCdWV6Sm9SQ0lOLUZDUTJPZkx5M1p4dTNXeDUxTk1BWkc4X0tEX1ZaZ2NXbDBZWVFteEtqXw?oc=5",
-      "source": "Yahoo Finance",
+      "title": "Will the Lhoist Acquisition Strengthen Martin Marietta's Market Lead? - The Globe and Mail",
+      "summary": "Will the Lhoist Acquisition Strengthen Martin Marietta's Market Lead? The Globe and Mail",
+      "url": "https://news.google.com/rss/articles/CBMi5gFBVV95cUxPUGxaTEw0MzNTOGZvRmVSZ0tkSnhjOTB3VEdxVUNNY09nd0I5RWFqX1hTTXF5MHhZd3g3LThTS1VHdlZoV0w2Qkw4MGdiOGdPelB0X3NxTVBQUS1RUEc5TV82NDFhSWVOdm9UUVhIWmZfRUVLVElVaXdKb19rS2RCYlZqTHR2QThUQ1pPY2owN2drdFVPTmY1WmVFb2tSamI2UHQ5Ujd0TXA4VnN2Sk5rd0wzdWtJV0dYVmZGV1dnMl8tT2RpeTg4cFcxazI2SWkxanlZNk5zT0FvaEcyWlhETnJFQk9wZw?oc=5",
+      "source": "The Globe and Mail",
       "category": "Martin Marietta",
       "keywords": "Acquired",
       "sector": "General",
       "dealType": "Acquisition",
       "value": "",
       "date": "Jun 30, 2026",
-      "dateISO": "2026-06-30T18:21:00"
+      "dateISO": "2026-06-30T19:37:06"
     },
     {
       "title": "Star Cement Acquires 30% Stake in JSW Green Energy Six - Machine Maker",
@@ -162,6 +201,19 @@
       "dateISO": "2026-06-29T22:13:49"
     },
     {
+      "title": "Martin Marietta Materials (MLM) Announces Acquisition of Lhoist North America - GuruFocus",
+      "summary": "Martin Marietta Materials (MLM) Announces Acquisition of Lhoist North America GuruFocus",
+      "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxQUnppdV9lZ0F5ZlI2Nnd6R1B4bWVYNVRPUDlKcEw3ZkF4ZUY1eklsaUlVTkRIVWtrUWQ0N2NObzMxSVBGd3VDRVhiNHRtcXJqLTVlZWc3a2VpNUNvRlJTRkdNTGNkUEJJaWg1dXNrWlJ5TzhTUVpwaE9aSnVsdXBmRWQ4cU0xYW1xYjlCbDJTbG8yb0pOZ0ZXV01Ua0VPUXAzNnJzOTJHcTZ3RmdPcjAxZGpWaV9Ga1V5RVZEUG9zTmRXRDE0?oc=5",
+      "source": "GuruFocus",
+      "category": "Martin Marietta",
+      "keywords": "Acquired",
+      "sector": "General",
+      "dealType": "Acquisition",
+      "value": "",
+      "date": "Jun 29, 2026",
+      "dateISO": "2026-06-29T18:53:09"
+    },
+    {
       "title": "Martin Marietta (MLM) to Acquire Lhoist North America in $13.5 B - GuruFocus",
       "summary": "Martin Marietta (MLM) to Acquire Lhoist North America in $13.5 B GuruFocus",
       "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxNUGZHaE5mNFpKZjIzczVmb0I2N0pfUDIwUzhPemxPYnRJaHFNSHFiczJRMkZPcHJ6UTBmTWlqUWdaV01kQ2liNFBHRUpZWVk0bV9qVFkwWldsSzFoNnlrTkRwNy1WcURQZVRUY2N4NWZQek1vQ3VEY3B3Vk5aNEpPdkhfcE1tWkJqdDhzdnpUX2h1dllqSExEaG1EeHBjNDRCLXdDWER3SWhrd2RYUXJJajVyaEVoV1VISjZvUmhkbw?oc=5",
@@ -186,32 +238,6 @@
       "value": "",
       "date": "Jun 29, 2026",
       "dateISO": "2026-06-29T16:51:00"
-    },
-    {
-      "title": "Martin Marietta Buys Lhoist North America in US$13.5bn Deal - Construction Digital",
-      "summary": "Martin Marietta Buys Lhoist North America in US$13.5bn Deal Construction Digital",
-      "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxNZTBNZnNhVjF2b1JjcktCcmJtcklONjktNlNxekhPbVlTeE9QVkNmTTc1X3h4ZUllYmI4MEJ2VkdTWDBoYW5INTJ6b1Jvb3daN2g3VXlpN3JqcWNYUkhOSFJmOVVHYnJVRG5ydXV3U2dDYkdzaFpEeTNRM0U0MzhLX3VVU0p4NjRDU213ZS1UVGF5YVZYMTV3Rg?oc=5",
-      "source": "Construction Digital",
-      "category": "Martin Marietta",
-      "keywords": "",
-      "sector": "General",
-      "dealType": "Acquisition",
-      "value": "",
-      "date": "Jun 29, 2026",
-      "dateISO": "2026-06-29T16:38:23"
-    },
-    {
-      "title": "Martin Marietta Materials (MLM) Announces Acquisition of Lhoist North America - GuruFocus",
-      "summary": "Martin Marietta Materials (MLM) Announces Acquisition of Lhoist North America GuruFocus",
-      "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxPSmtSZVF4M2RWbEpJVDlhSGhHb01aekVLNTdEYVBpXzZJRU0zMm5ZUEpQbDd6bkNKT1c0LXMtbjU5MzBJbi1veEEyMVRINURfQjFTWGlqYUN6TFgzbW5wbERwRFNyUTNaM0NxUjZMWHpfUHJlUlIxc0hTZDRXeVZldUJSSkRVTWhqcHo4MUg0TDlpdk8yVXlRa2oxMnBwMV8za3l1VmlpNU5uZDczRlNYeWtKXzc?oc=5",
-      "source": "GuruFocus",
-      "category": "Martin Marietta",
-      "keywords": "Acquired",
-      "sector": "General",
-      "dealType": "Acquisition",
-      "value": "",
-      "date": "Jun 29, 2026",
-      "dateISO": "2026-06-29T15:56:15"
     },
     {
       "title": "Martin Marietta is buying Lhoist North America in a $13.5 billion deal - qz.com",
@@ -344,6 +370,19 @@
       "dateISO": "2026-06-25T09:21:25"
     },
     {
+      "title": "Redmond acquires new maintenance center site for $38.5 million - The Business Journals",
+      "summary": "Redmond acquires new maintenance center site for $38.5 million The Business Journals",
+      "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxNN2VjZE43dVlkRVpwNUJHcGd3eGFoVVRqYlBtVDEtamE3dTBRODZ5aUgyTnluOE4xUE5veHNEZkRva0Q5Z3ZsQXZXdVVidjhheHNWZl9xRFVOazgyOGJkcWVWV0VIZ29pN3lqdDJ6QVhoRUplV1Y4QVVKZkpaNkRIVmpjN2FRc2JVT0RVcFM4dHFTTnhlalVBZ1dock45Mkl0NkZjMkpmMDZ5bFU?oc=5",
+      "source": "The Business Journals",
+      "category": "Heidelberg Materials",
+      "keywords": "Acquired",
+      "sector": "General",
+      "dealType": "Acquisition",
+      "value": "$38M",
+      "date": "Jun 24, 2026",
+      "dateISO": "2026-06-24T21:48:00"
+    },
+    {
       "title": "CRH to acquire Arcosa for $8.5B - Construction & Demolition Recycling",
       "summary": "CRH to acquire Arcosa for $8.5B Construction & Demolition Recycling",
       "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTE5yNkhjbkxWZVhLN1IweHQxR2J1ZGFmanNUZlAtLVFjM0lUclI2S0dUNVlPaWJ4YXJZTGdDOFg0MHd2V0VyWlhSTEw3Yk9wLXVncXdaZjlUSjRNNmdQVDhzNnhrTDRyNGQ0ZDhSZjhTMGNJVk5DQ29V?oc=5",
@@ -407,6 +446,19 @@
       "value": "$8.50B",
       "date": "Jun 24, 2026",
       "dateISO": "2026-06-24T09:18:25"
+    },
+    {
+      "title": "Crh Plc $CRH Shares Acquired by Hsbc Holdings PLC - MarketBeat",
+      "summary": "Crh Plc $CRH Shares Acquired by Hsbc Holdings PLC MarketBeat",
+      "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxNQy1iOExjbHd4SlhhRmZhSHNfcE5KaWwxVEU3V0E1c1hMdkhkTnpDcmZmazBGa0lSc1FDbW1LSG1QaW5pbVk3NVZ1bmlTd1FYbkJreWhzeTEyWWhWZHJ6TFdQcHVZcGhOMThyYkE5akRaMl9TOWY2ZE1wYkRlV3htNmNzX3ZTWEwtVFFSTEVZZlZRMzh6ektSbGltb1Fsb2dwZXl6UnAwQ1BnSXhGWnc?oc=5",
+      "source": "MarketBeat",
+      "category": "CRH",
+      "keywords": "Acquired",
+      "sector": "General",
+      "dealType": "Acquisition",
+      "value": "",
+      "date": "Jun 24, 2026",
+      "dateISO": "2026-06-24T07:00:00"
     },
     {
       "title": "CRH is said to near $8 billion deal for Arcosa - MSN",
@@ -1761,6 +1813,19 @@
       "dateISO": "2026-06-10T07:00:00"
     },
     {
+      "title": "UltraTech Cement Acquires 13.99% Stake in FPEL Services to Scale Renewable Energy Use - Sahi",
+      "summary": "UltraTech Cement Acquires 13.99% Stake in FPEL Services to Scale Renewable Energy Use Sahi",
+      "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxPMWdwSzg2cUN3SG9MX0EwYTYwanJMc2lYYU4tWUtuX2hWNnlXWG9mbE16V3MyOENTX0gwdEk5dmc5QkE5LVl6ejNuSkg1UDNtWS1mbm5jRUgyVXhtb3JFVWZkTm5VRGVDQ2Y3X1VXTXA4LXJjSjdqVXVoaDNfa292VU1PMTh2Ukl3dlZoYUN0RUZ5LXl1OFBIbGpFYVpqell5YkNJVWdFZUVyRDMzWmpLQmlFcUpKRm84OW5tclpwbmc?oc=5",
+      "source": "Sahi",
+      "category": "Cement Industry",
+      "keywords": "Acquired",
+      "sector": "Cement",
+      "dealType": "Acquisition",
+      "value": "",
+      "date": "Jun 10, 2026",
+      "dateISO": "2026-06-10T07:00:00"
+    },
+    {
       "title": "ICICI Prudential Mutual Fund Acquires Over 5% Stake in JK Lakshmi Cement Ltd. - InvestyWise",
       "summary": "ICICI Prudential Mutual Fund Acquires Over 5% Stake in JK Lakshmi Cement Ltd. InvestyWise",
       "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxPbTdMWTlTRW04RnhhUmJBWk80ZkpDOUg1djF5YlJ6c24tMDBIVmM2dkZuY0FId3k2NG1LRi1FaU1IdVRHUU85T3hSSGZfaGJIOGVjVHhqOWhobWtBVkVyalRtNzRjaFp6aWdfZ2lMV193UWtDTVBFazdfN0RhOWRGbWlMUVduU1BaSi1nY1ZhSkhCYTJ4?oc=5",
@@ -2214,97 +2279,6 @@
       "value": "",
       "date": "Jun 02, 2026",
       "dateISO": "2026-06-02T20:33:00"
-    },
-    {
-      "title": "Holcim Ltd stock (CH0012214059): EU review of Xella deal and latest earnings in focus - AD HOC NEWS",
-      "summary": "Holcim Ltd stock (CH0012214059): EU review of Xella deal and latest earnings in focus AD HOC NEWS",
-      "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxOMlNBMWl3MWU3dDVMQ083Q1VNeXQ2T2pSOEloRW5HdFFlZXpaTjZqSG5DNm5lN3YtLTFEN0h4VThneFVzaWo5NThHMDl4VVlzZkJ4dFBfLWtjTVRyZk9EOGRndzRINGFDWkNBcVhCZVFFUzRtMkItaUFacURHRWhtWFFnel8xWGx4a2pJZXlVU1JldkwxcXdJWXo1STZQb1lUVzhSNW80QW9DbDFjU2xra0lSd2xOY0dUUlliUTZFQWU?oc=5",
-      "source": "AD HOC NEWS",
-      "category": "Aggregates Industry",
-      "keywords": "",
-      "sector": "General",
-      "dealType": "Acquisition",
-      "value": "",
-      "date": "Jun 02, 2026",
-      "dateISO": "2026-06-02T12:39:19"
-    },
-    {
-      "title": "Holcim Gets EU Nod for Xella Romania Deal - The Romania Journal",
-      "summary": "Holcim Gets EU Nod for Xella Romania Deal The Romania Journal",
-      "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxNOVJjSElEaWVtZlV3SmpYeXlORXVOVDEwZ1pnZHNhVUgzVmRSN1lyWTFGZzg1VmNiOXpsX0JUUzVPZkRTNGV3VDA0TWdSSUQ1MkFyWUV1TGZSalV1cFNLN01ha3ZqSjVJbWMzZEh3MWFTay0wZ19FZGo1RDBTRE9Wd1F4NUswai1MelFWenJB0gGOAUFVX3lxTE05UmNISURpZW1mVXdKalh5eU5FdU5UMTBnWmdkc2FVSDNWZFI3WXJZMUZnODVWY2I5emxfQlRTNU9mRFM0ZXdUMDRNZ1JJRDUyQXJZRXVMZlJqVXVwU0s3TWFrdmpKNUltYzNkSHcxYVNrLTBnX0VkajVEMFNET1Z3UXg1SzBqLUx6UVZ6ckE?oc=5",
-      "source": "The Romania Journal",
-      "category": "Holcim",
-      "keywords": "",
-      "sector": "General",
-      "dealType": "Acquisition",
-      "value": "",
-      "date": "Jun 02, 2026",
-      "dateISO": "2026-06-02T11:14:58"
-    },
-    {
-      "title": "Holcim\u2019s Xella Deal Tests EU Scrutiny of Europe\u2019s Refurbishment Market - EU Today",
-      "summary": "Holcim\u2019s Xella Deal Tests EU Scrutiny of Europe\u2019s Refurbishment Market EU Today",
-      "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxPVS1TNlluMTlIbHpBdEZ3NkYxeGhZamNSWWlETWxfcXplM19Pd1Zkb0xuZ1J2VVRqX2g1WkdlcXBTOVA5dTVNNGw3LWVzNzMtcDRtWUNXYXl0XzJfOTl4aTk3YXZRU0hFaS1SSUtlTE5FVEdXOUxrTjZ0R2pKTWQ3Y0plWkg3SFp6b19BVlZ6QjlNLTg?oc=5",
-      "source": "EU Today",
-      "category": "Aggregates Industry",
-      "keywords": "",
-      "sector": "General",
-      "dealType": "Acquisition",
-      "value": "",
-      "date": "Jun 02, 2026",
-      "dateISO": "2026-06-02T09:23:51"
-    },
-    {
-      "title": "Holcim offers divestment in EU review of Xella deal - MLex",
-      "summary": "Holcim offers divestment in EU review of Xella deal MLex",
-      "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxNLWlFa21tcENwcEhlTTZRNkpqRXJ0VGYzajluVDhFU2RwdHM4R2Z6TGxhSFlrNU9UTzVhZkNHa2d2cGxybDJtWTdxdlE2bzlIajNucHVVWnJsWGpTRURfZDNDOW5FdWtFN0lRNGw2aDJpTUJiT1o4ZlNFZ1dJanlBaUVlXzJIVjBvX0k2SHpHOWk4Vk9OUTNQMVNR0gFaQVVfeXFMTnNfWVdMUGZvRnA5VFVHZEc2Rlp0V3hYMS1MWXNCdXdleTN0ODlLNEFqbV9LQnNqUGc3LUJMUThmUkY1YVI4RXJxYWxBenpfVENLamlUeFozQ1FB?oc=5",
-      "source": "MLex",
-      "category": "Holcim",
-      "keywords": "Divest",
-      "sector": "General",
-      "dealType": "Divestiture",
-      "value": "",
-      "date": "Jun 02, 2026",
-      "dateISO": "2026-06-02T07:39:00"
-    },
-    {
-      "title": "Holcim Expected to Win EU Approval to Acquire Xella - marketscreener.com",
-      "summary": "Holcim Expected to Win EU Approval to Acquire Xella marketscreener.com",
-      "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxOVWt0VEFKRm1PQUZyTEM2MzFlaFY1djQ1amNqckYzYmdMLUlGVWRwQUE3V2YtUmMxMktOMVEzc0V3cmszUzZCQ1RvYmE1c1Y2b25TTDF3QXNtaXRPU3puSzJ1d0JQV083eDlEeHZOTFY4ZmFzellsM2s2aHVTVDI3Z0RvNUE1Nno0Mm9acEx4WkU1V1ZpSWRhMW5FT1RxVU5JYXpPNEp3NA?oc=5",
-      "source": "marketscreener.com",
-      "category": "Holcim",
-      "keywords": "Acquired, To Acquire",
-      "sector": "General",
-      "dealType": "Acquisition",
-      "value": "",
-      "date": "Jun 02, 2026",
-      "dateISO": "2026-06-02T07:00:00"
-    },
-    {
-      "title": "ATWEC Technologies Announces Letter of Intent to Acquire Leading Heavy Civil & Infrastructure Contractor - The Globe and Mail",
-      "summary": "ATWEC Technologies Announces Letter of Intent to Acquire Leading Heavy Civil & Infrastructure Contractor The Globe and Mail",
-      "url": "https://news.google.com/rss/articles/CBMinAJBVV95cUxNWTdYeW51TmN3Qklpb3FWcUhseXI3SkZrbEhsRHJCa0YzbU95SEdlV0lRMXZhUjlDZl91eFlHQmZkdzVyNm5PVG9WRXJ5N2p5TUdEY1pORk52em5tc2Y5ZmY0N2QyZUVDTW9ENHluNGJtM3pPeWlHNU13Z3lLbURja0N4RXk4LVZZa2c5OHhQY0JpUjJBSU42WHpnQWMyRDhaT3Z3X29fRzJVWEo5RDg4MWxmZklVMkdERElIV2lMMlhCaEF1RENJQTU2ZnlQRUlXRUc1M0NtOXpzMGJKTDBZQWwySnhvejZ3TG5wRWlVamZtV3RMVloyb0hRdkJkS1hfclVYWlpabVdzQUNOdXVPOEJOQ1FEcWpmRjZUeg?oc=5",
-      "source": "The Globe and Mail",
-      "category": "Asphalt Industry",
-      "keywords": "Acquired, To Acquire",
-      "sector": "General",
-      "dealType": "Acquisition",
-      "value": "",
-      "date": "Jun 02, 2026",
-      "dateISO": "2026-06-02T07:00:00"
-    },
-    {
-      "title": "Fast-growing Cardinal Infrastructure acquires Piedmont Pipe - Business North Carolina",
-      "summary": "Fast-growing Cardinal Infrastructure acquires Piedmont Pipe Business North Carolina",
-      "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxPN2tUSXFPQ0NVOUFsTUJMSXNRVnpSYmdsakRiaUFWazNsdE96X0U0RG9WbG9qVWsxeUxVMTVYWkJqSTlGN0FlNlRtQW9uUU1NWFpKNTZxMWQ4ZlhsWkxHV2xxYmJkbTgwTWJGUE1VWnM1ZTY1M2ZaSnpZcF8zdWVscl9uaGo1Zks0b1Fv?oc=5",
-      "source": "Business North Carolina",
-      "category": "Martin Marietta",
-      "keywords": "Acquired",
-      "sector": "General",
-      "dealType": "Acquisition",
-      "value": "",
-      "date": "Jun 02, 2026",
-      "dateISO": "2026-06-02T07:00:00"
     }
   ]
 }
