@@ -1,10 +1,75 @@
 {
-  "fetchedAt": "2026-07-05T14:38:05.978830",
-  "totalArticles": 183,
-  "newToday": 22,
-  "duplicatesRemoved": 18,
+  "fetchedAt": "2026-07-06T16:17:06.050832",
+  "totalArticles": 185,
+  "newToday": 25,
+  "duplicatesRemoved": 20,
   "archiveDays": 30,
   "articles": [
+    {
+      "title": "Minister approves Ohorongo-Cheetah merger ... in a deal that reshapes ownership of local cement sector - neweralive.na",
+      "summary": "Minister approves Ohorongo-Cheetah merger ... in a deal that reshapes ownership of local cement sector neweralive.na",
+      "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxQMk52czRacGlmbEFUU1BUbHp4c0VhTmxXSTZsVWpOTzZHeVBiajBPRU5lTVV2aW45OXU2eXhzbF9IRFVXc1ZfUEhxREtzTEhuS0dzeFlDLUh5bkhBblpqSUZWUUczdm8tSE44S3FabGIyb29FSzRZWFZ0YWU4OW9BZ2o0d1pkcVZZdUkwZnA5dW1waFNvcXZ2STdCQjVZMTI2bWtMM0JFMGVVcjBYRHN0ZGNVY1M5aDgyZ0RkVTJB?oc=5",
+      "source": "neweralive.na",
+      "category": "Cement Industry",
+      "keywords": "Merger",
+      "sector": "Cement",
+      "dealType": "Merger",
+      "value": "",
+      "date": "Jul 06, 2026",
+      "dateISO": "2026-07-06T11:30:40"
+    },
+    {
+      "title": "Namibia approves Cheetah Cement takeover of Ohorongo - cemnet.com",
+      "summary": "Namibia approves Cheetah Cement takeover of Ohorongo cemnet.com",
+      "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxQZlVidllNTnRQc0VQZ3h3RThDN3BIZEQzcW90QjV4RlFNbVdNVTJWY0xkWWxseUVzMlhuOXdPb29RTEVNbDNTQ2FsdkFLZmNTM1VjZnREZ3FmN0E3amFudXMzYm90ZzEtVVdnMExPMXR5ZUtNU0Y5SndGM2hZUTgxNjhHajVWek4yVGFWaDBlYWl1NWdLLXRPQWQ4ZzFmR3M?oc=5",
+      "source": "cemnet.com",
+      "category": "Cement Industry",
+      "keywords": "Takeover",
+      "sector": "Cement",
+      "dealType": "Acquisition",
+      "value": "",
+      "date": "Jul 06, 2026",
+      "dateISO": "2026-07-06T08:26:11"
+    },
+    {
+      "title": "Atlas Metals Sets Late 2026 Target for UPSA Acquisition as Commercialisation Plans Advance (AMG) - Yahoo Finance UK",
+      "summary": "Atlas Metals Sets Late 2026 Target for UPSA Acquisition as Commercialisation Plans Advance (AMG) Yahoo Finance UK",
+      "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxNc3B4alhqUlRzTWNQNlVUNGdRdXhHVm1nR3dnQ21PUllyR09pY0pwZHBVOVlidzlhcl93OGNVb3RncmpFN0RlYUFMNF92Y0JXOUF2dGpaWWE0S3BqR0FaM1ZCa3JBQXlTeTk5dW90dWtpWTladG1YUVlCcy1rOGE3S2wzVXk?oc=5",
+      "source": "Yahoo Finance UK",
+      "category": "US Concrete",
+      "keywords": "Acquired",
+      "sector": "General",
+      "dealType": "Acquisition",
+      "value": "",
+      "date": "Jul 06, 2026",
+      "dateISO": "2026-07-06T07:04:29"
+    },
+    {
+      "title": "Atlas Metals Targets Q3\u2013Q4 Completion of UPSA Acquisition and Bolsters Concrete Market Strategy - TipRanks",
+      "summary": "Atlas Metals Targets Q3\u2013Q4 Completion of UPSA Acquisition and Bolsters Concrete Market Strategy TipRanks",
+      "url": "https://news.google.com/rss/articles/CBMi4AFBVV95cUxPbzhwWGJFN004YXdIcWRwOVRuaG9ONHFXN2VIZ1poMDMtUVJ3RFVZODg3bzdONVd5bmVDYnNfUHctaHQzT0pZNUZ6N20yUzY1TElDY1ZxZmdjN0JBVWtDcUswRmVoVmJmLUhpQWo0cXBmYXd2eF96RkZscTZuWGp2YjlpLVVMMGRxeFhaRkJXZk5TUUJuZmtpV1hidTdRUG91NWpoYWc3QS1vSlktd3EwSGYyZG5Yc19BU2cySkZMdlpVX2tHeDhBa0lONlhtb3dkWk9GSkgxNFBWN0JKamdheg?oc=5",
+      "source": "TipRanks",
+      "category": "US Concrete",
+      "keywords": "Acquired",
+      "sector": "General",
+      "dealType": "Acquisition",
+      "value": "",
+      "date": "Jul 06, 2026",
+      "dateISO": "2026-07-06T06:28:59"
+    },
+    {
+      "title": "REG - Atlas Metals Group - Update on Proposed Acquisition - TradingView",
+      "summary": "REG - Atlas Metals Group - Update on Proposed Acquisition TradingView",
+      "url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxPaFNuV1Zfd05DSUJ0bHhnLXdDNWl5NXllcjBXVzlzMlZ3b1FoMTVZTlBFbkphd0ZySlNoR010T2ZDZlVKSTBwTEtTNVFYOXFaNWdzT2NrMFhuTUJsZURFNXZWeHBwSm9tNGhidTQxZTlvR21mRkw1VF8zWGJkMW9UYS0zTU1odkR0Q3dRdWlfTzFXallWTTZYaHl5Q2JIZ0E1YWlORm1xRjhpRDNQeUFPSEVKVGozZmRrWGNZa2kwSkt2cHNJdWZmbA?oc=5",
+      "source": "TradingView",
+      "category": "Aggregates Industry",
+      "keywords": "Acquired",
+      "sector": "General",
+      "dealType": "Acquisition",
+      "value": "",
+      "date": "Jul 06, 2026",
+      "dateISO": "2026-07-06T06:00:00"
+    },
     {
       "title": "Martin Marietta Materials (MLM) Agrees To $13.5 Billion Lhoist North America Merger - simplywall.st",
       "summary": "Martin Marietta Materials (MLM) Agrees To $13.5 Billion Lhoist North America Merger simplywall.st",
@@ -2344,45 +2409,6 @@
       "value": "",
       "date": "Jun 06, 2026",
       "dateISO": "2026-06-06T17:31:49"
-    },
-    {
-      "title": "Leviat Acquired By One Equity Partners To Accelerate Global Growth - Pulse 2.0",
-      "summary": "Leviat Acquired By One Equity Partners To Accelerate Global Growth Pulse 2.0",
-      "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxOQ0FGbFBmdFB3eWJpb0pEclNBTnAxVzJ0elVnZzVYSl8ya0g4dmdPcS1DYWxTUFNjeEY4Nm1Wa3pXUkFYSE5KakxKNVFQREZobERMd1ZxRGMzNllWaEg0dXpHQXpnWldfa1B5MS1DNGpOZndNMXZVWk9ybGRkNFBCeDRkUmhzbTl1TGIxOGVWc9IBlAFBVV95cUxQdTEzOXp1RUxuYzJZRDRSc1ZHWXRLM1dIMURUb2JOck1ldTd0VEpxTDd3Q2I4RVpGZktLUFl5c3JDNXd4dDUwYXQxeWdLaXF2Z3NYZG5GQk9Eb2Fia0FBRW1MR0I1Nk40SEszOEZBamotRGFuaGdFR0FJTFZxVXBrcjhkLXRUSDhOeFNXdXRTbXNIaHpt?oc=5",
-      "source": "Pulse 2.0",
-      "category": "CRH",
-      "keywords": "Acquired",
-      "sector": "General",
-      "dealType": "Acquisition",
-      "value": "",
-      "date": "Jun 06, 2026",
-      "dateISO": "2026-06-06T13:52:20"
-    },
-    {
-      "title": "Arcosa, Inc. Announces Strategic Barge Business Divestiture and Focused Growth Strategy in June 2026 Investor Presentation - Minichart",
-      "summary": "Arcosa, Inc. Announces Strategic Barge Business Divestiture and Focused Growth Strategy in June 2026 Investor Presentation Minichart",
-      "url": "https://news.google.com/rss/articles/CBMi8wFBVV95cUxQeHNSdjBhbTdUNFhQRGxiZ1ZQNjVfcTUzallNMHo2cjZidEh4cjhFUThncE1DdXo0NGJZdURlVlE0ZlU0Nmg3M1M1dXB1SDBJWmJOS2VkeGFxZjdmNWZrblViLXZHemRZQVptbV9UaFQ5NXFiSE9KMFdSZkk0al9BalpaSHlOSDN0MElrajFwb0pzWThYdEppQVhEM21xb0ZERllHelg2Ylo5TklfYlcwOTBndWQzZUE4Z0M1SkdvcEQ3T3hadGFua1Z4OVFCTGZUOXBtd0JxeWhlNVk3YmwwMk5XN0FKRDl0M1FkWmdjb1RGMFE?oc=5",
-      "source": "Minichart",
-      "category": "Arcosa",
-      "keywords": "Divest, Investment",
-      "sector": "General",
-      "dealType": "Divestiture",
-      "value": "",
-      "date": "Jun 06, 2026",
-      "dateISO": "2026-06-06T13:17:00"
-    },
-    {
-      "title": "Arcosa (NYSE: ACA) boosts 2026 guidance and cuts leverage after $450M barge divestiture - Stock Titan",
-      "summary": "Arcosa (NYSE: ACA) boosts 2026 guidance and cuts leverage after $450M barge divestiture Stock Titan",
-      "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxNb2FUUWYtdFFGSUs0M2RuNVpXQnNVMWFsTG9PS1N6ZlhUaldZd1hNNkMyVF9NaFJMQUtnV0FyaFpvZXV4aUlnNU1BLXdWUFZuaF91OVZpQkhpVEZVUFZnMHh5eDF4NTBXSXVnWkVZNURUV0tONHRqRWpjRWk2V0wxV2dfcy1kTTF3d3RhZ01RaWRmb2EwMnM2WHdBZ2V2ZWM?oc=5",
-      "source": "Stock Titan",
-      "category": "Arcosa",
-      "keywords": "Divest",
-      "sector": "General",
-      "dealType": "Divestiture",
-      "value": "$450M",
-      "date": "Jun 05, 2026",
-      "dateISO": "2026-06-05T20:47:31"
     }
   ]
 }
