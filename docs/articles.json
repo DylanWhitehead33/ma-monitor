@@ -1,8 +1,8 @@
 {
-  "fetchedAt": "2026-07-06T16:17:06.050832",
-  "totalArticles": 185,
-  "newToday": 25,
-  "duplicatesRemoved": 20,
+  "fetchedAt": "2026-07-07T15:41:53.100967",
+  "totalArticles": 183,
+  "newToday": 17,
+  "duplicatesRemoved": 17,
   "archiveDays": 30,
   "articles": [
     {
@@ -2383,32 +2383,6 @@
       "value": "",
       "date": "Jun 07, 2026",
       "dateISO": "2026-06-07T22:00:00"
-    },
-    {
-      "title": "Digital Asset Acquisition Corp. (DAAQ) Holds Steady at $10.33 Amid Consolidation Phase - MA Cross Alert - newsline.com",
-      "summary": "Digital Asset Acquisition Corp. (DAAQ) Holds Steady at $10.33 Amid Consolidation Phase - MA Cross Alert newsline.com",
-      "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxNcldacmNlZzFfUlhrWExzNExPZTZETkQ2UFJwR2FHRzJWbFJ3VTZ4SkJjejF3S2M5VlYzOWl4YWk3Zko0WUtiM1NLZUl4cHQ2eDh4cDhaMkF1MVFtWWFKN3VJY2llTXR3b0N6X3FDSU5ZTHFIOW43bXVNa2k1MktObGpRR01hdzMwYlBGUVF0SEJnSktYU1RyaVB0Q0VQZHY3RXQxM0k2NkphODVNekZ0TzhwTW9RQnAxZm1pWEFR?oc=5",
-      "source": "newsline.com",
-      "category": "Eagle Materials",
-      "keywords": "Acquired, Consolidation",
-      "sector": "General",
-      "dealType": "Acquisition",
-      "value": "",
-      "date": "Jun 07, 2026",
-      "dateISO": "2026-06-07T07:00:00"
-    },
-    {
-      "title": "Savannah Clinker Hikes Bamburi Cement Acquisition Offer by 9.4% - The Kenyan Wallstreet",
-      "summary": "Savannah Clinker Hikes Bamburi Cement Acquisition Offer by 9.4% The Kenyan Wallstreet",
-      "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxNYVNST3k2SkxkamNDTVJUSldzT29tcjZrMUEyTWIwQnpPOTVpMnpQeGo0SzJyVFlWUzJrb1Q5ZUxRTnVyeUl5SUluR2d5ei14dkxyeWlEV2dYTXZVS0xvdEdtNV9fTUlkOVdNWjE5bHR3SlNnZXpBdnBucUdJNW1Td0RkVGctZHNOZ2RlbW4zamxkVU41Mnc?oc=5",
-      "source": "The Kenyan Wallstreet",
-      "category": "Cement Industry",
-      "keywords": "Acquired",
-      "sector": "Cement",
-      "dealType": "Acquisition",
-      "value": "",
-      "date": "Jun 06, 2026",
-      "dateISO": "2026-06-06T17:31:49"
     }
   ]
 }
