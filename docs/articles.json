@@ -1,10 +1,192 @@
 {
-  "fetchedAt": "2026-07-09T15:58:21.698649",
-  "totalArticles": 171,
-  "newToday": 0,
-  "duplicatesRemoved": 0,
+  "fetchedAt": "2026-07-10T15:29:39.717310",
+  "totalArticles": 182,
+  "newToday": 36,
+  "duplicatesRemoved": 15,
   "archiveDays": 30,
   "articles": [
+    {
+      "title": "Africa's cement giants Dangote and BUA face new rival as Chinese-backed firm enters Nigeria's cement market with $1 billion acquisition - Business Insider Africa",
+      "summary": "Africa's cement giants Dangote and BUA face new rival as Chinese-backed firm enters Nigeria's cement market with $1 billion acquisition Business Insider Africa",
+      "url": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxOSFNoME9Va1NqQV9GcVREZDlOaV9XNWlHeEdmT0dXdDhXak9FLWZrZXBCSGl3NU5YWHplNElvaGQwSUlPMm13RWtQNE4yUl81cjVfTjFXNXVHaTh4a0RFNDFxYnI2cEViNURfYVVEMGJkT0hzQ3dZSVpKTG5ITzhxdmpScnhjSEx0UW51ZnJWdGZ6MHNlWjU5N2E5bGtvTk12N181WlExTkVBSmxJemlmX2JlMXFaYzI1OWs5LUN2bnlybEJxVXVPMzduUkhuLVhDVkdTRWFn?oc=5",
+      "source": "Business Insider Africa",
+      "category": "Cement Industry",
+      "keywords": "Acquired",
+      "sector": "Cement",
+      "dealType": "Acquisition",
+      "value": "$1.00B",
+      "date": "Jul 10, 2026",
+      "dateISO": "2026-07-10T13:01:53"
+    },
+    {
+      "title": "Lelantos Holdings, Inc. Announces Board Appointments Following Airtopia Reverse Merger - Yahoo Finance",
+      "summary": "Lelantos Holdings, Inc. Announces Board Appointments Following Airtopia Reverse Merger Yahoo Finance",
+      "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxQaGhpaGkybmVMeDdxNGRxSi1wZ1NvQmpQQWpKUzgtQ0VTbW9GUEhlbldyWkhuUEtKZkVTZFBLa2xHN2QtbEpBSUtKVE8tb0hUcloyQm42V3ZFRmNobXZzeDVyNlZTMHpXMDN0RDdUaWQ3ZFZ5aUlac29FM19PMXFRLU1iV2xyRnhJU09ESElpSGFOTVZZMmRkV3EydjM1TEI5NWdTOQ?oc=5",
+      "source": "Yahoo Finance",
+      "category": "Asphalt Industry",
+      "keywords": "Merger",
+      "sector": "General",
+      "dealType": "Merger",
+      "value": "",
+      "date": "Jul 10, 2026",
+      "dateISO": "2026-07-10T12:00:00"
+    },
+    {
+      "title": "Senate endorses proposed $1bn acquisition of Lafarge Africa by Chinese company - thestreetjournal.org",
+      "summary": "Senate endorses proposed $1bn acquisition of Lafarge Africa by Chinese company thestreetjournal.org",
+      "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxORDdwOGRLeVJ4ZlBHcE1qSzg3VUsya0J3MzUwVzVsUUVBbG5palJDd08tQWdPNlFCRFZBMjNpX3M1Ry1zMVhIRjBQa2Z6cl9SQlNjcWc4ME9ORWtxcnNaODFlQXhZWml1R1l5TGVIX2tOeHZLOGVYWFJibG92V1ZHd3ZnLVBNSnZyQVJzb19HRGtSOWtaUm1tV3hiU3NHdXZWbEs4ZmdfMWdMUkU?oc=5",
+      "source": "thestreetjournal.org",
+      "category": "Cement Industry",
+      "keywords": "Acquired",
+      "sector": "General",
+      "dealType": "Acquisition",
+      "value": "",
+      "date": "Jul 10, 2026",
+      "dateISO": "2026-07-10T09:23:35"
+    },
+    {
+      "title": "Senate Approves $1 Billion Lafarge Acquisition Amid Controversy Over Undisclosed 66 Percent Equity - streamlinefeed.co.ke",
+      "summary": "Senate Approves $1 Billion Lafarge Acquisition Amid Controversy Over Undisclosed 66 Percent Equity streamlinefeed.co.ke",
+      "url": "https://news.google.com/rss/articles/CBMiywFBVV95cUxPRkxhUjFBaFhwYjhfNEljMzc0TV90b3lmSzlwVGdiQ25IZl9RQ0Z1aEFLNXQ1OHFpa2RsSmNXZzBtd21MRlljbDM4NUZiQ0x4UXBUeFliQ0xwS3ZnejdNV2k2TlZUcTVCVTQyZUE1UXZIcTJZUl9xRXhsbjBqRGhoUzkyMW5vRkRUbVN3b1RGVENWS3JiNDRQSUNwUEZBM3NuMDlNUTM0RWFMZDBYcjZNMjU2M0JzWG1pOUZuRWxnM1c1TlVvV09mV0QtYw?oc=5",
+      "source": "streamlinefeed.co.ke",
+      "category": "Holcim",
+      "keywords": "Acquired",
+      "sector": "General",
+      "dealType": "Acquisition",
+      "value": "$1.00B",
+      "date": "Jul 10, 2026",
+      "dateISO": "2026-07-10T07:22:56"
+    },
+    {
+      "title": "Nigerian Senate backs Huaxin's acquisition of Lafarge Africa - cemnet.com",
+      "summary": "Nigerian Senate backs Huaxin's acquisition of Lafarge Africa cemnet.com",
+      "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxOeFJ3UjdkNXZqSUU5SUotQWtaNjFfYWpJb1dyMU1oLWhYLXZuQldQQ2xUWDg1MGx3UkoweFhnR0FHRXhTV1JGQl9GTnZ6aVNwM0Zra1pNUnEtcXl3Uk9EUHpIdU00c1RacGlBZXpKV0pYNUNOY1dIa1kxa1dLN2ZvSkhzTno2UEV0WkZHMERsNXpIUkdDOHhmdXRhdHNkYkg5TWVlbDF1MVNNZw?oc=5",
+      "source": "cemnet.com",
+      "category": "Cement Industry",
+      "keywords": "Acquired",
+      "sector": "General",
+      "dealType": "Acquisition",
+      "value": "",
+      "date": "Jul 10, 2026",
+      "dateISO": "2026-07-10T07:00:00"
+    },
+    {
+      "title": "Ningi Queries Ownership Of 66% Lafarge Shares As Senate Approves $1bn Deal - LEADERSHIP Newspapers",
+      "summary": "Ningi Queries Ownership Of 66% Lafarge Shares As Senate Approves $1bn Deal LEADERSHIP Newspapers",
+      "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxPNWpPV0huMFI2cFhCakVqRHF5OENsR1dZS0JHTjJjRkE0cTVLbEFxSTZGQlV5ckNKa2FOcmtHeVQzTGxudHZpaXRzQnlXU204NHpjV0FtZm5BaVR2Z01lYzlaOFBLRFJzNnFoNmlxdzFZY2YtR1lydGNqQzJMaU5TYVdodDdkSDF5X2Y0amExVjRhTzhyYU1qYldKZw?oc=5",
+      "source": "LEADERSHIP Newspapers",
+      "category": "Holcim",
+      "keywords": "",
+      "sector": "General",
+      "dealType": "Acquisition",
+      "value": "",
+      "date": "Jul 10, 2026",
+      "dateISO": "2026-07-10T06:51:32"
+    },
+    {
+      "title": "Senate clears Lafarge acquisition by Chinese investor, says Nigerians' equity will remain protected - Business News Nigeria",
+      "summary": "Senate clears Lafarge acquisition by Chinese investor, says Nigerians' equity will remain protected Business News Nigeria",
+      "url": "https://news.google.com/rss/articles/CBMizwFBVV95cUxQSTJkTVdtczVWa0xrQlZmeXVDT3RnSm5RMmZWNFdGX3VqbTFsMEphaHNuTEsxd0puVGxSWUpqR1NyYk9pbWw5S1A3enpJcjZ2bkJhU2VkMXo2QlJ6eW5EOUlaRjVSbHFTSWhnZ041UzBweElfMy1FVDFhWm1iUWhKZmlWaWtZWVFFaVpTeWdiWHhUZFI2MkxUQm53WXNPc0FOc0RqRnVEWk5yNzdpVFNPOUtlTXo0MXlyRHViQVd1b1N0TndFTUtabXluaTRoYzA?oc=5",
+      "source": "Business News Nigeria",
+      "category": "Cement Industry",
+      "keywords": "Acquired, Investment",
+      "sector": "General",
+      "dealType": "Acquisition",
+      "value": "",
+      "date": "Jul 09, 2026",
+      "dateISO": "2026-07-09T21:16:28"
+    },
+    {
+      "title": "Senate Approves Chinese Firm\u2019s Acquisition Of Lafarge Cement For $1bn - The Whistler Newspaper",
+      "summary": "Senate Approves Chinese Firm\u2019s Acquisition Of Lafarge Cement For $1bn The Whistler Newspaper",
+      "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxObUJ2clhfYTBMN3VlNFczVVI0bURWejc4RV8yWG1WOFdTUW5ISW1hSUtrZm5qTUt4d09uMDkxZUphV2dMMlV1S19CalI5Y3ZnQ1Q1alM4NHd2cVRBZzV3LW5kUTFNZS1SXy1iVmVQTEh5ZDdTWlNtdWNYLWVwalduVElfeE1IVGdwek9lcWZKTFB4dHE2OFE?oc=5",
+      "source": "The Whistler Newspaper",
+      "category": "Cement Industry",
+      "keywords": "Acquired",
+      "sector": "Cement",
+      "dealType": "Acquisition",
+      "value": "",
+      "date": "Jul 09, 2026",
+      "dateISO": "2026-07-09T17:00:19"
+    },
+    {
+      "title": "Dubai Islamic Bank Backs DG Khan Cement Acquisition Financing - Digital Pakistan",
+      "summary": "Dubai Islamic Bank Backs DG Khan Cement Acquisition Financing Digital Pakistan",
+      "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxNNkZIUFRtdDRUaWRJREVRdnB1bE1mamVZY0RMTllRYmxMeUZIbVVSeWhwWUp3cUUzU1A1YWpNb0lGR3hoU0lmNWZBRzBPSUtjUUk4VWZfdC1FbFNIalVpMFhNM19DeHJmLWZLYkZTdjA2N0JhQUFqUUVIZ1FRcHd5UVdEUFZfOGV5eVNCRURHVkxWX3M?oc=5",
+      "source": "Digital Pakistan",
+      "category": "Cement Industry",
+      "keywords": "Acquired",
+      "sector": "Cement",
+      "dealType": "Acquisition",
+      "value": "",
+      "date": "Jul 09, 2026",
+      "dateISO": "2026-07-09T11:47:16"
+    },
+    {
+      "title": "DIB Group Executes USD 101 Million Islamic Financing For DG Khan Cement\u2019s Strategic Acquisition - The Friday Times",
+      "summary": "DIB Group Executes USD 101 Million Islamic Financing For DG Khan Cement\u2019s Strategic Acquisition The Friday Times",
+      "url": "https://news.google.com/rss/articles/CBMizwFBVV95cUxPeDdHTW02ampJRW1qOTJ3RmtPSkNONXlGTEpXejc1Wjd5LWk5Z1NjdEMyVkZ6Z0R1UjIyTU00MDBLLW01SHFleEFHa2Q1cm1KanNCNlJpNEY3NGlTUEZna3VWLUNRMUVsd2VuSHR4MkN6d0FudWdZWHdyMlhXR0FpOTREZXc1YzVTUG4tSW1BSTFhUlEzeF9ZclZOZTJjZl9HZnphd0VkYTQtVEpLVXZXYjFTVWxfc1ZtVWYxSXdnNU1Bd1ZsZHNhVWlWei1JRk0?oc=5",
+      "source": "The Friday Times",
+      "category": "Cement Industry",
+      "keywords": "Acquired",
+      "sector": "Cement",
+      "dealType": "Acquisition",
+      "value": "",
+      "date": "Jul 09, 2026",
+      "dateISO": "2026-07-09T11:27:47"
+    },
+    {
+      "title": "How equipment dealers are helping producers maximize uptime - Pit & Quarry",
+      "summary": "How equipment dealers are helping producers maximize uptime Pit & Quarry",
+      "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxQcXBKUDZ0a2dzMmktNVdSY1UtWDBubTJVNW1SZk0xU2FBWFZzaFRMNHRNemttaVEzcllfT2E3RXY4ZWptU2JQdGZvRm9BbGg4RmNBeFo4SnlFc2c5OU1TSm0wNmoxN01JZWE3UlV0cmNSYks4X1phREFIQkRyZTFMSUZ4OGlsT19sck1HZVZjdF9FTmM?oc=5",
+      "source": "Pit & Quarry",
+      "category": "Pit & Quarry \u00b7 Aggregates",
+      "keywords": "",
+      "sector": "Aggregates",
+      "dealType": "Acquisition",
+      "value": "",
+      "date": "Jul 09, 2026",
+      "dateISO": "2026-07-09T09:00:00"
+    },
+    {
+      "title": "Dubai Islamic Bank arranges $101 million financing for Nishat\u2019s acquisition of Rafhan Maize stake - Profit by Pakistan Today",
+      "summary": "Dubai Islamic Bank arranges $101 million financing for Nishat\u2019s acquisition of Rafhan Maize stake Profit by Pakistan Today",
+      "url": "https://news.google.com/rss/articles/CBMi4gFBVV95cUxNa20yRzNYX3p4d3RTVzRlNkJDZ0hXd2ZDWHlwRTZieXZGZUs1THVyOHByUUlzcHQ4Q0V4ZnR0dk5vYTdDa0h2WDdqUG83eWJwNmUzMVVEVmNWZHZ6VFBaWk1CYXZlQ0NNQmw3QU5FS2xsZVZ3Zk00c2JCdC1LMUF2ek1oSXp6UzV0bUZoSmV1YmtNQlB3Qy1UbTl6ZUFvbUp0SWhITTFMcUwzS2gzYXJLc25Pa2V2QzZBbkRlaUJMUXZIMTlhdmJyZGVrOUdLXzg3a3hWcHQzUGdNVzNWNmtiX0F3?oc=5",
+      "source": "Profit by Pakistan Today",
+      "category": "Cement Industry",
+      "keywords": "Acquired",
+      "sector": "General",
+      "dealType": "Acquisition",
+      "value": "$101M",
+      "date": "Jul 09, 2026",
+      "dateISO": "2026-07-09T07:43:28"
+    },
+    {
+      "title": "DIB arranges $101m Islamic financing for Nishat Group\u2019s Rafhan Maize acquisition - The News Pakistan",
+      "summary": "DIB arranges $101m Islamic financing for Nishat Group\u2019s Rafhan Maize acquisition The News Pakistan",
+      "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxQZWVkNU9JQTJPMWNtZEdSV3JyMzVORXE3OEJyendLOVlsRkhDaXo5QnBWTnk2SGZvbXllcERGWWItQUg4eGxuQnRPZEVjbDdPTlJUQXRSZlBfVDFUaFpWdG1PTUNJTXJVaWotUElzYm5OQmdWS3VmaHdUMFQ3WTlLdWtqVVYtYno1SjZ6ZUl0MXJtSG9kM2d2WERrcmM0Nm4zNnFzVE00VFhKWVpRem5jMHVEWFBfYU0?oc=5",
+      "source": "The News Pakistan",
+      "category": "Cement Industry",
+      "keywords": "Acquired",
+      "sector": "General",
+      "dealType": "Acquisition",
+      "value": "$101M",
+      "date": "Jul 08, 2026",
+      "dateISO": "2026-07-08T19:00:00"
+    },
+    {
+      "title": "AJG Grows Canada Commercial Insurance Business With WMB Acquisition - Yahoo Finance",
+      "summary": "AJG Grows Canada Commercial Insurance Business With WMB Acquisition Yahoo Finance",
+      "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxNWDJ3UElTVl9WSVVXWDVXanNRZEtwaFNON0JTNXNoR3VUdFZXV0R3LXNnNnlXaHVrOU5yNmtCMlZwUGtaZ2luOS1vTjIxQ1ZTZzd1eUVGdnQxVTJEYllZWEdJZkRZUWE4MzNtWWxrWDI4UTViZTQ1cEczLXdJWUg0VGR5bElWeHpYa3Z2OVhWeTNMLUJST3N5QmRmZkQtV1RrM3FRMA?oc=5",
+      "source": "Yahoo Finance",
+      "category": "Granite Construction",
+      "keywords": "Acquired",
+      "sector": "General",
+      "dealType": "Acquisition",
+      "value": "",
+      "date": "Jul 08, 2026",
+      "dateISO": "2026-07-08T15:06:00"
+    },
     {
       "title": "Otavi Cement challenges minister\u2019s approval of merger - neweralive.na",
       "summary": "Otavi Cement challenges minister\u2019s approval of merger neweralive.na",
@@ -147,6 +329,19 @@
       "value": "",
       "date": "Jul 06, 2026",
       "dateISO": "2026-07-06T06:00:00"
+    },
+    {
+      "title": "QXO Stock Gains Overnight: Why TopBuild Acquisition Has Investors Energized - Yahoo Finance",
+      "summary": "QXO Stock Gains Overnight: Why TopBuild Acquisition Has Investors Energized Yahoo Finance",
+      "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxOVnpYWFBwajZ6ckZ6WHoyQ1JvT1NiZml1Q3RydUJXQVRVZC1JRDBudGlsOTNiU3k4aHNpZ095MHF5X3hZOXZ5Um96S0I5WHdlOEU2QnV2TWJZdG11bzhKRTRXTDNTZGVxUV9kblczX1V2MGlCcEg2NW5VTlZWbUp5ZnNJSlZCdXFNd2U4Yzc0SlBiY0N1bHRZd05B?oc=5",
+      "source": "Yahoo Finance",
+      "category": "Granite Construction",
+      "keywords": "Acquired, Investment",
+      "sector": "General",
+      "dealType": "Acquisition",
+      "value": "",
+      "date": "Jul 06, 2026",
+      "dateISO": "2026-07-06T05:03:00"
     },
     {
       "title": "Martin Marietta Materials (MLM) Agrees To $13.5 Billion Lhoist North America Merger - simplywall.st",
@@ -355,6 +550,19 @@
       "value": "",
       "date": "Jul 02, 2026",
       "dateISO": "2026-07-02T08:58:36"
+    },
+    {
+      "title": "Martin Marietta Materials' Planned Acquisition of Lhoist North America to Add High-Quality Assets, UBS Says - Moomoo",
+      "summary": "Martin Marietta Materials' Planned Acquisition of Lhoist North America to Add High-Quality Assets, UBS Says Moomoo",
+      "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxNMlRkNmg4ajQ3VWFfQ3N4NlNXT3FsTzNWdDNfY0NYaTNrdnBoNnoxRnNsZUxScDEyRFZzLWVYa1ZMWVFuckFjOWdQbXRqWlBBcHpUV0xZd0NpZUxzMW1qcWxvMl85bWxweGlhSEZEdFdNSko4RFJwZ0ZzV0lDWHZsMXNUdXl6SGVfMWl0Y0NnQXMwbU9PVU4zbWlDdzVkQVFtX3dzcW1LNklqNEw2TzFSci1jckk?oc=5",
+      "source": "Moomoo",
+      "category": "Martin Marietta",
+      "keywords": "Acquired",
+      "sector": "General",
+      "dealType": "Acquisition",
+      "value": "",
+      "date": "Jul 01, 2026",
+      "dateISO": "2026-07-01T15:21:44"
     },
     {
       "title": "Hogan Lovells and Cadwalader cement $3.9bn merger - The Global Legal Post",
@@ -734,6 +942,19 @@
       "dateISO": "2026-06-25T09:21:25"
     },
     {
+      "title": "Comfort Systems' Acquisition Strategy: Is It the Next Growth Phase? - Yahoo Finance",
+      "summary": "Comfort Systems' Acquisition Strategy: Is It the Next Growth Phase? Yahoo Finance",
+      "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxOWU5rTFk4LUJQNm5UZFMyTDl2NE1yX2lkRF93SmswYlppZ1IyRkV5TUlBX2txSmdHaU9vbDQyUm5BalNMaHZwQjF3eGxfT2VoVDJSOWFoMXhxTXdQUnEzbXllYVowN2tYdmJ5aU1qVkJRMUZQQVNSSTI5VDhNNkNwdnNXcTBCTlpPTjF4V2lXUEhiWUU2NEk4RER3VTBnV2ZBZGZIdTZaMTBPZw?oc=5",
+      "source": "Yahoo Finance",
+      "category": "Granite Construction",
+      "keywords": "Acquired",
+      "sector": "General",
+      "dealType": "Acquisition",
+      "value": "",
+      "date": "Jun 25, 2026",
+      "dateISO": "2026-06-25T07:00:00"
+    },
+    {
       "title": "Redmond acquires new maintenance center site for $38.5 million - The Business Journals",
       "summary": "Redmond acquires new maintenance center site for $38.5 million The Business Journals",
       "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxNN2VjZE43dVlkRVpwNUJHcGd3eGFoVVRqYlBtVDEtamE3dTBRODZ5aUgyTnluOE4xUE5veHNEZkRva0Q5Z3ZsQXZXdVVidjhheHNWZl9xRFVOazgyOGJkcWVWV0VIZ29pN3lqdDJ6QVhoRUplV1Y4QVVKZkpaNkRIVmpjN2FRc2JVT0RVcFM4dHFTTnhlalVBZ1dock45Mkl0NkZjMkpmMDZ5bFU?oc=5",
@@ -1033,19 +1254,6 @@
       "dateISO": "2026-06-23T10:15:17"
     },
     {
-      "title": "CRH to acquire US-based Arcosa in $8.5bn all-cash deal - World Construction Network",
-      "summary": "CRH to acquire US-based Arcosa in $8.5bn all-cash deal World Construction Network",
-      "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTE5iamd3dW42QWRfajhsZXVWQVRXT3RDOWlzZGVQT3IzclQzZGktS0djNGhEMTdWbzE3ZWNFS1NFcnRJMURkWFdsdEpkaFF6MjhyZGdERUpLVVFMMGhLU3BvU2JVLWJlU0x2bkVLN3hEYmVuV3JOUWc0?oc=5",
-      "source": "World Construction Network",
-      "category": "Asphalt Industry",
-      "keywords": "Acquired, To Acquire",
-      "sector": "General",
-      "dealType": "Acquisition",
-      "value": "",
-      "date": "Jun 23, 2026",
-      "dateISO": "2026-06-23T10:06:39"
-    },
-    {
       "title": "CRH Strengthens US Presence with Arcosa Acquisition - Sharecafe",
       "summary": "CRH Strengthens US Presence with Arcosa Acquisition Sharecafe",
       "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxNQ0tVTmtpd0lIQ3lhZkthYjlFN29xaXhXdDVoNkVOc1lUTU1LNzIwbW1lcFRZNTY1ZnJCSFFNVVV1QzJVbTNEWldMS3lfUkIxOFdSSm4tTi1JWEdKTFVSSm5pMkZxS2dEQ1cybExyU0VfNTB0dG1YdFJvZlBBSFdpQWJBOXZUNkpCNkl0c09XMXhtSW9DQ01V?oc=5",
@@ -1070,6 +1278,19 @@
       "value": "",
       "date": "Jun 23, 2026",
       "dateISO": "2026-06-23T07:36:22"
+    },
+    {
+      "title": "CRH to acquire US-based Arcosa in $8.5bn all-cash deal - Yahoo Finance",
+      "summary": "CRH to acquire US-based Arcosa in $8.5bn all-cash deal Yahoo Finance",
+      "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxNNHYxallVRFhUa0tJRVFyN1BvT21telF4YXpDMXE1ZUkzbHNEZFk5dEZiWFFMRWNTS0xaU2tJaHFzeU1UX3ZhRmIwaWdiUl9rOW9zM2gzLUR0SU91clVlMUdlME56Z2ExMDMzVmxONUdWZ3dsaE5obDhSYkRQTTQ1OEp6ZWlZU3lsVWVzX1cyMHlzVmtKXzBz?oc=5",
+      "source": "Yahoo Finance",
+      "category": "Aggregates Industry",
+      "keywords": "Acquired, To Acquire",
+      "sector": "General",
+      "dealType": "Acquisition",
+      "value": "",
+      "date": "Jun 23, 2026",
+      "dateISO": "2026-06-23T07:00:00"
     },
     {
       "title": "Arcosa to be acquired by CRH in cash deal - The Globe and Mail",
@@ -1462,6 +1683,19 @@
       "dateISO": "2026-06-21T07:15:14"
     },
     {
+      "title": "CRH Lines Up Its Biggest Deal Yet With Arcosa - Finimize",
+      "summary": "CRH Lines Up Its Biggest Deal Yet With Arcosa Finimize",
+      "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTFBpV2ktNFdxazdQUlhnSEQwWjJ6THhzQ0k3eUZROHl0ang5M1I5ZC1HSDNLMGdEaGdpTHc2X1BONjZWVnB2NnU3TVIwUHBRNmxwUURTUHdfQzJLd29NWHVySDZFblhGcFJhZlN2aktfVE9xSGpDUGE1VXBjZUo0X1U?oc=5",
+      "source": "Finimize",
+      "category": "Aggregates Industry",
+      "keywords": "",
+      "sector": "General",
+      "dealType": "Acquisition",
+      "value": "",
+      "date": "Jun 21, 2026",
+      "dateISO": "2026-06-21T07:00:00"
+    },
+    {
       "title": "Holcim closes Xella deal to boost European sustainable wall systems - The Globe and Mail",
       "summary": "Holcim closes Xella deal to boost European sustainable wall systems The Globe and Mail",
       "url": "https://news.google.com/rss/articles/CBMi4gFBVV95cUxPd1FiYzZmUkRjeWRHcFBCTkp5SXhGT3czNExybHFrT083cmVoZ2lyQ2JQd0JHQVpKRWJCYnUxR0c4X3NNMjUzdTZIblltc0ZYQzhDV21hR3hJWEt0WXZ0OUxfNVY3VlZKdWxodm1NSEJmOWpZREFyOC1iVmtNRWJJRVFJTGp5M3ZaZ0YzX0RjZ3pLcEpRRWMzRC1GdHA1ZnNBMmJHSWYtbFlkZkpvelY0NGtSU0QzS1FkTG1lSmhrSmFsVmxpNnpZSVRfTzVBQzRLSlRGZUQ1aUxSSUtZSUs2Y1h3?oc=5",
@@ -1629,6 +1863,19 @@
       "value": "",
       "date": "Jun 18, 2026",
       "dateISO": "2026-06-18T11:27:29"
+    },
+    {
+      "title": "Huntsman (HUN) Stock Sees Modest Fair Value Cut After Olin Merger Focus - Yahoo Finance",
+      "summary": "Huntsman (HUN) Stock Sees Modest Fair Value Cut After Olin Merger Focus Yahoo Finance",
+      "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxQSXJSSTJlMkpCeVBESjVhZkd3T1hmcFhTSHF2NHdhb3BfNERsZDVuOXJfNklFbS1qWktpTVFyVmVGb3VUcmJYbDBhX0ZmOWxUMl8wdlNnT2FUNTdBMjhfTHJlM0IxRzZQcW9lektUV2ZBbkNXWXIxRmw2blZtZ3pWZVdoXzF4cTFsTFlGWDVrS2FTTVV5QXppWGN2QQ?oc=5",
+      "source": "Yahoo Finance",
+      "category": "Granite Construction",
+      "keywords": "Merger",
+      "sector": "General",
+      "dealType": "Merger",
+      "value": "",
+      "date": "Jun 18, 2026",
+      "dateISO": "2026-06-18T07:00:00"
     },
     {
       "title": "Vedanta Power Completes Promoter Stake Acquisition of 56.38% Post NCLT Scheme - Whalesbook",
@@ -2008,6 +2255,19 @@
       "dateISO": "2026-06-12T08:13:38"
     },
     {
+      "title": "DYWIDAG Group Acquisition of Interspan - Yahoo Finance",
+      "summary": "DYWIDAG Group Acquisition of Interspan Yahoo Finance",
+      "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxPU01ramdsUGRJZ1lWbURfbE1PSWx4QW0zU2gxQWxMZk11d2phUVhaTUU2YzdxMmtRRU5BZWNtRVFCNmxPYkF3cUxSRFBoV0hRV2dnajVuMWxPam1pUDdpWnFqeElFNmljbjZ0MS1uaHZJcWdBdUU0bHRreGZaYjJCS3JPTnQxdUNRUGJaTjdTNTNUSTZ4aS01czByYVBHdERIcGc?oc=5",
+      "source": "Yahoo Finance",
+      "category": "Granite Construction",
+      "keywords": "Acquired",
+      "sector": "General",
+      "dealType": "Acquisition",
+      "value": "",
+      "date": "Jun 12, 2026",
+      "dateISO": "2026-06-12T07:00:00"
+    },
+    {
       "title": "The US and Israel Merger - CounterPunch.org",
       "summary": "The US and Israel Merger CounterPunch.org",
       "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTE9uOXJLemtCMElYaFFDZDZYcWtNWjBHbXdHdkFBY0RhQ0ttUThQcDZ6UkFlQ2ZTbjBEcWFLZ3RPeDFBVHJjMk0wTmI1MGoxTS1SS3JNUTJoRFhuTTdSbGpwdmpUNmZKN2NuUERBbzJEeW01SVk?oc=5",
@@ -2086,6 +2346,19 @@
       "dateISO": "2026-06-11T07:00:00"
     },
     {
+      "title": "Sterling Infrastructure Expands E Infrastructure Reach With Stone Ridge Acquisition - Yahoo Finance",
+      "summary": "Sterling Infrastructure Expands E Infrastructure Reach With Stone Ridge Acquisition Yahoo Finance",
+      "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxNQXBNOHlNMUs0SWVXbUhkUE1ya2tfX1d2bXgxaDU3dUEzT0hNZDVHUnpFM1NlSEtKX2RwcVdHbDJ3MFdLVFAydkNDb21ZVGJ4MTVSa0VKdzZpdl9NczR3SFBJZjJzSHFFWG5LMHZMRlE4YUNuMmRfcmlLUFI2QmFldVlDUjBoamtBQlhjUTVkcFFUTVVTemQyNS1fUG1nb04wUUh1TG9FS3FsbXdfNGVOMmpqRQ?oc=5",
+      "source": "Yahoo Finance",
+      "category": "Granite Construction",
+      "keywords": "Acquired",
+      "sector": "General",
+      "dealType": "Acquisition",
+      "value": "",
+      "date": "Jun 11, 2026",
+      "dateISO": "2026-06-11T07:00:00"
+    },
+    {
       "title": "Vulcan Materials acquires Colorado, Texas operations - The Business Journals",
       "summary": "Vulcan Materials acquires Colorado, Texas operations The Business Journals",
       "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxPTWZ5QWN6YVlBSUhDQm1UMXJMRWljTktPLTRxVlpKaUMzRWNoV29lSEg4T3paMDR6Ry1wMDEzNWhlZ0xpV09sOFFUY25Tb2hKZnZQWnRJZFpKbXUwUm5tcU52RjZFU0ZWSDhKcjhTTTIwVU53YUJtVVp3X0d5VDRGdHIyLVZLM2FNaU9PUFZmMzdqdG9JMDIyT0dKMmJBZw?oc=5",
@@ -2097,136 +2370,6 @@
       "value": "",
       "date": "Jun 10, 2026",
       "dateISO": "2026-06-10T20:40:00"
-    },
-    {
-      "title": "Birmingham-based construction company makes acquisition in 2 states - AL.com",
-      "summary": "Birmingham-based construction company makes acquisition in 2 states AL.com",
-      "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxPY0Vvdmx6NFR6TnZIb3EyeF81djctY2swNW1rcWdrUFZPRzZHMUF1RDRmcm8wMGZUemVrRllSSC16Mm5JbG9hQzk4bVo5Ul94Z3RnRDdfVlFYZkp5djNFWTVTampnMWphdkoyU0N0SFRheDI2OEo5NUcwY1hQNFFoQnpFbGx5b0dGTjVHZEtrN2pDc0l6N0tkQS16QjNxMnJQVTFodWhacEM0SHpo?oc=5",
-      "source": "AL.com",
-      "category": "Aggregates Industry",
-      "keywords": "Acquired",
-      "sector": "General",
-      "dealType": "Acquisition",
-      "value": "",
-      "date": "Jun 10, 2026",
-      "dateISO": "2026-06-10T15:00:00"
-    },
-    {
-      "title": "UltraTech Cement Acquires Stake in Renewable Energy Firm FPEL Services - InvestyWise",
-      "summary": "UltraTech Cement Acquires Stake in Renewable Energy Firm FPEL Services InvestyWise",
-      "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxPV0cyclRnLWpJM0VSMmZ0b1dUSkc1R0hjWE9kdk1zdFJYSEhFLVFZWTJ1UVNwXzlHdHM1bzlDV1RHamMyRTMyVzF1eEZWb1J2eUxHT3RXaWw2aXdJWE5Jd2lzUE1VWmdFaWdybzJpbm1QMHdqcWhvVHYtTzhrT3FFV3BfMFRWbXBNRS1ZMmlIaklFbEFI?oc=5",
-      "source": "InvestyWise",
-      "category": "Cement Industry",
-      "keywords": "Acquired, Investment",
-      "sector": "Cement",
-      "dealType": "Acquisition",
-      "value": "",
-      "date": "Jun 10, 2026",
-      "dateISO": "2026-06-10T13:52:43"
-    },
-    {
-      "title": "CalPortland Co completes Vulcan RMC acquisition - cemnet.com",
-      "summary": "CalPortland Co completes Vulcan RMC acquisition cemnet.com",
-      "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxNQXJnWlJkZFpuOWJrWFF0X0hldGhRMkl0Rklkb1A3bjJ2U2xBTUVLbWhRSHBzclEzZExHclV2WElYT2U4d2d3QVYzRnpDWjN6M3g3czFQR2ZoTGhXOVBuejQ4VG1xbUpXamFKY2NZYmIyaFhEeFFEbFZPeF9MeTFRTHdRNTZ1dWtBZWlyTENmMnYtbzhCQVNDbw?oc=5",
-      "source": "cemnet.com",
-      "category": "Ready-Mix Industry",
-      "keywords": "Acquired",
-      "sector": "Cement",
-      "dealType": "Acquisition",
-      "value": "",
-      "date": "Jun 10, 2026",
-      "dateISO": "2026-06-10T07:00:00"
-    },
-    {
-      "title": "Breedon Group acquires Missouri limestone quarry - cemnet.com",
-      "summary": "Breedon Group acquires Missouri limestone quarry cemnet.com",
-      "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxQYzVFZkxEZW9mR2RKMXhqd2R6ZjlpY09BNm5oVS1QZ0p6dDl6czUxNXk4a2ZIaFM5RVFLOHdmMThlcm04SXV4cEJGY2QzQmwzVktMbGJaVlF0eUtsYUNqaEc3ZTFhSk1GTWpteHJhUmJUV2hob1dTWW5YZmFsZEdFUXJHY1FiTUtIVVR5RGFxdkp4Zks3NXBHSkln?oc=5",
-      "source": "cemnet.com",
-      "category": "Holcim",
-      "keywords": "Acquired",
-      "sector": "Aggregates",
-      "dealType": "Acquisition",
-      "value": "",
-      "date": "Jun 10, 2026",
-      "dateISO": "2026-06-10T07:00:00"
-    },
-    {
-      "title": "UltraTech Cement to acquire 13.99% stake in FPEL Services for wind power - scanx.trade",
-      "summary": "UltraTech Cement to acquire 13.99% stake in FPEL Services for wind power scanx.trade",
-      "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxNN1dPMWtGOEtLbVlRMDN3V1Q4Z0lwQ0NmbFQ4OVQ1V0FrOGQ1SUZ2NmdKdjM5S0hUSXU0anBoa3BkWmdZNFBpWkI4ZkQzYWhNRVEzNEhnS0gzTzExQ3EtNWw4VVVlRk9PRVVVWW5DMWh2eVdQWWwyVTRZSW9DOEpUQl9NR1pFd2VjSXBrRUE1VTluZ1RtN3FLRUhGbDlOLVhpLXU3TFhKRmcxN04yT2Vkd3RDcjJDNkNPVy1BeHlRZGNSUmFiOEE?oc=5",
-      "source": "scanx.trade",
-      "category": "Cement Industry",
-      "keywords": "Acquired, To Acquire",
-      "sector": "Cement",
-      "dealType": "Acquisition",
-      "value": "",
-      "date": "Jun 10, 2026",
-      "dateISO": "2026-06-10T07:00:00"
-    },
-    {
-      "title": "Afrimat fulfils tribunal\u2019s Lafarge acquisition conditions with quarries and plants sale - Business Day",
-      "summary": "Afrimat fulfils tribunal\u2019s Lafarge acquisition conditions with quarries and plants sale Business Day",
-      "url": "https://news.google.com/rss/articles/CBMi6wFBVV95cUxORl82c0Z2UkU4VkQ0R3hMZnU0VThzR3I5ZlJMZVh1TkdYLXJacjVpdTFkRUFWdHNNRmppVGVmQTVFNWJwdC12dFE4dUdiLVptSER5U1VoenVCbUcxRU9DLTNsTFE3V1cxUF9vQzNadDdqN09aM3RTbFN4N0s1OGotV0hXWGtGWElkWkRoQ0hBaWpfSk5iMGFGVFoxeUxjU0xZSGdnZmJ0bTl5R2tObDFudGRHNXhHVDRRNzZJTXJ2TFJFYjNrcnlTVmhsR2Q1bHJRc2J6VVhBY25NUktSQ09naTFqZGhCWnBtX3Jj?oc=5",
-      "source": "Business Day",
-      "category": "Cement Industry",
-      "keywords": "Acquired",
-      "sector": "General",
-      "dealType": "Acquisition",
-      "value": "",
-      "date": "Jun 10, 2026",
-      "dateISO": "2026-06-10T07:00:00"
-    },
-    {
-      "title": "India Cements to acquire 12.48% stake in FPEL Services for \u20b910.78 crore - scanx.trade",
-      "summary": "India Cements to acquire 12.48% stake in FPEL Services for \u20b910.78 crore scanx.trade",
-      "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxNd2lzaEVXVHZHQVBrSkhXVEJkVkNqdUdONGl3S0FLZXlOVkJPSDFBMElBTWZGdWlUdjdTUW9HdzhTN294WjRVMDVSX2hmQ3JhcjlqelV2QWo5WXZkN3ZCbnVSdjNpRTlKelhobksteE5JN3Fwd09jUEJvTTRnMm1sYWJUeHRmVm5kNkl2cjFVV3BIdm1RYW9ydzFNZzhYT2ZsQ0l5Nmg5VGI2U1dfTzE1Zk8zRlFNd2N1bk01UTFVcjd6SkNV?oc=5",
-      "source": "scanx.trade",
-      "category": "Cement Industry",
-      "keywords": "Acquired, To Acquire",
-      "sector": "Cement",
-      "dealType": "Acquisition",
-      "value": "",
-      "date": "Jun 10, 2026",
-      "dateISO": "2026-06-10T07:00:00"
-    },
-    {
-      "title": "UltraTech Cement Acquires 13.99% Stake in FPEL Services to Scale Renewable Energy Use - Sahi",
-      "summary": "UltraTech Cement Acquires 13.99% Stake in FPEL Services to Scale Renewable Energy Use Sahi",
-      "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxPMWdwSzg2cUN3SG9MX0EwYTYwanJMc2lYYU4tWUtuX2hWNnlXWG9mbE16V3MyOENTX0gwdEk5dmc5QkE5LVl6ejNuSkg1UDNtWS1mbm5jRUgyVXhtb3JFVWZkTm5VRGVDQ2Y3X1VXTXA4LXJjSjdqVXVoaDNfa292VU1PMTh2Ukl3dlZoYUN0RUZ5LXl1OFBIbGpFYVpqell5YkNJVWdFZUVyRDMzWmpLQmlFcUpKRm84OW5tclpwbmc?oc=5",
-      "source": "Sahi",
-      "category": "Cement Industry",
-      "keywords": "Acquired",
-      "sector": "Cement",
-      "dealType": "Acquisition",
-      "value": "",
-      "date": "Jun 10, 2026",
-      "dateISO": "2026-06-10T07:00:00"
-    },
-    {
-      "title": "ICICI Prudential Mutual Fund Acquires Over 5% Stake in JK Lakshmi Cement Ltd. - InvestyWise",
-      "summary": "ICICI Prudential Mutual Fund Acquires Over 5% Stake in JK Lakshmi Cement Ltd. InvestyWise",
-      "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxPbTdMWTlTRW04RnhhUmJBWk80ZkpDOUg1djF5YlJ6c24tMDBIVmM2dkZuY0FId3k2NG1LRi1FaU1IdVRHUU85T3hSSGZfaGJIOGVjVHhqOWhobWtBVkVyalRtNzRjaFp6aWdfZ2lMV193UWtDTVBFazdfN0RhOWRGbWlMUVduU1BaSi1nY1ZhSkhCYTJ4?oc=5",
-      "source": "InvestyWise",
-      "category": "Cement Industry",
-      "keywords": "Acquired, Investment",
-      "sector": "Cement",
-      "dealType": "Acquisition",
-      "value": "",
-      "date": "Jun 10, 2026",
-      "dateISO": "2026-06-10T06:06:54"
-    },
-    {
-      "title": "Breedon Acquires Falling Springs Quarry: US$120M Deal Enhances US Platform - News and Statistics - IndexBox",
-      "summary": "Breedon Acquires Falling Springs Quarry: US$120M Deal Enhances US Platform - News and Statistics IndexBox",
-      "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxQX3NGR2ttOU1XdFFwM2tOZGwzWWc0NG8yenRKc00zS1VMZVdGaGV2T2xwRlRLZGJrR0V5WDR1R2NDQ1lRRjI3S2E3Y0JrbWVvSFVnSjBtUkFBcGtXRnROTzhUczd5dWgxcUhTSjREUzBWMy1MeFV2TGYyM1hMUlNVYUMxTm9GUHV6YVJGazdNUXhjYWlvWnR4eXFnUmgyVTFxWFE?oc=5",
-      "source": "IndexBox",
-      "category": "Aggregates Industry",
-      "keywords": "Acquired",
-      "sector": "Aggregates",
-      "dealType": "Acquisition",
-      "value": "$120M",
-      "date": "Jun 10, 2026",
-      "dateISO": "2026-06-10T00:50:00"
     }
   ]
 }
