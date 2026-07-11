@@ -1,10 +1,49 @@
 {
-  "fetchedAt": "2026-07-10T15:29:39.717310",
+  "fetchedAt": "2026-07-11T14:19:57.837292",
   "totalArticles": 182,
-  "newToday": 36,
-  "duplicatesRemoved": 15,
+  "newToday": 18,
+  "duplicatesRemoved": 11,
   "archiveDays": 30,
   "articles": [
+    {
+      "title": "Chinese-backed Hainan Huaxin acquires Lafarge Africa in $1 billion deal, challenging Dangote and BUA in Nigeria - Businessamlive",
+      "summary": "Chinese-backed Hainan Huaxin acquires Lafarge Africa in $1 billion deal, challenging Dangote and BUA in Nigeria Businessamlive",
+      "url": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxOOGFhVUNyLUs1WGJXcXB4bzlBWEkya2RHQnNpb0l3WnVrc3BJTmpNUHJsYXBmb2NYbG51SEFOTWZHTXUwSkNQRnJZM1VIdG84dlNzRG01bkFLR2tIV3JROUtQa0dhbk40MlJSc2N3anBaanF5SFJHWkxBaDFXaW9ITi1aWmVHUXJ5SGhTMFZPNWFMVnJUQXBhSU15ak45Qml2cVBlN1hXZDVRTkNJMFRwTnpSVjlXajlyTU11OEh6d1JBS2JlUHZqZnlybnpNaFJUMnlF?oc=5",
+      "source": "Businessamlive",
+      "category": "Cement Industry",
+      "keywords": "Acquired",
+      "sector": "General",
+      "dealType": "Acquisition",
+      "value": "$1.00B",
+      "date": "Jul 11, 2026",
+      "dateISO": "2026-07-11T06:49:19"
+    },
+    {
+      "title": "Exclusive-Holcim to get EU nod for 1.85 billion euro Xella acquisition after offer to sell Romanian asset, sources say - AOL.com",
+      "summary": "Exclusive-Holcim to get EU nod for 1.85 billion euro Xella acquisition after offer to sell Romanian asset, sources say AOL.com",
+      "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTE5wX2x6V1VlMVBEbVdhVFR3QmNWX2JuYzFVamt3SVpfTHNBZzZ3SWpOckNZS0YwZXJrazN2dUtCOXEwLWxGYk9wNTRXT3BOSE1oV3VkYUFBVDhQaUduclNFWk0xNndFNW5MOTI0TVVaRmxfWVFRNVItaw?oc=5",
+      "source": "AOL.com",
+      "category": "Holcim",
+      "keywords": "Acquired",
+      "sector": "General",
+      "dealType": "Acquisition",
+      "value": "",
+      "date": "Jul 11, 2026",
+      "dateISO": "2026-07-11T05:43:56"
+    },
+    {
+      "title": "Kahala Concrete LLC to acquire HC&D\u2019s Maui assets - Maui Now",
+      "summary": "Kahala Concrete LLC to acquire HC&D\u2019s Maui assets Maui Now",
+      "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxQZUxvVkJhdnQybDRIcUhwRTlUd3pyVnAySnppZE5OeG9zSzZjdGZYaGg5TXVGTEpCemdjdnYyTWhZenF5cFZPM3o3SUhUN2FWN2J3VDFldnFpMVJHUnVHVm4yaGIxVW9EcTN5dm5TWDZMSEtQT3AxWXJhanRsUFlJdGJjVmttUQ?oc=5",
+      "source": "Maui Now",
+      "category": "Asphalt Industry",
+      "keywords": "Acquired, To Acquire",
+      "sector": "General",
+      "dealType": "Acquisition",
+      "value": "",
+      "date": "Jul 11, 2026",
+      "dateISO": "2026-07-11T02:00:00"
+    },
     {
       "title": "Africa's cement giants Dangote and BUA face new rival as Chinese-backed firm enters Nigeria's cement market with $1 billion acquisition - Business Insider Africa",
       "summary": "Africa's cement giants Dangote and BUA face new rival as Chinese-backed firm enters Nigeria's cement market with $1 billion acquisition Business Insider Africa",
@@ -186,6 +225,19 @@
       "value": "",
       "date": "Jul 08, 2026",
       "dateISO": "2026-07-08T15:06:00"
+    },
+    {
+      "title": "Holcim Completes Acquisition of Xella for 1.8 Billion Euros - Economic.bg",
+      "summary": "Holcim Completes Acquisition of Xella for 1.8 Billion Euros Economic.bg",
+      "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxPQnJGc0FZbnRTcTl0YzNTWlZyTFh5U19ia0NtZThyQnluUXJveTAtZHhnYWl3aGRJVUtPUjgxV0kwZnpKX0hjem01NXEwWm0xVzFPMjdIeEQwUzdNTHdLZFNwcDZNakltVVZrU1BJRVA2Z00xOUxYS2JFR21tTUFGMHNmbTBoMktZLUdhZVItbEswdUliQndNdg?oc=5",
+      "source": "Economic.bg",
+      "category": "Cement Industry",
+      "keywords": "Acquired",
+      "sector": "General",
+      "dealType": "Acquisition",
+      "value": "",
+      "date": "Jul 08, 2026",
+      "dateISO": "2026-07-08T14:57:49"
     },
     {
       "title": "Otavi Cement challenges minister\u2019s approval of merger - neweralive.na",
@@ -589,6 +641,19 @@
       "value": "",
       "date": "Jul 01, 2026",
       "dateISO": "2026-07-01T07:32:21"
+    },
+    {
+      "title": "Wesco Completes Acquisition of Newark Engineering Group, Expanding Data Center Cooling and Lifecycle Services - Yahoo Finance",
+      "summary": "Wesco Completes Acquisition of Newark Engineering Group, Expanding Data Center Cooling and Lifecycle Services Yahoo Finance",
+      "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxNOENzMUVVRkpaVjNtQnE5THRLdGRUVGtqRUVsMlQ5dzBhRkpHdnBhVFFOUG1XNXEzUkZMNnJaYlNnckFPQ282WmZRM210bUphNVpPM0RpUDRMZWY4ZEJPMjVWQVNPaWZ3TXZNckpiOWRnRHhYQndxeVlycWVUa0EwekRXS0pKNUtoN2Q4WXdNbGJtRlI5djM1VUZjTlpCd2ZiMHkzcEFLem1wS28?oc=5",
+      "source": "Yahoo Finance",
+      "category": "Granite Construction",
+      "keywords": "Acquired",
+      "sector": "General",
+      "dealType": "Acquisition",
+      "value": "",
+      "date": "Jul 01, 2026",
+      "dateISO": "2026-07-01T07:00:00"
     },
     {
       "title": "Angel Castillo Reiterates Buy on Martin Marietta, Maintains $664 Price Target Following Transformative Lhoist North America Acquisition - TipRanks",
@@ -1618,6 +1683,19 @@
       "dateISO": "2026-06-22T07:33:28"
     },
     {
+      "title": "Building Materials Giant CRH to Buy Supplier Arcosa in $8.5B Cash Deal - Engineering News-Record (ENR)",
+      "summary": "Building Materials Giant CRH to Buy Supplier Arcosa in $8.5B Cash Deal Engineering News-Record (ENR)",
+      "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxQcDVjQ3BNTG1oT1g5MmJzX0F5Y3pVY25RSFlPTmp6UzhDVzl5OUFNYWhrNV9zZjQzZ2RrS0V4MTlkTTlFRU4zZDctbV80cVp0ejg1ZzBHUWRVT1c3ZzYxSzRjU2k0WHc0RHN5ZjBRaTIxRV9ZNHRYZHdQbk1OcTFnLUJuT0lKRkNIenY2WWR4N0hCVDdQcEp6UWV5THNOQ2RNX2FwR2xR?oc=5",
+      "source": "Engineering News-Record (ENR)",
+      "category": "Aggregates Industry",
+      "keywords": "",
+      "sector": "General",
+      "dealType": "Acquisition",
+      "value": "$8.50B",
+      "date": "Jun 22, 2026",
+      "dateISO": "2026-06-22T07:00:00"
+    },
+    {
       "title": "RBC Updates Price Target, Estimates for Holcim After Xella Acquisition Closing - marketscreener.com",
       "summary": "RBC Updates Price Target, Estimates for Holcim After Xella Acquisition Closing marketscreener.com",
       "url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxOaWlpZDNrWDV4a18xQTRHVHRfUk5rc2ZFcTNGamlDMi1IWGNxdWhQN19SZGJQR1VVak55em9vNDJJMU1iQWVrczBXWEVoRU5XajNVWTFFV3BvTXA3NkNVZld3ZXNnNno3aFl1aFh6QTlWeXJqbHZ5eFJqaENwMFFDbVF5SDZBb3hOZmFBMV96a25UcE5QNzN3NHIxQUdvV3Y5UVpQVGZpTjJYc1d2aTFXVDVLWDhseURINjd5bTRzS3ZqbnJMSlBoWHlR?oc=5",
@@ -1785,6 +1863,19 @@
       "value": "",
       "date": "Jun 19, 2026",
       "dateISO": "2026-06-19T07:02:23"
+    },
+    {
+      "title": "Brookfield agrees to divest builder Multiplex to Obayashi for $650m - Yahoo Finance",
+      "summary": "Brookfield agrees to divest builder Multiplex to Obayashi for $650m Yahoo Finance",
+      "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxNTUJGamNOQkZEeTJDOGJaY0xER1JTQ0FPN0ljRFRsOHRTbnFsVlZKVWpYQXpiWWZMb2xvVFlndVFJYlVhUm5BQ0o3cWhSRzAtOXJsMXlaaDNRMjZuWnJ5ZERZekZXTHlMQjJ2d3lsOHNuakcta3hxY1Nobkt0c1ByWmxkUkdSbzNaWExCTzB0SnBfUTVnQmNyVUpVVVNiaDNQSVNBWHZOdw?oc=5",
+      "source": "Yahoo Finance",
+      "category": "Granite Construction",
+      "keywords": "Divest",
+      "sector": "General",
+      "dealType": "Divestiture",
+      "value": "$650M",
+      "date": "Jun 19, 2026",
+      "dateISO": "2026-06-19T07:00:00"
     },
     {
       "title": "Holcim Finalizes Xella Acquisition on June 19, 2026 | Building Solutions Expansion - News and Statistics - IndexBox",
@@ -2279,97 +2370,6 @@
       "value": "",
       "date": "Jun 12, 2026",
       "dateISO": "2026-06-12T06:04:45"
-    },
-    {
-      "title": "ATWEC Technologies Names Jeff Eales CEO Following Park-Aid Acquisition - citybiz",
-      "summary": "ATWEC Technologies Names Jeff Eales CEO Following Park-Aid Acquisition citybiz",
-      "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxNdlI1UUJPdFAyUEp0UkxsZ0RQVFk1d1Rta19CY1U2bzY2MHpiaDNJS0JMRkNNeVJJcDRpMjNYWGxjZVp3NEpMY2RtUzlJOF9uUkJULUNob2pvYW5ya1FZWms5YXBheFQyR0owTjhydXRBZnFRY3RxWW16SFZBREkzbU9mUzhycXQ0UERjM2haSGg1NVBhYUxvczJ6N0luZl9NdW5TWDZ4U0hzQWlSY0E?oc=5",
-      "source": "citybiz",
-      "category": "Asphalt Industry",
-      "keywords": "Acquired",
-      "sector": "General",
-      "dealType": "Acquisition",
-      "value": "",
-      "date": "Jun 11, 2026",
-      "dateISO": "2026-06-11T13:03:36"
-    },
-    {
-      "title": "Afrimat steps closer to acquisition of Lafarge South Africa - facilitiesmanagement-now.com",
-      "summary": "Afrimat steps closer to acquisition of Lafarge South Africa facilitiesmanagement-now.com",
-      "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxQTnBXYVMwMFRlMlVNVGZLTWF4ZGg4QkpGQnlPb0FobkM0Tkc3RzdyVks5eXVSTHdzQUoteEdOOWhaME81cHd2YnBRRWI3eEp5czR1emgzTXk5bjRTbkxNal9uZU5NbjBZMDVJdkpMYV9Ha1lJZ1lpZ1NuZWN3MzBPN3NWSVZxSllZN0tlRFFQOWhkNG1CdE1kd1ZES0ZvUmtvSEJXVDFuZWI2RFhXcmRQWDZpU0VzUQ?oc=5",
-      "source": "facilitiesmanagement-now.com",
-      "category": "Holcim",
-      "keywords": "Acquired",
-      "sector": "General",
-      "dealType": "Acquisition",
-      "value": "",
-      "date": "Jun 11, 2026",
-      "dateISO": "2026-06-11T12:24:04"
-    },
-    {
-      "title": "Sage Surface Partners Advances Growth Strategy with Southern California Acquisition, Adds Seasoned CEO and CFO to the Leadership Team - The Globe and Mail",
-      "summary": "Sage Surface Partners Advances Growth Strategy with Southern California Acquisition, Adds Seasoned CEO and CFO to the Leadership Team The Globe and Mail",
-      "url": "https://news.google.com/rss/articles/CBMixAJBVV95cUxNcEVqbV8yQVdtS05qTV9UbHdmaXFBZTFzWllaLWZpbk5mLTJOTmViRFVNTkdNLUlUTnJxM0xRbGNjWG5Xb0RJOWZISkV0S0pmM0pWWnc2YzlOME45Y3FhZXl4ZE84UGZNa2pVWFhteG1odW5jY0ZIYWpJVnhLS2J0WVlHN0lFZnIyZGpEVTJKVzNPLTcxMl90TUZmQnotRTFhVXhCMlFqWUdtTVVQS1dhZU1ac1JyQ0lSa3pYLTJaYk9GVEpzcnZ4emJzMmc0MDF3WkhXZF9WR1o2TVhidzY4em5mNG5lU1hLMHZwWmR4RjhKbGZlNEpMVUZmWkxwdjFEeU1xNGpDRjZOSk42RGVwcnVaSjF5eWNaYUV1MzZpMXg5VjIwZHhVMjVrdnM1NzFVRGRnc2pLOG9EQ3ZDTzhnTGlPcks?oc=5",
-      "source": "The Globe and Mail",
-      "category": "Asphalt Industry",
-      "keywords": "Acquired",
-      "sector": "General",
-      "dealType": "Acquisition",
-      "value": "",
-      "date": "Jun 11, 2026",
-      "dateISO": "2026-06-11T09:03:00"
-    },
-    {
-      "title": "ATWEC Technologies Appoints Jeff Eales as Chief Executive Officer Following Successful Acquisition of Park-Aid Asphalt and Maintenance Ltd. - The Globe and Mail",
-      "summary": "ATWEC Technologies Appoints Jeff Eales as Chief Executive Officer Following Successful Acquisition of Park-Aid Asphalt and Maintenance Ltd. The Globe and Mail",
-      "url": "https://news.google.com/rss/articles/CBMivgJBVV95cUxPX0MzaFN2WXBEdmxuN1ljNXlOOUFRY3p4c3RPY2ZqTkl5MkxSMHJIU1BOaUlsd1R5eXFpRTRfMUMwcFdFaXhFSV9HcFpxZVl1NDVEblhiSzZOcHdyMUdLSHFSbWtpRVpOV0xsUmRLVkFDQkhIQzZRVFZpM2NYbTlGaFl3MnUzTE9yZlFZaS1SSUxoTTdJcW5ENVZsQk5lRzVBUmFIQVRhT1VPOWpaTHluOWs1T1d0ZUtIY0VTSmFILThfTnRoeWpUbTJodkxKY3NlNFV6SlJYRmlLcHdNZ0pOMmxZVnJJZUZTM2ZPV0oySDRuMnBTeXNMbVFsYzdCYjF6c1RaMnVPYlNoS2JSRWstQ1lzV2hDSkRuN0lmT0c3LWtqQmdwNHFBMk16ekNNT1ZLQ3FTc1BhOGd0ejF1dFE?oc=5",
-      "source": "The Globe and Mail",
-      "category": "Asphalt Industry",
-      "keywords": "Acquired",
-      "sector": "Asphalt",
-      "dealType": "Acquisition",
-      "value": "",
-      "date": "Jun 11, 2026",
-      "dateISO": "2026-06-11T08:00:00"
-    },
-    {
-      "title": "After Park-Aid acquisition, ATWEC puts industry veteran in charge - Stock Titan",
-      "summary": "After Park-Aid acquisition, ATWEC puts industry veteran in charge Stock Titan",
-      "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxNR2xfcGdYWlB3czVtZTNDS2Nyb1lIZWNERHc2R19IUVhJcG40bF90N2psQ25ual9jdmhyX0x3VHV6MmJWUnktVkl3eFIzNTlvWHM4dVN0UEdkbS1NSWlEYmpveGZpTDUycmUzc0hRdUt3NHRKNWk4SFlZb0x2SjBnbU44Vmt2X25jckRlNmd3Wkt3UzJGQ3hIMXNzQUV4Zjhva0NIdlZ2alBkNk9RXzJDQTFRNEZRdE9sM0E1dQ?oc=5",
-      "source": "Stock Titan",
-      "category": "Asphalt Industry",
-      "keywords": "Acquired",
-      "sector": "General",
-      "dealType": "Acquisition",
-      "value": "",
-      "date": "Jun 11, 2026",
-      "dateISO": "2026-06-11T07:00:00"
-    },
-    {
-      "title": "Sterling Infrastructure Expands E Infrastructure Reach With Stone Ridge Acquisition - Yahoo Finance",
-      "summary": "Sterling Infrastructure Expands E Infrastructure Reach With Stone Ridge Acquisition Yahoo Finance",
-      "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxNQXBNOHlNMUs0SWVXbUhkUE1ya2tfX1d2bXgxaDU3dUEzT0hNZDVHUnpFM1NlSEtKX2RwcVdHbDJ3MFdLVFAydkNDb21ZVGJ4MTVSa0VKdzZpdl9NczR3SFBJZjJzSHFFWG5LMHZMRlE4YUNuMmRfcmlLUFI2QmFldVlDUjBoamtBQlhjUTVkcFFUTVVTemQyNS1fUG1nb04wUUh1TG9FS3FsbXdfNGVOMmpqRQ?oc=5",
-      "source": "Yahoo Finance",
-      "category": "Granite Construction",
-      "keywords": "Acquired",
-      "sector": "General",
-      "dealType": "Acquisition",
-      "value": "",
-      "date": "Jun 11, 2026",
-      "dateISO": "2026-06-11T07:00:00"
-    },
-    {
-      "title": "Vulcan Materials acquires Colorado, Texas operations - The Business Journals",
-      "summary": "Vulcan Materials acquires Colorado, Texas operations The Business Journals",
-      "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxPTWZ5QWN6YVlBSUhDQm1UMXJMRWljTktPLTRxVlpKaUMzRWNoV29lSEg4T3paMDR6Ry1wMDEzNWhlZ0xpV09sOFFUY25Tb2hKZnZQWnRJZFpKbXUwUm5tcU52RjZFU0ZWSDhKcjhTTTIwVU53YUJtVVp3X0d5VDRGdHIyLVZLM2FNaU9PUFZmMzdqdG9JMDIyT0dKMmJBZw?oc=5",
-      "source": "The Business Journals",
-      "category": "Aggregates Industry",
-      "keywords": "Acquired",
-      "sector": "General",
-      "dealType": "Acquisition",
-      "value": "",
-      "date": "Jun 10, 2026",
-      "dateISO": "2026-06-10T20:40:00"
     }
   ]
 }
