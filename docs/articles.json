@@ -1,8 +1,8 @@
 {
-  "fetchedAt": "2026-07-11T14:19:57.837292",
-  "totalArticles": 182,
-  "newToday": 18,
-  "duplicatesRemoved": 11,
+  "fetchedAt": "2026-07-12T14:24:44.682420",
+  "totalArticles": 181,
+  "newToday": 15,
+  "duplicatesRemoved": 13,
   "archiveDays": 30,
   "articles": [
     {
@@ -316,6 +316,19 @@
       "value": "",
       "date": "Jul 07, 2026",
       "dateISO": "2026-07-07T19:15:04"
+    },
+    {
+      "title": "Goldgroup, Gold Resource Merger Approved; July 17 Close Eyed - Mexico Business News",
+      "summary": "Goldgroup, Gold Resource Merger Approved; July 17 Close Eyed Mexico Business News",
+      "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxOUE4zamNpSVJyUkt6OWhyUjRJZG5CMnhqazlCR2JqaThGMVd4VklsNjNOQ1R0WE9Db19rbVg0ajEydlBtbk9SVHRNS1BKWmFEYndZMXlVTFlZQ3BnMDJTeEpLZ1FyRVRCLXdHbGlYUVhudHVaMDNzQzlncTdqWEZuQmtOdGEzeUVsMTF5Y3k1SjNCTHhLdHluT2V2em84S0E?oc=5",
+      "source": "Mexico Business News",
+      "category": "Vulcan Materials",
+      "keywords": "Merger",
+      "sector": "General",
+      "dealType": "Merger",
+      "value": "",
+      "date": "Jul 07, 2026",
+      "dateISO": "2026-07-07T16:24:51"
     },
     {
       "title": "Minister approves Ohorongo-Cheetah merger ... in a deal that reshapes ownership of local cement sector - neweralive.na",
@@ -648,6 +661,19 @@
       "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxNOENzMUVVRkpaVjNtQnE5THRLdGRUVGtqRUVsMlQ5dzBhRkpHdnBhVFFOUG1XNXEzUkZMNnJaYlNnckFPQ282WmZRM210bUphNVpPM0RpUDRMZWY4ZEJPMjVWQVNPaWZ3TXZNckpiOWRnRHhYQndxeVlycWVUa0EwekRXS0pKNUtoN2Q4WXdNbGJtRlI5djM1VUZjTlpCd2ZiMHkzcEFLem1wS28?oc=5",
       "source": "Yahoo Finance",
       "category": "Granite Construction",
+      "keywords": "Acquired",
+      "sector": "General",
+      "dealType": "Acquisition",
+      "value": "",
+      "date": "Jul 01, 2026",
+      "dateISO": "2026-07-01T07:00:00"
+    },
+    {
+      "title": "List of 19 Acquisitions by Construction Partners (Jul 2026) - Tracxn",
+      "summary": "List of 19 Acquisitions by Construction Partners (Jul 2026) Tracxn",
+      "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxNMFJ2blpKcWFNZFQxOUQzcVFjVlRvV1hLYnhUZUlzbTRPQzNtYjZwbmRCMnRWUUtQZTNWeC1ROXZwRWJDNklTR1VjaFl5YlZFaHRZdzZvd2tKVDI3T2NiNEdpeFc2ZURuSHp6dU44X3FpUzQ2WmxXSWVSdGV1d1NIcjd0VlZYdlViclVHU3dlUFllN2NodzZwdmI2QUk2cFBSTkFDZ1ZIcHZtQnU5bFRobnNvaGRLR09z?oc=5",
+      "source": "Tracxn",
+      "category": "Construction Partners",
       "keywords": "Acquired",
       "sector": "General",
       "dealType": "Acquisition",
@@ -2331,45 +2357,6 @@
       "value": "",
       "date": "Jun 12, 2026",
       "dateISO": "2026-06-12T15:14:15"
-    },
-    {
-      "title": "Fadnavis says regional parties won't join 'Sinking Ship' Congress amid merger speculations - lokmattimes.com",
-      "summary": "Fadnavis says regional parties won't join 'Sinking Ship' Congress amid merger speculations lokmattimes.com",
-      "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxNRVdJN3JJcmJlRENvVktvRExzVHItTHJPZHZUOWhyUk53bWdJcTd1TGdBSUpOUGp3T25aZElmUW14RXRuSlQyVEstY29uRFh0aFlJWURxVFZwMnEyWlZ5Z3FZdXFHaFJQQUk3Qkh1dkF4czBlOFJRMUNnWVM1SjJJSTFRZ3doYURzdmM4dlloRzdTSDJxb3ZRdjJ4djl3RnUwMzdEUUpVWDlHUE1yMUhDQmpRT0J5V3JQYVMtdDNIaGp1MXfSAcgBQVVfeXFMUGs0d1RUcV9VZGJjdlVkMk1TSnNsUTU1M2xfSF8zcmVyYktOZnVKcU9MVGxrV1gwSDEyMV9yVVUybWgycmNpTjZ2dXd6d0xpcWFYVV9XMUtTdGVnbTM1b3Nlc0pHd0xxRTM2MGI5S05CR2NrbmRKUHdwa1FFUW9zTWxUUlpGQkhZVEI4SDhxM2pyOWx3RHNfcHI4RjdtYnhfVXVBTXB0R0xSSWo5TVBOUEVkczVTOUhNTVJ0YU93aEgtMVpGY2xDSFg?oc=5",
-      "source": "lokmattimes.com",
-      "category": "Cement Industry",
-      "keywords": "Merger",
-      "sector": "General",
-      "dealType": "Merger",
-      "value": "",
-      "date": "Jun 12, 2026",
-      "dateISO": "2026-06-12T08:13:38"
-    },
-    {
-      "title": "DYWIDAG Group Acquisition of Interspan - Yahoo Finance",
-      "summary": "DYWIDAG Group Acquisition of Interspan Yahoo Finance",
-      "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxPU01ramdsUGRJZ1lWbURfbE1PSWx4QW0zU2gxQWxMZk11d2phUVhaTUU2YzdxMmtRRU5BZWNtRVFCNmxPYkF3cUxSRFBoV0hRV2dnajVuMWxPam1pUDdpWnFqeElFNmljbjZ0MS1uaHZJcWdBdUU0bHRreGZaYjJCS3JPTnQxdUNRUGJaTjdTNTNUSTZ4aS01czByYVBHdERIcGc?oc=5",
-      "source": "Yahoo Finance",
-      "category": "Granite Construction",
-      "keywords": "Acquired",
-      "sector": "General",
-      "dealType": "Acquisition",
-      "value": "",
-      "date": "Jun 12, 2026",
-      "dateISO": "2026-06-12T07:00:00"
-    },
-    {
-      "title": "The US and Israel Merger - CounterPunch.org",
-      "summary": "The US and Israel Merger CounterPunch.org",
-      "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTE9uOXJLemtCMElYaFFDZDZYcWtNWjBHbXdHdkFBY0RhQ0ttUThQcDZ6UkFlQ2ZTbjBEcWFLZ3RPeDFBVHJjMk0wTmI1MGoxTS1SS3JNUTJoRFhuTTdSbGpwdmpUNmZKN2NuUERBbzJEeW01SVk?oc=5",
-      "source": "CounterPunch.org",
-      "category": "Cement Industry",
-      "keywords": "Merger",
-      "sector": "General",
-      "dealType": "Merger",
-      "value": "",
-      "date": "Jun 12, 2026",
-      "dateISO": "2026-06-12T06:04:45"
     }
   ]
 }
