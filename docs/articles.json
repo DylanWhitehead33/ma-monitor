@@ -1,10 +1,49 @@
 {
-  "fetchedAt": "2026-07-24T14:51:34.069078",
-  "totalArticles": 153,
-  "newToday": 21,
-  "duplicatesRemoved": 14,
+  "fetchedAt": "2026-07-25T14:27:52.631506",
+  "totalArticles": 151,
+  "newToday": 23,
+  "duplicatesRemoved": 16,
   "archiveDays": 30,
   "articles": [
+    {
+      "title": "Arcosa, Inc. $ACA Shares Acquired by Fifth Third Bancorp - MarketBeat",
+      "summary": "Arcosa, Inc. $ACA Shares Acquired by Fifth Third Bancorp MarketBeat",
+      "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxPNV9OMGhwY1N3dTVUWmFXZ19lem93V0hjREFRSmdZTEp0SUV2MnViUWtkZE5GcjNkcGNFaGc1OEFxUmZrV1VlX2JvMG5EemtQYUx0NjViVGdoQl9RTEc1SXRpR2oxZUtxVEdCMlFzZTBwU2tjQm9Oc1A1NVk2Z3Fka2JrRi1NSktUb3NRR2dnZVA2bGg4VUM2b0Rsb1k1T2tRQXdIODRGSkllWFRXVk9hZWhIMjk?oc=5",
+      "source": "MarketBeat",
+      "category": "Arcosa",
+      "keywords": "Acquired",
+      "sector": "General",
+      "dealType": "Acquisition",
+      "value": "",
+      "date": "Jul 25, 2026",
+      "dateISO": "2026-07-25T07:34:34"
+    },
+    {
+      "title": "Arcosa (ACA) Agrees To All Cash CRH Buyout Pending Stockholder Approval - simplywall.st",
+      "summary": "Arcosa (ACA) Agrees To All Cash CRH Buyout Pending Stockholder Approval simplywall.st",
+      "url": "https://news.google.com/rss/articles/CBMiywFBVV95cUxQeXFRcld1cXBkajNSTWJZa24tcGpCOHMxcC1iSVpXZjJhQTlfbjRfMkJVZUU4ZXo1ck5CZHE0b3ZvamtkSmJpRkFHbkF1cVpfWDRSWjg2WWNWNnQyeW9LTjZiS2o3eW9SeFdyM1pQRWRkcF9WbGhOX2dQdTUzc255REUyQk1HQ2twYW1GVUJrQmRaTVlOUERUdUV0QUlXaVZ2VU5DLWlHb3pPQnRLckwzQXRlbkdFMWFSbnlsTXhjSVNObWUyTFNtRmxPQdIBywFBVV95cUxQeXFRcld1cXBkajNSTWJZa24tcGpCOHMxcC1iSVpXZjJhQTlfbjRfMkJVZUU4ZXo1ck5CZHE0b3ZvamtkSmJpRkFHbkF1cVpfWDRSWjg2WWNWNnQyeW9LTjZiS2o3eW9SeFdyM1pQRWRkcF9WbGhOX2dQdTUzc255REUyQk1HQ2twYW1GVUJrQmRaTVlOUERUdUV0QUlXaVZ2VU5DLWlHb3pPQnRLckwzQXRlbkdFMWFSbnlsTXhjSVNObWUyTFNtRmxPQQ?oc=5",
+      "source": "simplywall.st",
+      "category": "CRH",
+      "keywords": "Buyout",
+      "sector": "General",
+      "dealType": "Acquisition",
+      "value": "",
+      "date": "Jul 25, 2026",
+      "dateISO": "2026-07-25T07:22:49"
+    },
+    {
+      "title": "Arcosa (NYSE: ACA) backs CRH all-cash buyout at $150 per share - Stock Titan",
+      "summary": "Arcosa (NYSE: ACA) backs CRH all-cash buyout at $150 per share Stock Titan",
+      "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxNRVlwNDBLNnd5bWZ4d01zZXFSTmxUb1hsVGkyN2ZkbVVBTWt4U0dtTTR5ekF6VG92OGFrM2tXbFZucGlEM0hFUV8yMS1IeXkyQi15cTRDNWp2Z1JfaFJaazVKcXpyX2pPczc1UGpDQUpHeE56ck5Fb0thVGhzTzNtN1BtaTZqdkNQRVBHTzdKTkUzY1BmYUlZX0JacG1iMDlSUU11QlJDT1lva1ktMkhtNldaMmo?oc=5",
+      "source": "Stock Titan",
+      "category": "CRH",
+      "keywords": "Buyout",
+      "sector": "General",
+      "dealType": "Acquisition",
+      "value": "",
+      "date": "Jul 24, 2026",
+      "dateISO": "2026-07-24T20:24:11"
+    },
     {
       "title": "Dalmia Bharat Q1 PAT Stands at \u20b9192 Cr; Completes JP Associates Asset Acquisition - Trade Brains",
       "summary": "Dalmia Bharat Q1 PAT Stands at \u20b9192 Cr; Completes JP Associates Asset Acquisition Trade Brains",
@@ -97,6 +136,19 @@
       "dateISO": "2026-07-23T15:05:05"
     },
     {
+      "title": "Atoms raises $1.2B, Nestle water deal nears, and Penske's buyout. - Axios",
+      "summary": "Atoms raises $1.2B, Nestle water deal nears, and Penske's buyout. Axios",
+      "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTFBaaWtJRUlZdV9WTVRlbnR0YmtJTW55dnQ4c24zaXBXakpQVklXUkMzMlB4Skp3dV8wbldYQmpvRkxhWU41S1h0R0RZYzZuaF9RZTNZNVlMQ2I3SkYxWWNQRlJwQ0pxdUJ0aFNnX3Zkay1GNG5GanVoU3h0bHRqWU0?oc=5",
+      "source": "Axios",
+      "category": "Precast Industry",
+      "keywords": "Buyout",
+      "sector": "General",
+      "dealType": "Acquisition",
+      "value": "$1.20B",
+      "date": "Jul 22, 2026",
+      "dateISO": "2026-07-22T21:34:10"
+    },
+    {
       "title": "Cherat Cement raises stake in Cherat Packaging to 12.70% after acquiring 2.63 million shares - Profit by Pakistan Today",
       "summary": "Cherat Cement raises stake in Cherat Packaging to 12.70% after acquiring 2.63 million shares Profit by Pakistan Today",
       "url": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxQeW53UWsxOVM5aU5VcDd3TG5jR2lad3BtM05JQmFUY0FvOFFiMUFDUzVPMDU5Q1ZScUNxcEJDN1NISktuYWF0eTB2SEY5YWhVN21zMmlKRFhYdEhQNWo3Y1d3V1pPeldKUkRuZ2lsNW1ieldlVHBZMkl5NjVnM3dBZ0JETHY0OUVEWE5PSG95bTNpVmNvNkF6OVdfMldpU1BuX2haLUhaYjk1bXh6UUctOFpWT3JMM0c4NEJTTTZfV2FtSzBXRXpUZW45R2x1bU9aTkRxQTBEVE1sd2s?oc=5",
@@ -134,6 +186,19 @@
       "value": "",
       "date": "Jul 22, 2026",
       "dateISO": "2026-07-22T14:14:14"
+    },
+    {
+      "title": "Crh Plc $CRH Shares Acquired by Himension Capital Singapore PTE. LTD. - MarketBeat",
+      "summary": "Crh Plc $CRH Shares Acquired by Himension Capital Singapore PTE. LTD. MarketBeat",
+      "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxPaDVwTEI4RVhvclBiT2hXWWNvUUlaLTN4WG9tVTJjSHBtbWppcDJheWNadjc2andXdnNsMGVXUjAycXdjSlN2VWdIOTFReENHbWxmWm1ZWnpWaExVRTVSdUFDRTlXREFOQTVRcjJQMzJnNHg3LVF0b3VVUkt0VVdjUkJjTVk2Z2xGcVhjVzY3SmxXWW9rTFY4UERXVkhDR1B3d2FoWU41LU1CNXFmQkdDZVpfUVFWcmsySllWM251RzFPOExFaEE?oc=5",
+      "source": "MarketBeat",
+      "category": "CRH",
+      "keywords": "Acquired",
+      "sector": "General",
+      "dealType": "Acquisition",
+      "value": "",
+      "date": "Jul 22, 2026",
+      "dateISO": "2026-07-22T10:08:27"
     },
     {
       "title": "Cyprus Cement purchases own shares following shareholder approval - Cyprus Mail",
@@ -331,6 +396,19 @@
       "dateISO": "2026-07-20T06:01:32"
     },
     {
+      "title": "Regents Gate Capital LLP Acquires New Shares in Crh Plc $CRH - MarketBeat",
+      "summary": "Regents Gate Capital LLP Acquires New Shares in Crh Plc $CRH MarketBeat",
+      "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxPWlpJS25CcFB5QzRUNldnUU9aV1E1OU9xbjdPSmVoWVZZMkhxRmgtSTk0a1FJN0tXczRvMzF0VnJQaklQbWJWWmNYQmZ3V0NYazNaMlZlR1hUU19oeXFEbEZIUEk3NkJnMVBKbUtGaHJUenREMDhuSUEwTjMxemNYSktaQ2NTVXZZS2h4SV8xLWJsNV9mUlRrc2hRdE5hQkFHaGo4Skt3Z1M5N3BUbXFqa1B3aGR4RmYzVWM0Sw?oc=5",
+      "source": "MarketBeat",
+      "category": "CRH",
+      "keywords": "Acquired",
+      "sector": "General",
+      "dealType": "Acquisition",
+      "value": "",
+      "date": "Jul 19, 2026",
+      "dateISO": "2026-07-19T10:56:25"
+    },
+    {
       "title": "CRH secures term loan to fund Arcosa acquisition - The Globe and Mail",
       "summary": "CRH secures term loan to fund Arcosa acquisition The Globe and Mail",
       "url": "https://news.google.com/rss/articles/CBMizAFBVV95cUxPOGJYc2NkVHlwZm9Yd2NmV0xmME1vSy00Q0c0ZU5VTUpmTHM2U1Z3T1NDeWZ6TnpOcUIyTEtzdEExTUxaYjlNVGFvcEQ2dWFaQzM2S0lDOXQ0NnlnYU1VdW5wX2wyY29wcGlUcWg0TFQ1bmVQeFg4RDlMd1h1d3QxejdoNDZzblV6cnZBT09IUzhKeVBLOGpRRl9aeG5Yd19kbDVFTkhOV0FjQzMzMnphVTBHTlJNczhVVHl0RTdqM0Y5aE1VM0tWcEo0blc?oc=5",
@@ -409,17 +487,17 @@
       "dateISO": "2026-07-16T20:13:24"
     },
     {
-      "title": "EKHO Infrastructure Solutions Broadens MSE & Retaining Wall Capabilities with GIS & SSI Acquisition and ARES Product Expansion - StreetInsider",
-      "summary": "EKHO Infrastructure Solutions Broadens MSE & Retaining Wall Capabilities with GIS & SSI Acquisition and ARES Product Expansion StreetInsider",
-      "url": "https://news.google.com/rss/articles/CBMiowJBVV95cUxPV01mejJ3Tmt5eXBZQk11eThlNWZzT1UzcTdXR3JhZk1Ec0c5bV94anpLbkNKd0FtalZqRmpaZTh4emM2MGJ6SDJjbzV2dERaekZDeG9ETk84bVR6MWFYVnI3TVFPZnN0anVJX1Vralpjd05vQi1VbzBlX2xpQldrQXJZS0dsSzVzdFJTYnF2U0NEUVFCSGhrMHI3X2tVZFdiUnVJdUJJTFlrQXdRVUxZX2hST0FKZEdwR1owdlZNOUp6S2F1bjVzazlYVndJQjlYZG9hRHFEY1RkeXUtRXRPbGVkRTBwT3hESFFxR2Jqd1ZEN2RFQTZZUEtaQU1pVENtRG9pdzBTY3NNeUx4Vjh6UU5JUU41MnhQeHRMRS1ITncteTA?oc=5",
-      "source": "StreetInsider",
+      "title": "EKHO Infrastructure Solutions Broadens MSE & Retaining Wall Capabilities with GIS & SSI Acquisition and ARES Product Expansion - PR Newswire Canada",
+      "summary": "EKHO Infrastructure Solutions Broadens MSE & Retaining Wall Capabilities with GIS & SSI Acquisition and ARES Product Expansion PR Newswire Canada",
+      "url": "https://news.google.com/rss/articles/CBMikAJBVV95cUxPamwyaHhwd3R2LUlRbzJnRlluQU1QOVZzeU9CcXNWQTZWVVN5TVUzNU9Fand5S0hRR1k5TFdhVi1PektsUmo4NFpTTkdubFVzdkpEbkpSckdhSmZWNHUyenZibnlpdlhTVjU4dFZEbEY4SDhuTzZDZkxMVVFGZnJjQUNqQzAxRG1haFhXTkFvN1c2N2kwOTVzdWJNWkZYUkMtTkRjeEZTZEo5R2hhaWF2UGlVZlU1OXVhcWs5RUxEX1MzblNIQkFtMWk3aWJnMzVtVFFZY0J2and2dnYxYnR1bEZ4SnROTmRwMHZXSUFEOXJKNjhsZnA5YkJZajEyRkFZYmlQSndVbDBmT0tVYXA3OQ?oc=5",
+      "source": "PR Newswire Canada",
       "category": "Precast Industry",
       "keywords": "Acquired",
       "sector": "General",
       "dealType": "Acquisition",
       "value": "",
       "date": "Jul 16, 2026",
-      "dateISO": "2026-07-16T16:59:24"
+      "dateISO": "2026-07-16T16:57:00"
     },
     {
       "title": "Liberty Tire expands Gulf Coast reach with 3 acquisitions - Tire Business",
@@ -810,6 +888,19 @@
       "value": "",
       "date": "Jul 13, 2026",
       "dateISO": "2026-07-13T00:47:39"
+    },
+    {
+      "title": "Lafarge Africa Officially Changes Name, Unveils New Logo After Chinese Takeover - Legit.ng",
+      "summary": "Lafarge Africa Officially Changes Name, Unveils New Logo After Chinese Takeover Legit.ng",
+      "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxPbXNmbXp6a2xPb1pjclY3OHg5a2hXMzlxRDk1aUNEakY2Ml9QOWE3SEZsSkdMdkI5TjVIcW9MT1BGYUt2TnZXeERoNWVhTVQzOG9IbzBqeFNqanBuSlVja0IwZW5ObXl0dVdRUmROanc2SDJtcnBKX2x2aW9pZnVpcHRJcFNTRkttQk9ubTJST3VrNmE1c3pQZlhSa1Y2Q0dlM2pLNU8yTVdrbUtIRVhZWA?oc=5",
+      "source": "Legit.ng",
+      "category": "Holcim",
+      "keywords": "Takeover",
+      "sector": "General",
+      "dealType": "Acquisition",
+      "value": "",
+      "date": "Jul 12, 2026",
+      "dateISO": "2026-07-12T07:00:00"
     },
     {
       "title": "Chinese-backed Hainan Huaxin acquires Lafarge Africa in $1 billion deal, challenging Dangote and BUA in Nigeria - Businessamlive",
@@ -1876,123 +1967,6 @@
       "value": "",
       "date": "Jun 26, 2026",
       "dateISO": "2026-06-26T08:47:30"
-    },
-    {
-      "title": "Anhui Conch Cement Company Limited (00914.HK) received an acquisition of 3.909 million H-shares by Artisan Partners Holdings LP and its affiliates, valued at approximately HK$69.676 million. - \u5bcc\u9014\u725b\u725b",
-      "summary": "Anhui Conch Cement Company Limited (00914.HK) received an acquisition of 3.909 million H-shares by Artisan Partners Holdings LP and its affiliates, valued at approximately HK$69.676 million. \u5bcc\u9014\u725b\u725b",
-      "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxPZk50Vlp0bXVONVhtZnBoQWdnbUdhaTh6MFF2czV6OWhNUFdYNmFDVDAtSS1rQ0t0WU85c0Nsa1NBRG5jYTBQLWdERy1LaVdkSXp0c29BbTRtbDgxU1R2cFhKcy11RUNCS1pqTmxSbzl3NlF4bUxIZDZyMGU3b3dqLTB0aVhnR3FFaDZoODVfTzdiSmNSVUFnekwxbHJGSGJ1RzhXS2JjVzJfbEwt?oc=5",
-      "source": "\u5bcc\u9014\u725b\u725b",
-      "category": "Cement Industry",
-      "keywords": "Acquired",
-      "sector": "Cement",
-      "dealType": "Acquisition",
-      "value": "$70M",
-      "date": "Jun 25, 2026",
-      "dateISO": "2026-06-25T11:02:37"
-    },
-    {
-      "title": "Lafarge Africa Rebrands to HBM Nigeria Following Historic Huaxin Acquisition - streamlinefeed.co.ke",
-      "summary": "Lafarge Africa Rebrands to HBM Nigeria Following Historic Huaxin Acquisition streamlinefeed.co.ke",
-      "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxPQTlTYmtrbk9XRzczSGZwQ2xKU1JnamJDTDBoMDdZdnpaSW9RV2RNVmpNV2FHaTk3TUxkU0tUY21yQlRiN3oxNU5uSXdPYjRSMHFlNk44WlNIM3dDZjFNV2lRYUJJNHdQUFFZUkFGRjhPRGxVRnliUG5XN256QzNNbFdnZGJuWUhCMHFOMThjM3BPMG5xZzlzcE5OVHJVTFJ0R2RVQ0xaRlpxODlxbGhV?oc=5",
-      "source": "streamlinefeed.co.ke",
-      "category": "Aggregates Industry",
-      "keywords": "Acquired",
-      "sector": "General",
-      "dealType": "Acquisition",
-      "value": "",
-      "date": "Jun 25, 2026",
-      "dateISO": "2026-06-25T09:21:25"
-    },
-    {
-      "title": "Comfort Systems' Acquisition Strategy: Is It the Next Growth Phase? - Yahoo Finance",
-      "summary": "Comfort Systems' Acquisition Strategy: Is It the Next Growth Phase? Yahoo Finance",
-      "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxOWU5rTFk4LUJQNm5UZFMyTDl2NE1yX2lkRF93SmswYlppZ1IyRkV5TUlBX2txSmdHaU9vbDQyUm5BalNMaHZwQjF3eGxfT2VoVDJSOWFoMXhxTXdQUnEzbXllYVowN2tYdmJ5aU1qVkJRMUZQQVNSSTI5VDhNNkNwdnNXcTBCTlpPTjF4V2lXUEhiWUU2NEk4RER3VTBnV2ZBZGZIdTZaMTBPZw?oc=5",
-      "source": "Yahoo Finance",
-      "category": "Granite Construction",
-      "keywords": "Acquired",
-      "sector": "General",
-      "dealType": "Acquisition",
-      "value": "",
-      "date": "Jun 25, 2026",
-      "dateISO": "2026-06-25T07:00:00"
-    },
-    {
-      "title": "CRH to acquire Arcosa in USD 8.5 billion cash deal to expand US infrastructure presence - Prop News Time",
-      "summary": "CRH to acquire Arcosa in USD 8.5 billion cash deal to expand US infrastructure presence Prop News Time",
-      "url": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxNSWprNFNxa0RSZVVTLXNILV9yS1dNVGVtZ1RYbHRHa0xMNFQ0aFIxQ1Y2dlpBSHpPMW5sSlBNb3liS1VLdGhydmh6eklXZjU4VE1XMWFFcFNOQ2h1aDFxaXBQS0RvMVc4OENuc25keFBjM3RVSXFSOXB0WDJaTDF0ZGttNXJxNDlySFp5cUpoZFVvZTZZZXZvcmdWdEFTT2dZV0NxeXdqREtRNUpqN19sQkEtU0RLS2EwRUhXbkk3cC1lOGNXeHRBQVNLQ2JqQzRISTRNQzF3?oc=5",
-      "source": "Prop News Time",
-      "category": "Aggregates Industry",
-      "keywords": "Acquired, To Acquire",
-      "sector": "General",
-      "dealType": "Acquisition",
-      "value": "",
-      "date": "Jun 25, 2026",
-      "dateISO": "2026-06-25T07:00:00"
-    },
-    {
-      "title": "CRH (NYSE:CRH) Is Buying Arcosa For $8.5 Billion In Its Biggest Deal Yet - Yahoo Finance",
-      "summary": "CRH (NYSE:CRH) Is Buying Arcosa For $8.5 Billion In Its Biggest Deal Yet Yahoo Finance",
-      "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxOa3huSzN4RVE0NjZzenZuMmNTR2x0aDAtSEt2ODRQMmZjM0hfajM5WVg1aVNaOHMzM0FHdWdyYjJCMlFhMWlKdTRnRUVxTE9SeGxLa203emJOdlI2N3MxTzBMc0hMM1J3ZzlmbHFjSjR5WS1NYkpMb2ZuSDhPM3J6SVhHMzFVTHFlenZGd1NPWHJ1QTYzVnc?oc=5",
-      "source": "Yahoo Finance",
-      "category": "CRH",
-      "keywords": "",
-      "sector": "General",
-      "dealType": "Acquisition",
-      "value": "$8.50B",
-      "date": "Jun 25, 2026",
-      "dateISO": "2026-06-25T07:00:00"
-    },
-    {
-      "title": "Redmond acquires new maintenance center site for $38.5 million - The Business Journals",
-      "summary": "Redmond acquires new maintenance center site for $38.5 million The Business Journals",
-      "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxNN2VjZE43dVlkRVpwNUJHcGd3eGFoVVRqYlBtVDEtamE3dTBRODZ5aUgyTnluOE4xUE5veHNEZkRva0Q5Z3ZsQXZXdVVidjhheHNWZl9xRFVOazgyOGJkcWVWV0VIZ29pN3lqdDJ6QVhoRUplV1Y4QVVKZkpaNkRIVmpjN2FRc2JVT0RVcFM4dHFTTnhlalVBZ1dock45Mkl0NkZjMkpmMDZ5bFU?oc=5",
-      "source": "The Business Journals",
-      "category": "Heidelberg Materials",
-      "keywords": "Acquired",
-      "sector": "General",
-      "dealType": "Acquisition",
-      "value": "$38M",
-      "date": "Jun 24, 2026",
-      "dateISO": "2026-06-24T21:48:00"
-    },
-    {
-      "title": "CRH to acquire Arcosa for $8.5B - Construction & Demolition Recycling",
-      "summary": "CRH to acquire Arcosa for $8.5B Construction & Demolition Recycling",
-      "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTE5yNkhjbkxWZVhLN1IweHQxR2J1ZGFmanNUZlAtLVFjM0lUclI2S0dUNVlPaWJ4YXJZTGdDOFg0MHd2V0VyWlhSTEw3Yk9wLXVncXdaZjlUSjRNNmdQVDhzNnhrTDRyNGQ0ZDhSZjhTMGNJVk5DQ29V?oc=5",
-      "source": "Construction & Demolition Recycling",
-      "category": "Aggregates Industry",
-      "keywords": "Acquired, To Acquire",
-      "sector": "General",
-      "dealType": "Acquisition",
-      "value": "$8.50B",
-      "date": "Jun 24, 2026",
-      "dateISO": "2026-06-24T19:53:00"
-    },
-    {
-      "title": "CRH acquiring Arcosa for $8.5 billion - Pit & Quarry",
-      "summary": "CRH acquiring Arcosa for $8.5 billion Pit & Quarry",
-      "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTFBkdnJpcWhwYkNBSjdIRFJiUEhtWVd2MUdyQ19jb1Q2QnBObk5TVjh3eEVwb1Q2OXI4Y19MZ0txQk1MaXZPUThRR1BtaTNoSUttMzBlTkR1V2dtZ1dSbm5ablFwTzRZd1FZMUhFc193S1dKODQ?oc=5",
-      "source": "Pit & Quarry",
-      "category": "Pit & Quarry \u00b7 Aggregates",
-      "keywords": "Acquired",
-      "sector": "Aggregates",
-      "dealType": "Acquisition",
-      "value": "$8.50B",
-      "date": "Jun 24, 2026",
-      "dateISO": "2026-06-24T16:21:57"
-    },
-    {
-      "title": "Massive aggregates market shakeup: CRH acquires Arcosa - HBS Dealer",
-      "summary": "Massive aggregates market shakeup: CRH acquires Arcosa HBS Dealer",
-      "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxNMFRkU2QzVFdETHRGcTFWV3hQRHBaMTFTWnJMT2RkRVlBbnRseWxnazJ1TXZ5RkRJRDd5RFQxRGtVSDVQVkFaaTZMaG41QXJKX3BEMGV6VHhHTjdxMlAtWFljdlpOUWVjUWlIRkdGbW9CVE9IaXBJNXQ5Wm9XVDBiVg?oc=5",
-      "source": "HBS Dealer",
-      "category": "Aggregates Industry",
-      "keywords": "Acquired",
-      "sector": "Aggregates",
-      "dealType": "Acquisition",
-      "value": "",
-      "date": "Jun 24, 2026",
-      "dateISO": "2026-06-24T15:07:23"
     }
   ]
 }
