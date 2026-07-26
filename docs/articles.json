@@ -1,8 +1,8 @@
 {
-  "fetchedAt": "2026-07-25T14:27:52.631506",
-  "totalArticles": 151,
-  "newToday": 23,
-  "duplicatesRemoved": 16,
+  "fetchedAt": "2026-07-26T14:26:47.443314",
+  "totalArticles": 153,
+  "newToday": 17,
+  "duplicatesRemoved": 14,
   "archiveDays": 30,
   "articles": [
     {
@@ -84,6 +84,19 @@
       "dateISO": "2026-07-24T07:28:36"
     },
     {
+      "title": "Orient Cement Q1 PAT Recovers 40% QoQ to \u20b977 Cr; Acquires Stake in 46 MW Wind Project - Trade Brains",
+      "summary": "Orient Cement Q1 PAT Recovers 40% QoQ to \u20b977 Cr; Acquires Stake in 46 MW Wind Project Trade Brains",
+      "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxPMmpxTllfQkZreU5HOVh5YjB1TmRmX0l4RDhJT0tvZTFOeWNyVE1LUUdUZkNWYnJVS0Rqems1RTdjNWhqRlpDcTJsR2QzdjFYNnBEUGE3eFdoMEJIVE0ycnNuRjcxbGliR0xvWGJVUGJJQ1ROTi1TVGdvdzkzWXhJMkkyR2dtX25TS0ZrUDV2LTVoNWZYOXp2cjVobzR4Q2NIVWxTb1lUSC1mdw?oc=5",
+      "source": "Trade Brains",
+      "category": "Cement Industry",
+      "keywords": "Acquired",
+      "sector": "Cement",
+      "dealType": "Acquisition",
+      "value": "",
+      "date": "Jul 24, 2026",
+      "dateISO": "2026-07-24T05:59:00"
+    },
+    {
       "title": "Tindall Completes Atlanta Structural Concrete Acquisition to Expand Southeast Operations - Construction Owners",
       "summary": "Tindall Completes Atlanta Structural Concrete Acquisition to Expand Southeast Operations Construction Owners",
       "url": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxOejNXOUsydTZSOG5OVnNNMkducTloWjhfdnlZdEdTTGtGeTY5aHV6N0lTc1JIZ0k5QUU3T0lsUWptd1Fxb2VscjF1cjEwWVR6QjRDRlBPQVBRVDFOYkduSEJwZkFINEp0RVNXeS02SHpFWlhpXzFraUowTFI4RkQyVC03eU9OZHhMNlhUeHBVQzFDaEtTbFprMXJPblRYd3E0ejVBWkxEWDYtaWhqOXQzNEs3V1FGRS1Wa2Z2T0p5NmZTc3IyWkg4MGZJcUREQnpj?oc=5",
@@ -95,6 +108,19 @@
       "value": "",
       "date": "Jul 24, 2026",
       "dateISO": "2026-07-24T02:09:34"
+    },
+    {
+      "title": "Arcosa Won\u2019t Host Q2 Call; $150-a-Share CRH Deal Needs Approvals - Stock Titan",
+      "summary": "Arcosa Won\u2019t Host Q2 Call; $150-a-Share CRH Deal Needs Approvals Stock Titan",
+      "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxOZERXeVp3akl2cHNwUUZ2NzZVQ1lTTWp6cnM3elNfSlVxN1Nxb1ZtX0JPRFc1U1RkSTZMWS02akhBWEVhc01BV19FcXJrOEdEN0dXTkxxcGFVZi1qQWNUS2NpdW1oTk5fbGw4R3NwbGwyUV93RVF1Z3RrcUwwMGtvY2k4SENiREUxWFlNS0NxeC1kcXVRYmJrbmpDc0N3cEV4eVd0VF9iNTBGbG1QYk9nTmgzRWJkYm8?oc=5",
+      "source": "Stock Titan",
+      "category": "Arcosa",
+      "keywords": "",
+      "sector": "General",
+      "dealType": "Acquisition",
+      "value": "",
+      "date": "Jul 23, 2026",
+      "dateISO": "2026-07-23T20:15:00"
     },
     {
       "title": "SUM stock trades steady as Summit Materials integrates Argos deal and eyes margin gains - Ad-hoc-news.de",
@@ -420,6 +446,19 @@
       "value": "",
       "date": "Jul 18, 2026",
       "dateISO": "2026-07-18T21:38:00"
+    },
+    {
+      "title": "SteelPeak Wealth LLC Purchases New Position in Crh Plc $CRH - MarketBeat",
+      "summary": "SteelPeak Wealth LLC Purchases New Position in Crh Plc $CRH MarketBeat",
+      "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxNd180Qk5ITklMOGwxeUN6MG9FemFPNUUwajlDMDdrR0YyUzRVNDdLR2pVT0V1Y0p6bGpxVkZIa0FGV3lfSkhLQVE4Z2dFd05razR1SERzMWFBbkVCZzF3djlZMlNKdlpwbzBPTmFBTDBpa09pc1J2ODNqN0xnSXpNd1J5a21Yd3c1U25JeWwxQ05nckw2MmZabE9RWGFwZ1o2cmNQa1E5b2ZTRHJmRkxkMnMtLU4yeDlEeHZV?oc=5",
+      "source": "MarketBeat",
+      "category": "CRH",
+      "keywords": "Purchase",
+      "sector": "General",
+      "dealType": "Acquisition",
+      "value": "",
+      "date": "Jul 18, 2026",
+      "dateISO": "2026-07-18T09:29:42"
     },
     {
       "title": "Competition Commission of Pakistan Approves Maple Leaf Cement Share Acquisition in Faysal Bank - TechJuice",
@@ -1954,19 +1993,6 @@
       "value": "$13.50B",
       "date": "Jun 29, 2026",
       "dateISO": "2026-06-29T07:00:00"
-    },
-    {
-      "title": "Holcim completes 1.85 bln euro acquisition of SEE-active Xella - SeeNews",
-      "summary": "Holcim completes 1.85 bln euro acquisition of SEE-active Xella SeeNews",
-      "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxPSVZWcktLLXJVRUhsRUdmRjFGZHF3Y1UzaEdUd2Rzd21iVlExNDk2R1JTY2pILVRSOHREV0FSRGVqemtmWU16Vm5GaUNEdnlJZXVqUmt0QVpMQ3NSalhJQXY5VURxUnIzSjZVU3MyTlBlcC1LMm9nN2V4UG5iZHZ3b3VNak9lenBkenBiaEFlUW9hS0RYazQ3b0JhRQ?oc=5",
-      "source": "SeeNews",
-      "category": "Cement Industry",
-      "keywords": "Acquired",
-      "sector": "General",
-      "dealType": "Acquisition",
-      "value": "",
-      "date": "Jun 26, 2026",
-      "dateISO": "2026-06-26T08:47:30"
     }
   ]
 }
