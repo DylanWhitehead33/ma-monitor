@@ -1,10 +1,36 @@
 {
-  "fetchedAt": "2026-07-26T14:26:47.443314",
-  "totalArticles": 153,
+  "fetchedAt": "2026-07-27T15:39:14.643678",
+  "totalArticles": 156,
   "newToday": 17,
   "duplicatesRemoved": 14,
   "archiveDays": 30,
   "articles": [
+    {
+      "title": "Tindall Corporation Completes Acquisition Of Atlanta Structural Concrete - Pulse 2.0",
+      "summary": "Tindall Corporation Completes Acquisition Of Atlanta Structural Concrete Pulse 2.0",
+      "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxOd3hNMllxTVRVSTU4S3VJSzV3b3U2bm1pRlNGZ1lSOENaMzhzQm9jR2hyTGJ3Y1lSVnFTN1JEeThBaDRBcnRkR0JIU3ZCYXUyZ2Y2Q1Z1WThaSUJ1UVpWZkt6YTBSNjJDZ2FWRnhnRDlPelJTM3RoQkxsREVCOWt1b2ZldExqRENtNWw0QkR0NXlUMjRTdlRr0gGcAUFVX3lxTFBGVmZUZnRCYy1hNG9Vam5LdTN6LTh4dnVYYjJuQTRyRFhvNFc0REpBNFFCQUZ4RE9QQ2VsNEtKSjllS2Mzd05QZWNZb1N6WHNISDdWa0I2VWpGbkhGRTFNZ3NieXpHdnJUNzlORlI0ZTBaWTlOVGJTeFdqTU5fVHRCZDd2VFNwVEN4Wm9xaTFETkFoMmRnWkxYdEUzQQ?oc=5",
+      "source": "Pulse 2.0",
+      "category": "Precast Industry",
+      "keywords": "Acquired",
+      "sector": "General",
+      "dealType": "Acquisition",
+      "value": "",
+      "date": "Jul 27, 2026",
+      "dateISO": "2026-07-27T12:21:42"
+    },
+    {
+      "title": "Dalmia Bharat Q1FY27 net profit falls 51% on acquisition costs - scanx.trade",
+      "summary": "Dalmia Bharat Q1FY27 net profit falls 51% on acquisition costs scanx.trade",
+      "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxPenV2SC10cWdsRTFkUERGTDVDTVJlYmR1UVFrZjNBektzTUgyaTJ4XzViaHlsREpiUEFNbVJNNE1HWEVxMVhpSkxndE9IeDRwZFMzTUZfTkc4TU1sdHhOVlBZWWlmSkFBdzUwVVFkMTAtRzhjSlcyM1hUelVrRU83TnEzUHVBNXFkSnhjamJ5cWJzcE4yYU9TQ0ZaalFYdzZrOXR1QWJvY1Z0WThCYXk2VTB3RWRLLV96OWc?oc=5",
+      "source": "scanx.trade",
+      "category": "Cement Industry",
+      "keywords": "Acquired",
+      "sector": "General",
+      "dealType": "Acquisition",
+      "value": "",
+      "date": "Jul 25, 2026",
+      "dateISO": "2026-07-25T15:12:12"
+    },
     {
       "title": "Arcosa, Inc. $ACA Shares Acquired by Fifth Third Bancorp - MarketBeat",
       "summary": "Arcosa, Inc. $ACA Shares Acquired by Fifth Third Bancorp MarketBeat",
@@ -1616,6 +1642,19 @@
       "value": "$13.50B",
       "date": "Jul 01, 2026",
       "dateISO": "2026-07-01T12:42:58"
+    },
+    {
+      "title": "CRH is nearing a deal to buy competitor Arcosa - Echo.ie",
+      "summary": "CRH is nearing a deal to buy competitor Arcosa Echo.ie",
+      "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE9oNHUxSWhjTDJWQ3FIWHhVVU9UNDlRWlZQdGswRk1vcWE4cUVmMzRFQnE5TkFKeGd2R3poWUZ3dk0zOUYzRnEyQXFVMDZLTkZYRnQ4d0FULUJfUGpUT0ZHdlI1S0FMdzFVYmFoVzF4bHFvTWQydUE?oc=5",
+      "source": "Echo.ie",
+      "category": "CRH",
+      "keywords": "",
+      "sector": "General",
+      "dealType": "Acquisition",
+      "value": "",
+      "date": "Jul 01, 2026",
+      "dateISO": "2026-07-01T12:05:27"
     },
     {
       "title": "Hogan Lovells and Cadwalader cement $3.9bn merger - The Global Legal Post",
