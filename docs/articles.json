@@ -1,8 +1,8 @@
 {
-  "fetchedAt": "2026-07-28T15:16:34.709988",
-  "totalArticles": 157,
-  "newToday": 17,
-  "duplicatesRemoved": 16,
+  "fetchedAt": "2026-07-29T15:30:35.264994",
+  "totalArticles": 150,
+  "newToday": 13,
+  "duplicatesRemoved": 11,
   "archiveDays": 30,
   "articles": [
     {
@@ -17,6 +17,19 @@
       "value": "",
       "date": "Jul 27, 2026",
       "dateISO": "2026-07-27T12:21:42"
+    },
+    {
+      "title": "Hilltop Holdings Inc. Acquires New Position in Arcosa, Inc. $ACA - MarketBeat",
+      "summary": "Hilltop Holdings Inc. Acquires New Position in Arcosa, Inc. $ACA MarketBeat",
+      "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxOVzE4WHVUMGxlek5JNWRKSjlUMjltT2NmNldweG1Td2ZOOEItX0MwNmg3S3NKM0I3d2hGQ2ZmOG96QTJhZThJVEx5UEpsNzBUMDZQbzhMSVJ3b2FvUC1sU1UwMzVJLWx4blhVZ2lNMmd1Z2JpTE1KbzZtREVpcW9pQXpUMUEzSGNLdHJod1E0RzlGMTlORHhhdFhGLW1qYlJTOGllQTZLU3ZhNVROdXFQVUM0Y3lEZWtoSTN1cG13?oc=5",
+      "source": "MarketBeat",
+      "category": "Arcosa",
+      "keywords": "Acquired",
+      "sector": "General",
+      "dealType": "Acquisition",
+      "value": "",
+      "date": "Jul 27, 2026",
+      "dateISO": "2026-07-27T09:24:02"
     },
     {
       "title": "Yokogawa Bridge Holdings Streamlines Group Structure with Subsidiary Merger - TipRanks",
@@ -1722,6 +1735,19 @@
       "dateISO": "2026-07-01T07:00:00"
     },
     {
+      "title": "MARTIN MARIETTA TO ACQUIRE LHOIST NORTH AMERICA IN MASSIVE $13.5 BILLION DEAL - 3B Media News",
+      "summary": "MARTIN MARIETTA TO ACQUIRE LHOIST NORTH AMERICA IN MASSIVE $13.5 BILLION DEAL 3B Media News",
+      "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxPeFgtbGtvb0NnNHdQcWtUT3FROHpxSHhvTGdadmNfREcwaXR5T3ZMcnFJRzE4V2dzZ3djaWpRT3BOTTFWSHctMWgxbjRKZG9SbWgwZVdmclh4ZFBYWXg3S1NrMzBFWjZDb2l3dkNCS2ZuVHBnODBhdGR0RFJKeURDanB1aExUSXFyVGZ3a182SWJ0MWE4a003R3VMb05ua1lDUk5r?oc=5",
+      "source": "3B Media News",
+      "category": "Martin Marietta",
+      "keywords": "Acquired, To Acquire",
+      "sector": "General",
+      "dealType": "Acquisition",
+      "value": "$13.50B",
+      "date": "Jul 01, 2026",
+      "dateISO": "2026-07-01T07:00:00"
+    },
+    {
       "title": "Angel Castillo Reiterates Buy on Martin Marietta, Maintains $664 Price Target Following Transformative Lhoist North America Acquisition - TipRanks",
       "summary": "Angel Castillo Reiterates Buy on Martin Marietta, Maintains $664 Price Target Following Transformative Lhoist North America Acquisition TipRanks",
       "url": "https://news.google.com/rss/articles/CBMikgJBVV95cUxNa185a0k0Ung5M0QzRXQ1V3dOZDNyVXZaX0dKc09tLW02dXlpejRzRmg3clZjMFZiTjFxSG5SYnMzS2Z0c2l6MG81ZnVNRDREek9GOWYxNlAyXzE4R3Zfc1k1cExtNnJIQkZJNkJlZk96eUJDdE5YSXZ5b0xodnNqRjZvUElUTU03amJObzNEWDhyQ0dlcUFDT3N0TVdOZE5sZHBYWElhWGlKempYLV9VWDNPc01tSGthUzdUY1pIaXVhakxKdUc3SURVWW50UFI1WVI4MVU2bEZFZWRSbVhyNTVvUDNEWXBWR0VWd3JKV21KRjVBZ2ZWaEVLb293cVgwUU5Yd25Rck90ZUNKSUJIYlhn?oc=5",
@@ -1928,123 +1954,6 @@
       "value": "$2.50B",
       "date": "Jun 29, 2026",
       "dateISO": "2026-06-29T15:49:22"
-    },
-    {
-      "title": "Martin Marietta is buying Lhoist North America in a $13.5 billion deal - qz.com",
-      "summary": "Martin Marietta is buying Lhoist North America in a $13.5 billion deal qz.com",
-      "url": "https://news.google.com/rss/articles/CBMiekFVX3lxTFBKU1RnSW5UWi1vTlhlOTJJUHBnUzRiaHVOeHFXQlZCRU5GTkpHZUl2bm5MM2FMOG1ocmtlaDNQN2Noa0FDbHRTVVJDd3Qzdm9RNm1LT1drMnJmS1lSU0k0dFZrelljU0JfMlV6RGE4U2JBTUVpN2x1Tmdn?oc=5",
-      "source": "qz.com",
-      "category": "Martin Marietta",
-      "keywords": "",
-      "sector": "General",
-      "dealType": "Acquisition",
-      "value": "$13.50B",
-      "date": "Jun 29, 2026",
-      "dateISO": "2026-06-29T14:34:26"
-    },
-    {
-      "title": "Martin Marietta (MLM) Announces $13.5 Billion Acquisition of Laf - GuruFocus",
-      "summary": "Martin Marietta (MLM) Announces $13.5 Billion Acquisition of Laf GuruFocus",
-      "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxOd3FYNVo4U1pmR2lHTTBJTGNoZlFwbWVVRXBZSlpmcTV1ZVFLR1NzcHJOSE1JRURTM19uLWhSN2htN2FDbVJsbmlQRmpjc0VNTlctM1UzRTRYRDFJSmpNcEF0UWRrdGlHeWpKOFpmdFdzZXVvcm5uRlViYmpSaUx0S0ZhN2UxZmFGeU1IdmJJZEQtLXhSZDUwUjJvSklEdW1RQzY5RndyX20wclItcDZ5SUE4TTR4aXJa?oc=5",
-      "source": "GuruFocus",
-      "category": "Martin Marietta",
-      "keywords": "Acquired",
-      "sector": "General",
-      "dealType": "Acquisition",
-      "value": "$13.50B",
-      "date": "Jun 29, 2026",
-      "dateISO": "2026-06-29T14:11:54"
-    },
-    {
-      "title": "Martin Marietta to buy Lhoist North America in $13.5 billion deal - Reuters",
-      "summary": "Martin Marietta to buy Lhoist North America in $13.5 billion deal Reuters",
-      "url": "https://news.google.com/rss/articles/CBMizwFBVV95cUxPR1pvZGRIazAtNWtrS0hXVXFpVk13eDZUYWE5VFE1NERaMHR2Q09Zb0ZwRXFqUjVtck42SFRiSlpSTmE5ZXNrQkhXTmdWME9lbm5jYWVNVVpkWnJLU2lkS0pLamZJS2JPRnZzMFVxLUc4V01JTjM3cURhTEE5SWR0YVZtWGEzSVN3M0hzSUExSzUyRy04bHF3dGVOMGFsZ0tCYTAyZUR6NG9XMURqeE13anZDcmUydzNpdzVWTUV0Z0Y5Y0R0aGkydXpYcmIyQzA?oc=5",
-      "source": "Reuters",
-      "category": "Martin Marietta",
-      "keywords": "",
-      "sector": "General",
-      "dealType": "Acquisition",
-      "value": "$13.50B",
-      "date": "Jun 29, 2026",
-      "dateISO": "2026-06-29T14:03:58"
-    },
-    {
-      "title": "Martin Marietta Materials has reached a definitive merger agreement with Lhoist North America. - Bitget",
-      "summary": "Martin Marietta Materials has reached a definitive merger agreement with Lhoist North America. Bitget",
-      "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE1lb0pDMWdTWGhxNEczc2g2c0lzVURNQ3pGMVM0WGE0MjNtRWpqYnlHcVc2aGxUeUJ2RzNzTkM1aFdTOGdmYnYtY3NQZnFNMXJQam82ZENDUmIzMEwzT1hyRU01ZDdBWWpUNkHSAWpBVV95cUxNZW9KQzFnU1hocTRHM3NoNnNJc1VETUN6RjFTNFhhNDIzbUVqamJ5R3FXNmhsVHlCdkczc05DNWhXUzhnZmJ2LWNzUGZxTTFyUGpvNmRDQ1JiMzBMM09YckVNNWQ3QVlqVDZB?oc=5",
-      "source": "Bitget",
-      "category": "Martin Marietta",
-      "keywords": "Merger",
-      "sector": "General",
-      "dealType": "Merger",
-      "value": "",
-      "date": "Jun 29, 2026",
-      "dateISO": "2026-06-29T11:54:24"
-    },
-    {
-      "title": "Martin Marietta Strikes $13.5 Billion Deal for Limestone Supplier - WSJ",
-      "summary": "Martin Marietta Strikes $13.5 Billion Deal for Limestone Supplier WSJ",
-      "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxPMGNpbjBJWFZxd2p5eVgzSS1RQjFhcDFMRUR2Y3FRRWhTUlY4bnR1bWZDeGpLZmZhdnpWWXdDX2hDYTdpLTIzZklHQlc5akdBbVNGVE1HZG44MFVyYkZGeHBpQUtQb0hEaDFldDQxRWhTZWpMXzdRWTFkT1p4N0x1TFZjYWhYSm9FeE83SW5nU1FHa2J4b2txOFo0X3JyRUkxN005MlRSaGpyMDZ2?oc=5",
-      "source": "WSJ",
-      "category": "Martin Marietta",
-      "keywords": "",
-      "sector": "General",
-      "dealType": "Acquisition",
-      "value": "$13.50B",
-      "date": "Jun 29, 2026",
-      "dateISO": "2026-06-29T11:39:00"
-    },
-    {
-      "title": "Martin Marietta agrees on $13.5 billion Lhoist deal, shares steady on NYSE - AD HOC NEWS",
-      "summary": "Martin Marietta agrees on $13.5 billion Lhoist deal, shares steady on NYSE AD HOC NEWS",
-      "url": "https://news.google.com/rss/articles/CBMiywFBVV95cUxNRHpCOHNtS2kwQ3lvYnFNMHlnQm5VS1J6RTl2UmwtNGpOVmlBZXNzTEtza2NDUUh1TDQxRXNKNS1hcXl0d3kzenhVMDlYZ3Z6NHZ5azBiRTNfRmYzcERlUm9kVUREcW9HYi1fVEdienFJYTllcnl1ZDVoVlRPVW1UUVAyNWZPeTAxcUZZZnBlXzQ3eHdTTGZvZzlNSG40UzVlVVFPaDF2bmktSmQ0el9fU19hMmtJU2xEWGwyeEdTUXZuYV9FQllPY0pqOA?oc=5",
-      "source": "AD HOC NEWS",
-      "category": "Aggregates Industry",
-      "keywords": "",
-      "sector": "General",
-      "dealType": "Acquisition",
-      "value": "$13.50B",
-      "date": "Jun 29, 2026",
-      "dateISO": "2026-06-29T10:43:56"
-    },
-    {
-      "title": "Icra to acquire remaining 40% stake in D2K Technologies for \u20b932 crore - Business Standard",
-      "summary": "Icra to acquire remaining 40% stake in D2K Technologies for \u20b932 crore Business Standard",
-      "url": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxOVjByZDJPVkRVYnlmeHZUNU1oR1dnTEdPVlpKcWxqYmM3OG1MZUtIQ2ZWZmxYSkdBVWNqWncwRVVVempEWk9Hdzdic0xwRThFelc3RXlUN2xjN05jTTUzMTdrRmZmQ3d0TS1PUE1iZ0F4M3N3cDVsOWJWUm40RHZMQVBVWFVDVF9DRGhrdTRmajVnbnNwbmVCNEtYWnMzekdVMlFEYWZtajNtYllwRTUyRmp1akQ3VFZSRmt2bG5EcDJKN0tOT1pjQWhjd2lsQ1kwc1HSAdcBQVVfeXFMUFYxU05VZndrTTlTZ244Y18xelpWZS1SQTRET0Q3NGRpYmxObWZscWlsVzR2bE5HR1FDaVRvRG1YLUl0NDRRSUJQLW5qbzEyRVV5ZHczck9SVXU2ZFRaempQMjluWDBwbnZvcWphQzYwTm5jT19vcWU5YXZ5WEFoczAyc3VMODNYRGFILTJyak93Sm9TT0hpV2ptYVd3cE5CMWVmVDQ0TlVIb0ZZS192S25tR3JNSFhfajBlNHZoQWVZQk1GYWdPUjhqMGNfTnlPejgybDBTZlk?oc=5",
-      "source": "Business Standard",
-      "category": "Cement Industry",
-      "keywords": "Acquired, To Acquire",
-      "sector": "General",
-      "dealType": "Acquisition",
-      "value": "",
-      "date": "Jun 29, 2026",
-      "dateISO": "2026-06-29T09:50:48"
-    },
-    {
-      "title": "Martin Marietta (MLM) Announces $13.5 Billion Acquisition of Lho - GuruFocus",
-      "summary": "Martin Marietta (MLM) Announces $13.5 Billion Acquisition of Lho GuruFocus",
-      "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxQaEdTTU5wSVRvX3JGMkhCV1BZd3FTWmxpU3NZdHFINFh6S2E0ZEVrZ0NraVc0cGNONVRfRmtlT3NWUmpTVmQxS3lfSlVaMU5yMFluWHBlZGVNZXZXMjVCZmpESTBYSElab29sQWhUZ28tMC14Qnl6OFpaZ0VNT0huRkp4UHlPczRYMjNROVNnaTFnd1djeUQ3YUZadlZSZjVTZGFSSzRfR2d1alRES0lPUmJuVGFaMms?oc=5",
-      "source": "GuruFocus",
-      "category": "Martin Marietta",
-      "keywords": "Acquired",
-      "sector": "General",
-      "dealType": "Acquisition",
-      "value": "$13.50B",
-      "date": "Jun 29, 2026",
-      "dateISO": "2026-06-29T07:00:00"
-    },
-    {
-      "title": "Raleigh's Martin Marietta becomes top US limestone supplier with $13.5B purchase - WUNC News",
-      "summary": "Raleigh's Martin Marietta becomes top US limestone supplier with $13.5B purchase WUNC News",
-      "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE5UTUs4YUU1NkRkbnNJRDN5NkV0ZVB3YWU0ZnV6ZU8zN3E4SU5VUTZhczhuZXYxS1hHa0g5TzJkczBnbC1jd21TbUxyY1hZM1VYUXA5aFAzSm1VZUF1RHA2YzM5TmduTUkxc1dyMlhOMDNMdWNCYmc?oc=5",
-      "source": "WUNC News",
-      "category": "Martin Marietta",
-      "keywords": "Purchase",
-      "sector": "General",
-      "dealType": "Acquisition",
-      "value": "$13.50B",
-      "date": "Jun 29, 2026",
-      "dateISO": "2026-06-29T07:00:00"
     }
   ]
 }
