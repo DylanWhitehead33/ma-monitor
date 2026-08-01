@@ -1,10 +1,23 @@
 {
-  "fetchedAt": "2026-07-31T15:16:02.226077",
-  "totalArticles": 144,
-  "newToday": 19,
-  "duplicatesRemoved": 9,
+  "fetchedAt": "2026-08-01T14:24:19.950469",
+  "totalArticles": 148,
+  "newToday": 17,
+  "duplicatesRemoved": 11,
   "archiveDays": 30,
   "articles": [
+    {
+      "title": "Aitenders Technologies Inc. (Formerly, eXeBlock Technology Corporation) Announces Closing of Reverse Takeover with Aitenders and Receipt of Conditional Listing Approval from the Canadian Securities Exchange - TradingView",
+      "summary": "Aitenders Technologies Inc. (Formerly, eXeBlock Technology Corporation) Announces Closing of Reverse Takeover with Aitenders and Receipt of Conditional Listing Approval from the Canadian Securities Exchange TradingView",
+      "url": "https://news.google.com/rss/articles/CBMi_gJBVV95cUxORDEwMm1pSnhaaTJHOUZ2WWJGQ2Z6UEdFQUVYeUtpUjRha0hjOTZyYllVX2dvaW9ITVpPUXpyUml5Tllfdk9teEZQQUJhZjh2TFQ2UV9GajZFU25DaDFMN0JQNzg2d2pOVktlR3g3elk3TEVqX1NVUGFDQ1VfSl9zTFdUeEFaLXlLYmNPT05BLWhheWlPcE5oTGxjazk3LWlVYTU3cVByNGFtZVRTZlczb2d0N3dBaHMxTlNNVFZQU1J1bWQ5S1hiZEZWQnh2OWtXVHhCNUQxdTJSbXRpU0dIRVp5bk91djc4NTk1dnpkSzU1T2dJajlLa3haN3ltdlptdE9aY0N1cS05TTVGOU5uWlZCUUpWTHZIZHNSNDlrWTFMdlJPd3ZpRmlpWmxfWUl0STk2eWpzUElfc2tzNzA0NTFDbzYyTU5DRzVxby15ckhHTFVOck5qc2N4VUZNVGNBaGNBLVdsNDlQX1pHRlBLOG12RXQ0SGhUNGpEY25B?oc=5",
+      "source": "TradingView",
+      "category": "Cemex",
+      "keywords": "Takeover",
+      "sector": "General",
+      "dealType": "Acquisition",
+      "value": "",
+      "date": "Jul 31, 2026",
+      "dateISO": "2026-07-31T20:05:00"
+    },
     {
       "title": "Heidelberg Materials Q2 2026 Results: Acquisitions, Savings, and Outlook - News and Statistics - IndexBox",
       "summary": "Heidelberg Materials Q2 2026 Results: Acquisitions, Savings, and Outlook - News and Statistics IndexBox",
@@ -17,6 +30,32 @@
       "value": "",
       "date": "Jul 31, 2026",
       "dateISO": "2026-07-31T08:21:00"
+    },
+    {
+      "title": "ACCC Approves Heidelberg's Acquisition of Maas Group's Construction Materials Business Subject to Divestment of Three Concrete Plants and a Quarry - kalkine.com.au",
+      "summary": "ACCC Approves Heidelberg's Acquisition of Maas Group's Construction Materials Business Subject to Divestment of Three Concrete Plants and a Quarry kalkine.com.au",
+      "url": "https://news.google.com/rss/articles/CBMilAJBVV95cUxNNk1pbE5LU1l3UVRySzVGZ2dSZkFfdmoxVW5WTjE1ZkRUUHc5V3RCaUxMT0d2UG5makxFTnRzcmlNNTY1SHZub0kxWVRyeTNJY3hyMlZEWV9iZVFsd1dFcl9ESHJPRzBqTUp0TlFIYTNDQ1Q4WFRKdDV5dHl6dzdKbDZzVDQtMkstWFYwejJsM3dNc0RwTGpmMS1pWlNJNDdNYkhjT1AwOHV5U0RFM0FJazZPd0U0MUpfdVBjTC00TGdCMzRPSThheVdZQXVBZHFQb3FfREh4dXBCMGZ1TFlHMGdUY1o1Y2twZzNPaG5GSGpHcl9HZGxMOFRsbTZIWFFqcmtQYjl6TjBRSTlYX1ZKMnFIV2I?oc=5",
+      "source": "kalkine.com.au",
+      "category": "Aggregates Industry",
+      "keywords": "Acquired, Divest",
+      "sector": "Multiple",
+      "dealType": "Divestiture",
+      "value": "",
+      "date": "Jul 31, 2026",
+      "dateISO": "2026-07-31T06:01:14"
+    },
+    {
+      "title": "MLM Q2 Deep Dive: Acquisitions and Mix Weigh on Margins, Guidance Raised Amid Cost Discipline - FinancialContent",
+      "summary": "MLM Q2 Deep Dive: Acquisitions and Mix Weigh on Margins, Guidance Raised Amid Cost Discipline FinancialContent",
+      "url": "https://news.google.com/rss/articles/CBMi6AFBVV95cUxQdGVzZTF2dHNYeWVDS3VsTEpTNGdRUWRfY3BucUVqY0JjRHRNVFBNYlZGUnU5emNBYlIwNzRIanFyUHlPQUNITmptMW1fYlk1emJZbjJwVkk4bHBJa2hneGoyZjBKb0ttS2VHTE8zNDNuV2RRSF93TDIwaG9Kb05fVkJYRlJtbGxzVnppZlhXSUlBUWhlVndta2tuRlVtRXdSX0pad0ZtdFpmSGZZR2lERGdwemd4LThvbTZ4V0hYNkh3Vm5GMG1FN2NoUUlLaUt5aEttVTJ6THBJQ3pXd3JXekRJUFVQbTJU?oc=5",
+      "source": "FinancialContent",
+      "category": "Aggregates Industry",
+      "keywords": "Acquired",
+      "sector": "General",
+      "dealType": "Acquisition",
+      "value": "",
+      "date": "Jul 31, 2026",
+      "dateISO": "2026-07-31T05:40:00"
     },
     {
       "title": "ACCC Approves Heidelberg\u2019s Acquisition Of Maas Construction Materials Business Subject To Conditions - SMBtech",
@@ -201,6 +240,19 @@
       "dateISO": "2026-07-29T15:00:11"
     },
     {
+      "title": "Ambuja Cements gets NCLT nod for shareholder meet on ACC merger - whalesbook.com",
+      "summary": "Ambuja Cements gets NCLT nod for shareholder meet on ACC merger whalesbook.com",
+      "url": "https://news.google.com/rss/articles/CBMi9gFBVV95cUxOTXRjc0Z1TWFxZEpHY2lsZllhbko3Qmh0OXRKcUp2X3FuSWtBOUpDNnZ2YUZRazdPYnZoaFN2enVKZVphcE8zRG9Ed2Z1Y1NLdlFFWWVaTk11SmhhZmk5d1d1Wm1EczVyUVAzcERuQndVTExTUUVpUkgxdEZBVEx5c19nci1IQzhSck12aC1WTjZCblluT2p0QnV2S3BmcTNTNlI0Q0hPOURKb2JnNUxGaEYwNWtqNGhmUkxhMHdZWlZFTFEwZDJaUUg1aHlVX1NDN2VQRzZEVjVCc0hjaW96TTRpR2RxQzU3NDhRTjJJWUFZc3JfU2c?oc=5",
+      "source": "whalesbook.com",
+      "category": "Cement Industry",
+      "keywords": "Merger",
+      "sector": "Cement",
+      "dealType": "Merger",
+      "value": "",
+      "date": "Jul 29, 2026",
+      "dateISO": "2026-07-29T14:10:23"
+    },
+    {
       "title": "Titan America reports higher revenue in 2Q26 on Keystone acquisition - cemnet.com",
       "summary": "Titan America reports higher revenue in 2Q26 on Keystone acquisition cemnet.com",
       "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxPTVRIdzkzRWVZSmRwMlNIOGR5TnBYNVIzZE0tSVc2Z1BXdEZKSDl0eTdMXzVwWkZzZzRRdldGeHFQNGdfdFY0enpHa1JwTmJpSHoyREZ6aFFWNDFhSEUycS1waDRSd1Zpc1E1UFY2YUFXVzBVTXBJS3M3TTZwOWNwQXRMQWNBMnl4WmI0d1F2X3Ytc2NleVBZV3lLNHptS1FKOTBmT0dfV0p0UmY5V1I1am5YZFg?oc=5",
@@ -212,6 +264,19 @@
       "value": "",
       "date": "Jul 29, 2026",
       "dateISO": "2026-07-29T07:25:00"
+    },
+    {
+      "title": "Crh Plc $CRH Shares Acquired by PNC Financial Services Group Inc. - MarketBeat",
+      "summary": "Crh Plc $CRH Shares Acquired by PNC Financial Services Group Inc. MarketBeat",
+      "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxPOVFqeDhVeWZSMkMzNHBiQzU0LU5TX2o3cTRRbFBqS19nc01ISE05QlpPMWVlbUFQaDh6UENjQWh6ampIeU80U0pKRk5VSmE0elowSDlfU3Y0eEpmNTdJaGN6eWZLNl9CdUpubzBVbWJ2cWctTUlaZWQ2VWVBaDJackt0aXI0MGN3Q3F2dUxNWlBwMUdtb3pKUHFqWm05Vks3cmliQjV0ZmpxZ3hsYjdJRURrWUllSVNRNnVOLS1DSWllUQ?oc=5",
+      "source": "MarketBeat",
+      "category": "CRH",
+      "keywords": "Acquired",
+      "sector": "General",
+      "dealType": "Acquisition",
+      "value": "",
+      "date": "Jul 28, 2026",
+      "dateISO": "2026-07-28T08:45:29"
     },
     {
       "title": "Tindall Corporation Completes Acquisition Of Atlanta Structural Concrete - Pulse 2.0",
@@ -823,6 +888,19 @@
       "value": "",
       "date": "Jul 16, 2026",
       "dateISO": "2026-07-16T13:54:00"
+    },
+    {
+      "title": "HCLTech Acquires Guardian India GCC for $10.5M, Signs 7-Year AI Modernization Deal - scanx.trade",
+      "summary": "HCLTech Acquires Guardian India GCC for $10.5M, Signs 7-Year AI Modernization Deal scanx.trade",
+      "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxQZnJXU3pfYVg4cDFXalB6QW9UZUxTUW5CRHNMLTZMMGJQblJhdkRBQjI1SXBuSkk5RE1CVmlfUU5UZ0VYZm1jX2JucUd5TzkzYml6c3lCTllHclFYR21sLU1rbzRUYzVGZGdiNWkyNGM5ZTRBOV9oemFuNFpBVkwwUk1ydmYtWGx5b3RVenhjY3FiQ2VuN2ZuZE5ZbThfYUhGbGRRNHVONDNObmJuSDJ1RGNQRmk?oc=5",
+      "source": "scanx.trade",
+      "category": "GCC Cement",
+      "keywords": "Acquired",
+      "sector": "General",
+      "dealType": "Acquisition",
+      "value": "$10M",
+      "date": "Jul 16, 2026",
+      "dateISO": "2026-07-16T07:00:00"
     },
     {
       "title": "Martin Marietta (NYSE: MLM) arranges $1.5B term loan for Lhoist deal - Stock Titan",
@@ -1850,32 +1928,6 @@
       "value": "",
       "date": "Jul 02, 2026",
       "dateISO": "2026-07-02T15:23:11"
-    },
-    {
-      "title": "Cementir Holding, through its subsidiary Aalborg Portland Holding, completes the acquisition of Nym\u00f8lle Stenindustrier A/S in Denmark - World Cement",
-      "summary": "Cementir Holding, through its subsidiary Aalborg Portland Holding, completes the acquisition of Nym\u00f8lle Stenindustrier A/S in Denmark World Cement",
-      "url": "https://news.google.com/rss/articles/CBMiigJBVV95cUxQV29PMTlmUlROb01FeUxIYUdwT1JUcTY2RHN1aEN0U2NCcms4WEhIaTZOQzJvOG43VVRBcVR1anY5cFBkTXY3Nk5aUmNQMlloQ1FRMThBWUdFZVZPcWZXaW1BODZSaHZYQS1PNzlSLVV5TVgyVTZ3ZkNoN2tXZkVkTkdzRW80dXpEWW1pUFlaVVdGX1hLaksxNnlUX1k1RXpfdzQ4T1ZMYUNxY25hU0lpcl94Y2k1aE5uRzl3TFpEOERDN2hmVDJEbGdTcFpFbml0bVZPUHZ1S1BqWXNyRTZhT2UzaWJmdzBkNzB4eDRVNkE4Q0ZVa2ZmTmxKS2pxb1hGZC1vYXE0a1ZRUQ?oc=5",
-      "source": "World Cement",
-      "category": "Cement Industry",
-      "keywords": "Acquired",
-      "sector": "Cement",
-      "dealType": "Acquisition",
-      "value": "",
-      "date": "Jul 02, 2026",
-      "dateISO": "2026-07-02T08:58:36"
-    },
-    {
-      "title": "Martin Marietta Materials' Planned Acquisition of Lhoist North America to Add High-Quality Assets, UBS Says - Moomoo",
-      "summary": "Martin Marietta Materials' Planned Acquisition of Lhoist North America to Add High-Quality Assets, UBS Says Moomoo",
-      "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxNMlRkNmg4ajQ3VWFfQ3N4NlNXT3FsTzNWdDNfY0NYaTNrdnBoNnoxRnNsZUxScDEyRFZzLWVYa1ZMWVFuckFjOWdQbXRqWlBBcHpUV0xZd0NpZUxzMW1qcWxvMl85bWxweGlhSEZEdFdNSko4RFJwZ0ZzV0lDWHZsMXNUdXl6SGVfMWl0Y0NnQXMwbU9PVU4zbWlDdzVkQVFtX3dzcW1LNklqNEw2TzFSci1jckk?oc=5",
-      "source": "Moomoo",
-      "category": "Martin Marietta",
-      "keywords": "Acquired",
-      "sector": "General",
-      "dealType": "Acquisition",
-      "value": "",
-      "date": "Jul 01, 2026",
-      "dateISO": "2026-07-01T15:21:44"
     }
   ]
 }
