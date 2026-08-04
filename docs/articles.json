@@ -1,10 +1,62 @@
 {
-  "fetchedAt": "2026-08-03T15:40:32.350002",
-  "totalArticles": 150,
+  "fetchedAt": "2026-08-04T15:22:15.825938",
+  "totalArticles": 154,
   "newToday": 22,
-  "duplicatesRemoved": 13,
+  "duplicatesRemoved": 14,
   "archiveDays": 30,
   "articles": [
+    {
+      "title": "Command Alkon Announces Acquisition by Francisco Partners from Thoma Bravo - GlobeNewswire",
+      "summary": "Command Alkon Announces Acquisition by Francisco Partners from Thoma Bravo GlobeNewswire",
+      "url": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxPdzU1UGwzbTRkUGpxM1pmSDMwWGo4ajduX0dRY1Jwc3BXcEFkd1ZXZEVSdFI5VE15d3RzTVUzUWVMRGdRcnV6S2lKQVQxanpENDVpU2hudU5pcnBTSzBmNjR2VS1kZkFMejNFMHpxV2VVb3RNVHZrVWpFR3pZYmg2a3RfY0lELXVHdm4ta21peGRSazNSMEpRNUF2bzUyaXpJQ1l0Z1htVDRINmtrdkJ1M3poTVNKNThFblJINjZLSnFGc1lTa2pTSWRPXzd4ZWVoZDVUM2ZIZ29tekNjQlZ3?oc=5",
+      "source": "GlobeNewswire",
+      "category": "Heidelberg Materials",
+      "keywords": "Acquired",
+      "sector": "General",
+      "dealType": "Acquisition",
+      "value": "",
+      "date": "Aug 04, 2026",
+      "dateISO": "2026-08-04T15:00:00"
+    },
+    {
+      "title": "White Cap Completes Acquisition of the Business of Gierke Robinson Company, Inc. - Morningstar",
+      "summary": "White Cap Completes Acquisition of the Business of Gierke Robinson Company, Inc. Morningstar",
+      "url": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxQb1BmQ0kwblJzUFJ2RzBJMXA5UmpKbk9udVV0RXRXVFV1NF8xRDVZd2JFeWJBUEFlZEVQUFh6SnE1a0tIUEJGblB5Tlg4WGo4cjdOZkxBOUd1U0E2cUJUOWZjS1p2NFA0V0xoWjNUbVJET2NSZ2pyYTBZSUVfWWVORk85Vk82UTNsYVdTYUtsT3NrVno0eG1od185bVJqaXJKS3B6MTVyTUVCOUhzbXU2TUpFaWF4d3NUR2hJWE9UR21seFJSWURBOW1oT2E5d09NOUxjQWNn?oc=5",
+      "source": "Morningstar",
+      "category": "Paving Industry",
+      "keywords": "Acquired",
+      "sector": "General",
+      "dealType": "Acquisition",
+      "value": "",
+      "date": "Aug 03, 2026",
+      "dateISO": "2026-08-03T21:26:34"
+    },
+    {
+      "title": "CRH in Ukraine and BGV complete the agreement for the acquisition of a controlling stake in Poriston - bgv.com.ua",
+      "summary": "CRH in Ukraine and BGV complete the agreement for the acquisition of a controlling stake in Poriston bgv.com.ua",
+      "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxOdTRIc0JNaVdVVGEycUt2aEtzTUdUeVItcV9Oa3gwYTl4MWs1QWlNT2d0ZWdrRU5xdnAzZFFSX3p5UVV5eXpnS0N5VVpkclhBdWxNbm12bmRkQ0RMSm1ZcWRrY1JkdURFYV9rQWYxVk5STkstOXNCSTlpdUlPV1FScGJRZ0pVOFg1Z1M1bGl3ZDJWQUh5Z1JveU5FMC1LOG9ScFBMUk05QmpDRHRBWlYwbGs4QVg2WDF4SVlnV240UDc?oc=5",
+      "source": "bgv.com.ua",
+      "category": "CRH",
+      "keywords": "Acquired",
+      "sector": "General",
+      "dealType": "Acquisition",
+      "value": "",
+      "date": "Aug 03, 2026",
+      "dateISO": "2026-08-03T16:27:21"
+    },
+    {
+      "title": "Holcim to divest Philippines business in deal valued at US$807 million - People Matters Global",
+      "summary": "Holcim to divest Philippines business in deal valued at US$807 million People Matters Global",
+      "url": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxPVEdvOU9LQ2lUV2JQcTZCOFdiOGJvLTduTWtNZ3hlaEFpUDZkWms4dXpmOV9vU3hMeGJBMEIxZHI3SHFFODJTeDAyY2F0VDRUdVdlQWxyN0dTMDhKQldMT1duOVFYcXE3SENzc0JxOXNxblAzV0ZUcUstRU9fc0pHYk5KcjdDbHk3em9xdkIybDNUNjBPOEo5V3FIdWhNREhncDVyelRLd0thdElKaDlOM3JZVzZrc2FIYWlZdmF4RW5TNFRTUmJSMTVTMDB1MWlo?oc=5",
+      "source": "People Matters Global",
+      "category": "Holcim",
+      "keywords": "Divest",
+      "sector": "General",
+      "dealType": "Divestiture",
+      "value": "$807M",
+      "date": "Aug 03, 2026",
+      "dateISO": "2026-08-03T14:17:40"
+    },
     {
       "title": "Knife River in the spotlight as earnings test acquisition gains - Investing.com India",
       "summary": "Knife River in the spotlight as earnings test acquisition gains Investing.com India",
@@ -19,6 +71,19 @@
       "dateISO": "2026-08-03T14:08:08"
     },
     {
+      "title": "Knife River in the spotlight as earnings test acquisition gains By Investing.com - Investing.com Nigeria",
+      "summary": "Knife River in the spotlight as earnings test acquisition gains By Investing.com Investing.com Nigeria",
+      "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxPZW8wdDBpeXQzV0pkOEpld1hkMks4bmpSWjV2UlV5aUFLTHplbVF0VzhqU3FHc1Z6cmFOazE2Sjk5bkZzVUwyVTlvTjA2bXBZaDB1Y0hNbmVOVENZUUV5MU1iUWhQLVlJRFpYSHhvWjRTR0l2ZjJfT2dibUF2T2ozMU1WR2w0cWxQaEtUV0tZZHk1Q2ZlVlcxb1hFYjZLX0FZaUo0M05tbE14T0tXajdQTHVseEpiUQ?oc=5",
+      "source": "Investing.com Nigeria",
+      "category": "Knife River",
+      "keywords": "Acquired, Investment",
+      "sector": "General",
+      "dealType": "Investment",
+      "value": "",
+      "date": "Aug 03, 2026",
+      "dateISO": "2026-08-03T14:05:45"
+    },
+    {
       "title": "San Mateo Announces Successful Closing of the Acquisition of Cardinal Midstream - AOL.com",
       "summary": "San Mateo Announces Successful Closing of the Acquisition of Cardinal Midstream AOL.com",
       "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxONFRPX1NqdVNZaDBQVGc1ME1TSnppdjE0bE5MSVo4Q0pwZ3JfaGpOc3JzTWhXVnlRNVJKWmFsZG10aUdwcnN3ZFBNTDFISzc4QkF6Nnp4X2c2T0RQUzFQM2tncTg4cmdkalJIOWJjdWwzWjhIRjBhUC0ySEptYWlpeUhHOHNVNUZhb3c?oc=5",
@@ -30,6 +95,19 @@
       "value": "",
       "date": "Aug 03, 2026",
       "dateISO": "2026-08-03T10:48:19"
+    },
+    {
+      "title": "Arcosa (NYSE: ACA) accepts $150-per-share all-cash takeover by CRH Americas - stocktitan.net",
+      "summary": "Arcosa (NYSE: ACA) accepts $150-per-share all-cash takeover by CRH Americas stocktitan.net",
+      "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxOdjN1VGxYNi1xb1liOEc4UmlnaHZta1dPUjdGQ0x5MzU2TVRjbG5QbDRTam5fcVFnZGJDYTQzLVY2Y1IySUZBX0tVTEM4M0I0WVJJVUlBRlNSSWFBd2Q2ZUU5Yy1STmhjNWFTNi1Ocm8xd0JaQm04aXJtOXE2elROZnVFOGN1R0U3THlHcklLOGx0YnRvamhNTVRUVFBzZktlOWZfMw?oc=5",
+      "source": "stocktitan.net",
+      "category": "CRH",
+      "keywords": "Takeover",
+      "sector": "General",
+      "dealType": "Acquisition",
+      "value": "",
+      "date": "Aug 03, 2026",
+      "dateISO": "2026-08-03T10:08:27"
     },
     {
       "title": "Holcim signs agreement to divest its business in the Philippines - World Cement",
@@ -82,6 +160,19 @@
       "value": "",
       "date": "Aug 03, 2026",
       "dateISO": "2026-08-03T03:28:44"
+    },
+    {
+      "title": "First Graphene expands global commercial reach in June quarter with US acquisitions and landmark China cement agreement - Proactive Investors",
+      "summary": "First Graphene expands global commercial reach in June quarter with US acquisitions and landmark China cement agreement Proactive Investors",
+      "url": "https://news.google.com/rss/articles/CBMinAJBVV95cUxPY0o3SWNzMTloanYtVUExWFE3RzdPQ2k0VlZaZmxjLXIwQ1hjNEg5aVlCeFJqdHhaR0Vpb3JydlIzVnNZT21qeGlfNEY1QVEwcUpXOHJvVGhIZHRaZFFKcWJkOS1Cb1UxSHNMUmxRNVRFcGJoS2RGWm4xRVJwZ2tCU29OOWYtdHpBNElibnB1WlR0M2xCWFBES2l3elhVVDhrTExYUDJsSFNvd2MtRVBSa09tdjJVUmYzeU9UaGlGTVdKRGF1TmhWdWVKNnJUU2JNa09BaGNWbTdCYUxpLWJtVnlSdUF6eHBZMGo0U2NSU2doMG11amtySE9HQ2thc0ZLd1RMdElWckhVMmZFRzdyRWQ3OGFaNFZ0eDQyMA?oc=5",
+      "source": "Proactive Investors",
+      "category": "Precast Industry",
+      "keywords": "Acquired, Investment",
+      "sector": "Cement",
+      "dealType": "Acquisition",
+      "value": "",
+      "date": "Aug 03, 2026",
+      "dateISO": "2026-08-03T01:57:00"
     },
     {
       "title": "Holcim sold to China firm as it exits PH - Inquirer.net",
@@ -1293,6 +1384,19 @@
       "dateISO": "2026-07-14T07:05:26"
     },
     {
+      "title": "Pave America Expands in the Carolinas with Acquisition of Bennett Paving, Inc. - Greenville Business Magazine",
+      "summary": "Pave America Expands in the Carolinas with Acquisition of Bennett Paving, Inc. Greenville Business Magazine",
+      "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxPN3dzOS1MWEp0eFlPTWNtdWpXREpuTTRCX2dldW1TakNzUlpTeG9HTS1XSndTSEltaWozTkNaRzBXVmEyUFlNbHlJQ1BQRlpTdi04QUZJUFlVSzBYaTVQQVh5NU94LWc4ZFhsYlVWOEZDRnBRUF9zR3NEUWtLYWFvVDRsd3J6VEFBZDl0OTBQOVhGTlJJNFU4QVlMMTBFNjFVWmw2aF9nWmJmejNzS25UUF8tYUt6emhmSERxOUVBVlR4MFRHd1B3?oc=5",
+      "source": "Greenville Business Magazine",
+      "category": "Asphalt Industry",
+      "keywords": "Acquired",
+      "sector": "Paving",
+      "dealType": "Acquisition",
+      "value": "",
+      "date": "Jul 14, 2026",
+      "dateISO": "2026-07-14T07:00:00"
+    },
+    {
       "title": "Construction Partners acquires Ellsworth Construction in Oklahoma - Investing.com UK",
       "summary": "Construction Partners acquires Ellsworth Construction in Oklahoma Investing.com UK",
       "url": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxNaXpCek5rV3lFWENkOV9xRFRmZ21MRXBuQjZ1NWFVTjFublFQY2drVENZeTVZTkRVcm1iZ19IekhzVWt6N1ZhekozbEI1dExPTW5pUkNHVkNqcUFVUkFkeHo2UXBoOHh5b0JfTUczNTVmd1lWSDhZWlowOUNDS3VPeVBZWmp3SWtackxhaGlzdUZvRXNBVGlpeE1XQ0hlQVBuWDNSVDlRb213QVlnLWlWNHZUQTNFVnloSjNRTG1jQ2JiU0QwcWJ0ckEzZ2RxTGM2ZmxTZg?oc=5",
@@ -1902,58 +2006,6 @@
       "value": "",
       "date": "Jul 06, 2026",
       "dateISO": "2026-07-06T05:03:00"
-    },
-    {
-      "title": "Martin Marietta Materials (MLM) Agrees To $13.5 Billion Lhoist North America Merger - simplywall.st",
-      "summary": "Martin Marietta Materials (MLM) Agrees To $13.5 Billion Lhoist North America Merger simplywall.st",
-      "url": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxNS25BVDhtcEZqb0drOEdxZXhiUTJ6aUJPMVZSdnNiSGY0QTBZSHRpR1h4RVhQNU13LWJ0ci1GQ0paRWJEa2pBWE5RcjRSNV80b1E0S214dFpxbl9qWjczU09xSHBWcnpBcEJvQ25XR241TXp6MENSQ2d4bENJR3F2VGV1X1ZKWFp4ZnN3bENJR1F0QUpBQWxENThKZmhSYTd4OGtXMTNfdUhoQ1d5SFFjSWZkSkxrTDBHQU1DWlRuWlVteWE0RmVzbEJJbFNXaHJVOTVXRXpHaWdTb2pEZG5J0gHfAUFVX3lxTE1LbkFUOG1wRmpvR2s4R3FleGJRMnppQk8xVlJ2c2JIZjRBMFlIdGlHWHhFWFA1TXctYnRyLUZDSlpFYkRrakFYTlFyNFI1XzRvUTRLbXh0WnFuX2paNzNTT3FIcFZyekFwQm9DbldHbjVNenowQ1JDZ3hsQ0lHcXZUZXVfVkpYWnhmc3dsQ0lHUXRBSkFBbEQ1OEpmaFJhN3g4a1cxM191SGhDV3lIUWNJZmRKTGtMMEdBTUNaVG5aVW15YTRGZXNsQklsU1doclU5NVdFekdpZ1NvakRkbkk?oc=5",
-      "source": "simplywall.st",
-      "category": "Aggregates Industry",
-      "keywords": "Merger",
-      "sector": "General",
-      "dealType": "Merger",
-      "value": "$13.50B",
-      "date": "Jul 05, 2026",
-      "dateISO": "2026-07-05T07:41:28"
-    },
-    {
-      "title": "Adani Group's Dubai-based Firm Acquires ITD Cementation - ascendants.in",
-      "summary": "Adani Group's Dubai-based Firm Acquires ITD Cementation ascendants.in",
-      "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxPbkVEQnR4a2c4TER4N2NXbE5rQl95V0NGVjdWOXpfLXh1ZFZUS1UwNlFFNy00OWlxMm5JbnZldVpmTVJBQjc1SGt0akxjalVNeUVBRm5pc1VlNFZudUlXSVd5a0RsQ3o1S013cFZ1c0hWOWVkOFR3UVBjMlVkT0UzYXh3Nmx4MnhtVWxKUmRmMmNEU2ZrUHc3YTJtbTZkdGtQaHBXXzJ5QkhkQlVWOEV2SVNQN0tMNldxZEN3?oc=5",
-      "source": "ascendants.in",
-      "category": "Cement Industry",
-      "keywords": "Acquired",
-      "sector": "Cement",
-      "dealType": "Acquisition",
-      "value": "",
-      "date": "Jul 04, 2026",
-      "dateISO": "2026-07-04T17:14:23"
-    },
-    {
-      "title": "Suncrete acquires Nelson Bros. Ready Mix in North Texas - Investing.com",
-      "summary": "Suncrete acquires Nelson Bros. Ready Mix in North Texas Investing.com",
-      "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxOZkFoTjJSeU5CdWswdjl0bS1fNDkweG5QV1JWYUpKdHRsZVZ2MnVraWZNVWdXS3h3Ul9mQ29PUWZtZnhZQnI3Rjlodkx2SWlBYUxGVG0wY0ExZXltbmtEQmN2VEY1SHdBczFmWEJGSzNHWnBBcGk1VkU4RkxwTU9rV19PV1o3Z2daZDdWT2ZvOGJYZ0duRTQ4bUtHRmJ4cG9uVVZNQncwWm1hWHVteUIxNg?oc=5",
-      "source": "Investing.com",
-      "category": "Ready-Mix Industry",
-      "keywords": "Acquired, Investment",
-      "sector": "Ready-Mix",
-      "dealType": "Investment",
-      "value": "",
-      "date": "Jul 04, 2026",
-      "dateISO": "2026-07-04T15:44:57"
-    },
-    {
-      "title": "Adani's Ambuja Acquires 46.8% Stake In Orient Cement For \u20b98,100 Crore - ascendants.in",
-      "summary": "Adani's Ambuja Acquires 46.8% Stake In Orient Cement For \u20b98,100 Crore ascendants.in",
-      "url": "https://news.google.com/rss/articles/CBMilgJBVV95cUxPWXk5WFBVU0ZWY2dqTks1SHRQRG9DTTl3ZWdOYmhsZXJLQWxOcTVRbVozamp3ODNSYmdreUd5NkRGQ1hEeE1jMmJma2dJbUlnZEJfd3JXOTRiODF4Y2Utal9VZVNZTlZvSzVZUHNCemdiUW9NVk04cy1ETEVKdkNQSWJVS18ycS1peUdvSV9JQTVpMnNVU2FoSmllUUIzeDBMVTVYNno3T3pTNFUwU0x4YWh2S2RBSi1VN0w2aUt6NWtXem9aVDRXU0ZxWlVZMmNsdlFjMnZfWEVDX2xlSmZYSVR4ZVg4cXpBQnJscS1RTDRFM3BjS2VBbld2SEpxUnVJNkNRdl8xZllpUXV5cFhzTXBzc3N5dw?oc=5",
-      "source": "ascendants.in",
-      "category": "Cement Industry",
-      "keywords": "Acquired",
-      "sector": "Cement",
-      "dealType": "Acquisition",
-      "value": "",
-      "date": "Jul 04, 2026",
-      "dateISO": "2026-07-04T15:44:16"
     }
   ]
 }
