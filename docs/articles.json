@@ -1,10 +1,62 @@
 {
-  "fetchedAt": "2026-08-04T15:22:15.825938",
-  "totalArticles": 154,
-  "newToday": 22,
+  "fetchedAt": "2026-08-05T15:10:47.556487",
+  "totalArticles": 153,
+  "newToday": 19,
   "duplicatesRemoved": 14,
   "archiveDays": 30,
   "articles": [
+    {
+      "title": "US Aggregates acquires New Point Stone in Indiana - pitandquarry.com",
+      "summary": "US Aggregates acquires New Point Stone in Indiana pitandquarry.com",
+      "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxOOG50ZDlTbUpud01sNHBVQjdxcmUxRHJ4MldfT0h2QTY0bmZMa0lpVm0tdTFEVnVzZ1dOYTVobkRIZEpqc09SYnlJckdDZlFEZXk2N2h0akNLS21zVmxEVC10QldOWW45TUxqSUE3TFg4SVdteWhoMmNkdEJMVk9ndTZqcmhGZw?oc=5",
+      "source": "pitandquarry.com",
+      "category": "Aggregates Industry",
+      "keywords": "Acquired",
+      "sector": "Aggregates",
+      "dealType": "Acquisition",
+      "value": "",
+      "date": "Aug 05, 2026",
+      "dateISO": "2026-08-05T13:25:33"
+    },
+    {
+      "title": "Holcim reports strong first half, divests Philippines business - Construction & Demolition Recycling",
+      "summary": "Holcim reports strong first half, divests Philippines business Construction & Demolition Recycling",
+      "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxOQmhPVTlwTl9mZXNyQ1JaeEViNUFtNmRsTVJjV0loekRQYTFfbTFNaVc1RENDaVBoOTBReENmalktYTFONGczUWZLLTdjdEl1ZERvSy1QN2JIUnU0QW8zT0c0WjgtYzdXQ2dtd2xUU2RTTU9mTXA3Q3BsU04wamZZT1N1Yi0zb29GMEJDWHdyUHdyNHlFZEZoWll1MXAtam9P?oc=5",
+      "source": "Construction & Demolition Recycling",
+      "category": "Holcim",
+      "keywords": "Divest",
+      "sector": "General",
+      "dealType": "Divestiture",
+      "value": "",
+      "date": "Aug 05, 2026",
+      "dateISO": "2026-08-05T12:52:00"
+    },
+    {
+      "title": "Dangote, Sinoma Sign $800m Deal to Double Itori Cement Plant Capacity - Arbiterz",
+      "summary": "Dangote, Sinoma Sign $800m Deal to Double Itori Cement Plant Capacity Arbiterz",
+      "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxNY21pS3NQVkRTcUszY2QzNlF1aFhJcjJ4Z04wU1pKSzdUN1c4ZzF5WGVDbWJaVjNBNU9MSzVXZVJvTkE1bDZvSWpNOUMxb2paMEhTMWZ0ZlZkLUpXcHNEZGRwUU5WeG04VlU4YTNkcUlHa1VaM2V0dnd2UXJGSTJPdjhTUVdyaFZrd3ozdFhDUk1HTmc?oc=5",
+      "source": "Arbiterz",
+      "category": "Cement Industry",
+      "keywords": "",
+      "sector": "Cement",
+      "dealType": "Acquisition",
+      "value": "$800M",
+      "date": "Aug 04, 2026",
+      "dateISO": "2026-08-04T18:42:27"
+    },
+    {
+      "title": "CRH Acquires Pisgah Stone Products to Expand Northern Utah Aggregates Network - citybiz",
+      "summary": "CRH Acquires Pisgah Stone Products to Expand Northern Utah Aggregates Network citybiz",
+      "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxPbThRUnF5VlRzMW5mNGhPM1dMWWdVLURWYm5ZeWdSaWFJTkg2WlBkMjNaSkJVSWh5djNqRGFzNmNkSlpxeXVTOS1NMno3Q0lhUGo0Y1ZUcF9EcmdrQWVNdnJUWUs4TGdRQWdMaXhTaEFuX0RVYWJPS1UyY1ZlRXFtN0pFVkNxOEJJTnA0UUFDNnhRVXlzSDNic1UyVERVSTQ5bmNtVUJrWUNIbUFNVy1BSlNSOFNjT2M?oc=5",
+      "source": "citybiz",
+      "category": "Aggregates Industry",
+      "keywords": "Acquired",
+      "sector": "Aggregates",
+      "dealType": "Acquisition",
+      "value": "",
+      "date": "Aug 04, 2026",
+      "dateISO": "2026-08-04T15:37:23"
+    },
     {
       "title": "Command Alkon Announces Acquisition by Francisco Partners from Thoma Bravo - GlobeNewswire",
       "summary": "Command Alkon Announces Acquisition by Francisco Partners from Thoma Bravo GlobeNewswire",
@@ -17,6 +69,19 @@
       "value": "",
       "date": "Aug 04, 2026",
       "dateISO": "2026-08-04T15:00:00"
+    },
+    {
+      "title": "Knife River in the spotlight as earnings test acquisition gains By Investing.com - Investing.com UK",
+      "summary": "Knife River in the spotlight as earnings test acquisition gains By Investing.com Investing.com UK",
+      "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxOQk8wSHNvcjYyOE16NTRNNkFwT0k1SGJ2eEppeHpoUnhZYnVFeXpkTXhKSEJ5d2FhS1pRWlNlcjN4NUZ6VzBUTlZmVlhnT3kyQ1BuN3FCbmRuaTJIdVZGUFE0WXZxYWRudFZNT1ZjOHZ0TUpjN1pDemJYMDNBRXJ4NVlmdzBpZm9JbVZGSGhwYkJUODh0OGhNMG4tclhCQ1o2TWJ0eG9jZ2xLSVVRQldHcmd0dmFRQklVelItelVySnFLemJIc0E?oc=5",
+      "source": "Investing.com UK",
+      "category": "Ready-Mix Industry",
+      "keywords": "Acquired, Investment",
+      "sector": "General",
+      "dealType": "Investment",
+      "value": "",
+      "date": "Aug 03, 2026",
+      "dateISO": "2026-08-03T21:43:08"
     },
     {
       "title": "White Cap Completes Acquisition of the Business of Gierke Robinson Company, Inc. - Morningstar",
@@ -71,17 +136,17 @@
       "dateISO": "2026-08-03T14:08:08"
     },
     {
-      "title": "Knife River in the spotlight as earnings test acquisition gains By Investing.com - Investing.com Nigeria",
-      "summary": "Knife River in the spotlight as earnings test acquisition gains By Investing.com Investing.com Nigeria",
-      "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxPZW8wdDBpeXQzV0pkOEpld1hkMks4bmpSWjV2UlV5aUFLTHplbVF0VzhqU3FHc1Z6cmFOazE2Sjk5bkZzVUwyVTlvTjA2bXBZaDB1Y0hNbmVOVENZUUV5MU1iUWhQLVlJRFpYSHhvWjRTR0l2ZjJfT2dibUF2T2ozMU1WR2w0cWxQaEtUV0tZZHk1Q2ZlVlcxb1hFYjZLX0FZaUo0M05tbE14T0tXajdQTHVseEpiUQ?oc=5",
-      "source": "Investing.com Nigeria",
-      "category": "Knife River",
-      "keywords": "Acquired, Investment",
+      "title": "CRH, Arcosa make US, Australia, Mexico merger filings - MLex",
+      "summary": "CRH, Arcosa make US, Australia, Mexico merger filings MLex",
+      "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxNNVpaNGNtVDNHck5fUnBxcVRfTjRTcmh6Q1ZUb0NuRUtaazg5QTIzLXJLLXNZUkJ3U2ZRRndzQWZMQzI5ZjR4ZzZWbks2WVByNHJfcGRDRkdqTGtudW9JYXdpWUJQMGozSFUwTG1mX2ZMWVVXdlFWaHlLTW5SVXpNTkphbEhvY3ZsdnBDWmZsem45d9IBWkFVX3lxTE1EZlZOdDFiNjhsUG9TV0kwc1VGbTFjTm8yVWRDcnRodDQzYncxTXEzLXAzUXVHNlpkNTdYZWV5VFBhczVDc3g3VFMwWjY3ZUVsYnNPNndXcEMxdw?oc=5",
+      "source": "MLex",
+      "category": "Arcosa",
+      "keywords": "Merger",
       "sector": "General",
-      "dealType": "Investment",
+      "dealType": "Merger",
       "value": "",
       "date": "Aug 03, 2026",
-      "dateISO": "2026-08-03T14:05:45"
+      "dateISO": "2026-08-03T13:30:00"
     },
     {
       "title": "San Mateo Announces Successful Closing of the Acquisition of Cardinal Midstream - AOL.com",
@@ -1928,84 +1993,6 @@
       "value": "",
       "date": "Jul 07, 2026",
       "dateISO": "2026-07-07T07:00:00"
-    },
-    {
-      "title": "Minister approves Ohorongo-Cheetah merger ... in a deal that reshapes ownership of local cement sector - neweralive.na",
-      "summary": "Minister approves Ohorongo-Cheetah merger ... in a deal that reshapes ownership of local cement sector neweralive.na",
-      "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxQMk52czRacGlmbEFUU1BUbHp4c0VhTmxXSTZsVWpOTzZHeVBiajBPRU5lTVV2aW45OXU2eXhzbF9IRFVXc1ZfUEhxREtzTEhuS0dzeFlDLUh5bkhBblpqSUZWUUczdm8tSE44S3FabGIyb29FSzRZWFZ0YWU4OW9BZ2o0d1pkcVZZdUkwZnA5dW1waFNvcXZ2STdCQjVZMTI2bWtMM0JFMGVVcjBYRHN0ZGNVY1M5aDgyZ0RkVTJB?oc=5",
-      "source": "neweralive.na",
-      "category": "Cement Industry",
-      "keywords": "Merger",
-      "sector": "Cement",
-      "dealType": "Merger",
-      "value": "",
-      "date": "Jul 06, 2026",
-      "dateISO": "2026-07-06T11:30:40"
-    },
-    {
-      "title": "Namibia approves Cheetah Cement takeover of Ohorongo - cemnet.com",
-      "summary": "Namibia approves Cheetah Cement takeover of Ohorongo cemnet.com",
-      "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxQZlVidllNTnRQc0VQZ3h3RThDN3BIZEQzcW90QjV4RlFNbVdNVTJWY0xkWWxseUVzMlhuOXdPb29RTEVNbDNTQ2FsdkFLZmNTM1VjZnREZ3FmN0E3amFudXMzYm90ZzEtVVdnMExPMXR5ZUtNU0Y5SndGM2hZUTgxNjhHajVWek4yVGFWaDBlYWl1NWdLLXRPQWQ4ZzFmR3M?oc=5",
-      "source": "cemnet.com",
-      "category": "Cement Industry",
-      "keywords": "Takeover",
-      "sector": "Cement",
-      "dealType": "Acquisition",
-      "value": "",
-      "date": "Jul 06, 2026",
-      "dateISO": "2026-07-06T08:26:11"
-    },
-    {
-      "title": "Atlas Metals Sets Late 2026 Target for UPSA Acquisition as Commercialisation Plans Advance (AMG) - Yahoo Finance UK",
-      "summary": "Atlas Metals Sets Late 2026 Target for UPSA Acquisition as Commercialisation Plans Advance (AMG) Yahoo Finance UK",
-      "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxNc3B4alhqUlRzTWNQNlVUNGdRdXhHVm1nR3dnQ21PUllyR09pY0pwZHBVOVlidzlhcl93OGNVb3RncmpFN0RlYUFMNF92Y0JXOUF2dGpaWWE0S3BqR0FaM1ZCa3JBQXlTeTk5dW90dWtpWTladG1YUVlCcy1rOGE3S2wzVXk?oc=5",
-      "source": "Yahoo Finance UK",
-      "category": "US Concrete",
-      "keywords": "Acquired",
-      "sector": "General",
-      "dealType": "Acquisition",
-      "value": "",
-      "date": "Jul 06, 2026",
-      "dateISO": "2026-07-06T07:04:29"
-    },
-    {
-      "title": "Atlas Metals Targets Q3\u2013Q4 Completion of UPSA Acquisition and Bolsters Concrete Market Strategy - TipRanks",
-      "summary": "Atlas Metals Targets Q3\u2013Q4 Completion of UPSA Acquisition and Bolsters Concrete Market Strategy TipRanks",
-      "url": "https://news.google.com/rss/articles/CBMi4AFBVV95cUxPbzhwWGJFN004YXdIcWRwOVRuaG9ONHFXN2VIZ1poMDMtUVJ3RFVZODg3bzdONVd5bmVDYnNfUHctaHQzT0pZNUZ6N20yUzY1TElDY1ZxZmdjN0JBVWtDcUswRmVoVmJmLUhpQWo0cXBmYXd2eF96RkZscTZuWGp2YjlpLVVMMGRxeFhaRkJXZk5TUUJuZmtpV1hidTdRUG91NWpoYWc3QS1vSlktd3EwSGYyZG5Yc19BU2cySkZMdlpVX2tHeDhBa0lONlhtb3dkWk9GSkgxNFBWN0JKamdheg?oc=5",
-      "source": "TipRanks",
-      "category": "US Concrete",
-      "keywords": "Acquired",
-      "sector": "General",
-      "dealType": "Acquisition",
-      "value": "",
-      "date": "Jul 06, 2026",
-      "dateISO": "2026-07-06T06:28:59"
-    },
-    {
-      "title": "REG - Atlas Metals Group - Update on Proposed Acquisition - TradingView",
-      "summary": "REG - Atlas Metals Group - Update on Proposed Acquisition TradingView",
-      "url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxPaFNuV1Zfd05DSUJ0bHhnLXdDNWl5NXllcjBXVzlzMlZ3b1FoMTVZTlBFbkphd0ZySlNoR010T2ZDZlVKSTBwTEtTNVFYOXFaNWdzT2NrMFhuTUJsZURFNXZWeHBwSm9tNGhidTQxZTlvR21mRkw1VF8zWGJkMW9UYS0zTU1odkR0Q3dRdWlfTzFXallWTTZYaHl5Q2JIZ0E1YWlORm1xRjhpRDNQeUFPSEVKVGozZmRrWGNZa2kwSkt2cHNJdWZmbA?oc=5",
-      "source": "TradingView",
-      "category": "Aggregates Industry",
-      "keywords": "Acquired",
-      "sector": "General",
-      "dealType": "Acquisition",
-      "value": "",
-      "date": "Jul 06, 2026",
-      "dateISO": "2026-07-06T06:00:00"
-    },
-    {
-      "title": "QXO Stock Gains Overnight: Why TopBuild Acquisition Has Investors Energized - Yahoo Finance",
-      "summary": "QXO Stock Gains Overnight: Why TopBuild Acquisition Has Investors Energized Yahoo Finance",
-      "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxOVnpYWFBwajZ6ckZ6WHoyQ1JvT1NiZml1Q3RydUJXQVRVZC1JRDBudGlsOTNiU3k4aHNpZ095MHF5X3hZOXZ5Um96S0I5WHdlOEU2QnV2TWJZdG11bzhKRTRXTDNTZGVxUV9kblczX1V2MGlCcEg2NW5VTlZWbUp5ZnNJSlZCdXFNd2U4Yzc0SlBiY0N1bHRZd05B?oc=5",
-      "source": "Yahoo Finance",
-      "category": "Granite Construction",
-      "keywords": "Acquired, Investment",
-      "sector": "General",
-      "dealType": "Acquisition",
-      "value": "",
-      "date": "Jul 06, 2026",
-      "dateISO": "2026-07-06T05:03:00"
     }
   ]
 }
