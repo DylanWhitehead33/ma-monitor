@@ -1,10 +1,23 @@
 {
-  "fetchedAt": "2026-08-08T13:41:39.464639",
-  "totalArticles": 161,
-  "newToday": 23,
-  "duplicatesRemoved": 16,
+  "fetchedAt": "2026-08-09T13:45:30.415965",
+  "totalArticles": 156,
+  "newToday": 19,
+  "duplicatesRemoved": 15,
   "archiveDays": 30,
   "articles": [
+    {
+      "title": "9,674 Shares in Granite Construction Incorporated $GVA Acquired by Empowered Funds LLC - MarketBeat",
+      "summary": "9,674 Shares in Granite Construction Incorporated $GVA Acquired by Empowered Funds LLC MarketBeat",
+      "url": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxQcmZTRGRBeFJyY2Vycm13djlOWFMyUldfRWphQ0V5cHF4RGxHX1hnbDJ3WGp0MjBxYVNweTdUeVFreWxQNlpneFJ0MUZqWVJVQktmbV9PaG9zX3hXUjFNb01sRVhkdGsxaEtUczRid3l6WDk4a0pLeElYUkhLc3ZmY3FVYy1NS2g5MHNaOVAySmxRUjUzTEhKdEgxSWRlOWsxbnBJMElMSXkxaTZLbV9GQjY2NUZ1aUstQk5NRGNXZVpiV0Y0aEhkdm9iZE1yeHRHZU5nSGJaa29XMjNfbFE?oc=5",
+      "source": "MarketBeat",
+      "category": "Granite Construction",
+      "keywords": "Acquired",
+      "sector": "General",
+      "dealType": "Acquisition",
+      "value": "",
+      "date": "Aug 09, 2026",
+      "dateISO": "2026-08-09T08:10:18"
+    },
     {
       "title": "DOJ approves asphalt merger with divestitures - Global Competition Review",
       "summary": "DOJ approves asphalt merger with divestitures Global Competition Review",
@@ -30,6 +43,19 @@
       "value": "",
       "date": "Aug 07, 2026",
       "dateISO": "2026-08-07T21:43:52"
+    },
+    {
+      "title": "US DOJ, Tennessee AG settle antitrust concerns over hot-mix asphalt merger - mlex.com",
+      "summary": "US DOJ, Tennessee AG settle antitrust concerns over hot-mix asphalt merger mlex.com",
+      "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxQMG1DRWwxSmdOeE5EV256dFBvU05DQkJIdS1DQTU0VlR5X1E1VVRNcFFNNWV2X29sTVBWMElFbE5vVG84eHkyUzhuQnNxNjlkZGtXZWxGanpOS1hFQlE3ZGpBQU9zLVRtZFBvLUU5dFl4ZTdpYmQteGVPaWV6NlJOWlpVRnhzZThlaC1UeEN1UEtBQ1pUWlM4Ql81a01wTkZyTzRFc01FZnpwOE5oZEJmVDA3eUl0X03SAVpBVV95cUxNNEZXOFdjYXd1cmIxN0JxemdQdWtkOWNIRnVwa1FUQ2hNMHFOZ1JvZENrV0pjbXc3WWx1WWtyRHM3a1pCb1R3SFBRMGJLRXExY19BOV90TkJWRFE?oc=5",
+      "source": "mlex.com",
+      "category": "Asphalt Industry",
+      "keywords": "Merger",
+      "sector": "Asphalt",
+      "dealType": "Merger",
+      "value": "",
+      "date": "Aug 07, 2026",
+      "dateISO": "2026-08-07T17:45:00"
     },
     {
       "title": "Asphalt firm CRH will sell two plants at behest of US, Tennessee merger authorities - MLex",
@@ -420,6 +446,19 @@
       "value": "",
       "date": "Aug 03, 2026",
       "dateISO": "2026-08-03T10:35:18"
+    },
+    {
+      "title": "Martin Marietta Materials, Inc. $MLM Shares Sold by Sapient Capital LLC - MarketBeat",
+      "summary": "Martin Marietta Materials, Inc. $MLM Shares Sold by Sapient Capital LLC MarketBeat",
+      "url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxQcVJqWXdCUVJLRXhtRkVsUUdXMjljYzJTaUYxam9UWkwwRVliTnhwWmJoRWNQaExmYXhBbzJRU3B0NXpKemZMeTlucjBzUnhUSUxmejZ2U1RIcndhSjBaeXBPbWZiRWFHbHFWOVhKcTJCUi1tenA1QnhLYW1zTUFXY1JzN0hmbzloS1RmYktPZVBCNV90cDBIbDJkWk1VMEN5LTViakRLMFdCektaNlFvS2Y3ZzF2OWNqVXBaWXVtU2x0QV81Ti1XZw?oc=5",
+      "source": "MarketBeat",
+      "category": "Martin Marietta",
+      "keywords": "",
+      "sector": "General",
+      "dealType": "Divestiture",
+      "value": "",
+      "date": "Aug 03, 2026",
+      "dateISO": "2026-08-03T10:34:57"
     },
     {
       "title": "Arcosa (NYSE: ACA) accepts $150-per-share all-cash takeover by CRH Americas - stocktitan.net",
@@ -940,6 +979,19 @@
       "value": "",
       "date": "Jul 27, 2026",
       "dateISO": "2026-07-27T07:17:45"
+    },
+    {
+      "title": "Entropy Technologies LP Purchases New Stake in Vulcan Materials Company $VMC - MarketBeat",
+      "summary": "Entropy Technologies LP Purchases New Stake in Vulcan Materials Company $VMC MarketBeat",
+      "url": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxOcnlnSHV6NlpaUWpGVDJYeDhDSWo3aEFoREJqVDFoYjNINHFTVDliUW1OVTMwSU9jWGRrMk03NGUwSXJObWhxQVVXeXhoeVJNV1JGNnMyTVQyZDZzWkFiZkdKT1U1bi00b0VfNHR6ZWZ5eGNJWFRqNFd4TDdtdURBLUxvaXFUUFpORFZBMU5YX2NIcHNWRjZ0OTNyZmFkaDd2dkwtZEFVS1I5bUtpQkVkUDgyQ0pMMEFQRFl4WUJtaWhZdzZHckh3TXFRNkRYMTFrQkE?oc=5",
+      "source": "MarketBeat",
+      "category": "Vulcan Materials",
+      "keywords": "Purchase",
+      "sector": "General",
+      "dealType": "Acquisition",
+      "value": "",
+      "date": "Jul 27, 2026",
+      "dateISO": "2026-07-27T07:00:00"
     },
     {
       "title": "Dalmia Bharat Q1FY27 net profit falls 51% on acquisition costs - scanx.trade",
@@ -1657,17 +1709,17 @@
       "dateISO": "2026-07-15T07:00:00"
     },
     {
-      "title": "Aditya Birla Group's biggest acquisitions: RCB, Shell, India Cements, Sabyasachi; All you need to know - Storyboard18",
-      "summary": "Aditya Birla Group's biggest acquisitions: RCB, Shell, India Cements, Sabyasachi; All you need to know Storyboard18",
-      "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxNY0NoNFRpLVF4TV82QzNCRncyX2Y1MDBXeTUxQktudXFpdG9jQ2dUNEU2aUFZblBNQ1h5THZMUFplNTUzWkVnSk54VE5Kbm55R0xDYlVUZXdrZEN0WWhTN0tJN3ZxVDhUU3FRc3FiSXJxWkE1UmhMV3BhYnFzZXZaNnRJcXJBcVFIZmhkTG5Lamx3eThvbVhxR09PT1FLQnZmNl9QM0U3Qy0xM1AyWl9Sd0ZRcTNvQURKdElKcjgxZHpJU1NDYmNB0gHHAUFVX3lxTE1jQ2g0VGktUXhNXzZDM0JGdzJfZjUwMFd5NTFCS251cWl0b2NDZ1Q0RTZpQVluUE1DWHlMdkxQWmU1NTNaRWdKTnhUTkpubnlHTENiVVRld2tkQ3RZaFM3S0k3dnFUOFRTcVFzcWJJcnFaQTVSaExXcGFicXNldlo2dElxckFxUUhmaGRMbktqbHd5OG9tWHFHT09PUUtCdmY2X1AzRTdDLTEzUDJaX1J3RlFxM29BREp0SUpyODFkeklTU0NiY0E?oc=5",
-      "source": "Storyboard18",
+      "title": "Aditya Birla Group's biggest acquisitions: RCB, Shell, India Cements, Sabyasachi; All you need to know - storyboard18.com",
+      "summary": "Aditya Birla Group's biggest acquisitions: RCB, Shell, India Cements, Sabyasachi; All you need to know storyboard18.com",
+      "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxQSklGQ2lOLUFERVlQbDN0NVk3QlpodlVhRTdaTmU3Uk5SeE1CSjduZTNOMl96SmtnOHBQcjJ0WkRFT2lKVmQ3RnpXOXVYUnJJVnYyY3hGanRLeVlxaXVaYXZTTGNRWldLcy1jZF96eFJUdE8tTkpqQXNqZG03dm1pWGJlcGdGeThfc1pGYXphVkc3OVBFcXB1RWpJUXFHdUdqbDZHbHJFNGxpSjFvTWY4NzNvNVpUZ0JPcDZRTVF3dEhqZ9IBxwFBVV95cUxNY0NoNFRpLVF4TV82QzNCRncyX2Y1MDBXeTUxQktudXFpdG9jQ2dUNEU2aUFZblBNQ1h5THZMUFplNTUzWkVnSk54VE5Kbm55R0xDYlVUZXdrZEN0WWhTN0tJN3ZxVDhUU3FRc3FiSXJxWkE1UmhMV3BhYnFzZXZaNnRJcXJBcVFIZmhkTG5Lamx3eThvbVhxR09PT1FLQnZmNl9QM0U3Qy0xM1AyWl9Sd0ZRcTNvQURKdElKcjgxZHpJU1NDYmNB?oc=5",
+      "source": "storyboard18.com",
       "category": "Cement Industry",
       "keywords": "Acquired",
       "sector": "Cement",
       "dealType": "Acquisition",
       "value": "",
       "date": "Jul 15, 2026",
-      "dateISO": "2026-07-15T06:45:04"
+      "dateISO": "2026-07-15T07:00:00"
     },
     {
       "title": "Construction Partners Expands Oklahoma Footprint with Ellsworth Acquisition - The Globe and Mail",
@@ -1980,123 +2032,6 @@
       "value": "",
       "date": "Jul 11, 2026",
       "dateISO": "2026-07-11T02:00:00"
-    },
-    {
-      "title": "Africa's cement giants Dangote and BUA face new rival as Chinese-backed firm enters Nigeria's cement market with $1 billion acquisition - Business Insider Africa",
-      "summary": "Africa's cement giants Dangote and BUA face new rival as Chinese-backed firm enters Nigeria's cement market with $1 billion acquisition Business Insider Africa",
-      "url": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxOSFNoME9Va1NqQV9GcVREZDlOaV9XNWlHeEdmT0dXdDhXak9FLWZrZXBCSGl3NU5YWHplNElvaGQwSUlPMm13RWtQNE4yUl81cjVfTjFXNXVHaTh4a0RFNDFxYnI2cEViNURfYVVEMGJkT0hzQ3dZSVpKTG5ITzhxdmpScnhjSEx0UW51ZnJWdGZ6MHNlWjU5N2E5bGtvTk12N181WlExTkVBSmxJemlmX2JlMXFaYzI1OWs5LUN2bnlybEJxVXVPMzduUkhuLVhDVkdTRWFn?oc=5",
-      "source": "Business Insider Africa",
-      "category": "Cement Industry",
-      "keywords": "Acquired",
-      "sector": "Cement",
-      "dealType": "Acquisition",
-      "value": "$1.00B",
-      "date": "Jul 10, 2026",
-      "dateISO": "2026-07-10T13:01:53"
-    },
-    {
-      "title": "Lelantos Holdings, Inc. Announces Board Appointments Following Airtopia Reverse Merger - Yahoo Finance",
-      "summary": "Lelantos Holdings, Inc. Announces Board Appointments Following Airtopia Reverse Merger Yahoo Finance",
-      "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxQaGhpaGkybmVMeDdxNGRxSi1wZ1NvQmpQQWpKUzgtQ0VTbW9GUEhlbldyWkhuUEtKZkVTZFBLa2xHN2QtbEpBSUtKVE8tb0hUcloyQm42V3ZFRmNobXZzeDVyNlZTMHpXMDN0RDdUaWQ3ZFZ5aUlac29FM19PMXFRLU1iV2xyRnhJU09ESElpSGFOTVZZMmRkV3EydjM1TEI5NWdTOQ?oc=5",
-      "source": "Yahoo Finance",
-      "category": "Asphalt Industry",
-      "keywords": "Merger",
-      "sector": "General",
-      "dealType": "Merger",
-      "value": "",
-      "date": "Jul 10, 2026",
-      "dateISO": "2026-07-10T12:00:00"
-    },
-    {
-      "title": "Senate endorses proposed $1bn acquisition of Lafarge Africa by Chinese company - thestreetjournal.org",
-      "summary": "Senate endorses proposed $1bn acquisition of Lafarge Africa by Chinese company thestreetjournal.org",
-      "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxORDdwOGRLeVJ4ZlBHcE1qSzg3VUsya0J3MzUwVzVsUUVBbG5palJDd08tQWdPNlFCRFZBMjNpX3M1Ry1zMVhIRjBQa2Z6cl9SQlNjcWc4ME9ORWtxcnNaODFlQXhZWml1R1l5TGVIX2tOeHZLOGVYWFJibG92V1ZHd3ZnLVBNSnZyQVJzb19HRGtSOWtaUm1tV3hiU3NHdXZWbEs4ZmdfMWdMUkU?oc=5",
-      "source": "thestreetjournal.org",
-      "category": "Cement Industry",
-      "keywords": "Acquired",
-      "sector": "General",
-      "dealType": "Acquisition",
-      "value": "",
-      "date": "Jul 10, 2026",
-      "dateISO": "2026-07-10T09:23:35"
-    },
-    {
-      "title": "Senate Approves $1 Billion Lafarge Acquisition Amid Controversy Over Undisclosed 66 Percent Equity - streamlinefeed.co.ke",
-      "summary": "Senate Approves $1 Billion Lafarge Acquisition Amid Controversy Over Undisclosed 66 Percent Equity streamlinefeed.co.ke",
-      "url": "https://news.google.com/rss/articles/CBMiywFBVV95cUxPRkxhUjFBaFhwYjhfNEljMzc0TV90b3lmSzlwVGdiQ25IZl9RQ0Z1aEFLNXQ1OHFpa2RsSmNXZzBtd21MRlljbDM4NUZiQ0x4UXBUeFliQ0xwS3ZnejdNV2k2TlZUcTVCVTQyZUE1UXZIcTJZUl9xRXhsbjBqRGhoUzkyMW5vRkRUbVN3b1RGVENWS3JiNDRQSUNwUEZBM3NuMDlNUTM0RWFMZDBYcjZNMjU2M0JzWG1pOUZuRWxnM1c1TlVvV09mV0QtYw?oc=5",
-      "source": "streamlinefeed.co.ke",
-      "category": "Holcim",
-      "keywords": "Acquired",
-      "sector": "General",
-      "dealType": "Acquisition",
-      "value": "$1.00B",
-      "date": "Jul 10, 2026",
-      "dateISO": "2026-07-10T07:22:56"
-    },
-    {
-      "title": "Nigerian Senate backs Huaxin's acquisition of Lafarge Africa - cemnet.com",
-      "summary": "Nigerian Senate backs Huaxin's acquisition of Lafarge Africa cemnet.com",
-      "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxOeFJ3UjdkNXZqSUU5SUotQWtaNjFfYWpJb1dyMU1oLWhYLXZuQldQQ2xUWDg1MGx3UkoweFhnR0FHRXhTV1JGQl9GTnZ6aVNwM0Zra1pNUnEtcXl3Uk9EUHpIdU00c1RacGlBZXpKV0pYNUNOY1dIa1kxa1dLN2ZvSkhzTno2UEV0WkZHMERsNXpIUkdDOHhmdXRhdHNkYkg5TWVlbDF1MVNNZw?oc=5",
-      "source": "cemnet.com",
-      "category": "Cement Industry",
-      "keywords": "Acquired",
-      "sector": "General",
-      "dealType": "Acquisition",
-      "value": "",
-      "date": "Jul 10, 2026",
-      "dateISO": "2026-07-10T07:00:00"
-    },
-    {
-      "title": "Ningi Queries Ownership Of 66% Lafarge Shares As Senate Approves $1bn Deal - LEADERSHIP Newspapers",
-      "summary": "Ningi Queries Ownership Of 66% Lafarge Shares As Senate Approves $1bn Deal LEADERSHIP Newspapers",
-      "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxPNWpPV0huMFI2cFhCakVqRHF5OENsR1dZS0JHTjJjRkE0cTVLbEFxSTZGQlV5ckNKa2FOcmtHeVQzTGxudHZpaXRzQnlXU204NHpjV0FtZm5BaVR2Z01lYzlaOFBLRFJzNnFoNmlxdzFZY2YtR1lydGNqQzJMaU5TYVdodDdkSDF5X2Y0amExVjRhTzhyYU1qYldKZw?oc=5",
-      "source": "LEADERSHIP Newspapers",
-      "category": "Holcim",
-      "keywords": "",
-      "sector": "General",
-      "dealType": "Acquisition",
-      "value": "",
-      "date": "Jul 10, 2026",
-      "dateISO": "2026-07-10T06:51:32"
-    },
-    {
-      "title": "Oregon is only state to try to pause Paramount acquisition of Warner Bros., a deal blessed by Trump administr - OregonLive.com",
-      "summary": "Oregon is only state to try to pause Paramount acquisition of Warner Bros., a deal blessed by Trump administr OregonLive.com",
-      "url": "https://news.google.com/rss/articles/CBMi8wFBVV95cUxPNUFUOFpWYVA0ZWg4VmNBUl9xTjB4Y1E5T05TallyMkxKTGJjZmR6MmVxclJLMUk2LVNfYTlFRjE1UWhjWlFqd0VSUExXOWZwMmo3STZBUXF0ZEVhTjFsM1pETEFEamYtNjljNWVsdzlQdjFLbHZpQm1ZRktnRXYtNHpheXNheDVsWHk3ZUxIbm9zREwxTEU0dTlVYmxrNjhCa3RjT1lXdll1dXBJTXpPTS1EQXBOT0RVMnJyd0tFRDU3eDhBTG13dkZaWHVjVHZNYUoyOGNHS3ZDdDBqTjRyOVhkd1lBaDJ5cXdsRkJ2bnM3RVHSAYcCQVVfeXFMTURLSENQMU5YaW5aSjdQY1pjTjBSZmpoOTM1dDMzbmVYc2JRc0FRZDBGamFUN0hlT2QxVTlEdHZ0WWZTRWxTSTFGRlhES3NJQ19ERWRTdU5xOUtSWFlnOVRVeV9UOGlMdDNGV2FlNk5nQ2Q2U21FV3RPeWlVaktzeW9UNzJjb0h1dWtpQ2ZVNEY5S1dvSzdHNE9XVzNhcDlwZmZweGpic0FoT3EtdEc5V25aVlBXeS14T0ZOX01peU1LTVVHOVkwNzd0RzhMVVpNbVFBSW5zbFd4dTNNcHVqVjExY1NYc0VBMzI5UVhtYzJZWTZDdXpEUEVRTkFkOEM1bGtNbTQ1cm8?oc=5",
-      "source": "OregonLive.com",
-      "category": "Knife River",
-      "keywords": "Acquired",
-      "sector": "General",
-      "dealType": "Acquisition",
-      "value": "",
-      "date": "Jul 09, 2026",
-      "dateISO": "2026-07-09T22:25:00"
-    },
-    {
-      "title": "Senate clears Lafarge acquisition by Chinese investor, says Nigerians' equity will remain protected - Business News Nigeria",
-      "summary": "Senate clears Lafarge acquisition by Chinese investor, says Nigerians' equity will remain protected Business News Nigeria",
-      "url": "https://news.google.com/rss/articles/CBMizwFBVV95cUxQSTJkTVdtczVWa0xrQlZmeXVDT3RnSm5RMmZWNFdGX3VqbTFsMEphaHNuTEsxd0puVGxSWUpqR1NyYk9pbWw5S1A3enpJcjZ2bkJhU2VkMXo2QlJ6eW5EOUlaRjVSbHFTSWhnZ041UzBweElfMy1FVDFhWm1iUWhKZmlWaWtZWVFFaVpTeWdiWHhUZFI2MkxUQm53WXNPc0FOc0RqRnVEWk5yNzdpVFNPOUtlTXo0MXlyRHViQVd1b1N0TndFTUtabXluaTRoYzA?oc=5",
-      "source": "Business News Nigeria",
-      "category": "Cement Industry",
-      "keywords": "Acquired, Investment",
-      "sector": "General",
-      "dealType": "Acquisition",
-      "value": "",
-      "date": "Jul 09, 2026",
-      "dateISO": "2026-07-09T21:16:28"
-    },
-    {
-      "title": "Senate Approves Chinese Firm\u2019s Acquisition Of Lafarge Cement For $1bn - The Whistler Newspaper",
-      "summary": "Senate Approves Chinese Firm\u2019s Acquisition Of Lafarge Cement For $1bn The Whistler Newspaper",
-      "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxObUJ2clhfYTBMN3VlNFczVVI0bURWejc4RV8yWG1WOFdTUW5ISW1hSUtrZm5qTUt4d09uMDkxZUphV2dMMlV1S19CalI5Y3ZnQ1Q1alM4NHd2cVRBZzV3LW5kUTFNZS1SXy1iVmVQTEh5ZDdTWlNtdWNYLWVwalduVElfeE1IVGdwek9lcWZKTFB4dHE2OFE?oc=5",
-      "source": "The Whistler Newspaper",
-      "category": "Cement Industry",
-      "keywords": "Acquired",
-      "sector": "Cement",
-      "dealType": "Acquisition",
-      "value": "",
-      "date": "Jul 09, 2026",
-      "dateISO": "2026-07-09T17:00:19"
     }
   ]
 }
