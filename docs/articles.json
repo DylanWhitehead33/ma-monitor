@@ -1,10 +1,62 @@
 {
-  "fetchedAt": "2026-08-11T14:17:10.549297",
-  "totalArticles": 167,
-  "newToday": 31,
-  "duplicatesRemoved": 20,
+  "fetchedAt": "2026-08-12T14:18:35.469539",
+  "totalArticles": 171,
+  "newToday": 24,
+  "duplicatesRemoved": 17,
   "archiveDays": 30,
   "articles": [
+    {
+      "title": "UltraTech Cement: Acquires 26% Stake in Solaris Horizon Energy - InvestyWise",
+      "summary": "UltraTech Cement: Acquires 26% Stake in Solaris Horizon Energy InvestyWise",
+      "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxOZktYcko3b1ZMUExESUNacGNtMkRoLXotZ1hJYWhLeXZKZU53Y2VfSkszMG9nYnBFeEQyNlpzVDNCMVBDU0dpd1QzWTRTQXNFdEpMMnRxYkM0QTFGTEprZGZQb2tKZ3d6R2xnUS1xMUF6T0d3TkFJc2hzMTloUnVhR19WV2FxZmVCMmZZanZmOThQZw?oc=5",
+      "source": "InvestyWise",
+      "category": "Cement Industry",
+      "keywords": "Acquired, Investment",
+      "sector": "Cement",
+      "dealType": "Acquisition",
+      "value": "",
+      "date": "Aug 12, 2026",
+      "dateISO": "2026-08-12T11:40:57"
+    },
+    {
+      "title": "Martin Marietta Materials Prices $5.5 Billion Senior Notes Offering to Fund Lhoist North America Acquisition - Quiver Quantitative",
+      "summary": "Martin Marietta Materials Prices $5.5 Billion Senior Notes Offering to Fund Lhoist North America Acquisition Quiver Quantitative",
+      "url": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxOMnVLLVpPZ3FBaTlWTjVZalZ6X3BkcGNYaDNQMElIQmJ4YlVyd0FwNE92NGVvZllKeUxEeHNLZ2lsZjEtNlp3VUxUVjA5eVVKNlVyOWJZZ1NTRkU0dmkwczJpeC1HNXRqMVpLYnptTVFDQUtTdkE3c0hiZVBsaE1FOWI2a1dYYzVOZlZkc2RwNmU1SDZCWnFjUE5lUHpUM3lPaXN1ZmR3QjRIN0F6SlowWXhyWE8tX1lJclNtazAxa1FJckNYMHh4dEJmZ1RySUdJY3A1NXMxaW5GOUU?oc=5",
+      "source": "Quiver Quantitative",
+      "category": "Martin Marietta",
+      "keywords": "Acquired",
+      "sector": "General",
+      "dealType": "Acquisition",
+      "value": "$5.50B",
+      "date": "Aug 12, 2026",
+      "dateISO": "2026-08-12T11:00:00"
+    },
+    {
+      "title": "ARES acquisition broadens EKHO Infrastructure MSE portfolio - Concrete Products",
+      "summary": "ARES acquisition broadens EKHO Infrastructure MSE portfolio Concrete Products",
+      "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxQU21mZ2NoWkZRRjhVNUhwYklqSXd6eU85N2Eway1rMFJKWmVoSGMxTVN5ZjVuVDZSLWNrY3FST3FveXFhdWphWUJiUkl0V2tYbk4tR1VsRi0xRnBobkZhMTctdW1WZFgzc25SNjhZZ1ZjNmpZdWdQMXZwN3NVSExLeWdaLVhhcXhzRHFxc0stREZKWHNEeEtuWmlnWm5OdDlmVEdaQ2FoeEdQSnVSaEJZ?oc=5",
+      "source": "Concrete Products",
+      "category": "Precast Industry",
+      "keywords": "Acquired",
+      "sector": "General",
+      "dealType": "Acquisition",
+      "value": "",
+      "date": "Aug 11, 2026",
+      "dateISO": "2026-08-11T19:11:01"
+    },
+    {
+      "title": "Cardinal Infrastructure Group Inc. Reports Second Quarter 2026 Results and Updates 2026 Outlook, Announces Acquisition of Allied Paving - PR Newswire",
+      "summary": "Cardinal Infrastructure Group Inc. Reports Second Quarter 2026 Results and Updates 2026 Outlook, Announces Acquisition of Allied Paving PR Newswire",
+      "url": "https://news.google.com/rss/articles/CBMimAJBVV95cUxQQlFHNUJHOEpiOFhpUWNWX3pKaFFDc01BM0NoLTJWZ3VfcUxHMTloTjdWenNCR004R2NDLTZOVlB6X2xNUThhRW1nVnVGdTZWZ3lZQktWRFhxN0NsazJuNUJRb1NwbjhsazVHLXdqRERIVmdWX2RJSEpxX3lpQlEtNW0yeXM1Y21lTG9VWXZYZi05RjhFcVAwZDhqVGRlS0JNc2RrME9uamJrSlFqZmx3Q2tmT1Z3RFFXdlZ1UncxQXZubnpmTjBFbkYtUE55SFF4blZSd0lnR2JDZ0gwc3VYb0JHeUNyWVZHc2YwblpCS1ZLa1B5SzgzYU5lajlPUmkzNE5mX2lFdE1yLVVscndFcnJGMWtieVY1?oc=5",
+      "source": "PR Newswire",
+      "category": "Paving Industry",
+      "keywords": "Acquired",
+      "sector": "Paving",
+      "dealType": "Acquisition",
+      "value": "",
+      "date": "Aug 11, 2026",
+      "dateISO": "2026-08-11T10:50:00"
+    },
     {
       "title": "Attock Cement board explores potential merger with Fauji Cement Company - Profit by Pakistan Today",
       "summary": "Attock Cement board explores potential merger with Fauji Cement Company Profit by Pakistan Today",
@@ -17,6 +69,19 @@
       "value": "",
       "date": "Aug 11, 2026",
       "dateISO": "2026-08-11T09:28:13"
+    },
+    {
+      "title": "Attock Cement explores potential merger with Fauji Cement - Mettis Global",
+      "summary": "Attock Cement explores potential merger with Fauji Cement Mettis Global",
+      "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxNZ0VOZ3p1Zm5wX01RcWhwYlBuZG1Kb2FkR1Mxa2xESWI0cnRFOWlWXzlqRDJCWVBuTmtJcFR0VnZpbTNGcVVvNEd2ZmxEeFlhSmY5YWZ6LXUybUczeUJ4NG9hVUp0S1FIV3BfaXNVR0RXT3NvZTBQT0Rma25aLWJvWDkyR1NWMWx1MGdRLXBUV1FnQms?oc=5",
+      "source": "Mettis Global",
+      "category": "Cement Industry",
+      "keywords": "Merger",
+      "sector": "Cement",
+      "dealType": "Merger",
+      "value": "",
+      "date": "Aug 11, 2026",
+      "dateISO": "2026-08-11T08:00:00"
     },
     {
       "title": "US antitrust enforcers throw roadblocks up in CRH\u2019s Tennessee acquisition - The Currency",
@@ -251,6 +316,19 @@
       "value": "",
       "date": "Aug 07, 2026",
       "dateISO": "2026-08-07T15:53:00"
+    },
+    {
+      "title": "ROAD Q2 Deep Dive: Acquisition and Data Center Momentum Drives Guidance Upgrade - StockStory",
+      "summary": "ROAD Q2 Deep Dive: Acquisition and Data Center Momentum Drives Guidance Upgrade StockStory",
+      "url": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxPN2FJdDVYOFZwNFNMTl9XUFpPSEJobEM2VGRVaUpjNjdDX0NzUUhUc0JhbGtlZ0E1Nnhobl9pXzJKTURraUUzSnl3MGYzZ29OTkVzZzBnSkJKLUZrb1VhSHdfZXY3YkdCN19lRjFjY3pGOTRIN0E3SjFQUEtvc2VvZHRsTDVQYW9zaTEwbHlMMmJXdlMtTjhPc19QcmFhbzVVUWNkQVUwZjdUWGlfeU4zM3VjbUVVX3E5ekNTLVgxME1XQzMzc3Z5WkJvXzc0TklvUk9wYUEyZXBiUQ?oc=5",
+      "source": "StockStory",
+      "category": "Construction Partners",
+      "keywords": "Acquired",
+      "sector": "General",
+      "dealType": "Acquisition",
+      "value": "",
+      "date": "Aug 07, 2026",
+      "dateISO": "2026-08-07T07:00:00"
     },
     {
       "title": "Granite Construction (NYSE:GVA) Director Acquires $49,596.00 in Stock - MarketBeat",
@@ -1096,6 +1174,19 @@
       "value": "",
       "date": "Jul 29, 2026",
       "dateISO": "2026-07-29T14:10:23"
+    },
+    {
+      "title": "Titan America Q2 2026 Results: Revenue Up 9.6%, Keystone Acquisition Progress - News and Statistics - IndexBox",
+      "summary": "Titan America Q2 2026 Results: Revenue Up 9.6%, Keystone Acquisition Progress - News and Statistics IndexBox",
+      "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxPYVNpMTFXZkswNTh6WnFwY2lqR3ROWXpGcEs3cmg0ZGx0THpka0VfN2c3WTd5UnUzQmpIOVhYWTdQRlhJZXhaREpoc0VqMmduN2lGcklEclVVSWlZSUtzUzhxbnMxUDNGVkZUXzh5ZzJEbmpVMlBDQzBtUlFtcnVQazBYSE0tSlE?oc=5",
+      "source": "IndexBox",
+      "category": "Cement Industry",
+      "keywords": "Acquired",
+      "sector": "General",
+      "dealType": "Acquisition",
+      "value": "",
+      "date": "Jul 29, 2026",
+      "dateISO": "2026-07-29T09:11:00"
     },
     {
       "title": "Titan America reports higher revenue in 2Q26 on Keystone acquisition - cemnet.com",
@@ -2136,45 +2227,6 @@
       "value": "",
       "date": "Jul 13, 2026",
       "dateISO": "2026-07-13T17:00:00"
-    },
-    {
-      "title": "Chinese Cement Makers Enter Nigeria, Set to Rival Dangote, BUA With $1bn Lafarge Acquisition - Legit.ng",
-      "summary": "Chinese Cement Makers Enter Nigeria, Set to Rival Dangote, BUA With $1bn Lafarge Acquisition Legit.ng",
-      "url": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxNVEd6ZGhGV0E1dGFTWlZCT0Q4T3Mzd2NOT19JSktkOHJmdWRlYkstWUlnbmlKM1BVTFRLV1M2V3Z2VElyMVBNVzI1dWlybXJ6b1pLZ1FENkJPa2YycFVCczhQczNfVkJCREVHUC1zUGJ2di1VMXVUbjluY3RhbzJ6eGR0aDlGVzVIRjk4cWItRkxqemJsbzlZd3ZzMTNxVXkyVDlpM25ia3hHRFc4VUJ3SFVvVE1YRU1xOHpjODMwenRNNHJGSXQ4Z09HRW05T0RpTWp3?oc=5",
-      "source": "Legit.ng",
-      "category": "Cement Industry",
-      "keywords": "Acquired",
-      "sector": "Cement",
-      "dealType": "Acquisition",
-      "value": "",
-      "date": "Jul 13, 2026",
-      "dateISO": "2026-07-13T12:27:21"
-    },
-    {
-      "title": "\u200bHeidelberg Materials UK wins North Yorkshire highway maintenance deal - Motor Transport",
-      "summary": "\u200bHeidelberg Materials UK wins North Yorkshire highway maintenance deal Motor Transport",
-      "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxOcjhYWGYzVEFJeE91WmtfYmdzV0N6dnZ1NHFQc3NhdDI0WE41anNLOFg1emNCN2VIRFpMNVVCM0dLWFBHUVVUT1o5R2NJWDFzbzVOLUowS19OcnAyQktnODU2NG1xWk9wdnRGbF9KZzZJSU5kRzZ3ZHJhQ1o0NDZtZ0x0NWE4OHZtaU96UE02NEdueWlJcTNzNndRc1padFpQV1ItY29lNWRhVHp5TnpWbW9fM3hwbkJwaFdFLVBscURuT29r?oc=5",
-      "source": "Motor Transport",
-      "category": "Asphalt Industry",
-      "keywords": "",
-      "sector": "General",
-      "dealType": "Acquisition",
-      "value": "",
-      "date": "Jul 13, 2026",
-      "dateISO": "2026-07-13T11:05:41"
-    },
-    {
-      "title": "Ireland\u2019s CRH to Acquire Aerated Concrete Plants From BGV Group in Ukraine. - ubn.news",
-      "summary": "Ireland\u2019s CRH to Acquire Aerated Concrete Plants From BGV Group in Ukraine. ubn.news",
-      "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxQTHZOeTJOYUJyTmRkNm9OVXFoc1daS0xBX3pDS2c3TVJ1dW9wTEEwXzBlUEpXWFZSbm16SlNvVzNZaXZBblF1cDlGZ2lfYmhWZE41T1FBdGFtWkdBLWo2VkJoQWQ4WHVSUWRMVTQxZVE1WkZZald1UkdoUmlFeEI2S3pscHJwdS1hbHQwd0J6MmRyRmRjYkHSAZ4BQVVfeXFMUDlEMHVNQ0poNlE0TTMwNFpvcjZES1JFUzI0dEpLS19HSFZjWUNoMUlEWExHRTZCQUdSeVBLRWlWNGRCVFVFU2ZRMzY1THlKMzQtRVRaZDV3U2tIUF93RjZGNWU2dmphY1pWZzhDQURhZ3RPVnZxbU10TkdoLUFHaXpHRVU4M2FkNWsweWlHSXIyTV9ZZ3RXMVFWazQ1Unc?oc=5",
-      "source": "ubn.news",
-      "category": "CRH",
-      "keywords": "Acquired, To Acquire",
-      "sector": "Ready-Mix",
-      "dealType": "Acquisition",
-      "value": "",
-      "date": "Jul 13, 2026",
-      "dateISO": "2026-07-13T00:47:39"
     }
   ]
 }
