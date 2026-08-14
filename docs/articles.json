@@ -1,10 +1,88 @@
 {
-  "fetchedAt": "2026-08-13T14:19:57.238939",
-  "totalArticles": 162,
-  "newToday": 25,
+  "fetchedAt": "2026-08-14T14:14:01.027637",
+  "totalArticles": 165,
+  "newToday": 31,
   "duplicatesRemoved": 20,
   "archiveDays": 30,
   "articles": [
+    {
+      "title": "Global Net Lease Completes $535M Acquisition of Motiv Industrial - CommercialSearch",
+      "summary": "Global Net Lease Completes $535M Acquisition of Motiv Industrial CommercialSearch",
+      "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxOTHJucFN4M2JJSzVDeFpPQVRqSGJ5SjhKQjIwXzBMVS10RDZuemxGYkdhU3hmTnBTUklJYnRnV1Vvbmh2VHE1LXdSeWdnRGdyaDJDY0JONEYtczJxRFdJOW9RRDFoUTk5RDJoQ241Q0ZubWp4N0hwUGk4Wmo5UEFjWmRBbHU3b3RoNTdNOVJqMzFoblVPdHRkLU92aUtnNGRuT0lZdg?oc=5",
+      "source": "CommercialSearch",
+      "category": "Precast Industry",
+      "keywords": "Acquired",
+      "sector": "General",
+      "dealType": "Acquisition",
+      "value": "$535M",
+      "date": "Aug 14, 2026",
+      "dateISO": "2026-08-14T13:23:49"
+    },
+    {
+      "title": "Major Financial Institution Structures Top Infrastructure and Cement Deals - Mjengo Hub",
+      "summary": "Major Financial Institution Structures Top Infrastructure and Cement Deals Mjengo Hub",
+      "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxQcGFramJtVm12ZFZJYTQ2UG5kSnNzdFdzR3pUejIzQ2FGYkhnSUQwNmdvbzFUUkkxYzF4dGRoQTFQc3lKclZWemFQTE9qWU1JTFJ5dkRUMTFhMi10Rm1zQ0VZMEc1ZzVMUXRwQVU3WWttNEprODRDWi1HdG9pWnNXd1E3NEp6WUFsU0tfcDc2NHNGRllkS3lETDBnQTVfRlhqUUhrLXo5UVlHTlZrVzk1LU53?oc=5",
+      "source": "Mjengo Hub",
+      "category": "Cement Industry",
+      "keywords": "",
+      "sector": "Cement",
+      "dealType": "Acquisition",
+      "value": "",
+      "date": "Aug 14, 2026",
+      "dateISO": "2026-08-14T08:48:50"
+    },
+    {
+      "title": "JLL arranges $236M acquisition financing for 20-property Midwest industrial portfolio - JLL",
+      "summary": "JLL arranges $236M acquisition financing for 20-property Midwest industrial portfolio JLL",
+      "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxPa2hsZTRMTnRRWHl4VDd1ZjlGRFgtNEgwVmE0V2NOMjhQTXRRcHA1SW9XOTJuNm5rNGhGMUh0THYwZkUwMVd6MlFrWFI5Y0hqRGs0ZVM2NTNCQUJMZ1YzblpnVHpyVDdSNWV6dTdpWG50SzZtUEx3MDIwYWVwYnk3TVJCdzk0djhOUTRxeTVmYXFiZmc?oc=5",
+      "source": "JLL",
+      "category": "Precast Industry",
+      "keywords": "Acquired",
+      "sector": "General",
+      "dealType": "Acquisition",
+      "value": "$236M",
+      "date": "Aug 13, 2026",
+      "dateISO": "2026-08-13T21:53:10"
+    },
+    {
+      "title": "Amrize Ltd CTO Roald Brouwer Purchases 1,500 Shares in August 2026 - Kalkine Media",
+      "summary": "Amrize Ltd CTO Roald Brouwer Purchases 1,500 Shares in August 2026 Kalkine Media",
+      "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxQQzQyUmgtZm40dEFISWNLNzJJS3pYX19XdkMxcDZ4RnV4ZDRMQ2dIdldheXExLTg1SW1XbldKWTlPT0lMcVU4Y0Nia0J6Q1J3MVktZF9EOVpxRFYzYUFQVVFzTVhtZkhnUVFMSDk1NkYyMFdRdm5NN09Ud29FS0U0ZldjNFc1WUNhc2Y1LW9NVEtjQ1RTM1l4NlFENzN6dmR5N0RWVDJRdkFTWEtkbXdXNXJB?oc=5",
+      "source": "Kalkine Media",
+      "category": "Amrize",
+      "keywords": "Purchase",
+      "sector": "General",
+      "dealType": "Acquisition",
+      "value": "",
+      "date": "Aug 13, 2026",
+      "dateISO": "2026-08-13T16:53:03"
+    },
+    {
+      "title": "Amrize Ltd (AMRZ) Chief People Officer purchases 5,260 shares in open-market buy - Stock Titan",
+      "summary": "Amrize Ltd (AMRZ) Chief People Officer purchases 5,260 shares in open-market buy Stock Titan",
+      "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxOUGJ5ZUE2TDFJYWlQYlFxSTFsTFhfX1VxcDFRTW5SRTJRdWFXbVFmenN6b1p4MGM5WVNRdlVkX0xIT05RZEtRSGF0NlVIWHRYRWVCSV83bHB2MVFiZDUyS0VjbHVPZzZNSGxuNWpqNk1rbWl3SzFaUS1SZ3pxODFoYnVlUTA5MTdCUGY5eHhDUmZBVVZnNVZRaFhPMTlBcW9yTUZBZ0Zvbw?oc=5",
+      "source": "Stock Titan",
+      "category": "Amrize",
+      "keywords": "Purchase",
+      "sector": "General",
+      "dealType": "Acquisition",
+      "value": "",
+      "date": "Aug 13, 2026",
+      "dateISO": "2026-08-13T15:47:25"
+    },
+    {
+      "title": "Martin Marietta stock dips after pricing $5.5 billion notes for Lhoist deal - AD HOC NEWS",
+      "summary": "Martin Marietta stock dips after pricing $5.5 billion notes for Lhoist deal AD HOC NEWS",
+      "url": "https://news.google.com/rss/articles/CBMizAFBVV95cUxPVXFPYWtkQS1YWmFkUGdWMk1ma3daUmFnZ2JLSXNGVWxPMlVCejdqUDlwbzFsR250ZVZwbDZVRVN2MDFJVXZZV0NWM3VIanJELV9Ra0pmMTlZY1FjLU4zSnJJbUNObmlPdmZpM0pWdnZ6R1R3NVE0bmVtRWdnMDljaVA5QzRtUTFHVjN4OGJpOXB0SHE5TGRiLU40V0JUWFhnNGF6bFhIZVNzaG1iUjhtMXBSQlNVcTMwS0N6c29ISHdZMi11eUk0X0dQV3Y?oc=5",
+      "source": "AD HOC NEWS",
+      "category": "Aggregates Industry",
+      "keywords": "",
+      "sector": "General",
+      "dealType": "Acquisition",
+      "value": "$5.50B",
+      "date": "Aug 13, 2026",
+      "dateISO": "2026-08-13T11:01:52"
+    },
     {
       "title": "Shalimar Paints Surges 5% To Hit Upper Circuit After Board Approves Reverse Merger Infra.Market - NDTV Profit",
       "summary": "Shalimar Paints Surges 5% To Hit Upper Circuit After Board Approves Reverse Merger Infra.Market NDTV Profit",
@@ -69,6 +147,19 @@
       "value": "",
       "date": "Aug 12, 2026",
       "dateISO": "2026-08-12T15:16:42"
+    },
+    {
+      "title": "UltraTech Cement To Buy 26% In Solaris Horizon, Deal To Support Green Energy Needs - Free Press Journal",
+      "summary": "UltraTech Cement To Buy 26% In Solaris Horizon, Deal To Support Green Energy Needs Free Press Journal",
+      "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxOd25SNC1pM3g3dHNNaVJHUUdDWGpvcUNOb0stZjlkeXo0dHpPT25KdTg1T2ZtbjN0eUJFenN2WDk5RGVUeldhTHptaDR5NHAzOGhFUE5UU2NjaThRQkNlWFRCWWp4ckE2ekNraWxfc2dvcEozNTNZWjFUaEp5YmRBYW90S0lkTlhRZ1FoNm80MG10Z3RzVFU4WkNRa3BidE5NMkg5SHJ6TTJydDk0MlBsWTU2dGJTNWR0Slo1SkthTDJXR3PSAcMBQVVfeXFMTnduUjQtaTN4N3RzTWlSR1FHQ1hqb3FDTm9LLWY5ZHl6NHR6T09uSnU4NU9mbW4zdHlCRXpzdlg5OURlVHpXYUx6bWg0eTRwMzhoRVBOVFNjY2k4UUJDZVhUQllqeHJBNnpDa2lsX3Nnb3BKMzUzWVoxVGhKeWJkQWFvdEtJZE5YUWdRaDZvNDBtdGd0c1RVOFpDUWtwYnROTTJIOUhyek0ycnQ5NDJQbFk1NnRiUzVkdEpaNUpLYUwyV0dz?oc=5",
+      "source": "Free Press Journal",
+      "category": "Cement Industry",
+      "keywords": "",
+      "sector": "Cement",
+      "dealType": "Acquisition",
+      "value": "",
+      "date": "Aug 12, 2026",
+      "dateISO": "2026-08-12T13:36:13"
     },
     {
       "title": "UltraTech Cement: Acquires 26% Stake in Solaris Horizon Energy - InvestyWise",
@@ -147,6 +238,19 @@
       "value": "",
       "date": "Aug 11, 2026",
       "dateISO": "2026-08-11T08:00:00"
+    },
+    {
+      "title": "Amrize Ltd (AMRZ) supply chain chief purchases 3,568 Ordinary Shares - Stock Titan",
+      "summary": "Amrize Ltd (AMRZ) supply chain chief purchases 3,568 Ordinary Shares Stock Titan",
+      "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxOd2paWlJ6YXJsWE9TZFdidTIzNHpLbWpVWmdjc1lWcVZaaXBZM0NESUdTNUh4X3M2ZEo3YUYtYUxhdzQyMDBxYTVndGNkNWRiWmY1MzFNQjNhY2l2eDhpNks5dlJrMXd1cGpyR2dUOXNxOVZGLWFIRlhZSFlHa3MwUWIzTE1WUWFjeW96dXBJRDAzel9xTEw5ZlNuQmVrbUt2cXJjaV80TQ?oc=5",
+      "source": "Stock Titan",
+      "category": "Amrize",
+      "keywords": "Purchase",
+      "sector": "General",
+      "dealType": "Acquisition",
+      "value": "",
+      "date": "Aug 11, 2026",
+      "dateISO": "2026-08-11T07:00:00"
     },
     {
       "title": "US antitrust enforcers throw roadblocks up in CRH\u2019s Tennessee acquisition - The Currency",
@@ -407,6 +511,19 @@
       "value": "",
       "date": "Aug 07, 2026",
       "dateISO": "2026-08-07T00:21:35"
+    },
+    {
+      "title": "Granite Construction (NYSE: GVA) director purchases 400 shares in open-market buy - Stock Titan",
+      "summary": "Granite Construction (NYSE: GVA) director purchases 400 shares in open-market buy Stock Titan",
+      "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxNOFlUQ3dJa3FoMFBKZWlkMmp3dDJhSkh0aHFLbjljU3E4VDJ0RWcyXzV4NzNSLWozcGpVTWVKX2lTUlp0dVVVMzFIVGloRTFWdEJ3aS05MmJWbmtsSW9yMEN2S1VWNjVIcU56TXZoVU9MZUxVZlpGTTB5MjJ6SzZEbG1aTnpUUFU4QXNtclZVMGFlQTJjb0FKUHlhaUV6Q1gxbFJkSDJ2YXhtTG1GOHh5cHBkRm5GYnQ3?oc=5",
+      "source": "Stock Titan",
+      "category": "Granite Construction",
+      "keywords": "Purchase",
+      "sector": "General",
+      "dealType": "Acquisition",
+      "value": "",
+      "date": "Aug 06, 2026",
+      "dateISO": "2026-08-06T20:34:27"
     },
     {
       "title": "Arcosa posts growth for Q2, provides update on CRH deal - Construction & Demolition Recycling",
@@ -851,17 +968,17 @@
       "dateISO": "2026-08-03T03:28:44"
     },
     {
-      "title": "First Graphene expands global commercial reach in June quarter with US acquisitions and landmark China cement agreement - Proactive Investors",
-      "summary": "First Graphene expands global commercial reach in June quarter with US acquisitions and landmark China cement agreement Proactive Investors",
-      "url": "https://news.google.com/rss/articles/CBMinAJBVV95cUxPY0o3SWNzMTloanYtVUExWFE3RzdPQ2k0VlZaZmxjLXIwQ1hjNEg5aVlCeFJqdHhaR0Vpb3JydlIzVnNZT21qeGlfNEY1QVEwcUpXOHJvVGhIZHRaZFFKcWJkOS1Cb1UxSHNMUmxRNVRFcGJoS2RGWm4xRVJwZ2tCU29OOWYtdHpBNElibnB1WlR0M2xCWFBES2l3elhVVDhrTExYUDJsSFNvd2MtRVBSa09tdjJVUmYzeU9UaGlGTVdKRGF1TmhWdWVKNnJUU2JNa09BaGNWbTdCYUxpLWJtVnlSdUF6eHBZMGo0U2NSU2doMG11amtySE9HQ2thc0ZLd1RMdElWckhVMmZFRzdyRWQ3OGFaNFZ0eDQyMA?oc=5",
-      "source": "Proactive Investors",
-      "category": "Precast Industry",
-      "keywords": "Acquired, Investment",
+      "title": "First Graphene expands global commercial reach in June quarter with US acquisitions and landmark China cement agreement - Proactive financial news",
+      "summary": "First Graphene expands global commercial reach in June quarter with US acquisitions and landmark China cement agreement Proactive financial news",
+      "url": "https://news.google.com/rss/articles/CBMimgJBVV95cUxNa2JWT2lqQ3M5VmN2Si1sTGNhdEwwc0lhZGM1a1V1WEs0ZF9mWEVMTlVFTFl2RTQyQ2tqcUxpcTA5SGVLeTVlNGR2U2gxakZ6S2NZbGxoQmtxd2NiS0l0RUhkRkNwVUNSN2tvcnhWN0prcE1aeDlUTnNkaTNsZ0FvVHctU0lTNkRqd3UxNTE2Yk4wOHBqQVRpVWRjYlFmUzJLMHpWOE9ZcG82enFERFRCa0UxRkdUajNrdlRwNG01ZktLYi1OQ05jdEl2SUVIck9BblJyTDZCNlZUTC1zNGJrMDczNEtkM28zX3lsS3lNX3RMZEhrOFM2ckp3dGdzOEpHYnRQMmVfZDVwdE05SENCNGZOT0dONWU5Znc?oc=5",
+      "source": "Proactive financial news",
+      "category": "Cement Industry",
+      "keywords": "Acquired",
       "sector": "Cement",
       "dealType": "Acquisition",
       "value": "",
       "date": "Aug 03, 2026",
-      "dateISO": "2026-08-03T01:57:00"
+      "dateISO": "2026-08-03T02:22:44"
     },
     {
       "title": "Holcim sold to China firm as it exits PH - Inquirer.net",
@@ -927,6 +1044,19 @@
       "value": "$807M",
       "date": "Aug 02, 2026",
       "dateISO": "2026-08-02T11:49:19"
+    },
+    {
+      "title": "Granite Construction Incorporated $GVA Shares Purchased by Sei Investments Co. - MarketBeat",
+      "summary": "Granite Construction Incorporated $GVA Shares Purchased by Sei Investments Co. MarketBeat",
+      "url": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxQSVhqZlBpSkpEbkFVTmdyUGJBWkw5SUNCYzlfSm82Z2dRdkVsRy05ajBDWk5KX2swTXdGdmVBX015Vlk1RjBSWnhDQmQzS0ltRkJHSmJIWElhOEczTnYyTldqT25vdjAzdEU4TmtIZDJUU2l1QkN3Q0JfTjRGQ0p5bC1jZUFKV3ZlS2h1bWZxdnhWYmRwZDFyTVBmUUFlSFFDY3VzZTIzTnMxSW4xQjhHUzhvUHVQUFZqOWRsbldXRFFaM1M5WEtlVVA2MjgwY3dHaGVZ?oc=5",
+      "source": "MarketBeat",
+      "category": "Granite Construction",
+      "keywords": "Purchase, Investment",
+      "sector": "General",
+      "dealType": "Investment",
+      "value": "",
+      "date": "Aug 02, 2026",
+      "dateISO": "2026-08-02T09:05:30"
     },
     {
       "title": "Eagle Materials Inc $EXP Shares Purchased by Segall Bryant & Hamill LLC - MarketBeat",
@@ -1011,6 +1141,19 @@
       "summary": "ACCC Approves Heidelberg's Acquisition of Maas Group's Construction Materials Business Subject to Divestment of Three Concrete Plants and a Quarry kalkine.com.au",
       "url": "https://news.google.com/rss/articles/CBMilAJBVV95cUxNNk1pbE5LU1l3UVRySzVGZ2dSZkFfdmoxVW5WTjE1ZkRUUHc5V3RCaUxMT0d2UG5makxFTnRzcmlNNTY1SHZub0kxWVRyeTNJY3hyMlZEWV9iZVFsd1dFcl9ESHJPRzBqTUp0TlFIYTNDQ1Q4WFRKdDV5dHl6dzdKbDZzVDQtMkstWFYwejJsM3dNc0RwTGpmMS1pWlNJNDdNYkhjT1AwOHV5U0RFM0FJazZPd0U0MUpfdVBjTC00TGdCMzRPSThheVdZQXVBZHFQb3FfREh4dXBCMGZ1TFlHMGdUY1o1Y2twZzNPaG5GSGpHcl9HZGxMOFRsbTZIWFFqcmtQYjl6TjBRSTlYX1ZKMnFIV2I?oc=5",
       "source": "kalkine.com.au",
+      "category": "Aggregates Industry",
+      "keywords": "Acquired, Divest",
+      "sector": "Multiple",
+      "dealType": "Divestiture",
+      "value": "",
+      "date": "Jul 31, 2026",
+      "dateISO": "2026-07-31T06:01:14"
+    },
+    {
+      "title": "ACCC Grants Conditional Approval for Heidelberg's Acquisition of Maas Group's Construction Materials Unit, Mandates Divestment of Three Concrete Plants and a Quarry - Kalkine Media",
+      "summary": "ACCC Grants Conditional Approval for Heidelberg's Acquisition of Maas Group's Construction Materials Unit, Mandates Divestment of Three Concrete Plants and a Quarry Kalkine Media",
+      "url": "https://news.google.com/rss/articles/CBMisgJBVV95cUxNTHJ4SU80UERXWjcyS2ZZQ2pzb2Vud2lzanlZU191Q1pnNTROYk5ZZ2Z5WDlKZ1dhQ2k1eXk4YkJ2OTdpN3FTZE9ESTNqNmw3c0J2VlR1NFhLcGVfNTNFcjg5djFjWVotNlZJWUNTZzNBa2dtYk9UZDBRaTF6T0g3ei1oTE9MOW12YzF0SW5tS0JJMHF5TnpOMWNjbHM0bV9aOGxwQVdmSjV2Ykd0cU5ZU1lOTk1mU0JxTmlPQ0tWVDBaN2V4MC1DNTB3VldqUUR0NHhHYkpWenlyQkt3T21LSGJEbmZWa0ViWHE0M0ZJM0tzN3BFQkwtLXNVSjFCbmF6aVl2dXA5VlBjZkVMbEp4WmxKMzE2S25LUkpZMVhFMzR1emNPSG5uZDhDcnlYS1dGV0E?oc=5",
+      "source": "Kalkine Media",
       "category": "Aggregates Industry",
       "keywords": "Acquired, Divest",
       "sector": "Multiple",
@@ -2006,110 +2149,6 @@
       "value": "",
       "date": "Jul 15, 2026",
       "dateISO": "2026-07-15T16:31:44"
-    },
-    {
-      "title": "HBM Nigeria Says Rebranding Marks New Phase of Growth Following Huaxin Acquisition - Brand Communicator",
-      "summary": "HBM Nigeria Says Rebranding Marks New Phase of Growth Following Huaxin Acquisition Brand Communicator",
-      "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxOYWVVWHc0WV95aVpnRTlVYnh4cTBCMlQ3VUpHSHd5eFdSLTk4ZVdha0d0X1NpcTZlcTBFblNFN0JOXzNKdUxCUURYbTFNbHZPeERJRDRLOXZaUU1uZ2RwaFVyZ1NOUzRhekhfTXJuX3QzUElhb29Zempvc3FBLTk0Y0VaZXJpZlpPZWNKMEJ4bGJERzBzOFdBUVptOExHbjNUY18ycl9YWDVTeHEzd1NEVWNXaDA?oc=5",
-      "source": "Brand Communicator",
-      "category": "Aggregates Industry",
-      "keywords": "Acquired",
-      "sector": "General",
-      "dealType": "Acquisition",
-      "value": "",
-      "date": "Jul 15, 2026",
-      "dateISO": "2026-07-15T14:00:24"
-    },
-    {
-      "title": "Francisco Partners closes in on $1.3bn Command Alkon buyout as Thoma Bravo eyes exit - t.co",
-      "summary": "Francisco Partners closes in on $1.3bn Command Alkon buyout as Thoma Bravo eyes exit t.co",
-      "url": "https://news.google.com/rss/articles/CBMiO0FVX3lxTFBIZWJGSjlzMUJpdVR2X05wOGtKQlNjQS1Kb2RWUUpQaUxhaU0wQ1Y5UXhnUkUzN0pBREo4?oc=5",
-      "source": "t.co",
-      "category": "Aggregates Industry",
-      "keywords": "Buyout",
-      "sector": "General",
-      "dealType": "Acquisition",
-      "value": "",
-      "date": "Jul 15, 2026",
-      "dateISO": "2026-07-15T13:45:17"
-    },
-    {
-      "title": "CIF warns cement merger could harm construction ...by raising prices, undermining competition and impacting value chain - neweralive.na",
-      "summary": "CIF warns cement merger could harm construction ...by raising prices, undermining competition and impacting value chain neweralive.na",
-      "url": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxQTTNrRkJHbk5FaUF3VzJCVGNqMXNHcDU3ZUpScjFfaXdpbVNuOURwa0MyendqNWN4WmN2TTlKUkVSWEt0UEhjWTl2eHNmRkJfRERQZ3NJbFR3SUNpRzRrZV9LenBNLUZjQXJDa1hHdURkOVkzR2FnUmVEajFwRVNkRjdqcy14djY3bTBKU25qR210SW9MV0lIUzZ4OVBuVGJDcHh6bTRBbUJuTmYycGxkQTRTVGVXLThpQ2tWOHB1eFV4am8tQ01IblZGbW80Z0VPZHY0Sw?oc=5",
-      "source": "neweralive.na",
-      "category": "Cement Industry",
-      "keywords": "Merger",
-      "sector": "Cement",
-      "dealType": "Merger",
-      "value": "",
-      "date": "Jul 15, 2026",
-      "dateISO": "2026-07-15T11:46:52"
-    },
-    {
-      "title": "Construction Partners (ROAD) Could Be 35% Undervalued Following The Ellsworth Acquisition - Sahm",
-      "summary": "Construction Partners (ROAD) Could Be 35% Undervalued Following The Ellsworth Acquisition Sahm",
-      "url": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxNX2JCWmxKYzNGQmxncFROSk1OdU5NSGF6ZjFLck11c3Jjd1hXcXA3VmlpVjdwQlJFTU5NTVVXdEowbzVmVnI0VWFhZ2RsTXRiMXM0WnJfcjhXbjBRSlJvVUg3RlFpRDVSM1VwRVZJcnJqdWRnNjlUekJYM05LbVNqel9yYlV4WUlEUzBxUFRTUjZYSGticTlrbmxsMXFHbUpKZmFoUDZ1OXpxdUtQZ012M2dfZDJWaVdTT3FVZTNlbWloSy1kMUszOHlmalB1VzdwcDNtZQ?oc=5",
-      "source": "Sahm",
-      "category": "Asphalt Industry",
-      "keywords": "Acquired",
-      "sector": "General",
-      "dealType": "Acquisition",
-      "value": "",
-      "date": "Jul 15, 2026",
-      "dateISO": "2026-07-15T07:00:00"
-    },
-    {
-      "title": "Aditya Birla Group's biggest acquisitions: RCB, Shell, India Cements, Sabyasachi; All you need to know - storyboard18.com",
-      "summary": "Aditya Birla Group's biggest acquisitions: RCB, Shell, India Cements, Sabyasachi; All you need to know storyboard18.com",
-      "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxQSklGQ2lOLUFERVlQbDN0NVk3QlpodlVhRTdaTmU3Uk5SeE1CSjduZTNOMl96SmtnOHBQcjJ0WkRFT2lKVmQ3RnpXOXVYUnJJVnYyY3hGanRLeVlxaXVaYXZTTGNRWldLcy1jZF96eFJUdE8tTkpqQXNqZG03dm1pWGJlcGdGeThfc1pGYXphVkc3OVBFcXB1RWpJUXFHdUdqbDZHbHJFNGxpSjFvTWY4NzNvNVpUZ0JPcDZRTVF3dEhqZ9IBxwFBVV95cUxNY0NoNFRpLVF4TV82QzNCRncyX2Y1MDBXeTUxQktudXFpdG9jQ2dUNEU2aUFZblBNQ1h5THZMUFplNTUzWkVnSk54VE5Kbm55R0xDYlVUZXdrZEN0WWhTN0tJN3ZxVDhUU3FRc3FiSXJxWkE1UmhMV3BhYnFzZXZaNnRJcXJBcVFIZmhkTG5Lamx3eThvbVhxR09PT1FLQnZmNl9QM0U3Qy0xM1AyWl9Sd0ZRcTNvQURKdElKcjgxZHpJU1NDYmNB?oc=5",
-      "source": "storyboard18.com",
-      "category": "Cement Industry",
-      "keywords": "Acquired",
-      "sector": "Cement",
-      "dealType": "Acquisition",
-      "value": "",
-      "date": "Jul 15, 2026",
-      "dateISO": "2026-07-15T07:00:00"
-    },
-    {
-      "title": "Construction Partners Expands Oklahoma Footprint with Ellsworth Acquisition - The Globe and Mail",
-      "summary": "Construction Partners Expands Oklahoma Footprint with Ellsworth Acquisition The Globe and Mail",
-      "url": "https://news.google.com/rss/articles/CBMi8gFBVV95cUxPSFZOVmE4MjdQR0hHREYzYzRxdWNmTW1sUG1SdkwxQm5SRFJ0d3lKcngwMms1Q0tLd0R4Nko5bWFfSEU2QlFpY3ZDNTNqUldKUU1mNGI3TWJjUUVpaG84NW5Mb1BCLVZ0Tk1sdTJKTXlnMlB1QmdMMHV2ajdjOUppUFVXckprb3NlQ0c5ejZEWWZGbkN4Y29tX2Q3MTJoN2gwRmdlT3ZQcEpVMkVwY3JsY3pDU1hzU3p3aUpJS1lBalptanNVV3hqUWF0aXVybzJOajNVTnFNaE5uYWZveVJxYjlMbFhiVU1Ja1ZRSWs4WmFFUQ?oc=5",
-      "source": "The Globe and Mail",
-      "category": "Asphalt Industry",
-      "keywords": "Acquired",
-      "sector": "General",
-      "dealType": "Acquisition",
-      "value": "",
-      "date": "Jul 14, 2026",
-      "dateISO": "2026-07-14T21:06:00"
-    },
-    {
-      "title": "Francisco nears $1.3 billion deal for Hilliard-based, Bravo-backed construction software maker - Crain's Cleveland",
-      "summary": "Francisco nears $1.3 billion deal for Hilliard-based, Bravo-backed construction software maker Crain's Cleveland",
-      "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxQX0l6UzB2SXR3dV90RGk1NmVEM25iWEo0RTZQc1duX0FKbVJtOUlJZVliaHNPWXFCUm4xbWQ1bmhDWFpObXQwd09TRlBIUlM4V09fS0FuaVk3TzNtWGpJN29YSUw1RHZZaHh0VWZ4b1pRWUM3OU5WVkhFZzdPaHoyQmRSTDdWSWs?oc=5",
-      "source": "Crain's Cleveland",
-      "category": "Aggregates Industry",
-      "keywords": "",
-      "sector": "General",
-      "dealType": "Acquisition",
-      "value": "$1.30B",
-      "date": "Jul 14, 2026",
-      "dateISO": "2026-07-14T21:02:00"
-    },
-    {
-      "title": "White Cap to Acquire Iowa-Based Gierke Robinson - Modern Distribution Management",
-      "summary": "White Cap to Acquire Iowa-Based Gierke Robinson Modern Distribution Management",
-      "url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxPRy1abE9KNEh0cWtTRGI1QjFZdzJnTE1DemE5LUYzY2xVOEpEb05GU05VcTl2TkxzWGRDNjV0YWgyX3Y0VUxKX3ZnMFNYRXNsZXU4S2htZ1p6cW9abEY5OGQwWHFiX2loVFkyRzg1cTJENnE2T1FjdDFBcENfblB2ZjVNdVRiSTRsejdrYjZoVWl5RnJsSzZ4X0ZRNVVBRFRhV1JyYTBsNTZxcnFCb0V0aUszYzk4eWJqODN4c3JtRUJpLUo2TmlHUQ?oc=5",
-      "source": "Modern Distribution Management",
-      "category": "Paving Industry",
-      "keywords": "Acquired, To Acquire",
-      "sector": "General",
-      "dealType": "Acquisition",
-      "value": "",
-      "date": "Jul 14, 2026",
-      "dateISO": "2026-07-14T14:50:10"
     }
   ]
 }
