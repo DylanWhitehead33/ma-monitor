@@ -1,10 +1,36 @@
 {
-  "fetchedAt": "2026-08-14T14:14:01.027637",
-  "totalArticles": 165,
-  "newToday": 31,
-  "duplicatesRemoved": 20,
+  "fetchedAt": "2026-08-15T13:26:36.235078",
+  "totalArticles": 163,
+  "newToday": 20,
+  "duplicatesRemoved": 16,
   "archiveDays": 30,
   "articles": [
+    {
+      "title": "Martin Marietta Materials issues $5.5 billion in senior notes for Lhoist acquisition - Investing.com",
+      "summary": "Martin Marietta Materials issues $5.5 billion in senior notes for Lhoist acquisition Investing.com",
+      "url": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxQOGxkN1B1VG1mV3FSeW1scGViVDRENDdzalhiRVc1SVVKZEF3TlUzZVNyblEteDI5UzhjQkVvYjkxRGc3MGhLeFJob1FZU1l0clJZSEp6b3lidmRkemhqM2xfOWVUU0tQWFdhdmdWUWZDR1c1U05uU24yeUwzRm1yMExha2pBTHVqS3JpQmdScEpGbHlJcFNHd0daci1ZTHM5Qk5TX0RqMlRUSjV4UG5JS1R3dU1Zc1Zsal8zYXEtMS1RYTFUV3VzaU1aWURXWEpGVU9wM21wT1FtLXlFcnU0?oc=5",
+      "source": "Investing.com",
+      "category": "Martin Marietta",
+      "keywords": "Acquired, Investment",
+      "sector": "General",
+      "dealType": "Investment",
+      "value": "$5.50B",
+      "date": "Aug 15, 2026",
+      "dateISO": "2026-08-15T01:46:00"
+    },
+    {
+      "title": "Martin Marietta Issues Notes to Finance Lhoist Acquisition - TipRanks",
+      "summary": "Martin Marietta Issues Notes to Finance Lhoist Acquisition TipRanks",
+      "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxPNlViVmpORGxaT0xQa1U3WF9URjhCYlR0NHF0SXFIQkoxOE9ibzV4ak1zMFpxdzVNeGZPNkdibXNjbWE3Q2dEN1doSlUtTkxYbjNqVUswcERFcFU4cnlaN2J2bUVHaDJSY0gzTWJWUEhaVXdQekRuTTRiczNtSDFMT3cySFpYV3lwMDRXNWdraUliLUtPQXlwVHJWdUFPa09PVmFwclJWNHM1N2tFMEZB?oc=5",
+      "source": "TipRanks",
+      "category": "Martin Marietta",
+      "keywords": "Acquired",
+      "sector": "General",
+      "dealType": "Acquisition",
+      "value": "",
+      "date": "Aug 14, 2026",
+      "dateISO": "2026-08-14T20:59:42"
+    },
     {
       "title": "Global Net Lease Completes $535M Acquisition of Motiv Industrial - CommercialSearch",
       "summary": "Global Net Lease Completes $535M Acquisition of Motiv Industrial CommercialSearch",
@@ -15,6 +41,19 @@
       "sector": "General",
       "dealType": "Acquisition",
       "value": "$535M",
+      "date": "Aug 14, 2026",
+      "dateISO": "2026-08-14T13:23:49"
+    },
+    {
+      "title": "Global Net Lease Closes Modiv Acquisition - CommercialSearch",
+      "summary": "Global Net Lease Closes Modiv Acquisition CommercialSearch",
+      "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxQV2YxVV9wS2UwRkFQY1hxZ2V6ZC1KMlVEcmJjd2FmSUJwXzJDM2ZRLWlsM01ZbFNHdXBGeW5LcWZvd3lWTnBrQnh5SS1hcHY1MXZvMEg1Y0YxekVfaFU2VlFRNmJTNXpBRXdPRDBNTlE4R3gwNU11eVVYeXNkX0xRZHZrZGN6cFk?oc=5",
+      "source": "CommercialSearch",
+      "category": "Precast Industry",
+      "keywords": "Acquired",
+      "sector": "General",
+      "dealType": "Acquisition",
+      "value": "",
       "date": "Aug 14, 2026",
       "dateISO": "2026-08-14T13:23:49"
     },
@@ -1410,6 +1449,19 @@
       "dateISO": "2026-07-29T07:25:00"
     },
     {
+      "title": "NCLT orders ACC, Ambuja Cements to hold merger meetings on Sep 29 - scanx.trade",
+      "summary": "NCLT orders ACC, Ambuja Cements to hold merger meetings on Sep 29 scanx.trade",
+      "url": "https://news.google.com/rss/articles/CBMi9gFBVV95cUxPZTh4Vnh3UnNQNVBhWlluekw3elRPaWZwMHZ6emlkOHFxWXNTMkdtR3lZSF9WdEduZXNDTjhDckdqeGpZQktWTmRxSHVaOWF1YkR2dDk1MHhBOWJ4eHd1bUg0SjRMQ0l1WmxYTFl0djZjVG5PX3Q0UjBxYWl6SjBwdlpjS29QV0t4YlVGZ1QyNG1iNVNlZ0p6ZVM2TzRCZE9EZHBHWTMzRHUyOWMwSVA2Mm1xZ3RyTGVYaWhyTlJ3QmhMSEpsN091R2plZWVvbTZlMm1qTzNKRU5sNTFjaURWSjdYcGV3ZE9XVjVCMTZ3ekV1Vk9ZWXc?oc=5",
+      "source": "scanx.trade",
+      "category": "Cement Industry",
+      "keywords": "Merger",
+      "sector": "Cement",
+      "dealType": "Merger",
+      "value": "",
+      "date": "Jul 29, 2026",
+      "dateISO": "2026-07-29T07:00:00"
+    },
+    {
       "title": "Crh Plc $CRH Shares Acquired by PNC Financial Services Group Inc. - MarketBeat",
       "summary": "Crh Plc $CRH Shares Acquired by PNC Financial Services Group Inc. MarketBeat",
       "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxPOVFqeDhVeWZSMkMzNHBiQzU0LU5TX2o3cTRRbFBqS19nc01ISE05QlpPMWVlbUFQaDh6UENjQWh6ampIeU80U0pKRk5VSmE0elowSDlfU3Y0eEpmNTdJaGN6eWZLNl9CdUpubzBVbWJ2cWctTUlaZWQ2VWVBaDJackt0aXI0MGN3Q3F2dUxNWlBwMUdtb3pKUHFqWm05Vks3cmliQjV0ZmpxZ3hsYjdJRURrWUllSVNRNnVOLS1DSWllUQ?oc=5",
@@ -2071,84 +2123,6 @@
       "value": "",
       "date": "Jul 16, 2026",
       "dateISO": "2026-07-16T13:54:00"
-    },
-    {
-      "title": "HCLTech Acquires Guardian India GCC for $10.5M, Signs 7-Year AI Modernization Deal - scanx.trade",
-      "summary": "HCLTech Acquires Guardian India GCC for $10.5M, Signs 7-Year AI Modernization Deal scanx.trade",
-      "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxQZnJXU3pfYVg4cDFXalB6QW9UZUxTUW5CRHNMLTZMMGJQblJhdkRBQjI1SXBuSkk5RE1CVmlfUU5UZ0VYZm1jX2JucUd5TzkzYml6c3lCTllHclFYR21sLU1rbzRUYzVGZGdiNWkyNGM5ZTRBOV9oemFuNFpBVkwwUk1ydmYtWGx5b3RVenhjY3FiQ2VuN2ZuZE5ZbThfYUhGbGRRNHVONDNObmJuSDJ1RGNQRmk?oc=5",
-      "source": "scanx.trade",
-      "category": "GCC Cement",
-      "keywords": "Acquired",
-      "sector": "General",
-      "dealType": "Acquisition",
-      "value": "$10M",
-      "date": "Jul 16, 2026",
-      "dateISO": "2026-07-16T07:00:00"
-    },
-    {
-      "title": "Martin Marietta (NYSE: MLM) arranges $1.5B term loan for Lhoist deal - Stock Titan",
-      "summary": "Martin Marietta (NYSE: MLM) arranges $1.5B term loan for Lhoist deal Stock Titan",
-      "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxOLTBnc3dnVzg0MHZ5WXNYdk11LUF0NUdxWElOVzhxVU5EZF8taDl6UkNGMFU2NjIyeWxmbUNuMEtGS0xWOGxJSGFhR1pGdExZODdfMHY5YnNobmJzbHo3MGh0ZVByVWlXUjE1bWEzS2xueGZJVXc5cWFHRzUzRTlUSDlmM3RrcVp1V002QmN1NmxZcjI4cmV5SHVsUE85a0NRSkpXRmVlWEQwSmhhVF81ejdLN1hPSnJf?oc=5",
-      "source": "Stock Titan",
-      "category": "Martin Marietta",
-      "keywords": "",
-      "sector": "General",
-      "dealType": "Acquisition",
-      "value": "$1.50B",
-      "date": "Jul 15, 2026",
-      "dateISO": "2026-07-15T20:09:31"
-    },
-    {
-      "title": "Equinox-Orla Gold Merger Nears Close, Pending Mexico Nod - Mexico Business News",
-      "summary": "Equinox-Orla Gold Merger Nears Close, Pending Mexico Nod Mexico Business News",
-      "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxObDNTay1PV1hrTEZvT0dYd0s3bExkWmVmUWxVLVloamJJd2NkeTJzcnJESHpJQUxsLU91NExTWmdoVTRBbXoxUGNleUdhcjU5VVVkMXhzYTZGd0duSXdEbDNWLUlyeWs2cXFWZXRMbkI1RUJRQllQaHktaGw4ZjM2d0wxTWR3cmJiUllSTHJUdHhZWVJNc3FKSlhkcw?oc=5",
-      "source": "Mexico Business News",
-      "category": "Vulcan Materials",
-      "keywords": "Merger",
-      "sector": "General",
-      "dealType": "Merger",
-      "value": "",
-      "date": "Jul 15, 2026",
-      "dateISO": "2026-07-15T17:39:09"
-    },
-    {
-      "title": "BaseRock Partners Advises Satterfield & Pontikes Construction, Inc. on Its Acquisition of A.G. Peltz Group, LLC and Abramson, LLC - PRWeb",
-      "summary": "BaseRock Partners Advises Satterfield & Pontikes Construction, Inc. on Its Acquisition of A.G. Peltz Group, LLC and Abramson, LLC PRWeb",
-      "url": "https://news.google.com/rss/articles/CBMi_AFBVV95cUxQSENGQWpxc2tyUllKc1k2ZWhMTTB5YVJqNVNPTHRLWlFzZWl4SU5PX3U5Nzk5aUdWd09HNEtpYkdDVzVic0pUTUI3NnVGMkFzYUpzMldMUHJiRHU2NVFPckFEaXlXWjVrZVNnbXhoMmR2SVN1NnJ0RFpMZW44S1BjVjZSLW42WjZtREpjc2c2UHY3b0wxZlZnaHBRWlMwVWwzZUdfd3FNTHJwOEFiZDlONlVCNjRsWTdmNS1qUFFweVEwZTQ0eDk5Ql9malpjS1NNS1R4aVhwWkgwM0VFcDhBT0VsVUMzTzlRSjdkUzJqZFlvaEVaYXR6YVV6b2g?oc=5",
-      "source": "PRWeb",
-      "category": "Paving Industry",
-      "keywords": "Acquired",
-      "sector": "General",
-      "dealType": "Acquisition",
-      "value": "",
-      "date": "Jul 15, 2026",
-      "dateISO": "2026-07-15T17:30:00"
-    },
-    {
-      "title": "Harbour Energy Closes Waldorf Acquisition, Boosts North Sea Portfolio - TradingView",
-      "summary": "Harbour Energy Closes Waldorf Acquisition, Boosts North Sea Portfolio TradingView",
-      "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxQLTE4bFl6QU9pekw5cTJTenNJX1M5U1lwc21Nb2tVMDlENHhReVNuZDY4VlM4VXc1YlByOHNWMjFZZm5rb0F0dU13SHpzN0tlbTVLellLal9KaXU5ZS1wczRjbWRkVV8zRUpPWXZ3T3FOaXh0YnBMNDBQVHZpUjhqZklQbl9OWllRX09tZ0dGRVA4Ul9CdlRTUXc4b2M2NWRyOUREVWpKUkVzM3IzaUg4YzlqY0YybnRiSS1Qd2xEUjVTQQ?oc=5",
-      "source": "TradingView",
-      "category": "Asphalt Industry",
-      "keywords": "Acquired",
-      "sector": "General",
-      "dealType": "Acquisition",
-      "value": "",
-      "date": "Jul 15, 2026",
-      "dateISO": "2026-07-15T16:38:00"
-    },
-    {
-      "title": "Construction Partners Acquires Ellsworth Construction to Expand Oklahoma Operations - Construction Owners",
-      "summary": "Construction Partners Acquires Ellsworth Construction to Expand Oklahoma Operations Construction Owners",
-      "url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxPd3F3YUZnOHNLQjE5a01MMUNjWFBiVkhveV9mQmI0dEJOekQwRWlDRDFWbWNkdy1NdDRCdDJQQ0VBbF9iNm1HSzljVFZoSklWX1BjOGNaMzItZ29NRDM3c2J5S05Ud1dwemp5cnRyamtwX1JVVFc4anpZcHJ1eWQxRnc2WUNSVUVySTJWdjNjUTBacTZYTmpWN2lTQU4xNElPTVEzWkRVRVJJbHFEZDlLZC0yUjA3UXZFMVo1Z0RhUGRoRVlBZ2JINA?oc=5",
-      "source": "Construction Owners",
-      "category": "Aggregates Industry",
-      "keywords": "Acquired",
-      "sector": "General",
-      "dealType": "Acquisition",
-      "value": "",
-      "date": "Jul 15, 2026",
-      "dateISO": "2026-07-15T16:31:44"
     }
   ]
 }
