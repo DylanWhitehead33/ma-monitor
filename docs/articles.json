@@ -1,14 +1,14 @@
 {
-  "fetchedAt": "2026-08-15T13:26:36.235078",
-  "totalArticles": 163,
-  "newToday": 20,
-  "duplicatesRemoved": 16,
+  "fetchedAt": "2026-08-16T13:27:07.033565",
+  "totalArticles": 162,
+  "newToday": 19,
+  "duplicatesRemoved": 15,
   "archiveDays": 30,
   "articles": [
     {
       "title": "Martin Marietta Materials issues $5.5 billion in senior notes for Lhoist acquisition - Investing.com",
       "summary": "Martin Marietta Materials issues $5.5 billion in senior notes for Lhoist acquisition Investing.com",
-      "url": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxQOGxkN1B1VG1mV3FSeW1scGViVDRENDdzalhiRVc1SVVKZEF3TlUzZVNyblEteDI5UzhjQkVvYjkxRGc3MGhLeFJob1FZU1l0clJZSEp6b3lidmRkemhqM2xfOWVUU0tQWFdhdmdWUWZDR1c1U05uU24yeUwzRm1yMExha2pBTHVqS3JpQmdScEpGbHlJcFNHd0daci1ZTHM5Qk5TX0RqMlRUSjV4UG5JS1R3dU1Zc1Zsal8zYXEtMS1RYTFUV3VzaU1aWURXWEpGVU9wM21wT1FtLXlFcnU0?oc=5",
+      "url": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxPT2lCdnFUWHpWbXRTSTVpZzZIZ3B4a193cTFXd0NzY2t6dmowZ0xtQVFrajBfcXBwOXFaLXJoSkRJUklQRVl1MmNjVnd0UHNuVi1BVmhkNlNfelJxS2dGdlVpMlpqYjN0NjU5N3dDVEhaalR2WU1raWxKX2hMc3VMTlhzb05pVGN3emxsbW9Pc2k5LXotR2xVdXBWQkdoZExwYk1oQWZXSVZkcHZ6TXVtVzZMUVkwMFRPajMycHNJWXh6OXVWcXF6c1RCZnUzN01YQTFOcw?oc=5",
       "source": "Investing.com",
       "category": "Martin Marietta",
       "keywords": "Acquired, Investment",
@@ -16,7 +16,7 @@
       "dealType": "Investment",
       "value": "$5.50B",
       "date": "Aug 15, 2026",
-      "dateISO": "2026-08-15T01:46:00"
+      "dateISO": "2026-08-15T01:53:07"
     },
     {
       "title": "Martin Marietta Issues Notes to Finance Lhoist Acquisition - TipRanks",
@@ -199,6 +199,19 @@
       "value": "",
       "date": "Aug 12, 2026",
       "dateISO": "2026-08-12T13:36:13"
+    },
+    {
+      "title": "UltraTech Cement to acquire 26% stake in Waaree arm Solaris Horizon for Rs 27.76 cr - ET Now",
+      "summary": "UltraTech Cement to acquire 26% stake in Waaree arm Solaris Horizon for Rs 27.76 cr ET Now",
+      "url": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxQcEpvWVNZNE9hek1PZEtUcXVxbzRIS3R6QkVKSVVxMC02MkN1VVJXaktJY2U3cW0zR0JWcHNNMTQyeVVucHk2cjBicWRSOXlXQjI5b1QyN29Ob2JRTnZkVVRfSlU5QVFCQWFieEd5NF9ITDcwN0xmZlhRWS03OFN1Z2lkM25OUWxqN2twVDh4Vm1fYU1xTG0xeWhOSDBMQWUtU3hidlZ1Qzh2clpLeWxiTFhOd2pQbTR3ajZVNldvUTBhcFZwVlBYdXA4b28xLVhvdGfSAdcBQVVfeXFMUG00bzNDVmlHZkNuQ0ptMzM4aVFGeFR3VXR1RTBQUFpQSjFlTTJLT3hNeGg5YzlyQlZzUzJKOFQ1RUtIY19zV05obXpvZHlHZ2EtTzNuNlYyWm91Q2hhNWYwN2w5ZktGM1d1ZVNac0Jla3dHYlBKM1VpRTJ0VzNUeV9GRm1Va0NMSGRBQmlVUEFwRUVvQnUwU0JhV09CVlo0LUVRZDZNNGJKNFpxcC1vMDhza2VhYjQ1c2R4dEtqS0Y5UHVwTThBaExkaElXTEpNVUM4WVhrMTA?oc=5",
+      "source": "ET Now",
+      "category": "Cement Industry",
+      "keywords": "Acquired, To Acquire",
+      "sector": "Cement",
+      "dealType": "Acquisition",
+      "value": "",
+      "date": "Aug 12, 2026",
+      "dateISO": "2026-08-12T11:47:43"
     },
     {
       "title": "UltraTech Cement: Acquires 26% Stake in Solaris Horizon Energy - InvestyWise",
@@ -641,6 +654,19 @@
       "value": "",
       "date": "Aug 05, 2026",
       "dateISO": "2026-08-05T21:11:16"
+    },
+    {
+      "title": "ACA: Q2 2026 delivered higher revenue and profit, with a major divestiture and pending merger - TradingView",
+      "summary": "ACA: Q2 2026 delivered higher revenue and profit, with a major divestiture and pending merger TradingView",
+      "url": "https://news.google.com/rss/articles/CBMihAJBVV95cUxPZGFJRFFEOFJlQ2Q5cEk2TkdOWmlFZ1VFM3JtWDFwbWVEaWticnBUZzRfUGZPUnR6TFE0QVFieHdHeGFZNUs3TWZzX01uUWhjVnV6V1MxazZKc3lkaU4zYUY4MmRna0VUNGNjeHZRczBsUDZINTVRMHhMQXJPN2xmRjU2V2NpN3c2OWRyUFRZMHVzcUpkN0FSWXVYMDVPdncyUnZsZnNTTGRhcTlwZU1jbmNSamtLWmM5dklvRFlhRXZhU2pJSGxrZm1SbjcwNGJlT3I0UURGTS1lcERDUUdINEtXMC1DZ3NTczdWWlQ3eUlZQW5mTUZOb3pIaXlRdnFWdkFybQ?oc=5",
+      "source": "TradingView",
+      "category": "CRH",
+      "keywords": "Merger, Divest",
+      "sector": "General",
+      "dealType": "Divestiture",
+      "value": "",
+      "date": "Aug 05, 2026",
+      "dateISO": "2026-08-05T20:25:06"
     },
     {
       "title": "CRH to buy Arcosa (NYSE: ACA) for $150 per share in cash merger - Stock Titan",
@@ -1475,6 +1501,19 @@
       "dateISO": "2026-07-28T08:45:29"
     },
     {
+      "title": "Renaissance Technologies LLC Purchases Shares of 170,605 Vulcan Materials Company $VMC - marketbeat.com",
+      "summary": "Renaissance Technologies LLC Purchases Shares of 170,605 Vulcan Materials Company $VMC marketbeat.com",
+      "url": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxPT0dxRnpqVzJNMlBDNGYzZXBpZ1g2QjBqOUdDS3lweVBIRHBTYjBfajFQc25TWHh5RFF2TGZnRUJGbnBzQkVLTjRpbTBfN0I3RXk1ckNJcElXQUgtWWZHRnJVTW5iMjNpRHl6d3BSX2R6X2tOcXFpNXBYWkpPN3hCRHczcmxibzFaSDB2TFdiSFpMdWp4X3Y4XzBEdTViVTVZRm1EbVB5eV8yMktpN3J0QXdCbVd1enNpV3pvUlIwWUlaYUJIWWtSTUxIT2VySGxUZGp1NlVtYjdBaU52bUE?oc=5",
+      "source": "marketbeat.com",
+      "category": "Vulcan Materials",
+      "keywords": "Purchase",
+      "sector": "General",
+      "dealType": "Acquisition",
+      "value": "",
+      "date": "Jul 28, 2026",
+      "dateISO": "2026-07-28T07:00:00"
+    },
+    {
       "title": "Tindall Corporation Completes Acquisition Of Atlanta Structural Concrete - Pulse 2.0",
       "summary": "Tindall Corporation Completes Acquisition Of Atlanta Structural Concrete Pulse 2.0",
       "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxOd3hNMllxTVRVSTU4S3VJSzV3b3U2bm1pRlNGZ1lSOENaMzhzQm9jR2hyTGJ3Y1lSVnFTN1JEeThBaDRBcnRkR0JIU3ZCYXUyZ2Y2Q1Z1WThaSUJ1UVpWZkt6YTBSNjJDZ2FWRnhnRDlPelJTM3RoQkxsREVCOWt1b2ZldExqRENtNWw0QkR0NXlUMjRTdlRr0gGcAUFVX3lxTFBGVmZUZnRCYy1hNG9Vam5LdTN6LTh4dnVYYjJuQTRyRFhvNFc0REpBNFFCQUZ4RE9QQ2VsNEtKSjllS2Mzd05QZWNZb1N6WHNISDdWa0I2VWpGbkhGRTFNZ3NieXpHdnJUNzlORlI0ZTBaWTlOVGJTeFdqTU5fVHRCZDd2VFNwVEN4Wm9xaTFETkFoMmRnWkxYdEUzQQ?oc=5",
@@ -1917,6 +1956,19 @@
       "dateISO": "2026-07-21T07:00:00"
     },
     {
+      "title": "Wipro Consumer Care to acquire Philippine personal care firm S Brands - Business Standard",
+      "summary": "Wipro Consumer Care to acquire Philippine personal care firm S Brands Business Standard",
+      "url": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxNczFHYmVHNlNRMHRTODdoVS1kdW94d2VDMWluaV9jWDVwYzVxdFdha1kyLXF3TThCWkU1UG1RWm05cXRDVXRDc1N3SUZTdWdHZ194NFdORTY0Nnp0U2VOeWVHN3MtM29KY2c0Z1drLTdDcERsMUIyVDh2NWlkck1JclBXQzlmckJVRnhaV0N4N1RGaFI3QXMxVVdNejVtZ3hCVTVQWVVWYm95RUlXZXNNN3BmN1lrRlh1b1gxZHRPWFZiVXJra2NBN0dkUEpMeXlxemNlSEItRDFlUF9S0gHiAUFVX3lxTE11WkdXRnNuOUtpTFQ2UklKeDNyWldxOFkza3VlUnRDejR5X0lKYXpaSHVSV3dpZGhkek1yeGVFbzJ3T2VnRGFtWjBMMFJLVmRnVnE3STVTVkl4cEo1Y3pKcGpwT3dHZUtTUVhKRFBlVVIzUVZtaXFfLVpISDFUV25UbEZOclZxWDE3LWxFa2FjQ0F1ZmFneDY1WG55M3F1ckZ5SDV2b2RuRmV4WDhEWVdRZVRvYUotZ2VtTnFxZVc0c3RuQUc1T1BwaVY2THRsR3MtQzNKWDlTc2xEd1dseU5GQ2c?oc=5",
+      "source": "Business Standard",
+      "category": "Cement Industry",
+      "keywords": "Acquired, To Acquire",
+      "sector": "General",
+      "dealType": "Acquisition",
+      "value": "",
+      "date": "Jul 21, 2026",
+      "dateISO": "2026-07-21T07:00:00"
+    },
+    {
       "title": "NCLT orders Ambuja Cements meeting for Orient Cement merger - scanx.trade",
       "summary": "NCLT orders Ambuja Cements meeting for Orient Cement merger scanx.trade",
       "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxPZjBfckxXN3oteXNCRm1xWlpjYW1UX0V3aF9OdG8tODJ2aVI1WVFOY0Fqdk9OV1RCR3hZSjVtYlVIQlV3YS0yQXlFcXRhMURQNjVmeDl3T2lIYUxHVzBDdkpDTnhqZ1VNQ2pUT2NTaHY3QnhZeVo1dUl3Z2Q2ZDhRN1Z2RUpVZm5KZmJDVmNBNzJqWmhnV1ZIbEJJMU1LV3lCUjBjc0FVSVUxb2RnNHFqQjYweTVNbEk?oc=5",
@@ -2058,71 +2110,6 @@
       "value": "",
       "date": "Jul 17, 2026",
       "dateISO": "2026-07-17T15:56:00"
-    },
-    {
-      "title": "EKHO Infrastructure Solutions Acquires GIS, SSI, And ARES Retaining Wall System - Pulse 2.0",
-      "summary": "EKHO Infrastructure Solutions Acquires GIS, SSI, And ARES Retaining Wall System Pulse 2.0",
-      "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxNSTRZb004cmdpNW5LOHM0VzRaUy12Y29FaVVER0hUX19ydzJpMmROekE2ell5TmlwNnhncXY3TXV6Z2l1ZF9sZ0thN1VPSURGcXNkQ2sxaWNwZjlZYWRmWEJxLUNOSUo5R2s1VFMyd2tubmt0X09KWHQwMG9wVExXZUxRTUJJUkpCenJiR3BRRkNFUnM3eFg0RGxQaXZrd9IBowFBVV95cUxPNzNXVkNCVUtabjMyT0pRTzJjV2x1YnZwd1hxaUd4Y2ZFQ1JqNWNqQUllRnBfdFVQWVNKMkxIR0FubTl6Zm5aZnZqQ3QyZ1JjUGlEb1U1T3pVZTNPMzE5TDFtYnFlRGVxckFNSjFnOTdWbUJNV1VnV1dZY0VNaXpiQzlVQXdKbXJQaDhJWGNleWxGSG13alA5aHU0R2NqN184Tk9B?oc=5",
-      "source": "Pulse 2.0",
-      "category": "Precast Industry",
-      "keywords": "Acquired",
-      "sector": "General",
-      "dealType": "Acquisition",
-      "value": "",
-      "date": "Jul 17, 2026",
-      "dateISO": "2026-07-17T11:03:42"
-    },
-    {
-      "title": "SRM Concrete Acquires Troy Ready Mix, Adds Plant and Precast Facility in Central NC - News and Statistics - IndexBox",
-      "summary": "SRM Concrete Acquires Troy Ready Mix, Adds Plant and Precast Facility in Central NC - News and Statistics IndexBox",
-      "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxPckMxZHpfN2NuLTBJS0pqRFpkOEhpMDY1MVRyWHZFVTlYd19NckpXTnBOQ0VWa0t3bXlqWVlLd0xsQWtzYWQ4MUtlajRvN3l4SW1ldXpPMThHMF9RdG5KTWMxVVpCRnkyWUZRNjFpWk1HVW5RUUgycWloT0VhY0VhR0pqOTJtOV90SFZrdmdmRGZsMm5nUWhOcUpWZ21UZVZaXy1BWkFDTVZma0k?oc=5",
-      "source": "IndexBox",
-      "category": "Ready-Mix Industry",
-      "keywords": "Acquired",
-      "sector": "Multiple",
-      "dealType": "Acquisition",
-      "value": "",
-      "date": "Jul 17, 2026",
-      "dateISO": "2026-07-17T00:50:00"
-    },
-    {
-      "title": "Cementos Pacasmayo (CPAC) defends Holcim deal disclosures and OPA plans - Stock Titan",
-      "summary": "Cementos Pacasmayo (CPAC) defends Holcim deal disclosures and OPA plans Stock Titan",
-      "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxPWncxZlBJNUJZbmxhN0lsM0xQNTNFOGFwRl9id2QycWFyY282dkZyNl9uREd5dW5yOThyNlRLQkNZbnNMd0EwVzZoVmpEOTBqVXVQNFozSGtmcTZYYjktUFF3SXdESXllYTEzNXg0YTJxbEtNRlI1aWRub2xrZ2pGV21DeERERnVMbUFFaVRnWWNtNmlGeVFYejZUMEtBRjNBVWhqdFc4OEZPUDJuOUhHd3pvNkFkNnRCeUE?oc=5",
-      "source": "Stock Titan",
-      "category": "Holcim",
-      "keywords": "",
-      "sector": "Cement",
-      "dealType": "Acquisition",
-      "value": "",
-      "date": "Jul 16, 2026",
-      "dateISO": "2026-07-16T20:13:24"
-    },
-    {
-      "title": "EKHO Infrastructure Solutions Broadens MSE & Retaining Wall Capabilities with GIS & SSI Acquisition and ARES Product Expansion - PR Newswire Canada",
-      "summary": "EKHO Infrastructure Solutions Broadens MSE & Retaining Wall Capabilities with GIS & SSI Acquisition and ARES Product Expansion PR Newswire Canada",
-      "url": "https://news.google.com/rss/articles/CBMikAJBVV95cUxPamwyaHhwd3R2LUlRbzJnRlluQU1QOVZzeU9CcXNWQTZWVVN5TVUzNU9Fand5S0hRR1k5TFdhVi1PektsUmo4NFpTTkdubFVzdkpEbkpSckdhSmZWNHUyenZibnlpdlhTVjU4dFZEbEY4SDhuTzZDZkxMVVFGZnJjQUNqQzAxRG1haFhXTkFvN1c2N2kwOTVzdWJNWkZYUkMtTkRjeEZTZEo5R2hhaWF2UGlVZlU1OXVhcWs5RUxEX1MzblNIQkFtMWk3aWJnMzVtVFFZY0J2and2dnYxYnR1bEZ4SnROTmRwMHZXSUFEOXJKNjhsZnA5YkJZajEyRkFZYmlQSndVbDBmT0tVYXA3OQ?oc=5",
-      "source": "PR Newswire Canada",
-      "category": "Precast Industry",
-      "keywords": "Acquired",
-      "sector": "General",
-      "dealType": "Acquisition",
-      "value": "",
-      "date": "Jul 16, 2026",
-      "dateISO": "2026-07-16T16:57:00"
-    },
-    {
-      "title": "Liberty Tire expands Gulf Coast reach with 3 acquisitions - Tire Business",
-      "summary": "Liberty Tire expands Gulf Coast reach with 3 acquisitions Tire Business",
-      "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxOeEZGa3pGbGRCbWk4WXlfS2E0WWRkUGo0SGtqTWpNdkxtRGhPYU1mazUxTEV5WWhQRlNjUVRKNFJVRlpDOC1LRnA0Q19pclB2RGlYUmY5QmVvWTZtOTE5WHFuZEY5a0pmVWFxZE5YT19FTHVjaFY4WWZjQUFwLVZDbHhOZ0txYkZzcmlPbFNkZGo5WmlROXI5REl4RUt1UEp4RDNPa2h3TzM?oc=5",
-      "source": "Tire Business",
-      "category": "Asphalt Industry",
-      "keywords": "Acquired",
-      "sector": "General",
-      "dealType": "Acquisition",
-      "value": "",
-      "date": "Jul 16, 2026",
-      "dateISO": "2026-07-16T13:54:00"
     }
   ]
 }
