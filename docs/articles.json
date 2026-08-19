@@ -1,10 +1,62 @@
 {
-  "fetchedAt": "2026-08-18T13:38:23.362298",
-  "totalArticles": 159,
-  "newToday": 12,
-  "duplicatesRemoved": 11,
+  "fetchedAt": "2026-08-19T13:40:22.103061",
+  "totalArticles": 162,
+  "newToday": 14,
+  "duplicatesRemoved": 9,
   "archiveDays": 30,
   "articles": [
+    {
+      "title": "Palmer Knight Co Purchases Shares of 32,059 Vulcan Materials Company $VMC - marketbeat.com",
+      "summary": "Palmer Knight Co Purchases Shares of 32,059 Vulcan Materials Company $VMC marketbeat.com",
+      "url": "https://news.google.com/rss/articles/CBMizAFBVV95cUxQclVMa1QwVEM3ZkltOVpPNnpYSzlyTVNZak0xZFQ0YlktazZRZ09pZENmSnQ4SUpPcXZsSVcyWXp0dXFQdzVZek5NYjBJTjlDc0l6cmlpb3BGdFctaXg2MHZHMzU2SkgwamU1MHk3Xy1wNElYUlI2LUN4U05tbkxBOUtfRW1CVElhaTVjMDF4c1dhdmJDb2I4OGV3aGc5dGZxVjZOd1UwNDBsbHJCbzVnR0lBSkVtekxDLVVrYzJEYmdlU05RaTN2enZqcGc?oc=5",
+      "source": "marketbeat.com",
+      "category": "Vulcan Materials",
+      "keywords": "Purchase",
+      "sector": "General",
+      "dealType": "Acquisition",
+      "value": "",
+      "date": "Aug 19, 2026",
+      "dateISO": "2026-08-19T10:40:17"
+    },
+    {
+      "title": "Compass Wealth Management LLC Acquires Shares of 7,788 Eagle Materials Inc $EXP - marketbeat.com",
+      "summary": "Compass Wealth Management LLC Acquires Shares of 7,788 Eagle Materials Inc $EXP marketbeat.com",
+      "url": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxPMmNPTU1nTk56cGludk5HSF9DY29kRndkSDEyY3RvSFFDMHhjZG9RXzMwb3RfUmJiRVpVZHVVTXMtc1RLWkowNWlGNTZSVkxyQkJpZTdveXdQZWdZUWd1SUlhcWJpTENkOVpSSWtwdzM1b20tLUZ5bGlLWHBLZHM3M3lmNkZHRjI1TDZ3d044WTdhUmR0ODdTQmp5QWswVHIwU25OTVU4NnZFZU1xQzAzWGJqZlVnTExPTjJHdk1TbWl2SU9NdzNYdjJ3XzQ2MGItODJIMg?oc=5",
+      "source": "marketbeat.com",
+      "category": "Eagle Materials",
+      "keywords": "Acquired",
+      "sector": "General",
+      "dealType": "Acquisition",
+      "value": "",
+      "date": "Aug 19, 2026",
+      "dateISO": "2026-08-19T08:35:28"
+    },
+    {
+      "title": "Martin Marietta stock touches fresh 52-week low as Lhoist deal reshapes 2026 outlook - AD HOC NEWS",
+      "summary": "Martin Marietta stock touches fresh 52-week low as Lhoist deal reshapes 2026 outlook AD HOC NEWS",
+      "url": "https://news.google.com/rss/articles/CBMizwFBVV95cUxQaGdhc0pvQ1N1Yml3WjRtTU84WTQ1eTNTQml4dUs0WFM5cDJIRFZla092UnJIWDNFVzRRMVRkcTVXNjdBNlYtWXdBc1o1U0NFRDQ3QWV4Q09kYS11dVVGN3RRRGxqVUczUXY3bDY0Wjl3QzdEMlJ5aTMzWUFsYjJGNmFGMURzM1FIVG0wX1p6dkRzTEVmbmE1X2hiTTB6Sk4zSUVTenVxX2xXSUFoQzFjdFZRT2tIT3plMHU0WlE3dWVUOGNLeEhtUFl3VURFSnc?oc=5",
+      "source": "AD HOC NEWS",
+      "category": "Aggregates Industry",
+      "keywords": "",
+      "sector": "General",
+      "dealType": "Acquisition",
+      "value": "",
+      "date": "Aug 18, 2026",
+      "dateISO": "2026-08-18T17:35:20"
+    },
+    {
+      "title": "UltraTech Cement: How a Contested Takeover Built India's Largest Cement Company - markhub24.com",
+      "summary": "UltraTech Cement: How a Contested Takeover Built India's Largest Cement Company markhub24.com",
+      "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxOTnFOS1NNUkN3bE40X2F3SjkyaDR1Mmg1ejlvT0RZYzlZWV9ESmp1eGtTbXNYWlRFVGo3d09acHhFcnVDUmpjc0VTNmRIQTJwVjNMZDJuR1hvUExwcVZxMnpuS0o2RE0wUnN1Ymh3MGlyR3VHZjl6dzlZUDJnYWZ2UmtKcVRUMDFwb0UxYkFvN0ZpS0oyenFSSEJ4VmxoS3JUTDRPMGFIMEVUb0t0OVE?oc=5",
+      "source": "markhub24.com",
+      "category": "Cement Industry",
+      "keywords": "Takeover",
+      "sector": "Cement",
+      "dealType": "Acquisition",
+      "value": "",
+      "date": "Aug 17, 2026",
+      "dateISO": "2026-08-17T19:20:07"
+    },
     {
       "title": "Martin Marietta Materials issues $5.5 billion in senior notes for Lhoist acquisition - Investing.com",
       "summary": "Martin Marietta Materials issues $5.5 billion in senior notes for Lhoist acquisition Investing.com",
@@ -199,6 +251,19 @@
       "value": "",
       "date": "Aug 12, 2026",
       "dateISO": "2026-08-12T15:16:42"
+    },
+    {
+      "title": "UltraTech Cement to Acquire 26% Stake in Solaris Horizon Energy, Bolstering Renewable Power Strategy - Annual Report - Vinanet",
+      "summary": "UltraTech Cement to Acquire 26% Stake in Solaris Horizon Energy, Bolstering Renewable Power Strategy - Annual Report Vinanet",
+      "url": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxNRTBTZllLOEJXN3VCdmlSWTFLTEtQQUlkNm9HdDZaa19UWXBfc1dtOVVqdWtvTUZLX1c0Y0ZvOWszSnNaZWJTeWpZQmhKeVBLVXRBQ3dad0lGLXBIUEwtZWZ1bW1WNWhqdVdZaldybldlREJwdEVPalZxVGI4eWpDSlBTTGktblJOOWNiR0VCbTR0RE9sZmsyNG5aS0oxNG1aNUY1bVl4NlFURlYtVXNJeWstUnJsTUtxMXAzdEN1YngwRWdPSWJsc3lWazJrYzlocDFxeGNYcw?oc=5",
+      "source": "Vinanet",
+      "category": "Cement Industry",
+      "keywords": "Acquired, To Acquire",
+      "sector": "Cement",
+      "dealType": "Acquisition",
+      "value": "",
+      "date": "Aug 12, 2026",
+      "dateISO": "2026-08-12T15:11:06"
     },
     {
       "title": "UltraTech Cement To Buy 26% In Solaris Horizon, Deal To Support Green Energy Needs - Free Press Journal",
@@ -2045,32 +2110,6 @@
       "value": "",
       "date": "Jul 20, 2026",
       "dateISO": "2026-07-20T14:57:45"
-    },
-    {
-      "title": "Amrize to acquire Rapid Redi-Mix in Dallas-Fort Worth area - Investing.com",
-      "summary": "Amrize to acquire Rapid Redi-Mix in Dallas-Fort Worth area Investing.com",
-      "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxNVHZnS2w3dl93V01oTXkwNUk5ZzFhMGdrZDJOZjV5S3pnRTJFWE81S19VSzBLOFo5OVEzX2NVUFFUdkpDak1vdl9VUzliTE94TFhGQWFraGJKajhHSVVLdi1UV19jVVdCNnByczJBZ1hSTzZ1ZU9UQU02bXlhdVVVZWpMM1BEMWdSTy1rcXlPVGJ5dTVZM1ZDUFVoVFV0eXZSeHVJTTFWbmlHTzNncERlbW1rdw?oc=5",
-      "source": "Investing.com",
-      "category": "Amrize",
-      "keywords": "Acquired, Investment, To Acquire",
-      "sector": "General",
-      "dealType": "Investment",
-      "value": "",
-      "date": "Jul 20, 2026",
-      "dateISO": "2026-07-20T13:08:56"
-    },
-    {
-      "title": "Steppe Cement Executive Chairman\u2019s Family Boosts Stake to 8.96% Through Share Acquisition - Kalkine Media",
-      "summary": "Steppe Cement Executive Chairman\u2019s Family Boosts Stake to 8.96% Through Share Acquisition Kalkine Media",
-      "url": "https://news.google.com/rss/articles/CBMizgFBVV95cUxQOU5vVFFhMVIzdjdqQnFFb0I2enNmMExlNFdQU0p2U3JKV0xvOXlYLTcwUVVBLWdtbFFrbUw5WWttb28xUFpLcEpWVFd5ODhCMktoWmxKUXZrM18tZk9EYXlFV3ZSUW5ab3lXUHNmWXNBcFJiUFJSanFoYVlVeF85eDBsUExIa3NEblQzcmxvOXNPUVpMRHY5Z0VtMGR3YkVnRUFtYmp3c05kdjU1R3J6SjJwLTFnRF9Hb3pvRjZsSE05YlBNSVRyUXoyX2tfQQ?oc=5",
-      "source": "Kalkine Media",
-      "category": "Cement Industry",
-      "keywords": "Acquired",
-      "sector": "Cement",
-      "dealType": "Acquisition",
-      "value": "",
-      "date": "Jul 20, 2026",
-      "dateISO": "2026-07-20T06:01:32"
     }
   ]
 }
