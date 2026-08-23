@@ -1,10 +1,23 @@
 {
-  "fetchedAt": "2026-08-22T13:27:49.921327",
-  "totalArticles": 170,
-  "newToday": 24,
-  "duplicatesRemoved": 7,
+  "fetchedAt": "2026-08-23T13:28:12.519412",
+  "totalArticles": 168,
+  "newToday": 18,
+  "duplicatesRemoved": 10,
   "archiveDays": 30,
   "articles": [
+    {
+      "title": "151,222 Shares in Gencor Industries, Inc. $GENC Acquired by De Lisle Partners LLP - MarketBeat",
+      "summary": "151,222 Shares in Gencor Industries, Inc. $GENC Acquired by De Lisle Partners LLP MarketBeat",
+      "url": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxPYlVKTnhaZkRUWk9sZEFPajFObTJmN0Y3WUFTNWJ4YUltd2s1ZHdzQjAxdWg2Sk1XY19zQzEzNlg5NmVfN0stdUF1UEhGQ2hwNmQ0WDdCUWJWZ3VfZDM2SVJSZEU5b25hSHFFMTlIdWRsZmpFSVlkTExVM1pMMVEyRjlZR2M0R0xwX0xpWWd2S0l3ZDRyQzlJa0sxcHFYMWZIQml1d2twbnBDZk11RjZqemFZelhVQWQ2bGRnci1rNFpkb2ZGeDFFTnJ0NGZZNWtBU1R1Mw?oc=5",
+      "source": "MarketBeat",
+      "category": "Asphalt Industry",
+      "keywords": "Acquired",
+      "sector": "General",
+      "dealType": "Acquisition",
+      "value": "",
+      "date": "Aug 23, 2026",
+      "dateISO": "2026-08-23T08:09:50"
+    },
     {
       "title": "Ceredex Value Advisors LLC Purchases Shares of 57,250 Arcosa, Inc. $ACA - MarketBeat",
       "summary": "Ceredex Value Advisors LLC Purchases Shares of 57,250 Arcosa, Inc. $ACA MarketBeat",
@@ -71,6 +84,19 @@
       "dateISO": "2026-08-21T10:43:25"
     },
     {
+      "title": "Holcim to Acquire Fermacell from James Hardie for EUR840M | 2026 - News and Statistics - IndexBox",
+      "summary": "Holcim to Acquire Fermacell from James Hardie for EUR840M | 2026 - News and Statistics IndexBox",
+      "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTFA2X3h4RFkzRjlQWjg4S0tGdkNnTzJjZEx1Y2o4VjJwZ0N5a1IyZXZ1cDY4ektRdGZDZmhqZENpZndGdUVNRF9aQWhBbG9uRHVYLVJ2LXBualNFVFRKLXF4RWhfUFFtWVNfV0NwQk5aWFZMUjFiYjJla0lTSnFuajg?oc=5",
+      "source": "IndexBox",
+      "category": "Holcim",
+      "keywords": "Acquired, To Acquire",
+      "sector": "General",
+      "dealType": "Acquisition",
+      "value": "",
+      "date": "Aug 21, 2026",
+      "dateISO": "2026-08-21T10:41:00"
+    },
+    {
       "title": "Holcim agree to acquire Fermacell for \u20ac840 million - Agg-Net",
       "summary": "Holcim agree to acquire Fermacell for \u20ac840 million Agg-Net",
       "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxOWVVmR21kY09vSTVCN1R3OW9JcDNGRDgxbE1pSnlQVXNQc0czLTVYRjZReWRidmdCM3ZXZG8tSXJvV1NDTndVZDUtTDdKRUlJdUd0ZlN4d3FjTlRINklEcUZ3TXBxbFlQenZDM2EyZ1BodUlfRGNaaUt2b0lzaXFlSUpSMzdJRkk?oc=5",
@@ -121,6 +147,32 @@
       "value": "",
       "date": "Aug 21, 2026",
       "dateISO": "2026-08-21T06:58:18"
+    },
+    {
+      "title": "Swiss Cement Giant Holcim To Acquire German Firm Fermacell In \u20ac840M Deal - Menafn",
+      "summary": "Swiss Cement Giant Holcim To Acquire German Firm Fermacell In \u20ac840M Deal Menafn",
+      "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxOcUFpcWhVTUMyOGx5d0h0TTNUOTVuQ0xTNEk0clFhT3FkZG0wOUhCZ3hSTkZQa2JWN2xubkNZRTdtVUpzLXhSZGRrbFB0VGxVUHNBc2NiY2NHb1QtaW1GSzFmeEhHeHlQTWQ1SjYzSW5hajZEMnY4MkhhX3prMXNJVWZySGZ4c2dVX2NkNkl6Z0ZOR2pudnJ2dzJ3Sng2UTJoQjJn?oc=5",
+      "source": "Menafn",
+      "category": "Cement Industry",
+      "keywords": "Acquired, To Acquire",
+      "sector": "Cement",
+      "dealType": "Acquisition",
+      "value": "",
+      "date": "Aug 21, 2026",
+      "dateISO": "2026-08-21T06:15:49"
+    },
+    {
+      "title": "Holcim consolide ses murs et sols avec l'acquisition de Fermacell - TradingView",
+      "summary": "Holcim consolide ses murs et sols avec l'acquisition de Fermacell TradingView",
+      "url": "https://news.google.com/rss/articles/CBMiY0FVX3lxTFAwNGdzeXdQZHltcEZ4ZVFWcGV5QVZWdDBfNklTWVBsRURvQ3dlaVdHNkE5LTAwMzVkYWFGUVo1bGdDdTQ0VlprTFktOGxDS185Z1pyLV93dHdCeG45VXo2aVZjNA?oc=5",
+      "source": "TradingView",
+      "category": "Holcim",
+      "keywords": "Acquired",
+      "sector": "General",
+      "dealType": "Acquisition",
+      "value": "",
+      "date": "Aug 21, 2026",
+      "dateISO": "2026-08-21T05:48:00"
     },
     {
       "title": "James Hardie To Divest Fermacell In Europe To Holcim For \u20ac840 Mln Cash; Plans $250 Mln Buyback - RTTNews",
@@ -277,6 +329,19 @@
       "value": "",
       "date": "Aug 19, 2026",
       "dateISO": "2026-08-19T07:23:14"
+    },
+    {
+      "title": "Martin Marietta stock hits fresh 52-week low as earnings strength meets Lhoist deal uncertainty - Ad-hoc-news.de",
+      "summary": "Martin Marietta stock hits fresh 52-week low as earnings strength meets Lhoist deal uncertainty Ad-hoc-news.de",
+      "url": "https://news.google.com/rss/articles/CBMizwFBVV95cUxOZ05HdU5qV0JFemE5ZF9lbUZYQkNtWkQ5d1hBRVNvMTF1YklOY1pQQ1loX1ZRaTJ2aXNCZF9ObDFBMm15MUVLbEEyYndmQ2hJSmlBOXlITWFrYW1ud2dMVFBHT2hHajJ4dHVnc1hFdHdsczJBZHQxOFl4VTY5Wkg1eEhVODFPbUxxcFBwcHVHaGt2LXctem5tc1kwdkxoOGxWb3IxdnBLZXcxS2FlbGduelpIZnRvNlE0OUxPa2hRTDlLOExWNUV1TE5tMWZrRHM?oc=5",
+      "source": "Ad-hoc-news.de",
+      "category": "Martin Marietta",
+      "keywords": "",
+      "sector": "General",
+      "dealType": "Acquisition",
+      "value": "",
+      "date": "Aug 19, 2026",
+      "dateISO": "2026-08-19T05:38:13"
     },
     {
       "title": "Martin Marietta stock touches fresh 52-week low as Lhoist deal reshapes 2026 outlook - AD HOC NEWS",
@@ -487,6 +552,19 @@
       "dateISO": "2026-08-13T08:00:17"
     },
     {
+      "title": "Amrize Ltd's Chief Supply Chain Officer Mario Gross Acquires 3,568 Shares in Open-Market Transactions - Kalkine Media",
+      "summary": "Amrize Ltd's Chief Supply Chain Officer Mario Gross Acquires 3,568 Shares in Open-Market Transactions Kalkine Media",
+      "url": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxObF9QMlU3VHJhc0k4N25pUXlRbTY4bGNyODlCQ1JacUczNDJhSVp1bkpuU1l4eDJZTE1sNjg2eVAtM2pMd1YwSEJ4eWZEVzJmRENRbGI4WWgyajdlS3dPbHZVQUZqZnFRLTNKa2haLURXUXlia3B1ZHNFUm9WMm5MTEVuWi1BSGw4WWEyY1ZvZFBGN2JLOEF0Qnl1TWV0NFFiUzN2czYyWjFLa080TXQ0YmV5cmwtbXFXQVZwamg0aldaQWFoYW93VnRTRk05Uk1hSTJiQ0UwemFEdFlZUnFR?oc=5",
+      "source": "Kalkine Media",
+      "category": "Amrize",
+      "keywords": "Acquired, Transaction",
+      "sector": "General",
+      "dealType": "Acquisition",
+      "value": "",
+      "date": "Aug 13, 2026",
+      "dateISO": "2026-08-13T07:00:00"
+    },
+    {
       "title": "India: UltraTech Cement expands captive solar power capacity with acquisition of 26% stake in Solaris Horizon - BigMint",
       "summary": "India: UltraTech Cement expands captive solar power capacity with acquisition of 26% stake in Solaris Horizon BigMint",
       "url": "https://news.google.com/rss/articles/CBMi4wFBVV95cUxQWmY1a1A1UHZJU0FIemdaOTE1NkJqXzlxMkxvYTBIalZ0ekdEOXItWkM5cVVpWXFMMk92UnRwMU9fWWdlWXJMeWd2ejJhOENmWjV5VG0xRWdLaE42WTdEV19zazVqSmZhNldWUHhoV2VObW1JUVJJY09FbWJSNHhocTdvZTVBVi1rM3kxeHk0dk92U2MtbzRxQzg3RjBxMlJFMUFSc0wxMGZ4Q0FmSGZkeEFmWFV4MGJmY1pHelp6NDNFVjhOTDRqeDBlN2FWLWRaU3FybjNES2p6bnVFOEUwMjA0TQ?oc=5",
@@ -609,6 +687,19 @@
       "url": "https://news.google.com/rss/articles/CBMigwJBVV95cUxQWE5TVTZOWm95MEFzTzZsWFlYYjRVejVaVkpVQkIzQmJZR0tOUUQ4RE5lS1NNVlpzOG9OakNKbzdpNlFMekd0cjRFNy1WNE5MTTdRelZFcFFqZ2YwajFvcUNHVDhsMm03cjFoRS1JeEV6Mm14a3BUNzh3NmQxdzhSQllsR3NJZDctVDBjUm9TMGlOazd5WHByOU1BVThnV3RKYnZ2UTRHT1BnZEZWYTJ0ZEZ6SUdqRXdzT0R0dTZWNWNoeDdjUW95RmxsWXRpeHRpOWUzNmdRbTA3bGFZaEVsSF9yc3ZWelRkTUpiUmxEWTUweE1UaFFVT1J4alRZcG5KY0dj?oc=5",
       "source": "Vinanet",
       "category": "Cement Industry",
+      "keywords": "Acquired",
+      "sector": "General",
+      "dealType": "Acquisition",
+      "value": "",
+      "date": "Aug 12, 2026",
+      "dateISO": "2026-08-12T07:00:00"
+    },
+    {
+      "title": "Martin Marietta Prices Notes to Fund Lhoist Acquisition - Stock Titan",
+      "summary": "Martin Marietta Prices Notes to Fund Lhoist Acquisition Stock Titan",
+      "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxNUG5MYWhPNjhhWnJhQm9KSmpRa3dTVTZwUXV6eVVMZUJLby1JOTNoeU83MEI1dzRaal84QkVfU2FTa0xsel9LUlpvZE1SNW1qZVFIUG9uYkRTYmR6WGJkUnBJZEI5czUwQXlDeGVxam82NERBQThSRnV3QU1Uc0pGSTA5aWpZOV90NlF1XzdKWXhsTjB1WWtYTTlxU0hpWDZYM3FF?oc=5",
+      "source": "Stock Titan",
+      "category": "Martin Marietta",
       "keywords": "Acquired",
       "sector": "General",
       "dealType": "Acquisition",
@@ -1969,6 +2060,19 @@
       "dateISO": "2026-07-28T07:00:00"
     },
     {
+      "title": "Accenture in Advanced Talks to Acquire Mumbai-based The Womb - Indianweb2.com",
+      "summary": "Accenture in Advanced Talks to Acquire Mumbai-based The Womb Indianweb2.com",
+      "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxQYWJ1dTZzX3ZvbGlSUkRKNVV5NmxhSTBFcnFBcGt2a1NDZXZYaTZ6Ymh1NEMxbjFuVFF0SUxNZkc2ZVBTckVycWx3Y28tc1ZqZDlBdE13cjFLbVoyaWI4dFdTTWRzamljNDZxVnVmSzNCbUlSbFNYWEp0MERmZm1SSTJHNUk?oc=5",
+      "source": "Indianweb2.com",
+      "category": "Cement Industry",
+      "keywords": "Acquired, To Acquire",
+      "sector": "General",
+      "dealType": "Acquisition",
+      "value": "",
+      "date": "Jul 28, 2026",
+      "dateISO": "2026-07-28T07:00:00"
+    },
+    {
       "title": "Tindall Corporation Completes Acquisition Of Atlanta Structural Concrete - Pulse 2.0",
       "summary": "Tindall Corporation Completes Acquisition Of Atlanta Structural Concrete Pulse 2.0",
       "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxOd3hNMllxTVRVSTU4S3VJSzV3b3U2bm1pRlNGZ1lSOENaMzhzQm9jR2hyTGJ3Y1lSVnFTN1JEeThBaDRBcnRkR0JIU3ZCYXUyZ2Y2Q1Z1WThaSUJ1UVpWZkt6YTBSNjJDZ2FWRnhnRDlPelJTM3RoQkxsREVCOWt1b2ZldExqRENtNWw0QkR0NXlUMjRTdlRr0gGcAUFVX3lxTFBGVmZUZnRCYy1hNG9Vam5LdTN6LTh4dnVYYjJuQTRyRFhvNFc0REpBNFFCQUZ4RE9QQ2VsNEtKSjllS2Mzd05QZWNZb1N6WHNISDdWa0I2VWpGbkhGRTFNZ3NieXpHdnJUNzlORlI0ZTBaWTlOVGJTeFdqTU5fVHRCZDd2VFNwVEN4Wm9xaTFETkFoMmRnWkxYdEUzQQ?oc=5",
@@ -2084,136 +2188,6 @@
       "value": "",
       "date": "Jul 24, 2026",
       "dateISO": "2026-07-24T20:24:11"
-    },
-    {
-      "title": "Softbank eyeing acquisition of ETH spinout Gravis, reports suggest - Sifted",
-      "summary": "Softbank eyeing acquisition of ETH spinout Gravis, reports suggest Sifted",
-      "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTFBNZDY0OW5jdGI2b3R6UVhiWXdQazJDb2YxbWNQdUo1ZmxTYmhKdmxFSUVhWmhndkg2QWhOZk5NS2g4aXNxRXNKVy0xVnIwa0RONkFEdWRFNUNvYU5oaVN2bg?oc=5",
-      "source": "Sifted",
-      "category": "Holcim",
-      "keywords": "Acquired",
-      "sector": "General",
-      "dealType": "Acquisition",
-      "value": "",
-      "date": "Jul 24, 2026",
-      "dateISO": "2026-07-24T11:47:25"
-    },
-    {
-      "title": "Dalmia Bharat Q1 PAT Stands at \u20b9192 Cr; Completes JP Associates Asset Acquisition - Trade Brains",
-      "summary": "Dalmia Bharat Q1 PAT Stands at \u20b9192 Cr; Completes JP Associates Asset Acquisition Trade Brains",
-      "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxOTEUxbF94cnR6Y0NDWWVTRzdKRkw1V2dlWjV3UE9LZ0VKdF8zbjU0SnA0c0xDb0h2eERaVThtVFJkZFBkTGUzbGFQSVJxR2d3SEg4dGVKWVFfRDhDLUZyZUNwb1lRVWZNeGpWVGFuZS10TzNqRUp6eFJSYXdCR2ZxTlAxelM0RVpXRmYwN3UxYjdaTEZYQTF1cGxydlIxdHd5Rm1raEZ3?oc=5",
-      "source": "Trade Brains",
-      "category": "Cement Industry",
-      "keywords": "Acquired",
-      "sector": "General",
-      "dealType": "Acquisition",
-      "value": "",
-      "date": "Jul 24, 2026",
-      "dateISO": "2026-07-24T09:45:00"
-    },
-    {
-      "title": "Amrize expands Texas footprint with Rapid Redi-Mix acquisition - cemnet.com",
-      "summary": "Amrize expands Texas footprint with Rapid Redi-Mix acquisition cemnet.com",
-      "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxONEJVQnV0VmdFOG1qUGQtZW9YeU5LbUlUclVRUno2UnVLaXV1Y0Y2dWx3YnRQY2NqamVXTFdSZ3VTalQ1Q3NYd1dBMGx0dzJoS205OVRnSkdKVGhSNTdlM21FOTRsbXlrLVpadlNNWVF4eGRiOXAwdGJJdHRyaHNaRGVHVUcwbGFpNkM3RUpwS1JQbFpGLTNlWkJ3NlppZmFqdDc1cjdsQUVjTEN0?oc=5",
-      "source": "cemnet.com",
-      "category": "Amrize",
-      "keywords": "Acquired",
-      "sector": "General",
-      "dealType": "Acquisition",
-      "value": "",
-      "date": "Jul 24, 2026",
-      "dateISO": "2026-07-24T08:25:40"
-    },
-    {
-      "title": "Orient Cement Q1 Net Profit \u20b977 Crore; To Acquire 9.04% Stake In Vena Energy - Free Press Journal",
-      "summary": "Orient Cement Q1 Net Profit \u20b977 Crore; To Acquire 9.04% Stake In Vena Energy Free Press Journal",
-      "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxORjRRc05PRlo0LUxqWTh1d05abjhFallvaEQ5djdHcHZuRkM1eXNmc3plZGZFZXFTZjYtanhCWUozSzBldndXdG1TYXJWVEIyRDIweUZTQ3hHZV8tbGJ3ZUVYbFNLQndXMFJqZWNNaUR4NTdGTjZEaUNxM2k1eXI1RE5WemdzT2VGMWYzVUszcWtTbDdwY201cWF1WHBYRXRud0ZTTkxzTEsxeDQyRHBpSS1VQ0lSaTNh0gG4AUFVX3lxTE5GNFFzTk9GWjQtTGpZOHV3TlpuOEVqWW9oRDl2N0dwdm5GQzV5c2ZzemVkZkVlcVNmNi1qeEJZSjNLMGV2d1d0bVNhclZUQjJEMjB5RlNDeEdlXy1sYndlRVhsU0tCd1cwUmplY01pRHg1N0ZONkRpQ3EzaTV5cjVETlZ6Z3NPZUYxZjNVSzNxa1NsN3BjbTVxYXVYcFhFdG53RlNOTHNMSzF4NDJEcGlJLVVDSVJpM2E?oc=5",
-      "source": "Free Press Journal",
-      "category": "Cement Industry",
-      "keywords": "Acquired, To Acquire",
-      "sector": "Cement",
-      "dealType": "Acquisition",
-      "value": "",
-      "date": "Jul 24, 2026",
-      "dateISO": "2026-07-24T07:28:36"
-    },
-    {
-      "title": "Orient Cement Q1 PAT Recovers 40% QoQ to \u20b977 Cr; Acquires Stake in 46 MW Wind Project - Trade Brains",
-      "summary": "Orient Cement Q1 PAT Recovers 40% QoQ to \u20b977 Cr; Acquires Stake in 46 MW Wind Project Trade Brains",
-      "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxPMmpxTllfQkZreU5HOVh5YjB1TmRmX0l4RDhJT0tvZTFOeWNyVE1LUUdUZkNWYnJVS0Rqems1RTdjNWhqRlpDcTJsR2QzdjFYNnBEUGE3eFdoMEJIVE0ycnNuRjcxbGliR0xvWGJVUGJJQ1ROTi1TVGdvdzkzWXhJMkkyR2dtX25TS0ZrUDV2LTVoNWZYOXp2cjVobzR4Q2NIVWxTb1lUSC1mdw?oc=5",
-      "source": "Trade Brains",
-      "category": "Cement Industry",
-      "keywords": "Acquired",
-      "sector": "Cement",
-      "dealType": "Acquisition",
-      "value": "",
-      "date": "Jul 24, 2026",
-      "dateISO": "2026-07-24T05:59:00"
-    },
-    {
-      "title": "Tindall Completes Atlanta Structural Concrete Acquisition to Expand Southeast Operations - Construction Owners",
-      "summary": "Tindall Completes Atlanta Structural Concrete Acquisition to Expand Southeast Operations Construction Owners",
-      "url": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxOejNXOUsydTZSOG5OVnNNMkducTloWjhfdnlZdEdTTGtGeTY5aHV6N0lTc1JIZ0k5QUU3T0lsUWptd1Fxb2VscjF1cjEwWVR6QjRDRlBPQVBRVDFOYkduSEJwZkFINEp0RVNXeS02SHpFWlhpXzFraUowTFI4RkQyVC03eU9OZHhMNlhUeHBVQzFDaEtTbFprMXJPblRYd3E0ejVBWkxEWDYtaWhqOXQzNEs3V1FGRS1Wa2Z2T0p5NmZTc3IyWkg4MGZJcUREQnpj?oc=5",
-      "source": "Construction Owners",
-      "category": "Precast Industry",
-      "keywords": "Acquired",
-      "sector": "General",
-      "dealType": "Acquisition",
-      "value": "",
-      "date": "Jul 24, 2026",
-      "dateISO": "2026-07-24T02:09:34"
-    },
-    {
-      "title": "Arcosa Won\u2019t Host Q2 Call; $150-a-Share CRH Deal Needs Approvals - Stock Titan",
-      "summary": "Arcosa Won\u2019t Host Q2 Call; $150-a-Share CRH Deal Needs Approvals Stock Titan",
-      "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxOZERXeVp3akl2cHNwUUZ2NzZVQ1lTTWp6cnM3elNfSlVxN1Nxb1ZtX0JPRFc1U1RkSTZMWS02akhBWEVhc01BV19FcXJrOEdEN0dXTkxxcGFVZi1qQWNUS2NpdW1oTk5fbGw4R3NwbGwyUV93RVF1Z3RrcUwwMGtvY2k4SENiREUxWFlNS0NxeC1kcXVRYmJrbmpDc0N3cEV4eVd0VF9iNTBGbG1QYk9nTmgzRWJkYm8?oc=5",
-      "source": "Stock Titan",
-      "category": "Arcosa",
-      "keywords": "",
-      "sector": "General",
-      "dealType": "Acquisition",
-      "value": "",
-      "date": "Jul 23, 2026",
-      "dateISO": "2026-07-23T20:15:00"
-    },
-    {
-      "title": "SUM stock trades steady as Summit Materials integrates Argos deal and eyes margin gains - Ad-hoc-news.de",
-      "summary": "SUM stock trades steady as Summit Materials integrates Argos deal and eyes margin gains Ad-hoc-news.de",
-      "url": "https://news.google.com/rss/articles/CBMizgFBVV95cUxOVnJ5QlBQYmtLd1lJS0gxMG05RVZKeGdVSUk1Nm4tbE5VSWNOU1d3Z2lFTlkyRlplUnRTNnFuci14U3FuQVc1VURFb0JhZDFSSDNJTkJ1VFpMLTZweGVzNTBLeTZKZmw4NjN0UEdndTY4ME9ndC1BLUNjOXZfdF84aldieURXZ0xPeTJjbE9vTjhvTVE2TFdBVFBYakZUNU84R1RvcFVJLXVBd3ZBWFJKWGV1aHhkeXFYRFR2dHBCQmhWei1hSVI3WnNxdDRlZw?oc=5",
-      "source": "Ad-hoc-news.de",
-      "category": "Aggregates Industry",
-      "keywords": "",
-      "sector": "General",
-      "dealType": "Acquisition",
-      "value": "",
-      "date": "Jul 23, 2026",
-      "dateISO": "2026-07-23T19:36:30"
-    },
-    {
-      "title": "Borgman Capital Acquires Concrete Production Equipment Distributor CMW - Modern Distribution Management",
-      "summary": "Borgman Capital Acquires Concrete Production Equipment Distributor CMW Modern Distribution Management",
-      "url": "https://news.google.com/rss/articles/CBMizgFBVV95cUxPLWlTVEpzQUJHQTBkSm9WSHlpbUFtbUQ5UjRvUDk1SkRNOWt2cklUN05HRWRxa3ZhZWRCbDlSOVptQm0xSzBNbVZfcGNuWVZGUUc3QW9RSDRSWVZnd0kzWnM0NHZhNjB3U2U0eFd5VVk1RGdyRzZOSmJLR0tvN3NhTFV5eXZNb3Nzb09TNVZKQWxxWmxiazlnY0lPYXFuWWdUUHppTGpibG5HdmRMazJsbmM2THhCWU5uWWlkbHk4a2ZmMjJYSG96UEVhVEliUQ?oc=5",
-      "source": "Modern Distribution Management",
-      "category": "Asphalt Industry",
-      "keywords": "Acquired",
-      "sector": "General",
-      "dealType": "Acquisition",
-      "value": "",
-      "date": "Jul 23, 2026",
-      "dateISO": "2026-07-23T19:20:40"
-    },
-    {
-      "title": "Orient Cement announces financial results and acquisition of Vena Energy stake - Business Upturn",
-      "summary": "Orient Cement announces financial results and acquisition of Vena Energy stake Business Upturn",
-      "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxNY1UzM3phY0JZTVVhQl9LSXdaTWNDb2FiREt3M3ZaQ1VvdXk3V1RfWmZzLU5PYW16YUlnLVA3ejFqRnlzMUJoRUtDYkFoLWdNZmkzRjNaZ3ZGV2JvNVlwb0V4REczc1JyMWZ0bkVMOXA0ei0teW40dkNnY1pSTm94VEtuNmNyY21IbG1ueDlzaGRJdHFxaHQwb0szdjhuU0hoWGRQdjAzV0ZUcUE0OFNxc3NycFU5QQ?oc=5",
-      "source": "Business Upturn",
-      "category": "Cement Industry",
-      "keywords": "Acquired",
-      "sector": "Cement",
-      "dealType": "Acquisition",
-      "value": "",
-      "date": "Jul 23, 2026",
-      "dateISO": "2026-07-23T15:05:05"
     }
   ]
 }
