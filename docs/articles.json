@@ -1,10 +1,88 @@
 {
-  "fetchedAt": "2026-08-23T13:28:12.519412",
-  "totalArticles": 168,
-  "newToday": 18,
-  "duplicatesRemoved": 10,
+  "fetchedAt": "2026-08-24T13:59:05.684255",
+  "totalArticles": 174,
+  "newToday": 20,
+  "duplicatesRemoved": 11,
   "archiveDays": 30,
   "articles": [
+    {
+      "title": "eSwatini Regulator Approves AfriSam eSwatini Acquisition by WINBM with Conditions - News and Statistics - IndexBox",
+      "summary": "eSwatini Regulator Approves AfriSam eSwatini Acquisition by WINBM with Conditions - News and Statistics IndexBox",
+      "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxOTUV0dUVZU3VIajlfSkpZenBmZG9DR3FjSkhDWlBESGxGMlJLWC1WSXQtZ0FwbWEzRG9FYVpWVlE3R2VibXY3dVl3ZzBWQ2pkeTJ1SlVOTXRiTWNNdHN3MXZ6QWo4djRDQ0R0Sk9Pbl9uSk9mY1RGNVltejBEMDlaQmZpMDdHRnVCRVBlUk9RMTRaQlY3ZGJReTNpRmoyR282OG84V3VXbE42YlFEbjJBdUlsdDZMQQ?oc=5",
+      "source": "IndexBox",
+      "category": "Cement Industry",
+      "keywords": "Acquired",
+      "sector": "General",
+      "dealType": "Acquisition",
+      "value": "",
+      "date": "Aug 24, 2026",
+      "dateISO": "2026-08-24T11:30:00"
+    },
+    {
+      "title": "Martin Marietta completes Lhoist North America acquisition By Investing.com - Investing.com Canada",
+      "summary": "Martin Marietta completes Lhoist North America acquisition By Investing.com Investing.com Canada",
+      "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxQUzgwNEdKTVBwcFcxT0FJUVhDdHpYaVhWS3l5RXVSZ0VzM2NTemlRU2o1MjN5TDZDa2RZZDJKVWNFeVFRVW1pR3dfMERwbXdveTVhelpYQVota2V2XzBHNk1UcnB0ZUJESG9Cek1rSXRxQ3NQZ2RXbXhfTkRRdFF1WWxsb3JVdXdSblBsVEVTT3FuWVFhMldLUldqY3BWNDhjLVhfNWgxTk1SM3hFV0dqbjZNOEU1WXp4OHA0?oc=5",
+      "source": "Investing.com Canada",
+      "category": "Martin Marietta",
+      "keywords": "Acquired, Investment",
+      "sector": "General",
+      "dealType": "Investment",
+      "value": "",
+      "date": "Aug 24, 2026",
+      "dateISO": "2026-08-24T11:08:51"
+    },
+    {
+      "title": "CRH stock strengthens on Arcosa acquisition move - Ad-hoc-news.de",
+      "summary": "CRH stock strengthens on Arcosa acquisition move Ad-hoc-news.de",
+      "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxNWEcwYUlHem80RmVDU1BVSjBIWF9xcl9heE14VlhPR2RXZGx2UTZZWnMyN2FKWXl4aXRmZ2tvUXFqRE5kOE14QlVqQ0ZlZXdNX1Q4blg0RmxoMjdSQ2xaNngyN09vLVBZWFh5X2NfNmJRczF3QlZwMmRCM2hvZXJmdW5oRUpiNHVYcU55cC1tU3VrSlZJN09hUnFvRDVWNEhzX29nRlZKUW9wT0hUSnBIag?oc=5",
+      "source": "Ad-hoc-news.de",
+      "category": "Aggregates Industry",
+      "keywords": "Acquired",
+      "sector": "General",
+      "dealType": "Acquisition",
+      "value": "",
+      "date": "Aug 24, 2026",
+      "dateISO": "2026-08-24T08:53:58"
+    },
+    {
+      "title": "AfriSam Eswatini acquisition provisionally approved - CemNet.com",
+      "summary": "AfriSam Eswatini acquisition provisionally approved CemNet.com",
+      "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxOQkl6dGdwOFA2QnVMT1BKdTNfQjVxNnhZYy1JbzNUMkpIYTVyQlpVUUczN1VhNEt2eGszcWhvUHZFRUcwWENTUU5NcEhWT2NzZDI2d1QyTl9kbjJzZWZTaWxHNDBtaTZTbDk5VUEzajI5QXdsMzZMYlhkX0Y4aWFab2MyVU1DcVVVMTluaUNBMG0wOXNjdXQyN2NDX2h1Zw?oc=5",
+      "source": "CemNet.com",
+      "category": "Cement Industry",
+      "keywords": "Acquired",
+      "sector": "General",
+      "dealType": "Acquisition",
+      "value": "",
+      "date": "Aug 24, 2026",
+      "dateISO": "2026-08-24T08:08:00"
+    },
+    {
+      "title": "Holcim stock steady as Fermacell deal and raised 2026 guidance reshape outlook - Ad-hoc-news.de",
+      "summary": "Holcim stock steady as Fermacell deal and raised 2026 guidance reshape outlook Ad-hoc-news.de",
+      "url": "https://news.google.com/rss/articles/CBMizgFBVV95cUxOVU5DaUV4eXlSS0QxWER3VXo0Q2ZEeFA1c1BkaDhxaWZ6U1dCczdUb2J0dGFMbmFZMWctbkFrRFkzSTVrYnF2ZUI3T0tTTTZ6d2hXY1NkczctMzVxUE9wend6S19GaXZrOWdISzExOF8yZXN1WDVkc0pnUENpdHh2M3F3U3NzM0ZKYmNOYlQ3X0VzeG45TVlfenY5andBR2NlbGFnV0Q1SWhNQkw1WUhzWVZRTWQ5djNxdlprcVdUdzJqNDdsUjdDRWgwSW5zZw?oc=5",
+      "source": "Ad-hoc-news.de",
+      "category": "Holcim",
+      "keywords": "",
+      "sector": "General",
+      "dealType": "Acquisition",
+      "value": "",
+      "date": "Aug 24, 2026",
+      "dateISO": "2026-08-24T05:45:58"
+    },
+    {
+      "title": "SparrowHawk & Almanac Secure $236 Million Acquisition Loan for EQT Industrial Portfolio - CommercialCafe",
+      "summary": "SparrowHawk & Almanac Secure $236 Million Acquisition Loan for EQT Industrial Portfolio CommercialCafe",
+      "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxPVEpzWFlEZFM4NFp3ak04OEdOb2M4SUxpaHkzU0JUazVaUUQ2X0dLbDY3anZOT1V3Q0pUTWVsd1hsSDNwUXd0MVJCVV96QTFmT2c2Um1SaGFJQWpyY1pySndPbERxVEl4ZU5CMnk5eGJqYUtPbzVpd3piRm53b0JyS3JXcnR5RXNUTjhlUXk1VmVtYlN5VF9DdEdtd2hoRXc?oc=5",
+      "source": "CommercialCafe",
+      "category": "Precast Industry",
+      "keywords": "Acquired",
+      "sector": "General",
+      "dealType": "Acquisition",
+      "value": "$236M",
+      "date": "Aug 24, 2026",
+      "dateISO": "2026-08-24T04:08:33"
+    },
     {
       "title": "151,222 Shares in Gencor Industries, Inc. $GENC Acquired by De Lisle Partners LLP - MarketBeat",
       "summary": "151,222 Shares in Gencor Industries, Inc. $GENC Acquired by De Lisle Partners LLP MarketBeat",
@@ -17,6 +95,32 @@
       "value": "",
       "date": "Aug 23, 2026",
       "dateISO": "2026-08-23T08:09:50"
+    },
+    {
+      "title": "Ambuja Cements to hold Sep 28 meeting for Orient Cement merger - scanx.trade",
+      "summary": "Ambuja Cements to hold Sep 28 meeting for Orient Cement merger scanx.trade",
+      "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxPZjBfckxXN3oteXNCRm1xWlpjYW1UX0V3aF9OdG8tODJ2aVI1WVFOY0Fqdk9OV1RCR3hZSjVtYlVIQlV3YS0yQXlFcXRhMURQNjVmeDl3T2lIYUxHVzBDdkpDTnhqZ1VNQ2pUT2NTaHY3QnhZeVo1dUl3Z2Q2ZDhRN1Z2RUpVZm5KZmJDVmNBNzJqWmhnV1ZIbEJJMU1LV3lCUjBjc0FVSVUxb2RnNHFqQjYweTVNbEk?oc=5",
+      "source": "scanx.trade",
+      "category": "Cement Industry",
+      "keywords": "Merger",
+      "sector": "Cement",
+      "dealType": "Merger",
+      "value": "",
+      "date": "Aug 23, 2026",
+      "dateISO": "2026-08-23T06:55:03"
+    },
+    {
+      "title": "Competition Commission of Pakistan Approves Maple Leaf Cement Share Acquisition in Faysal Bank - TechJuice",
+      "summary": "Competition Commission of Pakistan Approves Maple Leaf Cement Share Acquisition in Faysal Bank TechJuice",
+      "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxNUXgyMWVDTGthOWFkcUNvTDJnbGJsbERlejd1WGNfcllfdFAxQkZSbld1c1l3WFZNR2pBNWdodVNBN1VOS04wbkxDdWpUMjh4bDRnQUpCSmE0R0JIdVlqUVFpUzhRZDlvbDlaT0dGYkVpUUlMbzN2WFliNkU1V3licjl2MHM0SHNLaVZwSWd3dzVRSjlmdGswZmRxYVRWRDY0Q2tHeDNjNV9wMGR5Uzdjd0NGd3NsODdCeFdqZA?oc=5",
+      "source": "TechJuice",
+      "category": "Cement Industry",
+      "keywords": "Acquired",
+      "sector": "Cement",
+      "dealType": "Acquisition",
+      "value": "",
+      "date": "Aug 22, 2026",
+      "dateISO": "2026-08-22T17:24:44"
     },
     {
       "title": "Ceredex Value Advisors LLC Purchases Shares of 57,250 Arcosa, Inc. $ACA - MarketBeat",
@@ -2073,6 +2177,19 @@
       "dateISO": "2026-07-28T07:00:00"
     },
     {
+      "title": "Amrize expands Texas footprint with Rapid Redi-Mix acquisition - CemNet.com",
+      "summary": "Amrize expands Texas footprint with Rapid Redi-Mix acquisition CemNet.com",
+      "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxONEJVQnV0VmdFOG1qUGQtZW9YeU5LbUlUclVRUno2UnVLaXV1Y0Y2dWx3YnRQY2NqamVXTFdSZ3VTalQ1Q3NYd1dBMGx0dzJoS205OVRnSkdKVGhSNTdlM21FOTRsbXlrLVpadlNNWVF4eGRiOXAwdGJJdHRyaHNaRGVHVUcwbGFpNkM3RUpwS1JQbFpGLTNlWkJ3NlppZmFqdDc1cjdsQUVjTEN0?oc=5",
+      "source": "CemNet.com",
+      "category": "Amrize",
+      "keywords": "Acquired",
+      "sector": "General",
+      "dealType": "Acquisition",
+      "value": "",
+      "date": "Jul 28, 2026",
+      "dateISO": "2026-07-28T07:00:00"
+    },
+    {
       "title": "Tindall Corporation Completes Acquisition Of Atlanta Structural Concrete - Pulse 2.0",
       "summary": "Tindall Corporation Completes Acquisition Of Atlanta Structural Concrete Pulse 2.0",
       "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxOd3hNMllxTVRVSTU4S3VJSzV3b3U2bm1pRlNGZ1lSOENaMzhzQm9jR2hyTGJ3Y1lSVnFTN1JEeThBaDRBcnRkR0JIU3ZCYXUyZ2Y2Q1Z1WThaSUJ1UVpWZkt6YTBSNjJDZ2FWRnhnRDlPelJTM3RoQkxsREVCOWt1b2ZldExqRENtNWw0QkR0NXlUMjRTdlRr0gGcAUFVX3lxTFBGVmZUZnRCYy1hNG9Vam5LdTN6LTh4dnVYYjJuQTRyRFhvNFc0REpBNFFCQUZ4RE9QQ2VsNEtKSjllS2Mzd05QZWNZb1N6WHNISDdWa0I2VWpGbkhGRTFNZ3NieXpHdnJUNzlORlI0ZTBaWTlOVGJTeFdqTU5fVHRCZDd2VFNwVEN4Wm9xaTFETkFoMmRnWkxYdEUzQQ?oc=5",
@@ -2149,45 +2266,6 @@
       "value": "",
       "date": "Jul 25, 2026",
       "dateISO": "2026-07-25T15:12:12"
-    },
-    {
-      "title": "Arcosa, Inc. $ACA Shares Acquired by Fifth Third Bancorp - MarketBeat",
-      "summary": "Arcosa, Inc. $ACA Shares Acquired by Fifth Third Bancorp MarketBeat",
-      "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxPNV9OMGhwY1N3dTVUWmFXZ19lem93V0hjREFRSmdZTEp0SUV2MnViUWtkZE5GcjNkcGNFaGc1OEFxUmZrV1VlX2JvMG5EemtQYUx0NjViVGdoQl9RTEc1SXRpR2oxZUtxVEdCMlFzZTBwU2tjQm9Oc1A1NVk2Z3Fka2JrRi1NSktUb3NRR2dnZVA2bGg4VUM2b0Rsb1k1T2tRQXdIODRGSkllWFRXVk9hZWhIMjk?oc=5",
-      "source": "MarketBeat",
-      "category": "Arcosa",
-      "keywords": "Acquired",
-      "sector": "General",
-      "dealType": "Acquisition",
-      "value": "",
-      "date": "Jul 25, 2026",
-      "dateISO": "2026-07-25T07:34:34"
-    },
-    {
-      "title": "Arcosa (ACA) Agrees To All Cash CRH Buyout Pending Stockholder Approval - simplywall.st",
-      "summary": "Arcosa (ACA) Agrees To All Cash CRH Buyout Pending Stockholder Approval simplywall.st",
-      "url": "https://news.google.com/rss/articles/CBMiywFBVV95cUxQeXFRcld1cXBkajNSTWJZa24tcGpCOHMxcC1iSVpXZjJhQTlfbjRfMkJVZUU4ZXo1ck5CZHE0b3ZvamtkSmJpRkFHbkF1cVpfWDRSWjg2WWNWNnQyeW9LTjZiS2o3eW9SeFdyM1pQRWRkcF9WbGhOX2dQdTUzc255REUyQk1HQ2twYW1GVUJrQmRaTVlOUERUdUV0QUlXaVZ2VU5DLWlHb3pPQnRLckwzQXRlbkdFMWFSbnlsTXhjSVNObWUyTFNtRmxPQdIBywFBVV95cUxQeXFRcld1cXBkajNSTWJZa24tcGpCOHMxcC1iSVpXZjJhQTlfbjRfMkJVZUU4ZXo1ck5CZHE0b3ZvamtkSmJpRkFHbkF1cVpfWDRSWjg2WWNWNnQyeW9LTjZiS2o3eW9SeFdyM1pQRWRkcF9WbGhOX2dQdTUzc255REUyQk1HQ2twYW1GVUJrQmRaTVlOUERUdUV0QUlXaVZ2VU5DLWlHb3pPQnRLckwzQXRlbkdFMWFSbnlsTXhjSVNObWUyTFNtRmxPQQ?oc=5",
-      "source": "simplywall.st",
-      "category": "CRH",
-      "keywords": "Buyout",
-      "sector": "General",
-      "dealType": "Acquisition",
-      "value": "",
-      "date": "Jul 25, 2026",
-      "dateISO": "2026-07-25T07:22:49"
-    },
-    {
-      "title": "Arcosa (NYSE: ACA) backs CRH all-cash buyout at $150 per share - Stock Titan",
-      "summary": "Arcosa (NYSE: ACA) backs CRH all-cash buyout at $150 per share Stock Titan",
-      "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxNRVlwNDBLNnd5bWZ4d01zZXFSTmxUb1hsVGkyN2ZkbVVBTWt4U0dtTTR5ekF6VG92OGFrM2tXbFZucGlEM0hFUV8yMS1IeXkyQi15cTRDNWp2Z1JfaFJaazVKcXpyX2pPczc1UGpDQUpHeE56ck5Fb0thVGhzTzNtN1BtaTZqdkNQRVBHTzdKTkUzY1BmYUlZX0JacG1iMDlSUU11QlJDT1lva1ktMkhtNldaMmo?oc=5",
-      "source": "Stock Titan",
-      "category": "CRH",
-      "keywords": "Buyout",
-      "sector": "General",
-      "dealType": "Acquisition",
-      "value": "",
-      "date": "Jul 24, 2026",
-      "dateISO": "2026-07-24T20:24:11"
     }
   ]
 }
