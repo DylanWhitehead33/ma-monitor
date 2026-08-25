@@ -1,10 +1,88 @@
 {
-  "fetchedAt": "2026-08-24T13:59:05.684255",
-  "totalArticles": 174,
-  "newToday": 20,
-  "duplicatesRemoved": 11,
+  "fetchedAt": "2026-08-25T13:44:52.931481",
+  "totalArticles": 179,
+  "newToday": 17,
+  "duplicatesRemoved": 10,
   "archiveDays": 30,
   "articles": [
+    {
+      "title": "Holcim agrees \u20ac840m acquisition of Fermacell building-board business - Fordaq",
+      "summary": "Holcim agrees \u20ac840m acquisition of Fermacell building-board business Fordaq",
+      "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxPSUZGbU9CZ0NDY3JXV213Z0kyNHkzdG55TjdRMEhfbmV1X0Q5YVh4UFIzY2pxTlZBY0RqUXh5NThlOVVjbm5zNjhuUVZ6OU51RVpZdzhuZTFKbGFUS1NNaGozalN3bW5mdTBVaEFfLW9nY1NKNng0QmN1VlNfdGNvNkhCdE9uTkVXWHc?oc=5",
+      "source": "Fordaq",
+      "category": "Holcim",
+      "keywords": "Acquired",
+      "sector": "General",
+      "dealType": "Acquisition",
+      "value": "",
+      "date": "Aug 25, 2026",
+      "dateISO": "2026-08-25T09:54:30"
+    },
+    {
+      "title": "$7B Lhoist deal creates new major holder at Martin Marietta (MLM) - Stock Titan",
+      "summary": "$7B Lhoist deal creates new major holder at Martin Marietta (MLM) Stock Titan",
+      "url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxQaGtZTzBWMjBHN0gtVHdyb01kbXkyUnI3Zy1SLW05ZFZxcmljNmM0MWZ0OE1QOEJEb0tpb0ZXTVpZYkN5WG9uM1ZoN2ZrdkVZbXVqbWhjemVMNDA4V1RRTVJoTVVXY29KN0RNNGVzWnA3Z184cHFhWVVmUnZQeGpYWjl1X2NDN1V1RW1BV2lLWkZ0cjFhQU1tMFl1NEwtTVgtVGphXzhhZUlhdlhRUVFsclJPR2h3OVJnUlJaOWhab1lGdjhTVEExbFp3?oc=5",
+      "source": "Stock Titan",
+      "category": "Martin Marietta",
+      "keywords": "",
+      "sector": "General",
+      "dealType": "Acquisition",
+      "value": "$7.00B",
+      "date": "Aug 24, 2026",
+      "dateISO": "2026-08-24T20:34:47"
+    },
+    {
+      "title": "Martin Marietta Finalizes $13.5 Billion Acquisition of Lhoist North America - Kalkine Media",
+      "summary": "Martin Marietta Finalizes $13.5 Billion Acquisition of Lhoist North America Kalkine Media",
+      "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxOenFhd2s4WjNIQm4yd0xiWGFIaWQtREd4TU1rY3VOTXRWVFJ0Z3cwa2R3clpVZjJodFBSeVA3MzlUS092REVrYzdxQThZQUFRWnJVOXZSU2dyZTlIX1ozams4bEY1bGFzaTRlY3N5Y3pwM1B2cnhwVDJMUDZDb25ITEN4Rk1tN3hpMTY2bkI2VF8xNDRuUDFyanJBUVZFM2tzZC1KZWRMUEFXVTJva2c2RTFRZkI1a1BueExjRQ?oc=5",
+      "source": "Kalkine Media",
+      "category": "Martin Marietta",
+      "keywords": "Acquired",
+      "sector": "General",
+      "dealType": "Acquisition",
+      "value": "$13.50B",
+      "date": "Aug 24, 2026",
+      "dateISO": "2026-08-24T18:28:27"
+    },
+    {
+      "title": "Martin Marietta (MLM) Completes $13.5 Billion Acquisition of Lho - GuruFocus",
+      "summary": "Martin Marietta (MLM) Completes $13.5 Billion Acquisition of Lho GuruFocus",
+      "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxPc0U3UEpYYVZpRUJDZmpuNkR2UGhiNEprTkxlSlBFYnhZeTVOeGxtMEw3YmdmdzBJRjd5Wko4c3BFQ2xRZTlZWlFZbGUtRlA2ZjJPM2FSZEFJcldXNTVnUzRha2ItcFI4ZS1jZ25GVzh5VXcwbVZWc05aeHN0SFd4WWV5b1pTNlpCOEtPSWxtNmpsNTdKLWFrTHRybmk1QVQ2bjBHNDhXWXVoRk5ydGJiazhPS3Z2U0k?oc=5",
+      "source": "GuruFocus",
+      "category": "Martin Marietta",
+      "keywords": "Acquired",
+      "sector": "General",
+      "dealType": "Acquisition",
+      "value": "$13.50B",
+      "date": "Aug 24, 2026",
+      "dateISO": "2026-08-24T16:53:16"
+    },
+    {
+      "title": "Done deal: Martin Marietta completes Lhoist North America merger - Pit & Quarry",
+      "summary": "Done deal: Martin Marietta completes Lhoist North America merger Pit & Quarry",
+      "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxQNlNkc2pYOHBBeUczT1FMSnZpVmlhXzNvVXBxMzlNQklOd1pDd2tKNXhwQWhZSUU0TVhoRzRrMmJYaUNmd0VadnNScXd3bGZPSU5wdEFTS2ZJWHhJYUNFLWQwTC1zTWFpV1dKNVhXYU1vMFYxbmNEay01VEVVTk9SaGN1RmtLNk13SjZuaWR3VGVfdzRJMzdjWg?oc=5",
+      "source": "Pit & Quarry",
+      "category": "Pit & Quarry \u00b7 Aggregates",
+      "keywords": "Merger",
+      "sector": "Aggregates",
+      "dealType": "Merger",
+      "value": "",
+      "date": "Aug 24, 2026",
+      "dateISO": "2026-08-24T15:10:15"
+    },
+    {
+      "title": "Martin Marietta Closes $13.5B Lhoist North America Acquisition - Minichart",
+      "summary": "Martin Marietta Closes $13.5B Lhoist North America Acquisition Minichart",
+      "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxNRndPSi1YRkFESUo4NmREU3k1REExbHVsVHdqNlRBbW1xOWFEWjNuWTd5eWpjczY2dGFGRHFyQk9vajd0N0ZkdlFHTURKd1dVX2pDT1RtUk9YN0l4dXZFNW9SbGdXSHAzalRMTXpJSzZaZEtjY2dIVkZjLXhRUXc4UlJkMzJQOTVObGVZbzJ0SVJNTGpCcUhSTHJUbGpYdzNVdDRvbQ?oc=5",
+      "source": "Minichart",
+      "category": "Martin Marietta",
+      "keywords": "Acquired",
+      "sector": "General",
+      "dealType": "Acquisition",
+      "value": "$13.50B",
+      "date": "Aug 24, 2026",
+      "dateISO": "2026-08-24T13:07:00"
+    },
     {
       "title": "eSwatini Regulator Approves AfriSam eSwatini Acquisition by WINBM with Conditions - News and Statistics - IndexBox",
       "summary": "eSwatini Regulator Approves AfriSam eSwatini Acquisition by WINBM with Conditions - News and Statistics IndexBox",
@@ -2190,6 +2268,19 @@
       "dateISO": "2026-07-28T07:00:00"
     },
     {
+      "title": "#e4mExclusive: Accenture Song partners with creative agency The Womb; acquisition under discussion - Exchange4Media",
+      "summary": "#e4mExclusive: Accenture Song partners with creative agency The Womb; acquisition under discussion Exchange4Media",
+      "url": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxOVU5nanJka3hXbE92RlkwRzhPVFo3UzhNNWprZHFHeUQtTHBKX0JXTFYxLUY5YlFBT051SFdXQ0p1WHN2bmlHMU41MnVUYjVCaWZnVF9lSE43bjhEX0tLSFVHbm1GdGhER1FQNXVjS0phSzlQZWdZSlp4aUNWT2hCVzFaeGhpQmpFa0JUQzMtdllXNHZjYnFyQjc1ekRjQ3d5cThiSks1V1ZfQ3kxazN3X0owSTJFV1BFSEtlMjg2WDNIM3NyVUhUcDdfRHFmQko4UDloVkRTZ0h4Zw?oc=5",
+      "source": "Exchange4Media",
+      "category": "Cement Industry",
+      "keywords": "Acquired",
+      "sector": "General",
+      "dealType": "Acquisition",
+      "value": "",
+      "date": "Jul 28, 2026",
+      "dateISO": "2026-07-28T07:00:00"
+    },
+    {
       "title": "Tindall Corporation Completes Acquisition Of Atlanta Structural Concrete - Pulse 2.0",
       "summary": "Tindall Corporation Completes Acquisition Of Atlanta Structural Concrete Pulse 2.0",
       "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxOd3hNMllxTVRVSTU4S3VJSzV3b3U2bm1pRlNGZ1lSOENaMzhzQm9jR2hyTGJ3Y1lSVnFTN1JEeThBaDRBcnRkR0JIU3ZCYXUyZ2Y2Q1Z1WThaSUJ1UVpWZkt6YTBSNjJDZ2FWRnhnRDlPelJTM3RoQkxsREVCOWt1b2ZldExqRENtNWw0QkR0NXlUMjRTdlRr0gGcAUFVX3lxTFBGVmZUZnRCYy1hNG9Vam5LdTN6LTh4dnVYYjJuQTRyRFhvNFc0REpBNFFCQUZ4RE9QQ2VsNEtKSjllS2Mzd05QZWNZb1N6WHNISDdWa0I2VWpGbkhGRTFNZ3NieXpHdnJUNzlORlI0ZTBaWTlOVGJTeFdqTU5fVHRCZDd2VFNwVEN4Wm9xaTFETkFoMmRnWkxYdEUzQQ?oc=5",
@@ -2240,32 +2331,6 @@
       "value": "",
       "date": "Jul 27, 2026",
       "dateISO": "2026-07-27T07:00:00"
-    },
-    {
-      "title": "Cemex S.A.B. de C.V. $CX Shares Acquired by Sei Investments Co. - MarketBeat",
-      "summary": "Cemex S.A.B. de C.V. $CX Shares Acquired by Sei Investments Co. MarketBeat",
-      "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxOYzg0TXJKMU1qYmVwZjJvS2VjZlpsN0RpRlVjeGdqVVBrSVRtQk0wOTR1OWdkck81bHowbWhYNWw0OXQ0YVc4WVBNSnFaYzZqVHcyQ1NPbGV4UnBXX1pEd19xTXpsZ0k0WHJrYXVSdXFrM2hiR0ZiaFgyMmdoYUd1SGk3ZTRqaXI2d1hBM3B2OHc4Y2VRZ25nSHVySmY2ekppRnNERER1QnloUnFJMHRTT2JGYlQ1c3Fy?oc=5",
-      "source": "MarketBeat",
-      "category": "Cemex",
-      "keywords": "Acquired, Investment",
-      "sector": "General",
-      "dealType": "Investment",
-      "value": "",
-      "date": "Jul 26, 2026",
-      "dateISO": "2026-07-26T07:00:00"
-    },
-    {
-      "title": "Dalmia Bharat Q1FY27 net profit falls 51% on acquisition costs - scanx.trade",
-      "summary": "Dalmia Bharat Q1FY27 net profit falls 51% on acquisition costs scanx.trade",
-      "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxPenV2SC10cWdsRTFkUERGTDVDTVJlYmR1UVFrZjNBektzTUgyaTJ4XzViaHlsREpiUEFNbVJNNE1HWEVxMVhpSkxndE9IeDRwZFMzTUZfTkc4TU1sdHhOVlBZWWlmSkFBdzUwVVFkMTAtRzhjSlcyM1hUelVrRU83TnEzUHVBNXFkSnhjamJ5cWJzcE4yYU9TQ0ZaalFYdzZrOXR1QWJvY1Z0WThCYXk2VTB3RWRLLV96OWc?oc=5",
-      "source": "scanx.trade",
-      "category": "Cement Industry",
-      "keywords": "Acquired",
-      "sector": "General",
-      "dealType": "Acquisition",
-      "value": "",
-      "date": "Jul 25, 2026",
-      "dateISO": "2026-07-25T15:12:12"
     }
   ]
 }
