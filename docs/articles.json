@@ -1,10 +1,88 @@
 {
-  "fetchedAt": "2026-08-26T13:51:08.138093",
-  "totalArticles": 182,
-  "newToday": 17,
-  "duplicatesRemoved": 10,
+  "fetchedAt": "2026-08-27T22:44:49.247831",
+  "totalArticles": 185,
+  "newToday": 15,
+  "duplicatesRemoved": 7,
   "archiveDays": 30,
   "articles": [
+    {
+      "title": "14,090 Shares in Arcosa, Inc. $ACA Acquired by Castleark Management LLC - MarketBeat",
+      "summary": "14,090 Shares in Arcosa, Inc. $ACA Acquired by Castleark Management LLC MarketBeat",
+      "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxPU01DY18wZzcydWJjUWRHN09kUWItOVZKbXZjdVluOG11Y2JOR0VCRTRVQXB2eThJZ0xLUEk4WjdZMjZCX0VzcVJHVWZIRnNMMkhEdlhjUXJpZVpzanFrUzA2OTlMSmJmZ3NUMmxyZ0pYVElLNDNNdkhCWXNwMlRVNGZHOU8zVXh3V0hUQXFYUnlQNnp0cGk4RjNFSmVrSllLU296Y0RRaG1lb05DUlQyTmtManlTYUdSZ2MwX2VMNWJwdjVTak1z?oc=5",
+      "source": "MarketBeat",
+      "category": "Arcosa",
+      "keywords": "Acquired",
+      "sector": "General",
+      "dealType": "Acquisition",
+      "value": "",
+      "date": "Aug 27, 2026",
+      "dateISO": "2026-08-27T08:05:48"
+    },
+    {
+      "title": "Amrize Ltd CLO Denise R. Singleton Acquires 3,500 Shares in Open Market Transaction - Kalkine Media",
+      "summary": "Amrize Ltd CLO Denise R. Singleton Acquires 3,500 Shares in Open Market Transaction Kalkine Media",
+      "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxQLXRhT2U1Wi1qM1hndUxwTFc4TzBFRW9GcGNNbTJCd3lfS29TZF9WRTFaZmI1RzczV3dIeDZnQ2hqTmt4dmhPeUhsVFlSTmE1cEZpX2xZaFhsZTVYNlBXM0l1SkZMcGdHVUdxRlMyZDhMUGk4S0h2b240NktZcmliNi1qSWhZelpXMmZyVnYzZHZXNS1vWnNMeGNHdjRkeDRwY0x2OE40UWZiRnBTaWZPN19zSWpLVWdXYjhiekhVV2I0WFJlaFU0?oc=5",
+      "source": "Kalkine Media",
+      "category": "Amrize",
+      "keywords": "Acquired, Transaction",
+      "sector": "General",
+      "dealType": "Acquisition",
+      "value": "",
+      "date": "Aug 26, 2026",
+      "dateISO": "2026-08-26T22:44:47"
+    },
+    {
+      "title": "Orient Cement Sets Shareholder Meet on Ambuja Merger Scheme - TipRanks",
+      "summary": "Orient Cement Sets Shareholder Meet on Ambuja Merger Scheme TipRanks",
+      "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxQbjRmXzF4cHRBWDVxemExMWRiVHRsQXZ0MW9Rb2dwcTJLVUNEX2lWY3hHU2tqZjNLOXcwclRQODlhYTdZZHo2WV8zMHhMN0JkaHNjVTVTRndHa3VGdFpBWTJ0U0J4ODhTNFliNFlsQmg5eWo5VXJzY2RqNXhOQ0hYb24tcmoyRXM1ZU1RNEdhN0VkbXRFWkJWWjZaQVZpTjE5V3dNZjBlLVZHWWREa0lYNQ?oc=5",
+      "source": "TipRanks",
+      "category": "Cement Industry",
+      "keywords": "Merger",
+      "sector": "Cement",
+      "dealType": "Merger",
+      "value": "",
+      "date": "Aug 26, 2026",
+      "dateISO": "2026-08-26T18:30:40"
+    },
+    {
+      "title": "Dangote Eyes Vessel Acquisition to Ease Export Logistics Challenges | - Business Post Nigeria",
+      "summary": "Dangote Eyes Vessel Acquisition to Ease Export Logistics Challenges | Business Post Nigeria",
+      "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxQWHVRaWktSDJvLVhhdmppcVE4bENQWXQzQ2oybkxvcmpiNEEzLUtDU0IwNGYwZDZZRk91RTM3Q0NuTTh2a1NUaHhLTlVvb2dSN2JPOHBYdzEySFFxWVpoeUU3b0NFRzFtbjVVSVZUTmJEdUVjTEhPa1NscU9Iem1vLWlZY2poMnlwMlYzZU5iVVV0TnU0QjN4d05SaFU5Wk5fZlE?oc=5",
+      "source": "Business Post Nigeria",
+      "category": "Cement Industry",
+      "keywords": "Acquired",
+      "sector": "General",
+      "dealType": "Acquisition",
+      "value": "",
+      "date": "Aug 26, 2026",
+      "dateISO": "2026-08-26T17:08:22"
+    },
+    {
+      "title": "Devyani International, Sapphire Foods revise proposed merger scheme - Business Standard",
+      "summary": "Devyani International, Sapphire Foods revise proposed merger scheme Business Standard",
+      "url": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxOZWNzUXdWaWhJaDF4SXh6eFNXMFFvU0RiQlBaYXB6RzNpeDNwS2FrNTNoNzZESFhoY0twWTQxa3pXcy05Uzd0ZHhvb1dmUXpRTkVTcnJqNU04NldmMjJ1elpScld0d0tjNUY0MW9TM0FTZk93TDFwcC1sQ0pMcUVKOEpDYkQ1M0REWVU4SFhtRVpXZzhjVGthY2pzU19jbGJ5N19Yc3dUVi1hUnhLQmFPVDJ2X2FNUU9xSnBzdk5WQnFwUzN5SUU0U0FQRXJEUGUw0gHWAUFVX3lxTE85OTVMdDhoQWxDZlFfY0dXWm5HWVRReXJoRnFIWW1MQVlTa2dMMmFrRzA5WEhxZzgyN2s3ck9kUDhlWXZDUGdidlYxYnNsWmcwNkU3U1FLY0F4VlVuUmNiTWJCSi11bTAzTktLV25sNXNQTFM1RUNIell1dXRzVUpseTZOSnRUdE9KYm5xSmY5aEhRMV9LY1ZfQUhDdlpDTEotZGZOZG9BTFJqdzByUjJQWl9ScFZRdkdoUFlFbzBjUDVGSDlENlVpcDc0OXRsbGNZMHI5RFE?oc=5",
+      "source": "Business Standard",
+      "category": "Cement Industry",
+      "keywords": "Merger",
+      "sector": "General",
+      "dealType": "Merger",
+      "value": "",
+      "date": "Aug 26, 2026",
+      "dateISO": "2026-08-26T16:22:57"
+    },
+    {
+      "title": "Raleigh company closes $13.5B deal for Texas giant, now leads U.S. lime market - The Business Journals",
+      "summary": "Raleigh company closes $13.5B deal for Texas giant, now leads U.S. lime market The Business Journals",
+      "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxQWEJoVGtfLTdJbUpXbEdEOEZvWnNfSDl0clpOV0hJd0JPNjFjRmFXTEg2Z1BqWWdUYVdRSXk4M0FxN1J2Yi0zSXcxNTZtWnhfUUZQbUN3a05kUzBBRlU4ZnpfQXpBaGYxVGFnMlludmw4UEZwTXBJcG02V3hNQWJUd21pSTJRSms4RVp3d2xMQWEzOEFwenUxazZiTmpJVERKVjl1Nw?oc=5",
+      "source": "The Business Journals",
+      "category": "Aggregates Industry",
+      "keywords": "",
+      "sector": "General",
+      "dealType": "Acquisition",
+      "value": "$13.50B",
+      "date": "Aug 26, 2026",
+      "dateISO": "2026-08-26T16:07:00"
+    },
     {
       "title": "Dangote plans vessel acquisition to support regional exports - CemNet.com",
       "summary": "Dangote plans vessel acquisition to support regional exports CemNet.com",
@@ -1202,6 +1280,19 @@
       "dateISO": "2026-08-09T08:10:18"
     },
     {
+      "title": "Lumina Datamatics Completes Acquisition of TNQTech, Creating a Global Leader in Scholarly Publishing Solutions - Business Standard",
+      "summary": "Lumina Datamatics Completes Acquisition of TNQTech, Creating a Global Leader in Scholarly Publishing Solutions Business Standard",
+      "url": "https://news.google.com/rss/articles/CBMimgJBVV95cUxQQmhUZlpCWnF5MW1RSGhZZFlxNXFDR3dySHVrbFphaTlzdnRZV094SlN2MXVJaWVNTkpsRUhtNnNza0pKTXg4bUN4S3ZJS0MtcXdPUUYxTFJ0WXIyeTllcnVrRWItc1JEV19VWDFnSnc3VTgxaS1lRnFsUjVtM3BQYTducFFoUEFLSWJJSFlxS2JBa2JwakRHWkZvdWlNbUNGaEFoQVNzeGFpcEU3ZnJPaHhCanZvNHNIU0k5d1BIUDlLNndJNmxfMzIzeTdla2VFVnBTc3lXaDNNTng1WUE4d3NVeVB5RTRxZk93dmdGZEFMTlY1QktvRnZyX0pFODJkSTNXYV80VnVQa3NZdjBaMzhFbjBzUGJ1M2fSAZ8CQVVfeXFMUDlFNS1QS0hrdWdja3NHVll5QkVZVjBTZGV4RzFObnZHbllfb0dEYzRpOWRNM1c3S0FYSl9tNkM4NkFrck94NHJKeHN3dGY1aWxuc0dQY1gzSlcwMGVwWmVoWkhXRVJkWUZ3LVd6UG5HY0VQRnVzN0otMDk5VFU5eVNpd2NBb0IyVDQ3VUowRkNIZjltbHRoSFN6cXFzbGpQYnRibGVpNUxidkhGekhJMlNMTEM2S1ZyRmRHeGhmRTMxc2h1T1Ytbk5YdU1tT1NZX0hNNFY4Q04zTnJ3WXhTcUsyUnQ0a01qS0Y4S2FCdFo3VGFaM2w4VUp6U2kxaldYbnlxMDRTc3AyMEFKNEwyMGxkWkNEakgyN2t1MW1qRFk?oc=5",
+      "source": "Business Standard",
+      "category": "Cement Industry",
+      "keywords": "Acquired",
+      "sector": "General",
+      "dealType": "Acquisition",
+      "value": "",
+      "date": "Aug 08, 2026",
+      "dateISO": "2026-08-08T07:00:00"
+    },
+    {
       "title": "DOJ approves asphalt merger with divestitures - Global Competition Review",
       "summary": "DOJ approves asphalt merger with divestitures Global Competition Review",
       "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxOeHVzcERiVksxdHpMZGcwMkcwX1BsYVE5Y2VWWk9XQTVydm5sSlJtRWF1SUl6czZsVVlrbkhXcUczc1RyOWNsWXFQb2ltbmdmNlViNFJUeVJwLWRIb3VnZl92Z3d1cWpWcFE3Ny02enZOVkdfQlVsLWdMMFlUWWl5ZThqTExaLWJhYkI4VW5yQ2RDZkRrTFJB?oc=5",
@@ -1538,6 +1629,19 @@
       "value": "",
       "date": "Aug 05, 2026",
       "dateISO": "2026-08-05T12:52:00"
+    },
+    {
+      "title": "Mahindra & Mahindra Financial Services board approves scheme of merger - Business Standard",
+      "summary": "Mahindra & Mahindra Financial Services board approves scheme of merger Business Standard",
+      "url": "https://news.google.com/rss/articles/CBMi5AFBVV95cUxPaF90ZlExbjBONzdoU25mNThmOE1UbFZKNFkwdU56QzRKYmJINVg0bHNyUjdaQktRYWJwSXZqOVMzM21IbDhJTU15cnMwTmd5SHN0M3VBbEZIZHFVekJqT19qUjJNYUpnZ0hjeWRpMTBkZWUteUJFclRjX0s0cDhKb3FVekwwWVpYdVFlQ3BTX0ljdUF6d2hwNy1uMzdKcmJsT0JqUjZMS2syaG53LU5jR2Y0TjBFbkRZTTJCTG4tLVBTRlYzOXh0RjNnOUpuTzRjMkRIWjU3QzZjeEt0czlEVS1ud2_SAeoBQVVfeXFMTV9qTzVDbk9TU2tzU3JNR21qOXZYcFhjbmFSOGE2OUxtNG1BQWNET0dQZzNHV042dkkzNWZCeGc1M1dXQmFuem5sb3h6b0pJT0tFa19aNG1FNUVYMWQ3VzdSakJiaFd0bXNsQWhCY2xMa205bFQ4X2FOdFllYy1sRFVUMnQ5N0hyMzZSTWY4TUFWdWxESldhRVFPY21JSzVscEMtSWVWcFRIcjFtRTBKbEdYT0RaSmEza1VqZTdPNER2RUJCQVVYRnNhd013RFE2NkR2dk9lMkxZYS15WFFPU29QVkk0R1h0Zl9B?oc=5",
+      "source": "Business Standard",
+      "category": "Cement Industry",
+      "keywords": "Merger",
+      "sector": "General",
+      "dealType": "Merger",
+      "value": "",
+      "date": "Aug 05, 2026",
+      "dateISO": "2026-08-05T07:00:00"
     },
     {
       "title": "Dangote, Sinoma Sign $800m Deal to Double Itori Cement Plant Capacity - Arbiterz",
@@ -2305,71 +2409,6 @@
       "value": "",
       "date": "Jul 29, 2026",
       "dateISO": "2026-07-29T07:00:00"
-    },
-    {
-      "title": "Crh Plc $CRH Shares Acquired by PNC Financial Services Group Inc. - MarketBeat",
-      "summary": "Crh Plc $CRH Shares Acquired by PNC Financial Services Group Inc. MarketBeat",
-      "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxPOVFqeDhVeWZSMkMzNHBiQzU0LU5TX2o3cTRRbFBqS19nc01ISE05QlpPMWVlbUFQaDh6UENjQWh6ampIeU80U0pKRk5VSmE0elowSDlfU3Y0eEpmNTdJaGN6eWZLNl9CdUpubzBVbWJ2cWctTUlaZWQ2VWVBaDJackt0aXI0MGN3Q3F2dUxNWlBwMUdtb3pKUHFqWm05Vks3cmliQjV0ZmpxZ3hsYjdJRURrWUllSVNRNnVOLS1DSWllUQ?oc=5",
-      "source": "MarketBeat",
-      "category": "CRH",
-      "keywords": "Acquired",
-      "sector": "General",
-      "dealType": "Acquisition",
-      "value": "",
-      "date": "Jul 28, 2026",
-      "dateISO": "2026-07-28T08:45:29"
-    },
-    {
-      "title": "Renaissance Technologies LLC Purchases Shares of 170,605 Vulcan Materials Company $VMC - marketbeat.com",
-      "summary": "Renaissance Technologies LLC Purchases Shares of 170,605 Vulcan Materials Company $VMC marketbeat.com",
-      "url": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxPT0dxRnpqVzJNMlBDNGYzZXBpZ1g2QjBqOUdDS3lweVBIRHBTYjBfajFQc25TWHh5RFF2TGZnRUJGbnBzQkVLTjRpbTBfN0I3RXk1ckNJcElXQUgtWWZHRnJVTW5iMjNpRHl6d3BSX2R6X2tOcXFpNXBYWkpPN3hCRHczcmxibzFaSDB2TFdiSFpMdWp4X3Y4XzBEdTViVTVZRm1EbVB5eV8yMktpN3J0QXdCbVd1enNpV3pvUlIwWUlaYUJIWWtSTUxIT2VySGxUZGp1NlVtYjdBaU52bUE?oc=5",
-      "source": "marketbeat.com",
-      "category": "Vulcan Materials",
-      "keywords": "Purchase",
-      "sector": "General",
-      "dealType": "Acquisition",
-      "value": "",
-      "date": "Jul 28, 2026",
-      "dateISO": "2026-07-28T07:00:00"
-    },
-    {
-      "title": "Accenture in Advanced Talks to Acquire Mumbai-based The Womb - Indianweb2.com",
-      "summary": "Accenture in Advanced Talks to Acquire Mumbai-based The Womb Indianweb2.com",
-      "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxQYWJ1dTZzX3ZvbGlSUkRKNVV5NmxhSTBFcnFBcGt2a1NDZXZYaTZ6Ymh1NEMxbjFuVFF0SUxNZkc2ZVBTckVycWx3Y28tc1ZqZDlBdE13cjFLbVoyaWI4dFdTTWRzamljNDZxVnVmSzNCbUlSbFNYWEp0MERmZm1SSTJHNUk?oc=5",
-      "source": "Indianweb2.com",
-      "category": "Cement Industry",
-      "keywords": "Acquired, To Acquire",
-      "sector": "General",
-      "dealType": "Acquisition",
-      "value": "",
-      "date": "Jul 28, 2026",
-      "dateISO": "2026-07-28T07:00:00"
-    },
-    {
-      "title": "Amrize expands Texas footprint with Rapid Redi-Mix acquisition - CemNet.com",
-      "summary": "Amrize expands Texas footprint with Rapid Redi-Mix acquisition CemNet.com",
-      "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxONEJVQnV0VmdFOG1qUGQtZW9YeU5LbUlUclVRUno2UnVLaXV1Y0Y2dWx3YnRQY2NqamVXTFdSZ3VTalQ1Q3NYd1dBMGx0dzJoS205OVRnSkdKVGhSNTdlM21FOTRsbXlrLVpadlNNWVF4eGRiOXAwdGJJdHRyaHNaRGVHVUcwbGFpNkM3RUpwS1JQbFpGLTNlWkJ3NlppZmFqdDc1cjdsQUVjTEN0?oc=5",
-      "source": "CemNet.com",
-      "category": "Amrize",
-      "keywords": "Acquired",
-      "sector": "General",
-      "dealType": "Acquisition",
-      "value": "",
-      "date": "Jul 28, 2026",
-      "dateISO": "2026-07-28T07:00:00"
-    },
-    {
-      "title": "#e4mExclusive: Accenture Song partners with creative agency The Womb; acquisition under discussion - Exchange4Media",
-      "summary": "#e4mExclusive: Accenture Song partners with creative agency The Womb; acquisition under discussion Exchange4Media",
-      "url": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxOVU5nanJka3hXbE92RlkwRzhPVFo3UzhNNWprZHFHeUQtTHBKX0JXTFYxLUY5YlFBT051SFdXQ0p1WHN2bmlHMU41MnVUYjVCaWZnVF9lSE43bjhEX0tLSFVHbm1GdGhER1FQNXVjS0phSzlQZWdZSlp4aUNWT2hCVzFaeGhpQmpFa0JUQzMtdllXNHZjYnFyQjc1ekRjQ3d5cThiSks1V1ZfQ3kxazN3X0owSTJFV1BFSEtlMjg2WDNIM3NyVUhUcDdfRHFmQko4UDloVkRTZ0h4Zw?oc=5",
-      "source": "Exchange4Media",
-      "category": "Cement Industry",
-      "keywords": "Acquired",
-      "sector": "General",
-      "dealType": "Acquisition",
-      "value": "",
-      "date": "Jul 28, 2026",
-      "dateISO": "2026-07-28T07:00:00"
     }
   ]
 }
