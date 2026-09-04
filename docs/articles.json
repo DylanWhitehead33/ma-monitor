@@ -1,10 +1,62 @@
 {
-  "fetchedAt": "2026-09-03T16:53:07.987097",
-  "totalArticles": 181,
+  "fetchedAt": "2026-09-04T16:42:22.166765",
+  "totalArticles": 182,
   "newToday": 18,
-  "duplicatesRemoved": 6,
+  "duplicatesRemoved": 8,
   "archiveDays": 30,
   "articles": [
+    {
+      "title": "Maccaferri seeks to acquire Iterchimica. The Competition Council is reviewing the transaction - Informat.ro",
+      "summary": "Maccaferri seeks to acquire Iterchimica. The Competition Council is reviewing the transaction Informat.ro",
+      "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxQWkZFeVRHTmNMeld3N01UUnpONF9qS2l3T3MzSFUyOWhGMTRQelBDUmw0eEViR3RFU05TTnZ4cWF1enJ4MmkyQURSRTVLT0hrSUxGRi1uSElUVjg0Ync3RVVwSE1PdVJKQnJycG9VcEUtZUs2Rks3ODJZc196RnpEbHVBZlhLWlBhRFRGa2kyNGQ5MWU0VXNFcW8zUVhDUGw3cTZKelNhYVl4T1BhLVVjWjZ1SXRDZUJ2RE5YQU5TODFERG8?oc=5",
+      "source": "Informat.ro",
+      "category": "Asphalt Industry",
+      "keywords": "Acquired, To Acquire, Transaction",
+      "sector": "General",
+      "dealType": "Acquisition",
+      "value": "",
+      "date": "Sep 04, 2026",
+      "dateISO": "2026-09-04T10:23:12"
+    },
+    {
+      "title": "Competition Council Reviews Officine Maccaferri\u2019s Acquisition of Iterchimica - The Romania Journal",
+      "summary": "Competition Council Reviews Officine Maccaferri\u2019s Acquisition of Iterchimica The Romania Journal",
+      "url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxQbTd2bEVIeVUyUU1VeHFhY1pXcnlQMlduNWluX3dEMDdncmE1Z3Bodl9fRlBwVmk2cXRvOTVremJCbEtLNXpzVjlBX3BRaDRLc1dLWW5fdjhpeE5JbTVTMTItdFJLZ3VRbTZSX0JUX0dmRHJCbmNXN3hFSTZxVHRsSkZWV21jTHBKT0dyaVhOWHJqd21JRXhSUUs1aUoycTA1emtJNXByNnVoZkhhRFk4bVlTcjZyam9OSXFnWmprSElHZzkzTmhvN9IByAFBVV95cUxQbTd2bEVIeVUyUU1VeHFhY1pXcnlQMlduNWluX3dEMDdncmE1Z3Bodl9fRlBwVmk2cXRvOTVremJCbEtLNXpzVjlBX3BRaDRLc1dLWW5fdjhpeE5JbTVTMTItdFJLZ3VRbTZSX0JUX0dmRHJCbmNXN3hFSTZxVHRsSkZWV21jTHBKT0dyaVhOWHJqd21JRXhSUUs1aUoycTA1emtJNXByNnVoZkhhRFk4bVlTcjZyam9OSXFnWmprSElHZzkzTmhvNw?oc=5",
+      "source": "The Romania Journal",
+      "category": "Asphalt Industry",
+      "keywords": "Acquired",
+      "sector": "General",
+      "dealType": "Acquisition",
+      "value": "",
+      "date": "Sep 04, 2026",
+      "dateISO": "2026-09-04T10:15:16"
+    },
+    {
+      "title": "NVIDIA to Acquire Hugging Face in $12.93B Deal to Cement Open AI Infrastructure Leadership - AlleyWatch",
+      "summary": "NVIDIA to Acquire Hugging Face in $12.93B Deal to Cement Open AI Infrastructure Leadership AlleyWatch",
+      "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxNandPMU5CbC10VWhyY3RCRVRFUmR0bkwyVmRsRG5UN1pyWkNJRXNndEZlZ3RlTG14dEZzVjJlMURLYkpOUzZILWVqalhTZmVWRWFsejl1WUE3ZXc3U05iYU5pWXdReUcxT3psNy1OUnd5MnFJY0xVaWxFQ1pHTmd6YUlPaXdLcUR0dmpfTk9lc2E4a0Iwcmc?oc=5",
+      "source": "AlleyWatch",
+      "category": "Cement Industry",
+      "keywords": "Acquired, To Acquire",
+      "sector": "Cement",
+      "dealType": "Acquisition",
+      "value": "$12.93B",
+      "date": "Sep 03, 2026",
+      "dateISO": "2026-09-03T18:10:18"
+    },
+    {
+      "title": "Amrize Ltd CEO Jan Philipp Jenisch Acquires 30,000 Ordinary Shares in September 2026 - Kalkine Media",
+      "summary": "Amrize Ltd CEO Jan Philipp Jenisch Acquires 30,000 Ordinary Shares in September 2026 Kalkine Media",
+      "url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxNdVluU3dERjduQkpRMlJibG1CRnFJVnJQQ29HOFFPellKb1FKNUF0SGRuOTBGeGhMMjNkQk9UakpyR19HcjZiOVZTZEZMcHdEVTJhNzU2U1lIMFJiLU1vYWhocGNCYVp4YWY2WjNiS1kzenNZc3RNcnJ0QWVoVGJUMnhPT2V0OUtXaEM0bFVYNzVQck15T1BLMHVxRUduakpCM1NWVi0zVzFITm9OMjY5aGkyOENSckFDbUZfbllMci1rcjF0eHhSYkt3?oc=5",
+      "source": "Kalkine Media",
+      "category": "Amrize",
+      "keywords": "Acquired",
+      "sector": "General",
+      "dealType": "Acquisition",
+      "value": "",
+      "date": "Sep 03, 2026",
+      "dateISO": "2026-09-03T18:05:01"
+    },
     {
       "title": "Adani Group may raise debt through family-owned infra firm to refinance Ambuja Cement acquisition loan - Livemint",
       "summary": "Adani Group may raise debt through family-owned infra firm to refinance Ambuja Cement acquisition loan Livemint",
@@ -45,6 +97,19 @@
       "dateISO": "2026-09-03T02:37:28"
     },
     {
+      "title": "Maple Leaf Cement Approves Merger With Pioneer Cement - TechJuice",
+      "summary": "Maple Leaf Cement Approves Merger With Pioneer Cement TechJuice",
+      "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxNdGdDbld4THJqS3VkVUhCRTlsVkt2LVRkVzctMnRMMFlpQXlWUFl1TG1zdzViVGNRZ1o3a3l6ZVp1MjItc3V5azEyNkVXX3EzdE9qTnhkU2JGUlM2T2ZkX1pQYVpZUWVDYm9UOWgzUXZtN3dvNDdzOTVWR181eS1rb0xMR2pOdw?oc=5",
+      "source": "TechJuice",
+      "category": "Cement Industry",
+      "keywords": "Merger",
+      "sector": "Cement",
+      "dealType": "Merger",
+      "value": "",
+      "date": "Sep 02, 2026",
+      "dateISO": "2026-09-02T23:13:20"
+    },
+    {
       "title": "NWPX Infrastructure Announces Acquisition of Serpentix Conveyor, LLC - PR Newswire",
       "summary": "NWPX Infrastructure Announces Acquisition of Serpentix Conveyor, LLC PR Newswire",
       "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxOLV9mWk5NYXhxMC01eWhLbnl5WGRHTnVmR2dZVXZyT3prdFEzR3VFejJ6UVZ1S09BeDh0eUNfRXJrekxFMHktVTVoWlRsaE5HNy16T0Y1dnhXVXpQRWpBWXNhRWdlS3R0aVdZUUlWZ1JaSFdtVE1MRzJuUFc2Z1kzcHVwUFJEY0xaN1hlR1NfWnlKc3Y3T3JmbThxWTFWWTRqVmRhZ1RmOFNJcmRXbmp0RU1NWFA0NWs1a0FZZ2JYeWQ?oc=5",
@@ -58,17 +123,30 @@
       "dateISO": "2026-09-02T20:19:00"
     },
     {
-      "title": "Maple Leaf Cement Approves Merger Wiith Pioneer Cement - ProPakistani",
-      "summary": "Maple Leaf Cement Approves Merger Wiith Pioneer Cement ProPakistani",
-      "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxOWm1pZkI4Q1p4TV9wcFpOZ0R6UWU0U2pGaF9QekFidUdEdFQ1ck9ZQmdVMThkVlpRZDZOQ1Z3WTV2RUZuOEpRSjNoZy1HMEpwM1VTbEVYUE5NTEo1MHlzWG5uQVV3Mk5PTEJjemlwTzdoWmNGRzVySUJOS0tJWDVxQ0VnTmJXRFB5SS05MmZUX3g0M3Ji0gHyAUFVX3lxTE9YTkY3ZVh5djVZYWl3WTI0Xy1BbjFiN2E1UVJsN0pIZmJodlRLUFc2eU9lUDFIZkZLVXp4TGZVcTExOUxxdTc3bmhBRFJRZEprZGstNV9JUmQ3Qm52eERmcjQwVDhDeEJSSldoX0J5N2F1WDVKMm54MW9uX2lFYUlPaGtzemtXTXg2MVFnQlZ1RGNzMjlzOGhTNjZic0VlWHU2cUVpd2ljYVpUSXdldU5sZHZEOWFJNnlRRGxsTGNoTFhacmc4WXRhLXY4RVhzVnZIeXFFb3cyRDlBSjk5c3p5NlprcmlVLXlPNmE2TFVFRWlB?oc=5",
-      "source": "ProPakistani",
+      "title": "Telangana HC Relief for Landowners Facing Corridor Acquisition - Deccan Chronicle",
+      "summary": "Telangana HC Relief for Landowners Facing Corridor Acquisition Deccan Chronicle",
+      "url": "https://news.google.com/rss/articles/CBMizAFBVV95cUxQei1TalN1Q3FDU3ByVXBJZEQxUzJPd3pQRTFoR3kwV2pzbkFEVGFOeVdyYzBkRE9JY3BqSlFWTXVpSVNMSm9tZ0luREF3RWpfV2o5SUlscXNqSnJDZjBvQ1NHNUVHSWZNV1Q3eGNJbWpuNGE0SjRaNEFVNEQxMy1zZE9UcjFmME8wdG1XR1dPVFZpWklKQkFqRGFSak93STJpaV8wUW93V2FlUWtmVWZFTks1QTN1aS1rOURiTldHaUd5QVVvS3VDanRNY0vSAcwBQVVfeXFMUHotU2pTdUNxQ1NwclVwSWREMVMyT3d6UEUxaEd5MFdqc25BRFRhTnlXcmMwZERPSWNwakpRVk11aUlTTEpvbWdJbkRBd0VqX1dqOUlJbHFzakpyQ2Ywb0NTRzVFR0lmTVdUN3hjSW1qbjRhNEo0WjRBVTREMTMtc2RPVHIxZjBPMHRtV0dXT1RWaVpJSkJBakRhUmpPd0kyaWlfMFFvd1dhZVFrZlVmRU5LNUEzdWktazlEYk5XR2lHeUFVb0t1Q2p0TWNL?oc=5",
+      "source": "Deccan Chronicle",
       "category": "Cement Industry",
-      "keywords": "Merger",
-      "sector": "Cement",
-      "dealType": "Merger",
+      "keywords": "Acquired",
+      "sector": "General",
+      "dealType": "Acquisition",
       "value": "",
       "date": "Sep 02, 2026",
-      "dateISO": "2026-09-02T11:57:11"
+      "dateISO": "2026-09-02T16:41:20"
+    },
+    {
+      "title": "UAE's ePointZero enters Africa\u2019s power generation market with 90% acquisition of Azura Power - Nairametrics",
+      "summary": "UAE's ePointZero enters Africa\u2019s power generation market with 90% acquisition of Azura Power Nairametrics",
+      "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxOY3ZZeHRQZjFzbnFOZzJ3dGdEbVdOaU5qSnlFS0loQjh5QWsyRXhOMTRQYnVoZTVZNmpUMUV3NU9mUnN1Zkp1a2Y0MGhYX2Z2ME9JY2lTaC1Jbm9uRW9yek1qYlNqMGpBYzR3MndaOTVhbHRvS096dmtlaUpqMVY5SHF4NV93N3NVeDctUjU0Q1lGSWtvcVhvNUpnSm9vVjFMSXlRRnF5bDdDX2UyRVFSZFpXaXE2VWJjSUFzU2IyMzQ3NEV0?oc=5",
+      "source": "Nairametrics",
+      "category": "Cement Industry",
+      "keywords": "Acquired",
+      "sector": "General",
+      "dealType": "Acquisition",
+      "value": "",
+      "date": "Sep 02, 2026",
+      "dateISO": "2026-09-02T10:51:12"
     },
     {
       "title": "Holcim stock gains modestly as investors weigh Fermacell deal and earnings outlook - AD HOC NEWS",
@@ -97,17 +175,17 @@
       "dateISO": "2026-09-02T07:33:07"
     },
     {
-      "title": "JPMorgan upgrades Martin Marietta stock rating on acquisition synergies By Investing.com - Investing.com UK",
-      "summary": "JPMorgan upgrades Martin Marietta stock rating on acquisition synergies By Investing.com Investing.com UK",
-      "url": "https://news.google.com/rss/articles/CBMizAFBVV95cUxQNmQ2ejBLZFVJcVBSR2p4Y3pQYjhLQl9lN21XYm4wR2RjVEV4OHhoNEo1TDdmSjBESHVaTFhuZVNnblRMTHdBNkJZUkJYQS1VR2JDakNXbXlVZldmRGVYcmV4VGFROHBPcXBpeEhKUTlPY1NrTXQ5OGNRRnB2OXpyb1J6WjQtSW9IMzNhQkt3SnJ6VTh0TVVxeDZaSjBwWkFtZWJwWFZ6RkVkd0FoelluQzE1bzhfanpqbkc3VFo4aWg4WF8zREhNbTBlQUs?oc=5",
-      "source": "Investing.com UK",
-      "category": "Martin Marietta",
+      "title": "JPMorgan upgrades Martin Marietta stock rating on acquisition synergies By Investing.com - Investing.com South Africa",
+      "summary": "JPMorgan upgrades Martin Marietta stock rating on acquisition synergies By Investing.com Investing.com South Africa",
+      "url": "https://news.google.com/rss/articles/CBMizAFBVV95cUxObjZUclBWZ3FqVVJkel94bHp0TVZBM3ZweWxmRzFvZ1BFTlU2UTFDS0xWS2pjamNyeTJLUC1sRDh3bDJZd0pWQTZHa2JGRXhpTDdTa0V4dVBtNV9NeXRmSnJLdmxHMGRUY3lGNzdTcjlWbWNEdEFNbzlVcEhBMG5oUFVJV0pTT2dHR044SHV4dUF5dlpTM1l3d051S0ZIYUtsYVpvTEZ4eWhzWkt4c2VlNnlUTGxzck90bXNxSGVxT3NucVpPYWd4VmFfZFA?oc=5",
+      "source": "Investing.com South Africa",
+      "category": "Vulcan Materials",
       "keywords": "Acquired, Investment",
       "sector": "General",
       "dealType": "Investment",
       "value": "",
       "date": "Sep 02, 2026",
-      "dateISO": "2026-09-02T07:14:00"
+      "dateISO": "2026-09-02T07:26:01"
     },
     {
       "title": "\u2018Dangote\u2019s vessel acquisition exposes local shipping capacity deficit\u2019 - The Guardian Nigeria News",
@@ -903,6 +981,19 @@
       "dateISO": "2026-08-24T08:08:00"
     },
     {
+      "title": "Otedola increases First HoldCo stake with fresh N12.58 billion share acquisition - Nairametrics",
+      "summary": "Otedola increases First HoldCo stake with fresh N12.58 billion share acquisition Nairametrics",
+      "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxNbnhTWjVUS3BXWmxyUjZ1REhpdzkwUVJ2RDRSVDRHeUxVZ3cwRDd1N0F3Z1JNMmdjODM1WFI5Y2pZZmxsR1piM3dUU2ppeElEZmlLaXBnZUc4eUR4S2hnV3pELWVsUEVWQTBNUlpvNk1BRDNNMEowTXlFOEJtOEtEOGhReVAxQ2hqNl84bzBwU3ZSRERRZi1JbVJwdldERkdwQ1lJMkJwYUl6aGkwTjAwM1pUTXNZbzdy?oc=5",
+      "source": "Nairametrics",
+      "category": "Cement Industry",
+      "keywords": "Acquired",
+      "sector": "General",
+      "dealType": "Acquisition",
+      "value": "",
+      "date": "Aug 24, 2026",
+      "dateISO": "2026-08-24T07:00:00"
+    },
+    {
       "title": "Holcim stock steady as Fermacell deal and raised 2026 guidance reshape outlook - Ad-hoc-news.de",
       "summary": "Holcim stock steady as Fermacell deal and raised 2026 guidance reshape outlook Ad-hoc-news.de",
       "url": "https://news.google.com/rss/articles/CBMizgFBVV95cUxOVU5DaUV4eXlSS0QxWER3VXo0Q2ZEeFA1c1BkaDhxaWZ6U1dCczdUb2J0dGFMbmFZMWctbkFrRFkzSTVrYnF2ZUI3T0tTTTZ6d2hXY1NkczctMzVxUE9wend6S19GaXZrOWdISzExOF8yZXN1WDVkc0pnUENpdHh2M3F3U3NzM0ZKYmNOYlQ3X0VzeG45TVlfenY5andBR2NlbGFnV0Q1SWhNQkw1WUhzWVZRTWQ5djNxdlprcVdUdzJqNDdsUjdDRWgwSW5zZw?oc=5",
@@ -1304,6 +1395,19 @@
       "value": "",
       "date": "Aug 19, 2026",
       "dateISO": "2026-08-19T07:23:14"
+    },
+    {
+      "title": "Jubilant Ingrevia board OKs acquisition of 40% stake in deep-tech company Zettaone - Business Standard",
+      "summary": "Jubilant Ingrevia board OKs acquisition of 40% stake in deep-tech company Zettaone Business Standard",
+      "url": "https://news.google.com/rss/articles/CBMi9gFBVV95cUxPdUFyMGp4YldBZllzX2ZyU3NNdENwVXZfY1FMcVczeFJyalN3M3I1OUwzR2NZT211ZURBYzBmc2ZGX1lXVjdUS2VpRjk5RXYtRnlyWHFEanl2MERSeVY0cE0wNU4ya2l2RGlhMHRSOFIwRjA5cm56eFpJZ1NtMHVqVmY5SEwxblFDQi10MG1LWlZxbF9XMU42VlhadkZWdUh3dzlqYWlkMU5QZ0ZTaElYRUlZTl9PeXVwTEZVbEtKckdRQUpzeXNaS0lxNVdZS2lmeVNoMFdEX1Z1Q1VacjBoNnd4MWY2V1UxZnQ2TW5CMFVrenJxNmfSAfsBQVVfeXFMTU1GaW05V2RyZ3RkLWdzbVo2NVR6Wk82SE9FSXotLV9udWVvaVFnWF9PVFB5NFktU2d1eEQ0WTg2UGthUV9lRkR5d2R5VUdPNVlGSnNIVlRXNFN3eFB2OURLdTJtMDhnRE1BYzhLSkhfOHN6dnVxM1ZTSjROQnVhbHdsRmQ5UlpxWW1HMFFiWmtkaE8waEpia1JEN0tJMUZJem5OczM4SVhqUjVFR2ZjNjVTN0pLRzhEZlBGaXR5c1l1Nl9QQXFlTmJfWnVIT1g3UndqV2RrT3FFUGJzakozYTNLSk9pcHZ5XzcydVVLcDlDZXpScDhtSEZzQ0k?oc=5",
+      "source": "Business Standard",
+      "category": "Cement Industry",
+      "keywords": "Acquired",
+      "sector": "General",
+      "dealType": "Acquisition",
+      "value": "",
+      "date": "Aug 19, 2026",
+      "dateISO": "2026-08-19T07:00:00"
     },
     {
       "title": "Martin Marietta stock hits fresh 52-week low as earnings strength meets Lhoist deal uncertainty - Ad-hoc-news.de",
@@ -1748,6 +1852,19 @@
       "dateISO": "2026-08-12T07:00:00"
     },
     {
+      "title": "UltraTech Cement to acquire 26% stake in Solar Power SPV for \u20b927.75 crore - Business Today",
+      "summary": "UltraTech Cement to acquire 26% stake in Solar Power SPV for \u20b927.75 crore Business Today",
+      "url": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxOWkpyS2gyNTNYMjNSTmh4b0RKRDZXWm80OU5wSHNsWmNrR2dNeDloM0xlZm9HTm1VNUtaOHdPbldqRUtHa25iZlpSQUpRaGxyVVM1X045emRRNEZ1dEN3ZndvLVpRSXdGbE1PRzdHRURob1hGVDhlREVwQTdfU0Q5Z09YR3dyd1JFRXZnajgybS1wcTdWWGFyTXVVbHZmYmNyd3Z5WWczVlJpYWNzUzJFSURkWURpM2NyMkZpNWVQZTF6NnIwd3BMenFNNk5EYjVqZC0taEZBM2dLVHfSAeABQVVfeXFMT2xMR2J3dFhEWnptR211NjdCdnJCVGZoYVk3a09KUkw1NEczS2ZMaUhIWEdOVTdULU9aWDBCbGttdEljYW1ZUkEzVVVVY0dJYmFLdXM3ZktUVFhIYUw1bHlkSWN0LV8xZDFfekV6bFRxcjY2MVE1NUUwWlIzd1FUeWQxWE1vLVo2T3N5MUZXOThoTGZ4UkU2SHZOSnFYcUFRQUl5RVpNWVE5YTFnUi1TMVpYN2RlZWRvTlFvWnJDOG1oeHR5Q0lmaG1aX0d5dFdySnFOYnZDVVRyR2hwRjkwUWQ?oc=5",
+      "source": "Business Today",
+      "category": "Cement Industry",
+      "keywords": "Acquired, To Acquire",
+      "sector": "Cement",
+      "dealType": "Acquisition",
+      "value": "",
+      "date": "Aug 12, 2026",
+      "dateISO": "2026-08-12T07:00:00"
+    },
+    {
       "title": "ARES acquisition broadens EKHO Infrastructure MSE portfolio - Concrete Products",
       "summary": "ARES acquisition broadens EKHO Infrastructure MSE portfolio Concrete Products",
       "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxQU21mZ2NoWkZRRjhVNUhwYklqSXd6eU85N2Eway1rMFJKWmVoSGMxTVN5ZjVuVDZSLWNrY3FST3FveXFhdWphWUJiUkl0V2tYbk4tR1VsRi0xRnBobkZhMTctdW1WZFgzc25SNjhZZ1ZjNmpZdWdQMXZwN3NVSExLeWdaLVhhcXhzRHFxc0stREZKWHNEeEtuWmlnWm5OdDlmVEdaQ2FoeEdQSnVSaEJZ?oc=5",
@@ -2086,6 +2203,19 @@
       "dateISO": "2026-08-07T07:00:00"
     },
     {
+      "title": "Can CRH Gain From Its $8.5 Billion Arcosa Deal Despite Financing Risk? - Yahoo Finance",
+      "summary": "Can CRH Gain From Its $8.5 Billion Arcosa Deal Despite Financing Risk? Yahoo Finance",
+      "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxOUkREcnVGUEt5WXVwTFpFanN4SDB3d2QwWlYyY3BPa1RPUnJwa051ZUVpMV9nOWpLby1SQ1drbWVxZkxldDc0MWkzMzhDSHg1eklGX09SdmJ3eWJ6TzZNS0NUMXc4QzJTVWxtNF9KQWZmOXBUVHM2MjVIanhHVElNd0pMN0xyRDhKaXlUQUx3?oc=5",
+      "source": "Yahoo Finance",
+      "category": "CRH",
+      "keywords": "",
+      "sector": "General",
+      "dealType": "Acquisition",
+      "value": "$8.50B",
+      "date": "Aug 07, 2026",
+      "dateISO": "2026-08-07T07:00:00"
+    },
+    {
       "title": "Granite Construction (NYSE:GVA) Director Acquires $49,596.00 in Stock - MarketBeat",
       "summary": "Granite Construction (NYSE:GVA) Director Acquires $49,596.00 in Stock MarketBeat",
       "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxOc0pQMlpBVWI0Tzk1TERmN01LWW5vTzh0a2JZSzBTQVJzUGNjMS1TZXVnalNEc3hfMzlra3haem15RjZXWXZQb2M1VTRMejNBeGJIcEJPYl9TSUFNbFNOOHlBWmFXT0ppcThJQndmVHVhVlBJQjF6Rnh1NFEyc3VLUlMxNFp4SmlTUk5BTHZlcDBscVg0d21VaHRuR1N0TVlWSlVkRVZ1QlpRalVtWTVCUEI1ZWpKMVdM?oc=5",
@@ -2240,123 +2370,6 @@
       "value": "",
       "date": "Aug 05, 2026",
       "dateISO": "2026-08-05T17:03:09"
-    },
-    {
-      "title": "Arcosa earnings up next as $8.5 billion CRH acquisition looms - Investing.com",
-      "summary": "Arcosa earnings up next as $8.5 billion CRH acquisition looms Investing.com",
-      "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxNUXdOX1VBWTBEa2ZkeVhsX3ZzcHQ2ZGYxV0dKTFh1QnB3cEFGcURMYkNuVU8yZnN0VE5FYzRIblh5S1RpYUxiSlg5M1ZYU05mRUs0MVFPWTY1U05rZWJPcFpLdUVENWU1YU93ZXBrQWFCa19UNUFNNDFLU0kwMi1lM0lmS0dqWEpzTFFvQUs1Nl92X2ZoOTdiTzhrVU9oT0RlOU5ZNHlwM0k4NHNsVWRPWlJn?oc=5",
-      "source": "Investing.com",
-      "category": "CRH",
-      "keywords": "Acquired, Investment",
-      "sector": "General",
-      "dealType": "Investment",
-      "value": "$8.50B",
-      "date": "Aug 05, 2026",
-      "dateISO": "2026-08-05T16:12:10"
-    },
-    {
-      "title": "Arcosa earnings up next as $8.5 billion CRH acquisition looms By Investing.com - Investing.com Nigeria",
-      "summary": "Arcosa earnings up next as $8.5 billion CRH acquisition looms By Investing.com Investing.com Nigeria",
-      "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxOZHJRQTBBVDFMdEVzbjdGMWdacFVJa2JvTWI0bEpHOEc1dEthUG9lVVgwYWNkLVlCZTVJU1B0cHlaXzU4U0tBTlJrUXNCWkx2YzAwLTNyZUxBcDF2T1QxNXhpOWJPVjhTb2ZLeWpKVkptTl9xcloxRDcyZHBRaFBQN0EzMC1yOWpCTVVleTRkX1hRekZvTU5JbmZaVnktbE5WNGI4RF9jTDdqN1pPMUJkVw?oc=5",
-      "source": "Investing.com Nigeria",
-      "category": "CRH",
-      "keywords": "Acquired, Investment",
-      "sector": "General",
-      "dealType": "Investment",
-      "value": "$8.50B",
-      "date": "Aug 05, 2026",
-      "dateISO": "2026-08-05T16:09:29"
-    },
-    {
-      "title": "CRH adds Pisgah Stone Products in Utah acquisition - Pit & Quarry",
-      "summary": "CRH adds Pisgah Stone Products in Utah acquisition Pit & Quarry",
-      "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxNQlNZc1FaN0hrMHZfVlJWRkJSUXNVWm9qb3pmaXcxdHlzV09mQUw1S2JPWUJ0VXZ6WFFqLURIWUFkN09yRHlseXpQVmdXR3J5Wm1sWG9WWEtCWG0wYXFUR3lwQk1GWWVEY3B4aDZRZWVsd3pCamJJajg1dm9BZXkzTDJOUmNMdzA?oc=5",
-      "source": "Pit & Quarry",
-      "category": "Asphalt Industry",
-      "keywords": "Acquired",
-      "sector": "Aggregates",
-      "dealType": "Acquisition",
-      "value": "",
-      "date": "Aug 05, 2026",
-      "dateISO": "2026-08-05T15:19:30"
-    },
-    {
-      "title": "BJP Govt in Odisha Forcibly Acquired 950 Acres of Tribal Land for Dalmia Cement: Sanjay Singh - aamaadmiparty.org",
-      "summary": "BJP Govt in Odisha Forcibly Acquired 950 Acres of Tribal Land for Dalmia Cement: Sanjay Singh aamaadmiparty.org",
-      "url": "https://news.google.com/rss/articles/CBMizAFBVV95cUxPRVkyUEJWM1JjWHBwRlNIbzdRMl9YX1VRNUZaQUNrU1c1dWNOYnU2ZXJ4aExIV1g3RHJCTFliT1QwZzB6cmJlLUZJS2pWN0FUS1g5SkxZbTF3ZTBsUGhYWE1heDRCaVJwWWEwUlVkX0VYT3B6MlpHM0xuRzZPSjNNUkpEWWRrOVNXUWxicFBnV1oxT09teHRYWFpDcXVTYVBZWDdrOHRUZ296UXVGdXh2VFh0RnEzSHJ5ajFKR1M5Y2ZrcWZPcXNiQm5ZVUQ?oc=5",
-      "source": "aamaadmiparty.org",
-      "category": "Cement Industry",
-      "keywords": "Acquired",
-      "sector": "Cement",
-      "dealType": "Acquisition",
-      "value": "",
-      "date": "Aug 05, 2026",
-      "dateISO": "2026-08-05T15:14:34"
-    },
-    {
-      "title": "Can CRH's Utah Acquisition Strengthen Long-Term Aggregates Growth? - Yahoo Finance",
-      "summary": "Can CRH's Utah Acquisition Strengthen Long-Term Aggregates Growth? Yahoo Finance",
-      "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxQaUlqejA2ck04ZUlkbEVGRzFVUlB0eUw2VXJMNV9PY3hKd2xUQnh5aF9icTFvZmVzNjZkSk5XSjFvOEt5dTBLeUplbHpDcG00TGkzemRIa251UlZRWlJ5OVA4WEdvX19CN2FWdUpPeGVORWVucURGc2tCNXNrNUVZUWxvRUEtd3pVMnlPQ1BLaVYtdDBEUHJxeUstaGRTcnlfamhzVw?oc=5",
-      "source": "Yahoo Finance",
-      "category": "Aggregates Industry",
-      "keywords": "Acquired",
-      "sector": "Aggregates",
-      "dealType": "Acquisition",
-      "value": "",
-      "date": "Aug 05, 2026",
-      "dateISO": "2026-08-05T14:10:00"
-    },
-    {
-      "title": "US Aggregates acquires New Point Stone in Indiana - pitandquarry.com",
-      "summary": "US Aggregates acquires New Point Stone in Indiana pitandquarry.com",
-      "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxOOG50ZDlTbUpud01sNHBVQjdxcmUxRHJ4MldfT0h2QTY0bmZMa0lpVm0tdTFEVnVzZ1dOYTVobkRIZEpqc09SYnlJckdDZlFEZXk2N2h0akNLS21zVmxEVC10QldOWW45TUxqSUE3TFg4SVdteWhoMmNkdEJMVk9ndTZqcmhGZw?oc=5",
-      "source": "pitandquarry.com",
-      "category": "Aggregates Industry",
-      "keywords": "Acquired",
-      "sector": "Aggregates",
-      "dealType": "Acquisition",
-      "value": "",
-      "date": "Aug 05, 2026",
-      "dateISO": "2026-08-05T13:25:33"
-    },
-    {
-      "title": "Holcim reports strong first half, divests Philippines business - Construction & Demolition Recycling",
-      "summary": "Holcim reports strong first half, divests Philippines business Construction & Demolition Recycling",
-      "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxOQmhPVTlwTl9mZXNyQ1JaeEViNUFtNmRsTVJjV0loekRQYTFfbTFNaVc1RENDaVBoOTBReENmalktYTFONGczUWZLLTdjdEl1ZERvSy1QN2JIUnU0QW8zT0c0WjgtYzdXQ2dtd2xUU2RTTU9mTXA3Q3BsU04wamZZT1N1Yi0zb29GMEJDWHdyUHdyNHlFZEZoWll1MXAtam9P?oc=5",
-      "source": "Construction & Demolition Recycling",
-      "category": "Holcim",
-      "keywords": "Divest",
-      "sector": "General",
-      "dealType": "Divestiture",
-      "value": "",
-      "date": "Aug 05, 2026",
-      "dateISO": "2026-08-05T12:52:00"
-    },
-    {
-      "title": "Mahindra & Mahindra Financial Services board approves scheme of merger - Business Standard",
-      "summary": "Mahindra & Mahindra Financial Services board approves scheme of merger Business Standard",
-      "url": "https://news.google.com/rss/articles/CBMi5AFBVV95cUxPaF90ZlExbjBONzdoU25mNThmOE1UbFZKNFkwdU56QzRKYmJINVg0bHNyUjdaQktRYWJwSXZqOVMzM21IbDhJTU15cnMwTmd5SHN0M3VBbEZIZHFVekJqT19qUjJNYUpnZ0hjeWRpMTBkZWUteUJFclRjX0s0cDhKb3FVekwwWVpYdVFlQ3BTX0ljdUF6d2hwNy1uMzdKcmJsT0JqUjZMS2syaG53LU5jR2Y0TjBFbkRZTTJCTG4tLVBTRlYzOXh0RjNnOUpuTzRjMkRIWjU3QzZjeEt0czlEVS1ud2_SAeoBQVVfeXFMTV9qTzVDbk9TU2tzU3JNR21qOXZYcFhjbmFSOGE2OUxtNG1BQWNET0dQZzNHV042dkkzNWZCeGc1M1dXQmFuem5sb3h6b0pJT0tFa19aNG1FNUVYMWQ3VzdSakJiaFd0bXNsQWhCY2xMa205bFQ4X2FOdFllYy1sRFVUMnQ5N0hyMzZSTWY4TUFWdWxESldhRVFPY21JSzVscEMtSWVWcFRIcjFtRTBKbEdYT0RaSmEza1VqZTdPNER2RUJCQVVYRnNhd013RFE2NkR2dk9lMkxZYS15WFFPU29QVkk0R1h0Zl9B?oc=5",
-      "source": "Business Standard",
-      "category": "Cement Industry",
-      "keywords": "Merger",
-      "sector": "General",
-      "dealType": "Merger",
-      "value": "",
-      "date": "Aug 05, 2026",
-      "dateISO": "2026-08-05T07:00:00"
-    },
-    {
-      "title": "Dangote, Sinoma Sign $800m Deal to Double Itori Cement Plant Capacity - Arbiterz",
-      "summary": "Dangote, Sinoma Sign $800m Deal to Double Itori Cement Plant Capacity Arbiterz",
-      "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxNY21pS3NQVkRTcUszY2QzNlF1aFhJcjJ4Z04wU1pKSzdUN1c4ZzF5WGVDbWJaVjNBNU9MSzVXZVJvTkE1bDZvSWpNOUMxb2paMEhTMWZ0ZlZkLUpXcHNEZGRwUU5WeG04VlU4YTNkcUlHa1VaM2V0dnd2UXJGSTJPdjhTUVdyaFZrd3ozdFhDUk1HTmc?oc=5",
-      "source": "Arbiterz",
-      "category": "Cement Industry",
-      "keywords": "",
-      "sector": "Cement",
-      "dealType": "Acquisition",
-      "value": "$800M",
-      "date": "Aug 04, 2026",
-      "dateISO": "2026-08-04T18:42:27"
     }
   ]
 }
