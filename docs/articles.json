@@ -1,10 +1,49 @@
 {
-  "fetchedAt": "2026-09-07T18:03:55.687306",
-  "totalArticles": 170,
-  "newToday": 13,
+  "fetchedAt": "2026-09-08T17:02:37.449148",
+  "totalArticles": 172,
+  "newToday": 14,
   "duplicatesRemoved": 11,
   "archiveDays": 30,
   "articles": [
+    {
+      "title": "Expanding its trading operations with asset-light acquisition: Heidelberg Materials takes majority stake in Peru-based Cementos Inka - marketscreener.com",
+      "summary": "Expanding its trading operations with asset-light acquisition: Heidelberg Materials takes majority stake in Peru-based Cementos Inka marketscreener.com",
+      "url": "https://news.google.com/rss/articles/CBMi5wFBVV95cUxQS25oRUN2MXd6YzlsbnFWalB4cXZYTjlFSUd4akNOU05ONlp0czVHTFowc25NTDRkTTJmT196LVRQOFNzMWd6V0JUSy02TnAtNnBzQUt0V0VzME1HWTZteFR5S0hoRGVtSGJiUHhDc0dUSTJNeE9sTFZQTFBhcEhXQjBCLTE1SngyOEo2S0JPYWlyV0VwY1E4S1ozY2REeGpWdlNaUVRLQnhkWUVaQ2VUSzNja1RhdFhCbmVaZG1PbDA5dGdQbmtMUmpPRE03OHFkRXZZVEpuN0FqbF95d21IaThjYjMyakU?oc=5",
+      "source": "marketscreener.com",
+      "category": "Heidelberg Materials",
+      "keywords": "Acquired",
+      "sector": "Cement",
+      "dealType": "Acquisition",
+      "value": "",
+      "date": "Sep 08, 2026",
+      "dateISO": "2026-09-08T09:13:05"
+    },
+    {
+      "title": "Heidelberg Materials acquires majority stake in Cementos Inka - CemNet.com",
+      "summary": "Heidelberg Materials acquires majority stake in Cementos Inka CemNet.com",
+      "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxNdk9VT3ZzanJBNHhjLU9lc1BQY1BxVHFzWlYxOTNCWHNQSzJ1dDV5dHFoUDN4UjJFSDFKQTU4bElxWU9aVlhPZmRYQ0Y1aXZ1Z052NmxkOVZZSUpwdmdmanZSd2tfbF93RnNEQXRRaGtCN2RXQi12WFdtNWp2aHoyUHJ0dVkyU0xkZjFseW9aVGtuRTMyMWw5SFV3TTR6WWFzS2p3U2ExZFFRSkE?oc=5",
+      "source": "CemNet.com",
+      "category": "Cement Industry",
+      "keywords": "Acquired",
+      "sector": "Cement",
+      "dealType": "Acquisition",
+      "value": "",
+      "date": "Sep 08, 2026",
+      "dateISO": "2026-09-08T08:21:00"
+    },
+    {
+      "title": "Kenya claims top spot in corporate merger deals - Daily Nation",
+      "summary": "Kenya claims top spot in corporate merger deals Daily Nation",
+      "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxPdDk4ZmZtR1FtQ01hb1RRdmRGbFBsTzR3Y1pNZU9UbVowUzd5c3BWNXB2NF9rX2FGbmFwclZGaUcxemFDVlJna3B1M3F0bG5xN1pZU0Fnb2d1UnpJNGhGZU5KWGFPZUJGWnVBcGdDWkFMQU5welM5bEZCZVJhRmFLREtIZm9ZZ09Pcnl4aU9takF0anU0dmZhT3JGTmVTc3o5Zi1FOQ?oc=5",
+      "source": "Daily Nation",
+      "category": "Cement Industry",
+      "keywords": "Merger",
+      "sector": "General",
+      "dealType": "Merger",
+      "value": "",
+      "date": "Sep 08, 2026",
+      "dateISO": "2026-09-08T03:00:00"
+    },
     {
       "title": "SigmaRoc H1 2026 slides: EBITDA up 11%, strategic dolime acquisition By Investing.com - Investing.com South Africa",
       "summary": "SigmaRoc H1 2026 slides: EBITDA up 11%, strategic dolime acquisition By Investing.com Investing.com South Africa",
@@ -2201,19 +2240,6 @@
       "value": "",
       "date": "Aug 10, 2026",
       "dateISO": "2026-08-10T09:31:00"
-    },
-    {
-      "title": "9,674 Shares in Granite Construction Incorporated $GVA Acquired by Empowered Funds LLC - MarketBeat",
-      "summary": "9,674 Shares in Granite Construction Incorporated $GVA Acquired by Empowered Funds LLC MarketBeat",
-      "url": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxQcmZTRGRBeFJyY2Vycm13djlOWFMyUldfRWphQ0V5cHF4RGxHX1hnbDJ3WGp0MjBxYVNweTdUeVFreWxQNlpneFJ0MUZqWVJVQktmbV9PaG9zX3hXUjFNb01sRVhkdGsxaEtUczRid3l6WDk4a0pLeElYUkhLc3ZmY3FVYy1NS2g5MHNaOVAySmxRUjUzTEhKdEgxSWRlOWsxbnBJMElMSXkxaTZLbV9GQjY2NUZ1aUstQk5NRGNXZVpiV0Y0aEhkdm9iZE1yeHRHZU5nSGJaa29XMjNfbFE?oc=5",
-      "source": "MarketBeat",
-      "category": "Granite Construction",
-      "keywords": "Acquired",
-      "sector": "General",
-      "dealType": "Acquisition",
-      "value": "",
-      "date": "Aug 09, 2026",
-      "dateISO": "2026-08-09T08:10:18"
     }
   ]
 }
