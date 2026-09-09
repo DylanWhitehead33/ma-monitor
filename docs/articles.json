@@ -1,10 +1,75 @@
 {
-  "fetchedAt": "2026-09-08T17:02:37.449148",
-  "totalArticles": 172,
-  "newToday": 14,
-  "duplicatesRemoved": 11,
+  "fetchedAt": "2026-09-09T17:00:00.269191",
+  "totalArticles": 177,
+  "newToday": 19,
+  "duplicatesRemoved": 10,
   "archiveDays": 30,
   "articles": [
+    {
+      "title": "Adani Group Plans $2.5 Billion Offshore Loan To Refinance Cement Acquisition Deb - Business Today",
+      "summary": "Adani Group Plans $2.5 Billion Offshore Loan To Refinance Cement Acquisition Deb Business Today",
+      "url": "https://news.google.com/rss/articles/CBMi5gFBVV95cUxNeGR5Q2NwUDVGYXNkX0luTVF2Z0p0WUpJWkpCMWhUdmpZNFJOSEtjT2FkM0o0bzdjSXBndTdQaG9ERGhDcWR6SU9aVVp0bm1RaUNoZ1FaMk54VEJabDF3ODNFYldVcXFkRnp3NXliT0dEdWpjdWxKZWREaHRPUHN6LTdlcFlnVHFZNXEtaGZCb0JoVlhpY0NUeVI2ejFPOUJWa3AtYk1HdUJGa1pNNkhZTlNsRy1OcU1yLXZPZlljOVhoZ2pxUnVVNDlpbm9FcWhsdnJwaWV6U1k1eXVYNVBfR1JyV1k1Z9IB6wFBVV95cUxNaHlmSlYwUXd6VHhLWEtIMzJKYXFOU3dhbWZxOEFnS2xuZnZpTVlkbzdVd255WmZ1QzVOemFBY2JIQWRjZWZlbS03SUtoMmV3M210Z3RsSE5tRGNqRi12S3RHOXg2RFNOOWZJSkphTC14Q2NWajY5NWhlUkdPRVFya3FVOVNmbEV4VWx6V3hfWjZid01sX3hPY0JELTBwTW54aFZhLUdBRDNFNl90cVdtYzg5bThBR1pibGpfSGQ2MHp6NWdlb09WcFFVSUlpaFNxUk1XRGN4VWhJZ0pFV1BjNHBkUVYzc2ZJZE5r?oc=5",
+      "source": "Business Today",
+      "category": "Cement Industry",
+      "keywords": "Acquired",
+      "sector": "Cement",
+      "dealType": "Acquisition",
+      "value": "$2.50B",
+      "date": "Sep 09, 2026",
+      "dateISO": "2026-09-09T11:44:01"
+    },
+    {
+      "title": "Qassim Cement acquires 100% of Amix Ready Mix for SAR 65M - \u0627\u0631\u0642\u0627\u0645",
+      "summary": "Qassim Cement acquires 100% of Amix Ready Mix for SAR 65M \u0627\u0631\u0642\u0627\u0645",
+      "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE9wdkZMajBvRDd0UE1PWTRwWkpqbUNDUzVJY2ZTa0wxYzVkZTRwaHVnNDZpRUNkVlhsNV9MLURlZXhtcm9CeWl2WC1KZmVaeHdPdDBNUGxrNUlYVmFSZXA2YmxzNlRvQmlQQXc?oc=5",
+      "source": "\u0627\u0631\u0642\u0627\u0645",
+      "category": "Ready-Mix Industry",
+      "keywords": "Acquired",
+      "sector": "Multiple",
+      "dealType": "Acquisition",
+      "value": "",
+      "date": "Sep 09, 2026",
+      "dateISO": "2026-09-09T06:11:23"
+    },
+    {
+      "title": "Qassim Cement to Acquire 100% of E-Mix Ready Mix Concrete for SAR 65 Mln - \u0635\u062d\u064a\u0641\u0629 \u0645\u0627\u0644",
+      "summary": "Qassim Cement to Acquire 100% of E-Mix Ready Mix Concrete for SAR 65 Mln \u0635\u062d\u064a\u0641\u0629 \u0645\u0627\u0644",
+      "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTE9QLUZ0VWJUSVBJSF80WS1lSmpVX0Jua01DVGlGUnU4VzJEcHVuOGI2dFZiVW45bG1IQnJrNGI2OTJubzFzRGp1WHBnUUZHeXJqdHo5X0pRYWU3UmJPYXpSU3hfS1BCS0JNb2Y4?oc=5",
+      "source": "\u0635\u062d\u064a\u0641\u0629 \u0645\u0627\u0644",
+      "category": "Ready-Mix Industry",
+      "keywords": "Acquired, To Acquire",
+      "sector": "Multiple",
+      "dealType": "Acquisition",
+      "value": "",
+      "date": "Sep 09, 2026",
+      "dateISO": "2026-09-09T05:57:52"
+    },
+    {
+      "title": "Auburn Engineering acquires facility to centralize transportation research - Auburn University",
+      "summary": "Auburn Engineering acquires facility to centralize transportation research Auburn University",
+      "url": "https://news.google.com/rss/articles/CBMifEFVX3lxTE54NV92aFJueU9iQkxVcmZtaENqbUNZSnl4WVZyT0JhOWVrRDZQR0QtUk5xcHpFZnVQd3dXMDVPWnp6LUd1SmtaWHp3dV9XUm1PN0pxZnFrY3BLV2hRbWVEcWNjVTN6VExVSmRrcUhORlBNVkk1Y0gxcnZZX1o?oc=5",
+      "source": "Auburn University",
+      "category": "Asphalt Industry",
+      "keywords": "Acquired",
+      "sector": "General",
+      "dealType": "Acquisition",
+      "value": "",
+      "date": "Sep 08, 2026",
+      "dateISO": "2026-09-08T18:36:41"
+    },
+    {
+      "title": "Heidelberg Materials to Acquire Majority Stake in Peruvian Cement Producer Cementos Inka - News and Statistics - IndexBox",
+      "summary": "Heidelberg Materials to Acquire Majority Stake in Peruvian Cement Producer Cementos Inka - News and Statistics IndexBox",
+      "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxNX0VieVp5d2piNi10OTM4S1RTcUxIVlhtcEY5enl2akF5b09SQ1BpdFEydS00QWc0eE5UZHZBRTFEbHJIMXcyZjJ4WGhqajZEUVZlT1BVTkpCM2xyYkpuUmpvb1RnUjE0NEh4WGxISTQ1SmR1VndXMHFhRWNlRjg0dU1IY1A5djFKVG1hTXYzMlhOUVowblE?oc=5",
+      "source": "IndexBox",
+      "category": "Heidelberg Materials",
+      "keywords": "Acquired, To Acquire",
+      "sector": "Cement",
+      "dealType": "Acquisition",
+      "value": "",
+      "date": "Sep 08, 2026",
+      "dateISO": "2026-09-08T15:01:32"
+    },
     {
       "title": "Expanding its trading operations with asset-light acquisition: Heidelberg Materials takes majority stake in Peru-based Cementos Inka - marketscreener.com",
       "summary": "Expanding its trading operations with asset-light acquisition: Heidelberg Materials takes majority stake in Peru-based Cementos Inka marketscreener.com",
@@ -58,6 +123,19 @@
       "dateISO": "2026-09-07T14:27:33"
     },
     {
+      "title": "7,673 Shares in Arcosa, Inc. $ACA Acquired by Schuylkill Financial LLC - marketbeat.com",
+      "summary": "7,673 Shares in Arcosa, Inc. $ACA Acquired by Schuylkill Financial LLC marketbeat.com",
+      "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxPQkJmYXI0NFNhWUJ3NnJkTmYwZUFQaEVXR2ZDbDhTdUtyMktQTzFOUWRXR0FINll2dkxMX29HX3ZqNzA0eGxDaVFmNDZpV1piU3lGYXdhdGltOTdyekp4YXpHTzdNaTFQTm1HaThEWG02NVBZUE5aM1BMTTREMkRhQ1VsUTFTaWFfbnQ0WmZjLU1RTnRMWFVWbU16V0pQSk51Y0h1UXptRWhlM3BXU1QyUHdDRmJhVjRWY21qTmVBcG05TGxmTXc?oc=5",
+      "source": "marketbeat.com",
+      "category": "Arcosa",
+      "keywords": "Acquired",
+      "sector": "General",
+      "dealType": "Acquisition",
+      "value": "",
+      "date": "Sep 06, 2026",
+      "dateISO": "2026-09-06T09:34:38"
+    },
+    {
       "title": "Arcosa Shareholders Approve Merger with CRH Americas - The Globe and Mail",
       "summary": "Arcosa Shareholders Approve Merger with CRH Americas The Globe and Mail",
       "url": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxQaTlaUkd1VlQ3bnh4SHMzT3Z0aTlUZVJRNWhtWWlKTWJXaGIxVC15VnNlSHRzNWJsMDNWWTdhQ3BCalR2NzFUNnhkM0N3RHZIZVFHV2hPVER0Z2t3dmtiM2Vsc0liY3ZvQ01tRkFWUHdNcUE5dUNpbWFjVmlIbzBfX09jYW9iS1FQTVU5OHpwRmZBai1oUVpkYnA3aU5UbWkyMXJvQ2VvUXJlSUllNnBueHltREF0RE92ZldKbnJadUhlejJiWWZWRnJWLUlxMG9ta1RxQg?oc=5",
@@ -97,6 +175,19 @@
       "dateISO": "2026-09-05T12:54:19"
     },
     {
+      "title": "Arcosa shareholders approve $150 per share CRH acquisition - Investing.com India",
+      "summary": "Arcosa shareholders approve $150 per share CRH acquisition Investing.com India",
+      "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxOU3YzRlJOR192NFRYYW55UUNXQTRuZHlDQnRCZEFXLUEwLVJqeWlJbUl0ZEE3aVBrUU5iZ092VVJSQVFzY29MNldHUGZBMkJRUDBXWE8xUjhZeWlwYi1qVWpCTkduaTlFWkEwU21WUHBrb0wtVmRuR0ZNWDlLTU5tQnBDUHpvQm92VXlkN3ZjVFkxV0J3d2RDankxYW55Q05mNFRMd0JZVm1fY2ZWTWU1akx0cmFtYnlXb3c?oc=5",
+      "source": "Investing.com India",
+      "category": "CRH",
+      "keywords": "Acquired, Investment",
+      "sector": "General",
+      "dealType": "Investment",
+      "value": "",
+      "date": "Sep 04, 2026",
+      "dateISO": "2026-09-04T21:33:23"
+    },
+    {
       "title": "Arcosa (NYSE: ACA) investors overwhelmingly back CRH deal. See how the vote broke down. - stocktitan.net",
       "summary": "Arcosa (NYSE: ACA) investors overwhelmingly back CRH deal. See how the vote broke down. stocktitan.net",
       "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxNaVNhbFBHQXpZWGR1aURCdTJ6SHYtZXdCMDBwZGxNdk10QTVFdW9yWTZuektUdjdENks5SHpqdWdQS2xBcHNfalprU2J1bGk3NjdzSXc2QUdTckNLNzdzLWhvSEp4MHlPVnpBd0JBd1J2d0lVSW4zSlIxVGFFb0N4MVhzOXdoZzZobFVHMXpfRXhqbUJNeV84ZU54RUN6Nmc?oc=5",
@@ -108,19 +199,6 @@
       "value": "",
       "date": "Sep 04, 2026",
       "dateISO": "2026-09-04T20:31:59"
-    },
-    {
-      "title": "Arcosa shareholders approve $150 per share CRH acquisition - Investing.com",
-      "summary": "Arcosa shareholders approve $150 per share CRH acquisition Investing.com",
-      "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxNQzBObWp5YW90M3N6V0FpZVJrUGFyVWxFRFYtRlVCYmwyRU5zdkwtcW5taGM4RDYwM0VEWHFKOVJDRzAzeTdEZUFIT3pvSnpULXNScEtYaGt2el9rTFhGSTYzOHFoQjdRdmRxVEFjU09mODQwRXhoVmNJQUlXQ1Z2ZmhhU3ZYTm1WZnBqRFlxbjVaVzgwYkxjdy0yT3FLRmw1a1U4c0hfQ2V0T1J0bHFRY0x3ZGg?oc=5",
-      "source": "Investing.com",
-      "category": "CRH",
-      "keywords": "Acquired, Investment",
-      "sector": "General",
-      "dealType": "Investment",
-      "value": "",
-      "date": "Sep 04, 2026",
-      "dateISO": "2026-09-04T20:29:37"
     },
     {
       "title": "Arcosa Stockholders Approve Acquisition by CRH - Business Wire",
@@ -277,6 +355,19 @@
       "value": "",
       "date": "Sep 02, 2026",
       "dateISO": "2026-09-02T10:51:12"
+    },
+    {
+      "title": "List of 23 Acquisitions by CRH (Sep 2026) - Tracxn",
+      "summary": "List of 23 Acquisitions by CRH (Sep 2026) Tracxn",
+      "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxQYm5Vc2NORHpnVFc4T1VMZ1NaclZUVXlYc0w4amlrYS1GU0NmZjVDN2ZWYWYzYVlaZVlqR2JNMUxPWFZZbTZSbGtmRy1fVWNjR1F2NmdpWFlVUEJCQ1BvaW9aT0xmNjl2VlNJLUV3RGlhTEg0OWhiWU5uMmdiYkZXYVVfWlZWYWYtbC1vUF9JSlJBcDlJZnZqUzZrUFBRRDcy?oc=5",
+      "source": "Tracxn",
+      "category": "Aggregates Industry",
+      "keywords": "Acquired",
+      "sector": "General",
+      "dealType": "Acquisition",
+      "value": "",
+      "date": "Sep 02, 2026",
+      "dateISO": "2026-09-02T08:27:01"
     },
     {
       "title": "Holcim stock gains modestly as investors weigh Fermacell deal and earnings outlook - AD HOC NEWS",
@@ -1137,6 +1228,19 @@
       "dateISO": "2026-08-24T07:00:00"
     },
     {
+      "title": "Martin Marietta's $13.5B Lhoist deal boosts ass... - Pluang",
+      "summary": "Martin Marietta's $13.5B Lhoist deal boosts ass... Pluang",
+      "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxQUkhMdWs2WVdJdTk0d2l5a0tFX2ZIUWxQTFpKYlV6U29sVnBLUUNsRExpeURmcHRqejlGcFljcUh6YUd2TVZGN0dzZ0ZIdmNDNUNCNUNSaVh6WFZZaDBILUo0N2FPbEdUTzJTc2VWU3RQakR0Q096MUJVbWJVQ0czbVZzc2NWaXJEQVZz?oc=5",
+      "source": "Pluang",
+      "category": "Martin Marietta",
+      "keywords": "",
+      "sector": "General",
+      "dealType": "Acquisition",
+      "value": "$13.50B",
+      "date": "Aug 24, 2026",
+      "dateISO": "2026-08-24T07:00:00"
+    },
+    {
       "title": "Holcim stock steady as Fermacell deal and raised 2026 guidance reshape outlook - Ad-hoc-news.de",
       "summary": "Holcim stock steady as Fermacell deal and raised 2026 guidance reshape outlook Ad-hoc-news.de",
       "url": "https://news.google.com/rss/articles/CBMizgFBVV95cUxOVU5DaUV4eXlSS0QxWER3VXo0Q2ZEeFA1c1BkaDhxaWZ6U1dCczdUb2J0dGFMbmFZMWctbkFrRFkzSTVrYnF2ZUI3T0tTTTZ6d2hXY1NkczctMzVxUE9wend6S19GaXZrOWdISzExOF8yZXN1WDVkc0pnUENpdHh2M3F3U3NzM0ZKYmNOYlQ3X0VzeG45TVlfenY5andBR2NlbGFnV0Q1SWhNQkw1WUhzWVZRTWQ5djNxdlprcVdUdzJqNDdsUjdDRWgwSW5zZw?oc=5",
@@ -1330,6 +1434,19 @@
       "value": "",
       "date": "Aug 21, 2026",
       "dateISO": "2026-08-21T07:52:18"
+    },
+    {
+      "title": "Moroccan billionaire Anas Sefrioui expands from property into pharmaceuticals with Servier deal - Business Insider Africa",
+      "summary": "Moroccan billionaire Anas Sefrioui expands from property into pharmaceuticals with Servier deal Business Insider Africa",
+      "url": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxPYmpBb20xYlU1QmZnMHl3cjZqOFhmc2hfcjUwamVUekp4VE5fSnJkWDFha3dlSUxVLUlHY1k4cUN0RGpyMXVOaW95c25pbVRmY1V4R3ZobmI3M19tejVtNW1fUmxQcnFpbGVTYTdNRmVwckUtVURwSUdGaGs3Sk5MUTBkVWlNMWpxMkVoS09rcVIxN0NPR0lyd1pudHdPODB3Q2NmUEI5NTdHMWdtRlo1Z0JQZ3E0R2EwRWhyVkUxTlJUSEVHVWh3NHpELU9fZmdZY2dwVXNn?oc=5",
+      "source": "Business Insider Africa",
+      "category": "Cement Industry",
+      "keywords": "",
+      "sector": "General",
+      "dealType": "Acquisition",
+      "value": "",
+      "date": "Aug 21, 2026",
+      "dateISO": "2026-08-21T07:00:00"
     },
     {
       "title": "Holcim stock holds steady as \u20ac840 million Fermacell acquisition boosts growth story - Ad-hoc-news.de",
@@ -2188,58 +2305,6 @@
       "value": "",
       "date": "Aug 10, 2026",
       "dateISO": "2026-08-10T17:30:30"
-    },
-    {
-      "title": "Martin Marietta senior notes rated BBB+ as Lhoist acquisition financing advances - Traders Union",
-      "summary": "Martin Marietta senior notes rated BBB+ as Lhoist acquisition financing advances Traders Union",
-      "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxOVFlyRTJyQlhMR2xkX1JoNkR3d2NnTDFCeXhiaXl6SENTblNZS1JJRUdYaUZkUE1YWjl6cEJBQmpFWGNrRDhoYVRCWWFfS2hNYVhMbXIzX2FHN1JoUHpyaFduVWdTQWhISHMyWXpSMFpUdjVwcUp3ZHQxQ1ZCYTdHdm1VRUUtVkNyTGVJaTlsX0NZbHpMUklCS0Q5S1ljVGFWcm9vQ1JNcmgyZw?oc=5",
-      "source": "Traders Union",
-      "category": "Martin Marietta",
-      "keywords": "Acquired",
-      "sector": "General",
-      "dealType": "Acquisition",
-      "value": "",
-      "date": "Aug 10, 2026",
-      "dateISO": "2026-08-10T16:21:34"
-    },
-    {
-      "title": "Martin Marietta Submits 8-K Report Confirming Regulatory Approval for Lhoist North America Acquisition - Kalkine Media",
-      "summary": "Martin Marietta Submits 8-K Report Confirming Regulatory Approval for Lhoist North America Acquisition Kalkine Media",
-      "url": "https://news.google.com/rss/articles/CBMi4wFBVV95cUxPNU5Ja2JrMDE3T0J4RmY2QXhlbTJveGRwWmFkenoxeEFPZ0ZReElGTDFwX3ZwM3VxMHE5Mk5wbktWZTJRZlZSRUpMUVl6OWoxN1ZRdmVSMXFLQlpuYWpMRlllUGpLQTN4cUFiREJjLUNWcEpPcW5BaVN4MjZpcXMyc0pRUnpKMjJuNURiUXFLeThEYmpfR1NrMlRROUdOeEpCUllsY2ZKb2tnNTJXY1plekFGSk9IQ1BuMjlMMC1oTTZYOVNFZ0V6c1lBX3pHNHFFZE1ieDBxWl94TWI3akdqOF9lWQ?oc=5",
-      "source": "Kalkine Media",
-      "category": "Martin Marietta",
-      "keywords": "Acquired",
-      "sector": "General",
-      "dealType": "Acquisition",
-      "value": "",
-      "date": "Aug 10, 2026",
-      "dateISO": "2026-08-10T14:03:56"
-    },
-    {
-      "title": "Acquisition creates sixth-largest homebuilder in US - Construction Briefing",
-      "summary": "Acquisition creates sixth-largest homebuilder in US Construction Briefing",
-      "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxOVVZtVzkyX2U2Z053MmpUaGRHRkplSFlXUXk5NWtDajlHSENKejlLQ3RMSW9KUTF4QWwySHpmajdrRTlWVlBlMk00WkZKQWl0a3pHSEdiLWxlVUZ5LWlKWF91Qzd2YWtMVnk5QllRZzJ3ank4TWlFSEFwcUpkNXM5WndXc3NJVDJYaWk0bTE3UnRCS2NDY1Y0TEZmSEt3djlpcGI5RUw0czIwMnkzSGc?oc=5",
-      "source": "Construction Briefing",
-      "category": "Aggregates Industry",
-      "keywords": "Acquired",
-      "sector": "General",
-      "dealType": "Acquisition",
-      "value": "",
-      "date": "Aug 10, 2026",
-      "dateISO": "2026-08-10T09:40:29"
-    },
-    {
-      "title": "Yeghoian Grading and Paving of Apple Valley acquired - vvdailypress.com",
-      "summary": "Yeghoian Grading and Paving of Apple Valley acquired vvdailypress.com",
-      "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxNWVdueEhZWC1TbGlMQ2tYWTBTWkg1cGUzNHpWSWZEU3Q5QzMwTUxfUTFKb1FkdGtLNTdoUUY4d3BLRExWZVdOYkUxel9jMjE4VkdqUGp0UWNnQ3AteG16b1R1MjcyOGl0Y19Na1U5NHA0akR2YXdyRF81VEdhYm56dUxmczZxeTRoczdYczFISU1CMjBRNVJBeXpYUzhSX3k5Y05yNWpjUkhvV1l0Mk56OUpsclN3X1EtRzg5aWFFSzQ?oc=5",
-      "source": "vvdailypress.com",
-      "category": "Asphalt Industry",
-      "keywords": "Acquired",
-      "sector": "Paving",
-      "dealType": "Acquisition",
-      "value": "",
-      "date": "Aug 10, 2026",
-      "dateISO": "2026-08-10T09:31:00"
     }
   ]
 }
