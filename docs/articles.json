@@ -1,8 +1,8 @@
 {
-  "fetchedAt": "2026-09-11T16:51:58.622205",
-  "totalArticles": 165,
-  "newToday": 12,
-  "duplicatesRemoved": 7,
+  "fetchedAt": "2026-09-12T15:58:13.122163",
+  "totalArticles": 159,
+  "newToday": 7,
+  "duplicatesRemoved": 6,
   "archiveDays": 30,
   "articles": [
     {
@@ -628,6 +628,19 @@
       "value": "",
       "date": "Sep 01, 2026",
       "dateISO": "2026-09-01T08:10:00"
+    },
+    {
+      "title": "A Landmark Deal Just Rewired Martin Marietta\u2019s (MLM) Growth Engine - Yahoo Finance",
+      "summary": "A Landmark Deal Just Rewired Martin Marietta\u2019s (MLM) Growth Engine Yahoo Finance",
+      "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTE5yd3E0UDVVR3ZnOXJnR3MxQWlOc09xeFpWYlVWQnJrVms0SDROcVVzMzhYNnVNeHBsNWdabzQ4Ylp1VTE0X1U4em5BVE1nWDdOSkprdGhTRTB6dW5aS1M2X3hmTmtTYk5vZ0o1dDhFbkViOVpf?oc=5",
+      "source": "Yahoo Finance",
+      "category": "Martin Marietta",
+      "keywords": "",
+      "sector": "General",
+      "dealType": "Acquisition",
+      "value": "",
+      "date": "Sep 01, 2026",
+      "dateISO": "2026-09-01T07:00:00"
     },
     {
       "title": "HERIGE\u2019s EDYCEM boosts Loire-Atlantique footprint with BHR concrete plant acquisition - TipRanks",
@@ -2058,97 +2071,6 @@
       "value": "",
       "date": "Aug 13, 2026",
       "dateISO": "2026-08-13T16:52:48"
-    },
-    {
-      "title": "Amrize Ltd (AMRZ) Chief People Officer purchases 5,260 shares in open-market buy - Stock Titan",
-      "summary": "Amrize Ltd (AMRZ) Chief People Officer purchases 5,260 shares in open-market buy Stock Titan",
-      "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxOUGJ5ZUE2TDFJYWlQYlFxSTFsTFhfX1VxcDFRTW5SRTJRdWFXbVFmenN6b1p4MGM5WVNRdlVkX0xIT05RZEtRSGF0NlVIWHRYRWVCSV83bHB2MVFiZDUyS0VjbHVPZzZNSGxuNWpqNk1rbWl3SzFaUS1SZ3pxODFoYnVlUTA5MTdCUGY5eHhDUmZBVVZnNVZRaFhPMTlBcW9yTUZBZ0Zvbw?oc=5",
-      "source": "Stock Titan",
-      "category": "Amrize",
-      "keywords": "Purchase",
-      "sector": "General",
-      "dealType": "Acquisition",
-      "value": "",
-      "date": "Aug 13, 2026",
-      "dateISO": "2026-08-13T15:47:25"
-    },
-    {
-      "title": "Martin Marietta stock dips after pricing $5.5 billion notes for Lhoist deal - AD HOC NEWS",
-      "summary": "Martin Marietta stock dips after pricing $5.5 billion notes for Lhoist deal AD HOC NEWS",
-      "url": "https://news.google.com/rss/articles/CBMizAFBVV95cUxPVXFPYWtkQS1YWmFkUGdWMk1ma3daUmFnZ2JLSXNGVWxPMlVCejdqUDlwbzFsR250ZVZwbDZVRVN2MDFJVXZZV0NWM3VIanJELV9Ra0pmMTlZY1FjLU4zSnJJbUNObmlPdmZpM0pWdnZ6R1R3NVE0bmVtRWdnMDljaVA5QzRtUTFHVjN4OGJpOXB0SHE5TGRiLU40V0JUWFhnNGF6bFhIZVNzaG1iUjhtMXBSQlNVcTMwS0N6c29ISHdZMi11eUk0X0dQV3Y?oc=5",
-      "source": "AD HOC NEWS",
-      "category": "Aggregates Industry",
-      "keywords": "",
-      "sector": "General",
-      "dealType": "Acquisition",
-      "value": "$5.50B",
-      "date": "Aug 13, 2026",
-      "dateISO": "2026-08-13T11:01:52"
-    },
-    {
-      "title": "Shalimar Paints Surges 5% To Hit Upper Circuit After Board Approves Reverse Merger Infra.Market - NDTV Profit",
-      "summary": "Shalimar Paints Surges 5% To Hit Upper Circuit After Board Approves Reverse Merger Infra.Market NDTV Profit",
-      "url": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxNMzR2YWJOU2xEaUdLRm5ibTM2S1JzNFdzNC1Zb19RUXlaajg1YlFLZFFTUGp3ci1WMGxuZEppbkkzemJCUm5iZ3BndlFSUDdIc2JZcVZCR0k4VU16WnF5NUs2bXFBVDM3ekR5VmxTUHU5cENhTU8yX043ZzJfWEZmbE15aWp4YmJuallzXzJfRU5zbjVXakcyVmFlaDJ0YUZreE1RVEkwM2xXejQxT0pjTmVqeUd2S1FtQkxLRGZ6RTRpSGFjNFAzSC1YRldPOEMxZDV2cdIB3AFBVV95cUxOQmhwMzhoU3hINjI1ZWNxcUUxMXhJbU9fbjE3V2tQQlV0UHpXUjcxOWRJNmd0MVBTd2xhZUw1WWtVRE9fU25NRzRBd1I3NHNGU1Nhbm9nZkFTbG51ck9sb3VBb2NnOXdlTVFLcjdLUGN0ZW5HWWRzcVRmWFg3NHZqdnJvLTdXUDdmNEtlZE1IbjhOSk1iOTQ4T0VPZFFVVnktd3pKclYyakc1VGRjcWdaX1QxWGRrcTY0cVVncGFjOTlMdk52aVdMV1NEblJSdy1iQUcybWJtOHZoQWVy?oc=5",
-      "source": "NDTV Profit",
-      "category": "Aggregates Industry",
-      "keywords": "Merger",
-      "sector": "General",
-      "dealType": "Merger",
-      "value": "",
-      "date": "Aug 13, 2026",
-      "dateISO": "2026-08-13T08:00:17"
-    },
-    {
-      "title": "Amrize Ltd's Chief Supply Chain Officer Mario Gross Acquires 3,568 Shares in Open-Market Transactions - Kalkine Media",
-      "summary": "Amrize Ltd's Chief Supply Chain Officer Mario Gross Acquires 3,568 Shares in Open-Market Transactions Kalkine Media",
-      "url": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxObF9QMlU3VHJhc0k4N25pUXlRbTY4bGNyODlCQ1JacUczNDJhSVp1bkpuU1l4eDJZTE1sNjg2eVAtM2pMd1YwSEJ4eWZEVzJmRENRbGI4WWgyajdlS3dPbHZVQUZqZnFRLTNKa2haLURXUXlia3B1ZHNFUm9WMm5MTEVuWi1BSGw4WWEyY1ZvZFBGN2JLOEF0Qnl1TWV0NFFiUzN2czYyWjFLa080TXQ0YmV5cmwtbXFXQVZwamg0aldaQWFoYW93VnRTRk05Uk1hSTJiQ0UwemFEdFlZUnFR?oc=5",
-      "source": "Kalkine Media",
-      "category": "Amrize",
-      "keywords": "Acquired, Transaction",
-      "sector": "General",
-      "dealType": "Acquisition",
-      "value": "",
-      "date": "Aug 13, 2026",
-      "dateISO": "2026-08-13T07:00:00"
-    },
-    {
-      "title": "India: UltraTech Cement expands captive solar power capacity with acquisition of 26% stake in Solaris Horizon - BigMint",
-      "summary": "India: UltraTech Cement expands captive solar power capacity with acquisition of 26% stake in Solaris Horizon BigMint",
-      "url": "https://news.google.com/rss/articles/CBMi4wFBVV95cUxQWmY1a1A1UHZJU0FIemdaOTE1NkJqXzlxMkxvYTBIalZ0ekdEOXItWkM5cVVpWXFMMk92UnRwMU9fWWdlWXJMeWd2ejJhOENmWjV5VG0xRWdLaE42WTdEV19zazVqSmZhNldWUHhoV2VObW1JUVJJY09FbWJSNHhocTdvZTVBVi1rM3kxeHk0dk92U2MtbzRxQzg3RjBxMlJFMUFSc0wxMGZ4Q0FmSGZkeEFmWFV4MGJmY1pHelp6NDNFVjhOTDRqeDBlN2FWLWRaU3FybjNES2p6bnVFOEUwMjA0TQ?oc=5",
-      "source": "BigMint",
-      "category": "Cement Industry",
-      "keywords": "Acquired",
-      "sector": "Cement",
-      "dealType": "Acquisition",
-      "value": "",
-      "date": "Aug 13, 2026",
-      "dateISO": "2026-08-13T06:39:00"
-    },
-    {
-      "title": "Shalimar Paints approves reverse merger with Infra.Market; proposes Rs 1,000 crore QIP - Moneycontrol.com",
-      "summary": "Shalimar Paints approves reverse merger with Infra.Market; proposes Rs 1,000 crore QIP Moneycontrol.com",
-      "url": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxNa3IzY2llQ3lWcmFSRE55b0xZd2Nqb3B1TXZaR1VyTjd4V3ZWSE9IYk1iNXNvSVh2OVloMVhaay1GQ24wdGFScjdQSnQ5ZEROay01T1ZTZnhNY1FGR21CM2hleEY3LWNQUXhXZFE3eWM5QnI0c2RXVEhvV2poUUNmSlE2Wm9ielhIaU91bjNBNXZGcWotSWtxMFp6OWowNHF6WXRrRFJLbG42cFZaa0gtdk9wSXBOaHQwVXFXQUtpV3padXpfV2hGSXhDSXZ2X0ZyQ29RbDFRbUh3QdIB3wFBVV95cUxPUmZIMG9QUnItT1FDWndzZmNJTFVHVFVsR0xHTm81OVNWOGFBRWRpdEREZFFQUllXQUR1Y2ZrM0xHN1dwcEF0U2lmMzg3Vl9rdzFLMnJBQWJpb2pHbm9JM2Jvb1ZnbFQ4UjdpZjg2QlM3c1VHNjFrWjB6YUJYdC12VGlEOTFpYTNQdXpsLUdWcDgyc1ZWMzlhY3dLcEVnX1cwLWJpcGhEaXdsNVdoTU51VDRCWUlvckJlUjFnY0JNWWdCcWQ0Ynl3LTFQT1RiYVFRTnJqeExPNmpaR3hCdWxn?oc=5",
-      "source": "Moneycontrol.com",
-      "category": "Aggregates Industry",
-      "keywords": "Merger",
-      "sector": "General",
-      "dealType": "Merger",
-      "value": "",
-      "date": "Aug 13, 2026",
-      "dateISO": "2026-08-13T05:22:04"
-    },
-    {
-      "title": "Ultratech Cement To Acquire 26% Stake In Solaris Horizon For 65 MW Captive Solar Power - SolarQuarter",
-      "summary": "Ultratech Cement To Acquire 26% Stake In Solaris Horizon For 65 MW Captive Solar Power SolarQuarter",
-      "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxOaVVUZW1pbTAtRHN3ZkdwRWg5ZnJxY05XWnRrNzZLMFNnWXF5VGxGR2pyTzUtaTBMM1NqZVM2YWFQRWxINkdjQ0E3Rlhkc0hDSWNvRjJMMWdVNFF2S3RBMU1kcjdvVmtTY1Z0eEJXc29zWmdSaXRvQTBOU1VFMHBfa1FDVTl0ZlRoa0dUdmJzU19IUTRkLWRRcDgtYUd1V1FYWU1KYU5vc2k2OE9lUWp2MDRUV1ZteS1MY2tNRXptaw?oc=5",
-      "source": "SolarQuarter",
-      "category": "Cement Industry",
-      "keywords": "Acquired, To Acquire",
-      "sector": "Cement",
-      "dealType": "Acquisition",
-      "value": "",
-      "date": "Aug 13, 2026",
-      "dateISO": "2026-08-13T04:36:03"
     }
   ]
 }
