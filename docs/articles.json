@@ -1,10 +1,36 @@
 {
-  "fetchedAt": "2026-09-13T16:48:11.668954",
+  "fetchedAt": "2026-09-14T18:19:26.836121",
   "totalArticles": 152,
-  "newToday": 6,
-  "duplicatesRemoved": 6,
+  "newToday": 9,
+  "duplicatesRemoved": 7,
   "archiveDays": 30,
   "articles": [
+    {
+      "title": "Cherat Cement issues public announcement of intention to acquire at least 30% of Nimir - Profit by Pakistan Today",
+      "summary": "Cherat Cement issues public announcement of intention to acquire at least 30% of Nimir Profit by Pakistan Today",
+      "url": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxQcTRSR2RucHIwYV9ieVRJUWN5VkE0cElvVUN3cnctS2tkTDdTOGRJUGM4TXo4U1lqdWVxZ1N0cldNbUdtUzVRWEZEUXpKMmprb01NVUNYNThKMzY1eHpHaEEtbl9qZVRmNVpvbzFzUUNackp0YzcwbmxDbUp0aVY0ZFlQLUVvOWxoUVZoaEx0Nk5yU1pmRDR6Q2ZqektKY3ZfVzdLQVVWdHRHbmNYWnVnM3FZVDk2U1NDX2ROS0M0QkZBRkRVcGc3NzQwRkVxa1FaaUZzWjJR?oc=5",
+      "source": "Profit by Pakistan Today",
+      "category": "Cement Industry",
+      "keywords": "Acquired, To Acquire",
+      "sector": "Cement",
+      "dealType": "Acquisition",
+      "value": "",
+      "date": "Sep 14, 2026",
+      "dateISO": "2026-09-14T08:37:27"
+    },
+    {
+      "title": "Haryana plans Gurugram sector road acquisition - Construction World",
+      "summary": "Haryana plans Gurugram sector road acquisition Construction World",
+      "url": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxPaXRqd1BLdkR3Mk9ZSXVBa2o3SncySjB6dm9VUm5tTllrb2dnUWtjbWx3QnptNjEzdkxOa1hQU21zNmZ1TkVZd1Jjc1hDcHlkV2NvYk1NMUdZR29yb1lmT29CQWVTcjdodGpTckV1bW1fNjE3LW5GeGxjSklCWS1pRTVKTmtaYmJsbnNlQmN6UzB6cUtVc05MTE1xTWtBU25uUld0OVdXbTRNR1Y2d0FTd0twcTJzWk51VW9Iam1LWnJZbnFWYk5IdUlGZE1MSUNHQnhqQWliLXZXTmls?oc=5",
+      "source": "Construction World",
+      "category": "Cement Industry",
+      "keywords": "Acquired",
+      "sector": "General",
+      "dealType": "Acquisition",
+      "value": "",
+      "date": "Sep 14, 2026",
+      "dateISO": "2026-09-14T05:23:50"
+    },
     {
       "title": "Punch List: Procore closes $845M M&A deal, Jacobs wins $131M water job - Construction Dive",
       "summary": "Punch List: Procore closes $845M M&A deal, Jacobs wins $131M water job Construction Dive",
@@ -110,6 +136,19 @@
       "dateISO": "2026-09-09T11:44:01"
     },
     {
+      "title": "Auburn Engineering acquires facility to centralize transportation research - Auburn University",
+      "summary": "Auburn Engineering acquires facility to centralize transportation research Auburn University",
+      "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE5acmdPaG45U203ODc2aXdwQUZMaXlSQlpQV3FYTl84WmdOYkRydk9zU1h5b3FCNDZLd1FOYzB1M1NUYkpQbG9KSHhKaWFWLTlvY2JPWV9SaVJqR2s0M3J6V191VU1TOXlzSHJiUmVMb2tQYzRhdkE?oc=5",
+      "source": "Auburn University",
+      "category": "Asphalt Industry",
+      "keywords": "Acquired",
+      "sector": "General",
+      "dealType": "Acquisition",
+      "value": "",
+      "date": "Sep 09, 2026",
+      "dateISO": "2026-09-09T07:17:37"
+    },
+    {
       "title": "Qassim Cement acquires 100% of Amix Ready Mix for SAR 65M - \u0627\u0631\u0642\u0627\u0645",
       "summary": "Qassim Cement acquires 100% of Amix Ready Mix for SAR 65M \u0627\u0631\u0642\u0627\u0645",
       "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE9wdkZMajBvRDd0UE1PWTRwWkpqbUNDUzVJY2ZTa0wxYzVkZTRwaHVnNDZpRUNkVlhsNV9MLURlZXhtcm9CeWl2WC1KZmVaeHdPdDBNUGxrNUlYVmFSZXA2YmxzNlRvQmlQQXc?oc=5",
@@ -134,19 +173,6 @@
       "value": "",
       "date": "Sep 09, 2026",
       "dateISO": "2026-09-09T05:57:52"
-    },
-    {
-      "title": "Auburn Engineering acquires facility to centralize transportation research - Auburn University",
-      "summary": "Auburn Engineering acquires facility to centralize transportation research Auburn University",
-      "url": "https://news.google.com/rss/articles/CBMifEFVX3lxTE54NV92aFJueU9iQkxVcmZtaENqbUNZSnl4WVZyT0JhOWVrRDZQR0QtUk5xcHpFZnVQd3dXMDVPWnp6LUd1SmtaWHp3dV9XUm1PN0pxZnFrY3BLV2hRbWVEcWNjVTN6VExVSmRrcUhORlBNVkk1Y0gxcnZZX1o?oc=5",
-      "source": "Auburn University",
-      "category": "Asphalt Industry",
-      "keywords": "Acquired",
-      "sector": "General",
-      "dealType": "Acquisition",
-      "value": "",
-      "date": "Sep 08, 2026",
-      "dateISO": "2026-09-08T18:36:41"
     },
     {
       "title": "Heidelberg Materials to Acquire Majority Stake in Peruvian Cement Producer Cementos Inka - News and Statistics - IndexBox",
@@ -643,6 +669,19 @@
       "dateISO": "2026-09-01T07:00:00"
     },
     {
+      "title": "Construction Partners Acquires Asphalt Express to Expand Operations - The Globe and Mail",
+      "summary": "Construction Partners Acquires Asphalt Express to Expand Operations The Globe and Mail",
+      "url": "https://news.google.com/rss/articles/CBMi5wFBVV95cUxPVnhsYUs2YkJsdV91TjlSSEJTUnpFVHl2MWkwNUNjSEZYMkZ5R19JWVFQOGV0VGFWS1E1Y3E0VnlxNnh4ZzZ4THFOZEFjRTJEQ1BmNnF5Mk4zSHVxeW43NldaZGRxbTFoYWlmMUIwS1RobmU2VmNfZV9IOXU0TUpRUUpjbzJ4dC1yUkNrMnJSaXJVWWlSVWNRcTdhNVlncTNwUEk1aDJ0TXVNMFp4M3huLUltcFVrb1ZUSUpHY3YyUzg5YnU1bXM2Y1hGZXc2WFRmU1ZmUTBweVBqVDE2MVNsVjdqVmJta2s?oc=5",
+      "source": "The Globe and Mail",
+      "category": "Asphalt Industry",
+      "keywords": "Acquired",
+      "sector": "Asphalt",
+      "dealType": "Acquisition",
+      "value": "",
+      "date": "Sep 01, 2026",
+      "dateISO": "2026-09-01T07:00:00"
+    },
+    {
       "title": "HERIGE\u2019s EDYCEM boosts Loire-Atlantique footprint with BHR concrete plant acquisition - TipRanks",
       "summary": "HERIGE\u2019s EDYCEM boosts Loire-Atlantique footprint with BHR concrete plant acquisition TipRanks",
       "url": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxQdWpZazRmUzg0R0M4Qmpzd2FYV3lYal8ycFkydjN4NUxkMDhOemFMRnl3eDBKODZHQVB5M2VGRzRsUUxGUjJWYmt3eDBycU9MNUpGRlZhM2dkcXpsRUdRZW9oUnJKSmNwWFpZWTgyVDcwZW1YQWRZWUpZUi1TcC1TRnYtcnJjbjZ2ZE1fTUJDdjU4UXVwb05BMk9pS3djcjkyTkk4Y1BiM091aG8xYUdweGIxbnJqRHVjZzJHTkZtbVBfUmc3dzBkcUI3Z1Y0U1RNdGc?oc=5",
@@ -732,19 +771,6 @@
       "value": "",
       "date": "Aug 31, 2026",
       "dateISO": "2026-08-31T14:20:00"
-    },
-    {
-      "title": "Construction Partners Acquires Asphalt Express to Expand Operations - TipRanks",
-      "summary": "Construction Partners Acquires Asphalt Express to Expand Operations TipRanks",
-      "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxOYjNiV1k2MjFyRFVZMnpkSkxwN1MtYjlDNnA4OVpPdXZ6b3Jqd1JfSHZXX3pnbFk3ZFZWMldMTHZpXzhfZ3dvMXZyRkxuazBRUWEwSnY5NGM5UlRjZ21BUkpWRnNQUDFERm1kLWVkMjdYSWh2b1BFUG9VQWxlWERJa20yRV9NTUxOeEtMZWtMaldVZFk3bVBMMjYzSzFRWWxaeF9NVXBRVXdCTDRMQWZJYkRJZVdYb194V0JN?oc=5",
-      "source": "TipRanks",
-      "category": "Asphalt Industry",
-      "keywords": "Acquired",
-      "sector": "Asphalt",
-      "dealType": "Acquisition",
-      "value": "",
-      "date": "Aug 31, 2026",
-      "dateISO": "2026-08-31T14:01:40"
     },
     {
       "title": "Construction Partners Acquires Asphalt Express To Add Liquid Asphalt Supply And Future Oklahoma Terminal - Pulse 2.0",
@@ -1954,32 +1980,6 @@
       "value": "",
       "date": "Aug 16, 2026",
       "dateISO": "2026-08-16T11:03:25"
-    },
-    {
-      "title": "Martin Marietta Materials issues $5.5 billion in senior notes for Lhoist acquisition - Investing.com",
-      "summary": "Martin Marietta Materials issues $5.5 billion in senior notes for Lhoist acquisition Investing.com",
-      "url": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxPT2lCdnFUWHpWbXRTSTVpZzZIZ3B4a193cTFXd0NzY2t6dmowZ0xtQVFrajBfcXBwOXFaLXJoSkRJUklQRVl1MmNjVnd0UHNuVi1BVmhkNlNfelJxS2dGdlVpMlpqYjN0NjU5N3dDVEhaalR2WU1raWxKX2hMc3VMTlhzb05pVGN3emxsbW9Pc2k5LXotR2xVdXBWQkdoZExwYk1oQWZXSVZkcHZ6TXVtVzZMUVkwMFRPajMycHNJWXh6OXVWcXF6c1RCZnUzN01YQTFOcw?oc=5",
-      "source": "Investing.com",
-      "category": "Martin Marietta",
-      "keywords": "Acquired, Investment",
-      "sector": "General",
-      "dealType": "Investment",
-      "value": "$5.50B",
-      "date": "Aug 15, 2026",
-      "dateISO": "2026-08-15T01:53:07"
-    },
-    {
-      "title": "Martin Marietta Issues Notes to Finance Lhoist Acquisition - TipRanks",
-      "summary": "Martin Marietta Issues Notes to Finance Lhoist Acquisition TipRanks",
-      "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxPNlViVmpORGxaT0xQa1U3WF9URjhCYlR0NHF0SXFIQkoxOE9ibzV4ak1zMFpxdzVNeGZPNkdibXNjbWE3Q2dEN1doSlUtTkxYbjNqVUswcERFcFU4cnlaN2J2bUVHaDJSY0gzTWJWUEhaVXdQekRuTTRiczNtSDFMT3cySFpYV3lwMDRXNWdraUliLUtPQXlwVHJWdUFPa09PVmFwclJWNHM1N2tFMEZB?oc=5",
-      "source": "TipRanks",
-      "category": "Martin Marietta",
-      "keywords": "Acquired",
-      "sector": "General",
-      "dealType": "Acquisition",
-      "value": "",
-      "date": "Aug 14, 2026",
-      "dateISO": "2026-08-14T20:59:42"
     }
   ]
 }
