@@ -1,8 +1,8 @@
 {
-  "fetchedAt": "2026-09-16T17:26:28.453428",
-  "totalArticles": 157,
-  "newToday": 8,
-  "duplicatesRemoved": 4,
+  "fetchedAt": "2026-09-17T17:26:22.166857",
+  "totalArticles": 155,
+  "newToday": 7,
+  "duplicatesRemoved": 5,
   "archiveDays": 30,
   "articles": [
     {
@@ -764,6 +764,19 @@
       "summary": "List of 20 Acquisitions by Construction Partners (Sep 2026) Tracxn",
       "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxNMFJ2blpKcWFNZFQxOUQzcVFjVlRvV1hLYnhUZUlzbTRPQzNtYjZwbmRCMnRWUUtQZTNWeC1ROXZwRWJDNklTR1VjaFl5YlZFaHRZdzZvd2tKVDI3T2NiNEdpeFc2ZURuSHp6dU44X3FpUzQ2WmxXSWVSdGV1d1NIcjd0VlZYdlViclVHU3dlUFllN2NodzZwdmI2QUk2cFBSTkFDZ1ZIcHZtQnU5bFRobnNvaGRLR09z?oc=5",
       "source": "Tracxn",
+      "category": "Asphalt Industry",
+      "keywords": "Acquired",
+      "sector": "General",
+      "dealType": "Acquisition",
+      "value": "",
+      "date": "Sep 01, 2026",
+      "dateISO": "2026-09-01T07:00:00"
+    },
+    {
+      "title": "White Cap Completes Acquisition of the Business of Ace Contractors Supply - Yahoo Finance",
+      "summary": "White Cap Completes Acquisition of the Business of Ace Contractors Supply Yahoo Finance",
+      "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxOc3pQZ0xZUHI0VWRzRlNwTEFJdlZkY0h1TGl4VEoyY1FSVjVhSU1WOFpfTHBYcEFZZjc4REpfQjg5UDAzX2hOXzExLXlzeFJCczdjc0kyVUpmSjFmVWJRcUVnb1BBaVZ6T3RXSGRpazlPcmE1Mm9pVDN5dnV6b1VTdEpjY2pwNmVoUW52dzJPRTgzdG15VEl1dzF0QS01YzdlaE9WLVVHM0o?oc=5",
+      "source": "Yahoo Finance",
       "category": "Asphalt Industry",
       "keywords": "Acquired",
       "sector": "General",
@@ -1735,6 +1748,19 @@
       "dateISO": "2026-08-21T07:00:00"
     },
     {
+      "title": "Swiss cement giant Holcim to acquire German firm Fermacell in \u20ac840m deal - SWI swissinfo.ch",
+      "summary": "Swiss cement giant Holcim to acquire German firm Fermacell in \u20ac840m deal SWI swissinfo.ch",
+      "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxPM3dSOXpISFZpbnRWNzRmcWFoX09EMkJDdkphaElMaWhtcVdXN2JxY1c2WVltbUg4SUdONEZRbXE2NUpKV1QtR3hpUXp1M2I1QjF3c1dFYUhhNXVBQTlFZ3dOMDFqbEtKWjk0a0xlVkUxdTdHQV9OUzRhaHd5cUF3akZ5VTNWVEhVQ3EwSXBYTTlsbE5ldGlmMHRNNnNNMFJGYUlKZXJrSlItQjRoTE5vRG5Qc0FJOVR1SDZfTDkxQ1NIYTdLeFdj?oc=5",
+      "source": "SWI swissinfo.ch",
+      "category": "Cement Industry",
+      "keywords": "Acquired, To Acquire",
+      "sector": "Cement",
+      "dealType": "Acquisition",
+      "value": "",
+      "date": "Aug 21, 2026",
+      "dateISO": "2026-08-21T07:00:00"
+    },
+    {
       "title": "Holcim stock holds steady as \u20ac840 million Fermacell acquisition boosts growth story - Ad-hoc-news.de",
       "summary": "Holcim stock holds steady as \u20ac840 million Fermacell acquisition boosts growth story Ad-hoc-news.de",
       "url": "https://news.google.com/rss/articles/CBMizAFBVV95cUxOclVBV0RqUGhaNnFEYjdhMUdORjZiWC1SbzBmM0xlSk54VU4teWtoa0QzSUZadWxJT2Q5cDl2ZzhER25QYjhiVVVjS05rZHVPQUcwekNQd05uS2VsdlV5VW5WZTcyekRqNkVUUVNFVWszQ0RNXzBLU21mZnZUNDJSUXRrVDVCU1RRaEFtU1EzbmNwMU4yWkM5TkRlOTBneXRwLXRLN1lucDd3RU51Y1dlOG1zeEt4amQ0YWRfUjBIQWNQaVE4cEtacHFVS24?oc=5",
@@ -1746,19 +1772,6 @@
       "value": "",
       "date": "Aug 21, 2026",
       "dateISO": "2026-08-21T06:58:18"
-    },
-    {
-      "title": "Swiss Cement Giant Holcim To Acquire German Firm Fermacell In \u20ac840M Deal - Menafn",
-      "summary": "Swiss Cement Giant Holcim To Acquire German Firm Fermacell In \u20ac840M Deal Menafn",
-      "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxOcUFpcWhVTUMyOGx5d0h0TTNUOTVuQ0xTNEk0clFhT3FkZG0wOUhCZ3hSTkZQa2JWN2xubkNZRTdtVUpzLXhSZGRrbFB0VGxVUHNBc2NiY2NHb1QtaW1GSzFmeEhHeHlQTWQ1SjYzSW5hajZEMnY4MkhhX3prMXNJVWZySGZ4c2dVX2NkNkl6Z0ZOR2pudnJ2dzJ3Sng2UTJoQjJn?oc=5",
-      "source": "Menafn",
-      "category": "Cement Industry",
-      "keywords": "Acquired, To Acquire",
-      "sector": "Cement",
-      "dealType": "Acquisition",
-      "value": "",
-      "date": "Aug 21, 2026",
-      "dateISO": "2026-08-21T06:15:49"
     },
     {
       "title": "Holcim consolide ses murs et sols avec l'acquisition de Fermacell - TradingView",
@@ -1873,6 +1886,19 @@
       "keywords": "Acquired, Investment",
       "sector": "General",
       "dealType": "Investment",
+      "value": "",
+      "date": "Aug 20, 2026",
+      "dateISO": "2026-08-20T07:00:00"
+    },
+    {
+      "title": "Holcim Acquires European Fermacell for 840 Million Euros - bluewin.ch",
+      "summary": "Holcim Acquires European Fermacell for 840 Million Euros bluewin.ch",
+      "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxONkFlSE1TT2ZpMDFKbFgzQXpUb3ROTFl1eTNvb3I1YlBrNi1tU0JhLXBpX0FsWkx3TnVJRGQ1N1Q4cEJaajBnUjNleUpwVEdwTG1mTDdVekVmMlJuUXdRV2JOZDhGSktmT3R6bDE1R0UxWk9jR09SQ19rSTNvbWJrS2N0RExTclpkMWw1MkdxaGpmN005dFJNbUFmenBGVnc?oc=5",
+      "source": "bluewin.ch",
+      "category": "Holcim",
+      "keywords": "Acquired",
+      "sector": "General",
+      "dealType": "Acquisition",
       "value": "",
       "date": "Aug 20, 2026",
       "dateISO": "2026-08-20T07:00:00"
@@ -1993,58 +2019,6 @@
       "value": "",
       "date": "Aug 18, 2026",
       "dateISO": "2026-08-18T17:35:20"
-    },
-    {
-      "title": "Will Martin Marietta's $13.5B Lhoist Deal Strengthen Long-Term Growth? - Yahoo Finance",
-      "summary": "Will Martin Marietta's $13.5B Lhoist Deal Strengthen Long-Term Growth? Yahoo Finance",
-      "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxQWTZYRU1NWVFfWkppV0pIV3Jld1R3dHBXd3VsRXNxVmlha0lJQjByRjBWOTJWOUdWMWtKaU92ejlTbm9CSlFfaEtoekRSMTFtY0FZWVlRamxtNGZST0lxZzk2dnZNU3QtSzB0MnRjZmN6SXJGVUhQd3gwX1E2ZDIxSERCaGw4eUJIUDBlTXRtekRPMW0wUDVQWk1B?oc=5",
-      "source": "Yahoo Finance",
-      "category": "Martin Marietta",
-      "keywords": "",
-      "sector": "General",
-      "dealType": "Acquisition",
-      "value": "$13.50B",
-      "date": "Aug 18, 2026",
-      "dateISO": "2026-08-18T17:01:00"
-    },
-    {
-      "title": "Martin Marietta (NYSE: MLM) sets higher leverage limits for Lhoist deal - Stock Titan",
-      "summary": "Martin Marietta (NYSE: MLM) sets higher leverage limits for Lhoist deal Stock Titan",
-      "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxPSVpTaFFLdEFlYnhGdVJkbm0wY1ByOUxyVVRCRUktN0RfQlRqck9va3E0alpBZWhXbWhOc3dJdzgtWGpaMlBrajJjMThTMnB5eWpPYTZ2eUtEVnlibV96RU5WbnVtS1N6T1h4RS1ObjF6RllndWZKRjBMRjZYZVhqV2d1WjltV0pYQTJRNmZ1ZFo4cklEWmF5LTRDOURqR092MENoUDRDdW9OS2RjVDg1SDE1UjVyNldy?oc=5",
-      "source": "Stock Titan",
-      "category": "Martin Marietta",
-      "keywords": "",
-      "sector": "General",
-      "dealType": "Acquisition",
-      "value": "",
-      "date": "Aug 18, 2026",
-      "dateISO": "2026-08-18T07:00:00"
-    },
-    {
-      "title": "Amrize Ltd's Chief Strategy Officer Acquires 2,510 Shares on August 17, 2026 - Kalkine Media",
-      "summary": "Amrize Ltd's Chief Strategy Officer Acquires 2,510 Shares on August 17, 2026 Kalkine Media",
-      "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxQWmVFYUthOHduTC1vVXR2UzZFenVHVWtwOGNlcjQwbElIR1g4ZUhlM0xYY0tiNFF4XzYwQ0xiVWpNa2lyS3UzenpqUWRqVFhWUnR3ckw3dlFPZEJBZlZLNXZScXZoYjFGRlV6dmR3Wko2LV9zQzNoTWM1Nm1RN3FacmpkNmpvRWE1bzM4S2ZOc0ZxcjF4QmFKaDV3VWZVczNvclh2eDI3LXpVaFpfYjJ4QzJoNzdKekx5aExGaQ?oc=5",
-      "source": "Kalkine Media",
-      "category": "Amrize",
-      "keywords": "Acquired",
-      "sector": "General",
-      "dealType": "Acquisition",
-      "value": "",
-      "date": "Aug 18, 2026",
-      "dateISO": "2026-08-18T07:00:00"
-    },
-    {
-      "title": "UltraTech Cement: How a Contested Takeover Built India's Largest Cement Company - markhub24.com",
-      "summary": "UltraTech Cement: How a Contested Takeover Built India's Largest Cement Company markhub24.com",
-      "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxOTnFOS1NNUkN3bE40X2F3SjkyaDR1Mmg1ejlvT0RZYzlZWV9ESmp1eGtTbXNYWlRFVGo3d09acHhFcnVDUmpjc0VTNmRIQTJwVjNMZDJuR1hvUExwcVZxMnpuS0o2RE0wUnN1Ymh3MGlyR3VHZjl6dzlZUDJnYWZ2UmtKcVRUMDFwb0UxYkFvN0ZpS0oyenFSSEJ4VmxoS3JUTDRPMGFIMEVUb0t0OVE?oc=5",
-      "source": "markhub24.com",
-      "category": "Cement Industry",
-      "keywords": "Takeover",
-      "sector": "Cement",
-      "dealType": "Acquisition",
-      "value": "",
-      "date": "Aug 17, 2026",
-      "dateISO": "2026-08-17T19:20:07"
     }
   ]
 }
