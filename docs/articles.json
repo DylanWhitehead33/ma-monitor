@@ -1,10 +1,75 @@
 {
-  "fetchedAt": "2026-09-18T16:55:18.034774",
+  "fetchedAt": "2026-09-19T16:12:12.438358",
   "totalArticles": 152,
-  "newToday": 9,
+  "newToday": 10,
   "duplicatesRemoved": 4,
   "archiveDays": 30,
   "articles": [
+    {
+      "title": "Cinderlite Trucking acquired by Granite for $58.5M (GVA SEC) - Dealroom",
+      "summary": "Cinderlite Trucking acquired by Granite for $58.5M (GVA SEC) Dealroom",
+      "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxOUHBRaDZCUXF3VGI4QjNKM2xkZ1Q0Vi05V1hUWmJocmtOODJ3NEMtdnYySkszeDZOc0VvUTN5R09ENEpPN3MxLWtheVUyS1phMXlsaUdJXzlzY0p2UDhYVXlyNDdhY0FOOG1BWFUzTEZCUTFfWlNJbTMxdFVnQndLQzBjZHl0QURTaWszRmNXdEoxYjNacnc?oc=5",
+      "source": "Dealroom",
+      "category": "Granite Construction",
+      "keywords": "Acquired",
+      "sector": "General",
+      "dealType": "Acquisition",
+      "value": "$58M",
+      "date": "Sep 19, 2026",
+      "dateISO": "2026-09-19T11:42:33"
+    },
+    {
+      "title": "Mobile Asphalt \u2190 Construction Partners \u2014 ACQ $54.6M (SEC ROAD FY25) - Dealroom",
+      "summary": "Mobile Asphalt \u2190 Construction Partners \u2014 ACQ $54.6M (SEC ROAD FY25) Dealroom",
+      "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxNNUx1MzBfdUFiXzFwc0RUaFJ5OEpqMmVhRl8ycWxjYThJWmxhYkRMTDl3UjdlZVNOREVyTWwwUjhwUnM4cmlUUHk2elVXN2JKV1BMSGhNNXFkeFhUX0pPSmVhdzVEb1ZhQmx5LUZwc1hWV2ZZM2tiTlNWM0FSQnNCeGc3MHlnSm5pN29NMnpzZm91Q2hPQnJmODd3?oc=5",
+      "source": "Dealroom",
+      "category": "Asphalt Industry",
+      "keywords": "",
+      "sector": "Asphalt",
+      "dealType": "Acquisition",
+      "value": "$55M",
+      "date": "Sep 19, 2026",
+      "dateISO": "2026-09-19T11:34:30"
+    },
+    {
+      "title": "Holcim stock edges lower as investors digest James Hardie deal - AD HOC NEWS",
+      "summary": "Holcim stock edges lower as investors digest James Hardie deal AD HOC NEWS",
+      "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxOdlkyRklZQ25mN3UwaWhLd05KUDhoRS1RTDM4YzBTTGY0X0ZXREllcF9XcWpwdVRlOHNxWVVlM3BpV04wMGlkTnVSeldCY2V2dHhxSTJiSEFQTUU4Q0g0M0FhQnp6SUM1Mi12RXAwMXlXUHJNdHdZQnBWUVlYdUExUERwb3hyb25hdlpxSS1UUEFXU0dRc001dTQxZDY5c1k2RzVtSVE4OGU0TjFFV0t3bXdwWkJST2k2NWpXM2ZsM2J2Rmc?oc=5",
+      "source": "AD HOC NEWS",
+      "category": "Holcim",
+      "keywords": "Investment",
+      "sector": "General",
+      "dealType": "Acquisition",
+      "value": "",
+      "date": "Sep 19, 2026",
+      "dateISO": "2026-09-19T09:37:40"
+    },
+    {
+      "title": "Orient Cement (NSE:ORIENTCEM) Investor Meetings and Merger Process: Key Developments Ahead - Kalkine India",
+      "summary": "Orient Cement (NSE:ORIENTCEM) Investor Meetings and Merger Process: Key Developments Ahead Kalkine India",
+      "url": "https://news.google.com/rss/articles/CBMizAFBVV95cUxPMWhibWJsajg3cWZ1Z29EeUpFcG41ajRPNV8zYUhGSjhTYXRib21fMUNvV2lwRXVObF9xWnNsNU1UZDJndXhfV0o0WV8yNTdaTmNLd1RXYmJNZXcxUmtCTWRGcl9aR1FzdkxBZVNveEFzWC1SZldVcHhlejlueU1uMm9VXzR6ME9KMWxjY0pSb2laaGZFbEFocktjVzlCdFhIV0V3aVp6SWVjOU92OWhLVWgyY0M0YXIzTmstMlo3czNRVVdCY3BEYjAzbmY?oc=5",
+      "source": "Kalkine India",
+      "category": "Cement Industry",
+      "keywords": "Merger, Investment",
+      "sector": "Cement",
+      "dealType": "Merger",
+      "value": "",
+      "date": "Sep 19, 2026",
+      "dateISO": "2026-09-19T05:47:00"
+    },
+    {
+      "title": "Business News & Notes: Fisher Companies expands into steel fabrication with Alloy acquisition - Midland Daily News",
+      "summary": "Business News & Notes: Fisher Companies expands into steel fabrication with Alloy acquisition Midland Daily News",
+      "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxQTGZvQUhuelY5MDNPVjU4MHFHVmVfcnlsRHFNcVEtb1EwNmtFc1lfVDdXMGUwZUhaVTVnZGZCQ0VZYzBZVTktWm5LU0F5aDR5Z3UwM3Z6ZU5COTFZTEFkbjl4a0JvNm5DWnF5U3ZFeWpQSGo0TmpneFp2Zkd1NmN6aDE1eTdHb2VLM2VhWHJFd2ZnM05OVnZBR0lyZTlQbkZJVkh1cUZITVVtZw?oc=5",
+      "source": "Midland Daily News",
+      "category": "Aggregates Industry",
+      "keywords": "Acquired",
+      "sector": "General",
+      "dealType": "Acquisition",
+      "value": "",
+      "date": "Sep 18, 2026",
+      "dateISO": "2026-09-18T18:27:37"
+    },
     {
       "title": "Heidelberg Materials stock eases after Australia deal and plant closure - AD HOC NEWS",
       "summary": "Heidelberg Materials stock eases after Australia deal and plant closure AD HOC NEWS",
@@ -160,6 +225,19 @@
       "value": "",
       "date": "Sep 13, 2026",
       "dateISO": "2026-09-13T18:56:28"
+    },
+    {
+      "title": "Gulshankumar Chopra acquires 49.82% stake in Niraj Cement Structurals - scanx.trade",
+      "summary": "Gulshankumar Chopra acquires 49.82% stake in Niraj Cement Structurals scanx.trade",
+      "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxQVUpwQk1kczNNTzFBZlRNTVE0VkVELU1OR0hhejdDelMtZENkNk44NUZxM0Q4Uk54bFVUc2w1VE5NQTZrZ19HdVVZOHdKSnl4Vk1pWnJkMUNKeUlXeTRkMEdzeXprTnF1YjBlbjhQOFg0bG00b3V4SEZ3bTRwS21PZnozRGN3NDN3eE1ZZTZsb3RiVkNtM0N6WFhHcUlUSDJPMnVkaGpJSXJKa2pkakd6clJRY2xUeDJvWGFnUGVXaw?oc=5",
+      "source": "scanx.trade",
+      "category": "Cement Industry",
+      "keywords": "Acquired",
+      "sector": "Cement",
+      "dealType": "Acquisition",
+      "value": "",
+      "date": "Sep 13, 2026",
+      "dateISO": "2026-09-13T05:38:09"
     },
     {
       "title": "Punch List: Procore closes $845M M&A deal, Jacobs wins $131M water job - Construction Dive",
@@ -1902,84 +1980,6 @@
       "value": "",
       "date": "Aug 20, 2026",
       "dateISO": "2026-08-20T21:05:37"
-    },
-    {
-      "title": "Westport Asset Management Inc. Acquires Shares of 8,000 Eagle Materials Inc $EXP - MarketBeat",
-      "summary": "Westport Asset Management Inc. Acquires Shares of 8,000 Eagle Materials Inc $EXP MarketBeat",
-      "url": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxPOUd3X29PYWJJYm1taW9NdllvZ1NwTU5kS3dhUjlhcDMyRHFmeUU1LU5IcHBzRExzSUV1TXl1ZzhFa0o1X3g5V3hJbHJzSUxTbVBFN0ZKWHlRM0VLNngtX3lSa0pNQXJWQzBuNVE5ZmVuZ3VVaG5vSkNWYmE5OHVlU0lHZFo5M0d2R3JtY3VheHZJYTVORXJwcWNiSjZBcWE2cWZqVXNvZ0NYNlBWbzIwZ08zTmxnREN3QWYyczFsRF9abjRRaTV6LW5ndFNXVnJqeGZFeQ?oc=5",
-      "source": "MarketBeat",
-      "category": "Eagle Materials",
-      "keywords": "Acquired",
-      "sector": "General",
-      "dealType": "Acquisition",
-      "value": "",
-      "date": "Aug 20, 2026",
-      "dateISO": "2026-08-20T11:07:23"
-    },
-    {
-      "title": "Chopra takes 49.82% of Niraj Cement as open offer draws near-zero interest - app.dealroom.co",
-      "summary": "Chopra takes 49.82% of Niraj Cement as open offer draws near-zero interest app.dealroom.co",
-      "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxPbnIzS2xJZHdINEI4SWtySVBSal9VY3dBdW9DRXN1N0ZsMndkSDloZUxfM2FZWUkwX3F4bHJhWWwxTE96ckotM2pjZU5yR2kwM0V0bjFIajUxOFdESE85Q19uOWIzcjVKdktSZWF1RGZtZ1FvV2V0eXVXckhEcXVRTndTaDlQMi1PT25YaGF4bFAxRVhrLU1KNnVHc19kUTVnLXdDWlpOdVc5NDA?oc=5",
-      "source": "app.dealroom.co",
-      "category": "Cement Industry",
-      "keywords": "",
-      "sector": "Cement",
-      "dealType": "Acquisition",
-      "value": "",
-      "date": "Aug 20, 2026",
-      "dateISO": "2026-08-20T08:44:01"
-    },
-    {
-      "title": "Gulshankumar Chopra acquires 49.82% stake in Niraj Cement Structurals - scanx.trade",
-      "summary": "Gulshankumar Chopra acquires 49.82% stake in Niraj Cement Structurals scanx.trade",
-      "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxQVUpwQk1kczNNTzFBZlRNTVE0VkVELU1OR0hhejdDelMtZENkNk44NUZxM0Q4Uk54bFVUc2w1VE5NQTZrZ19HdVVZOHdKSnl4Vk1pWnJkMUNKeUlXeTRkMEdzeXprTnF1YjBlbjhQOFg0bG00b3V4SEZ3bTRwS21PZnozRGN3NDN3eE1ZZTZsb3RiVkNtM0N6WFhHcUlUSDJPMnVkaGpJSXJKa2pkakd6clJRY2xUeDJvWGFnUGVXaw?oc=5",
-      "source": "scanx.trade",
-      "category": "Cement Industry",
-      "keywords": "Acquired",
-      "sector": "Cement",
-      "dealType": "Acquisition",
-      "value": "",
-      "date": "Aug 20, 2026",
-      "dateISO": "2026-08-20T07:07:30"
-    },
-    {
-      "title": "Holcim acquires James Hardie\u2019s European unit for \u20ac840 million - Investing.com",
-      "summary": "Holcim acquires James Hardie\u2019s European unit for \u20ac840 million Investing.com",
-      "url": "https://news.google.com/rss/articles/CBMizAFBVV95cUxNX2VZRkJZdkgzdVJlRF9Dbk1MTGZZaGFCRGgxSlYyX2ZkZFF4NTQ1MGNQYnJzNjREOHlaaThQV016VjR0M21jN1pwbGt4VklvTDBKcUJBeGpoY0ZxcEhDMWlsVWRmWGVtSlFseTB2ZVBVT1ZPSWVqX2hwVnpPRWFqWFdRa25PT2tkX1lETGowc2s4cWNvTGs2QzhfeXdhM2NpelFUMUFfdjQzZWtsRmdlZXJhMVFUV2dpelZlMGVwb1pyY1BKS2MzQm54WE0?oc=5",
-      "source": "Investing.com",
-      "category": "Holcim",
-      "keywords": "Acquired, Investment",
-      "sector": "General",
-      "dealType": "Investment",
-      "value": "",
-      "date": "Aug 20, 2026",
-      "dateISO": "2026-08-20T07:00:00"
-    },
-    {
-      "title": "Holcim Acquires European Fermacell for 840 Million Euros - bluewin.ch",
-      "summary": "Holcim Acquires European Fermacell for 840 Million Euros bluewin.ch",
-      "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxONkFlSE1TT2ZpMDFKbFgzQXpUb3ROTFl1eTNvb3I1YlBrNi1tU0JhLXBpX0FsWkx3TnVJRGQ1N1Q4cEJaajBnUjNleUpwVEdwTG1mTDdVekVmMlJuUXdRV2JOZDhGSktmT3R6bDE1R0UxWk9jR09SQ19rSTNvbWJrS2N0RExTclpkMWw1MkdxaGpmN005dFJNbUFmenBGVnc?oc=5",
-      "source": "bluewin.ch",
-      "category": "Holcim",
-      "keywords": "Acquired",
-      "sector": "General",
-      "dealType": "Acquisition",
-      "value": "",
-      "date": "Aug 20, 2026",
-      "dateISO": "2026-08-20T07:00:00"
-    },
-    {
-      "title": "Gulshankumar Chopra Acquires 49.82% Stake in Niraj Cement Structurals via Open Offer and SPA - Whalesbook",
-      "summary": "Gulshankumar Chopra Acquires 49.82% Stake in Niraj Cement Structurals via Open Offer and SPA Whalesbook",
-      "url": "https://news.google.com/rss/articles/CBMiowJBVV95cUxQdzQwMEZVY21DYllaX2E5U0JuOFVkbnY3Wmx6VFhyWjdTN1FPbldHbURJYjZVRkhZZ2NJYlNxb29MVVZsX2pJOV9jeDZFaS1hb240aENhX2lid2Iza1JNNDRlMklZbFBSSzFseTl3SzRYUUZsN1lrMXRpRVJPczFCYWFRZW5rOGNHcFlCSGh2MUgtVmt5Y1pVMTN0ckZUT1F1LXRyU2ZfeHVYbWVzdHU1SmxlQjVRc1h0aWY2OC1IbFdsckdLUGNCcGVYMGs1SzVvYkZ1Q180VTNSaXR5S251bV9XdUdMZnR2UVJBeFBxMUVBa2N0Ql9TSWJMYmV3STVXcU5EcGtUZkZycW5KcExfNHFueHNLbGIyaFBrdXl4a3dENjg?oc=5",
-      "source": "Whalesbook",
-      "category": "Cement Industry",
-      "keywords": "Acquired",
-      "sector": "Cement",
-      "dealType": "Acquisition",
-      "value": "",
-      "date": "Aug 20, 2026",
-      "dateISO": "2026-08-20T06:54:41"
     }
   ]
 }
