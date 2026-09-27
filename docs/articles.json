@@ -1,10 +1,23 @@
 {
-  "fetchedAt": "2026-09-26T16:51:20.545158",
-  "totalArticles": 154,
-  "newToday": 16,
-  "duplicatesRemoved": 9,
+  "fetchedAt": "2026-09-27T17:25:53.225961",
+  "totalArticles": 147,
+  "newToday": 13,
+  "duplicatesRemoved": 10,
   "archiveDays": 30,
   "articles": [
+    {
+      "title": "Ambuja Cements to hold Sep 28 meeting for Orient Cement merger - scanx.trade",
+      "summary": "Ambuja Cements to hold Sep 28 meeting for Orient Cement merger scanx.trade",
+      "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxPZjBfckxXN3oteXNCRm1xWlpjYW1UX0V3aF9OdG8tODJ2aVI1WVFOY0Fqdk9OV1RCR3hZSjVtYlVIQlV3YS0yQXlFcXRhMURQNjVmeDl3T2lIYUxHVzBDdkpDTnhqZ1VNQ2pUT2NTaHY3QnhZeVo1dUl3Z2Q2ZDhRN1Z2RUpVZm5KZmJDVmNBNzJqWmhnV1ZIbEJJMU1LV3lCUjBjc0FVSVUxb2RnNHFqQjYweTVNbEk?oc=5",
+      "source": "scanx.trade",
+      "category": "Cement Industry",
+      "keywords": "Merger",
+      "sector": "Cement",
+      "dealType": "Merger",
+      "value": "",
+      "date": "Sep 27, 2026",
+      "dateISO": "2026-09-27T07:06:47"
+    },
     {
       "title": "CEMEX Director Rogelio Zambrano Lozano Acquires 400,800 Ordinary Participation Certificates - Kalkine Media",
       "summary": "CEMEX Director Rogelio Zambrano Lozano Acquires 400,800 Ordinary Participation Certificates Kalkine Media",
@@ -149,17 +162,17 @@
       "dateISO": "2026-09-24T03:02:56"
     },
     {
-      "title": "EU clears major acquisition in heavy materials software - The Brussels Times",
-      "summary": "EU clears major acquisition in heavy materials software The Brussels Times",
-      "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxOVmFCVHdUZEVYR3NPc012UFdGQjRXYjlFNHNBWW9KNEREMnBOYWpka05QNkV5RDhoSUxtZTY2N2YyTHg3Y195c05RdDZzTmxLWmxFeGF0S1gwYzdCcFc3dWJPNklSU0Zodi1sdzJ5amhLZGJQZ0RnMFpROWlfcm11YS1JNUtXOThCc041RGdOWkNWcGkwUk42N1N2eW9YSV92N05uZGkxUQ?oc=5",
-      "source": "The Brussels Times",
+      "title": "EU clears major acquisition in heavy materials software - brusselstimes.com",
+      "summary": "EU clears major acquisition in heavy materials software brusselstimes.com",
+      "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxPMFoyeWtPSmFSNE9WQmJJUG5RdXpMdFFvV09HZmlKSnJReGJWUk5fME5mWkRwUTl1UUlYT2xKRklFeEpsTDIzWk5TTDl0RzBtVWJTVUg3MVYtcW9mQUxkbFNRSlBSZF9wTkdnR0tTZV82eEJLc3M4WXFSRi1VMjZYUm1xYUJpWWR4VWxjRnNueGM4Wm4zMG9Vdg?oc=5",
+      "source": "brusselstimes.com",
       "category": "Heidelberg Materials",
       "keywords": "Acquired",
       "sector": "General",
       "dealType": "Acquisition",
       "value": "",
       "date": "Sep 24, 2026",
-      "dateISO": "2026-09-24T00:21:44"
+      "dateISO": "2026-09-24T01:29:57"
     },
     {
       "title": "TCC Group plans \u20ac750m acquisition of Ivano-Frankivskcement - UA.NEWS",
@@ -604,6 +617,19 @@
       "dateISO": "2026-09-20T07:08:24"
     },
     {
+      "title": "Commercial Metals Company (CMC) acquires Foley Products Company for $1.84B (December 2025) - Dealroom",
+      "summary": "Commercial Metals Company (CMC) acquires Foley Products Company for $1.84B (December 2025) Dealroom",
+      "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxNcGo5QmlJeHdMWXVkU05hcmJkUHdEdUFWT1Zhbjl0ejhpUVZNcV9FOTZQWGFlLVZONWw2UkV2MEVWLVVnb0JPQWhyNklEZVg5VUd3cWdQaXA3N2plQ2ViRnI0UjRwNnVFdWpUNDR3T3pqcW4xYWpmRkIxYUFXMHp1b3hlSm5YUnphaXlSeQ?oc=5",
+      "source": "Dealroom",
+      "category": "Precast Industry",
+      "keywords": "Acquired",
+      "sector": "General",
+      "dealType": "Acquisition",
+      "value": "$1.84B",
+      "date": "Sep 19, 2026",
+      "dateISO": "2026-09-19T18:27:53"
+    },
+    {
       "title": "Cinderlite Trucking acquired by Granite for $58.5M (GVA SEC) - Dealroom",
       "summary": "Cinderlite Trucking acquired by Granite for $58.5M (GVA SEC) Dealroom",
       "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxOUHBRaDZCUXF3VGI4QjNKM2xkZ1Q0Vi05V1hUWmJocmtOODJ3NEMtdnYySkszeDZOc0VvUTN5R09ENEpPN3MxLWtheVUyS1phMXlsaUdJXzlzY0p2UDhYVXlyNDdhY0FOOG1BWFUzTEZCUTFfWlNJbTMxdFVnQndLQzBjZHl0QURTaWszRmNXdEoxYjNacnc?oc=5",
@@ -706,6 +732,19 @@
       "value": "",
       "date": "Sep 19, 2026",
       "dateISO": "2026-09-19T05:47:00"
+    },
+    {
+      "title": "Construction Partners acquires GMJ Paving for $36.5M (SEC) - Dealroom",
+      "summary": "Construction Partners acquires GMJ Paving for $36.5M (SEC) Dealroom",
+      "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxPY2dOSFpOLUxvNmNUNHQ2VXNESDhyd3FNd1ZkRUd2c0pkMjlxLTdhYTdUcWwzeFVuZ2FBMEF5SjBsLWNMWWx5ZnhPYlc0VXdtLWFtQ1VYYzhiekxoNXVmdkFrMUtRYmQzYW5TdElhQlNNZTFsMlhUVXVEa1pocEZBS3YzUDdITXhVamJISEU1NS1qQ0NkWGRYTkRVZjlGM2pr?oc=5",
+      "source": "Dealroom",
+      "category": "Construction Partners",
+      "keywords": "Acquired",
+      "sector": "Paving",
+      "dealType": "Acquisition",
+      "value": "$36M",
+      "date": "Sep 19, 2026",
+      "dateISO": "2026-09-19T01:13:21"
     },
     {
       "title": "Four Star Paving \u2190 Construction Partners \u2014 ACQ $58.2M (Apr 2026) \u2014 ROAD 10-Q SEC - Dealroom",
@@ -1876,136 +1915,6 @@
       "value": "",
       "date": "Aug 29, 2026",
       "dateISO": "2026-08-29T10:56:34"
-    },
-    {
-      "title": "Martin Marietta\u2019s Lime Deal Has RBC Rethinking The Upside - Finimize",
-      "summary": "Martin Marietta\u2019s Lime Deal Has RBC Rethinking The Upside Finimize",
-      "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxQNzRHZ2NvNkJOMzNzZVp0THVlOWo2bGVad1RVenRKcTlNNkJfUW1HaFBNOU05MUotV1FNVG1sSjA2SmYwUWt6MWRpR2ZHLVVUdkVUUEllODRMS3V1ZE5mT0hSbHlPa3JOYzc2UDBuYl9GNU5JQ2NQQ041emVoU0NvekpIaWp0cWRiQVRxVl93?oc=5",
-      "source": "Finimize",
-      "category": "Martin Marietta",
-      "keywords": "",
-      "sector": "General",
-      "dealType": "Acquisition",
-      "value": "",
-      "date": "Aug 28, 2026",
-      "dateISO": "2026-08-28T16:26:26"
-    },
-    {
-      "title": "Holcim stock steadies after \u20ac840 million Fermacell deal and CCS investment push - AD HOC NEWS",
-      "summary": "Holcim stock steadies after \u20ac840 million Fermacell deal and CCS investment push AD HOC NEWS",
-      "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxOa212SGhTcjVnVFFwWjMtVFVVSU1tNkNENXZFRVZLVHlNWHlFUjBjeHRBS05VcWliRkpvYVJTSlE1elZzRzNuZmo0V2N2MjIydG1WTzN0bW9lNnhIWkVYYmlPNnNGeTVrQUp3eVMxc05ndzZKdV9IaElPT1IyWFBOTEExQ29GN1IyemRvOE5nMUViYjRqR0FHZ2NvVk5USGFoejJMT3JlMmRkVkJTLXhOOGFKRGFycVVZZXhOUVowc2xMU2c?oc=5",
-      "source": "AD HOC NEWS",
-      "category": "Holcim",
-      "keywords": "Investment",
-      "sector": "General",
-      "dealType": "Investment",
-      "value": "",
-      "date": "Aug 28, 2026",
-      "dateISO": "2026-08-28T14:36:11"
-    },
-    {
-      "title": "Deutsche Bank AG Acquires New Stake in Eagle Materials Inc $EXP - MarketBeat",
-      "summary": "Deutsche Bank AG Acquires New Stake in Eagle Materials Inc $EXP MarketBeat",
-      "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxPR25yMEV2b1NvZGlWUkxlUzQxZGx3Vk9aelhJbWJkUW54Y01kQWNkNUxfT2dkbUoydm9oM2lQdVF6aHFyMGVpLTFKYWI0QVBpRUpYSHNONHhJNmdGajlQelJObktyVXQ3eUFJRHZkZmxIeWM3RC04YlI0VnBXNGxaUnFwenJJNmtCN19JeUhHSkp2elRtZG10dlJBbERsN1huWnNOdER1d0hEVXlqQ19HQW9PLVVVZURqVzIxdERLVVk?oc=5",
-      "source": "MarketBeat",
-      "category": "Eagle Materials",
-      "keywords": "Acquired",
-      "sector": "General",
-      "dealType": "Acquisition",
-      "value": "",
-      "date": "Aug 28, 2026",
-      "dateISO": "2026-08-28T08:35:14"
-    },
-    {
-      "title": "Bank of New York Mellon Corp Acquires New Position in Eagle Materials Inc $EXP - MarketBeat",
-      "summary": "Bank of New York Mellon Corp Acquires New Position in Eagle Materials Inc $EXP MarketBeat",
-      "url": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxOdkhYbXo3bnZkNzZmVl9YUkNUaU16eW5yVzF0R19aVE5jS1V3eEZFdGFndFhXRUpsNUVnQl9IQTZGeWVUTzBMc3dRS0c2TFVQRkdnemRvYW5veWxQZHlfZ3E3VmUwZ1RVZFFtYXp2bmdnM3lYREozaW9jRjZDdnUwblFKRUFIeGZGS0JBVW4zSHZpR1o1UE5lc3JOYnF5VEdLNVJET3JzRGxzczAyZHU5Z2hZemUwaG91SWdMMmtjOVE0U0VhQjFWSmtBQlRzMU5JM2Vidg?oc=5",
-      "source": "MarketBeat",
-      "category": "Eagle Materials",
-      "keywords": "Acquired",
-      "sector": "General",
-      "dealType": "Acquisition",
-      "value": "",
-      "date": "Aug 28, 2026",
-      "dateISO": "2026-08-28T07:33:44"
-    },
-    {
-      "title": "Martin Marietta Set to Benefit From Lhoist North America Deal, RBC Says - Yahoo Finance",
-      "summary": "Martin Marietta Set to Benefit From Lhoist North America Deal, RBC Says Yahoo Finance",
-      "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxNNGthc0k1WUhUa3RNTlZBQWNYQ1VxQzh2S0I5YlpjcXpQS1VhaE1LTVhuYXRQRTE4aDRyakV2MnM5OERLZkM4bkRvMWFIaEctT28yc0hfWk5vVGFEOWdSajd2ZzRJRU5aSjJmVDZPUzdUczBUdTVrSjVUdjgyNG9obXdPLTB3Mm9xZzRvSDRvR2pWMjdjVHpaX0FPdUNVajVU?oc=5",
-      "source": "Yahoo Finance",
-      "category": "Martin Marietta",
-      "keywords": "",
-      "sector": "General",
-      "dealType": "Acquisition",
-      "value": "",
-      "date": "Aug 28, 2026",
-      "dateISO": "2026-08-28T07:00:00"
-    },
-    {
-      "title": "Veidekke: Update on the proposed acquisition of Ucklum Grus AB - Finansavisen",
-      "summary": "Veidekke: Update on the proposed acquisition of Ucklum Grus AB Finansavisen",
-      "url": "https://news.google.com/rss/articles/CBMi5gFBVV95cUxPd3p0bXk3MUF2RzlFTEY4RkxDU1pQUktQWUVVYlRXY1lmaS1QT0QwR2czTFRrWDVfUE8zMDljNjlwcE44ME1BcTJuMWdTUm5EOW5ucVFOU0plZlE1OWlmLWtaSWlkTk1JTm5EdVN2UGpyUHd1R3RzLVJjM0RRS05RQjdmU192S1d5Ujl3UXd2MUtnUTczVjFPZjhZQjZ6WDNhMk1lNGdaSG5heFJWX3ZibkRKc2NQZldUZlJoZTFLNS1VcWtOTzA1MXcyUWotNDhDbmwtS0g1UlNFaFlBM2xwOFpGNlNnUQ?oc=5",
-      "source": "Finansavisen",
-      "category": "Asphalt Industry",
-      "keywords": "Acquired",
-      "sector": "General",
-      "dealType": "Acquisition",
-      "value": "",
-      "date": "Aug 28, 2026",
-      "dateISO": "2026-08-28T06:52:06"
-    },
-    {
-      "title": "Holcim stock edges lower as deal spotlight grows - AD HOC NEWS",
-      "summary": "Holcim stock edges lower as deal spotlight grows AD HOC NEWS",
-      "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxOdmRDTVVQTmMyclFIZXZsUGR0UGF2STJyNUVMUUhsUm9xdVJoUGJTajBJSzJNNEdRME50VzM0eC1wNFRZeHVsN1hocU4wVTdCQ3BJVjcwX0lIdDQ1cEhqT0JZRXFTVE9jMzlJcmFQZEVoYUI5bmJjUjdQRUhDMkZBd1lDLUZTQV8xalJPYXFVY21YZWU0TWxlbzdsd2dSai0teTkwR0hYdjBQeVdJWl8xZg?oc=5",
-      "source": "AD HOC NEWS",
-      "category": "Holcim",
-      "keywords": "",
-      "sector": "General",
-      "dealType": "Acquisition",
-      "value": "",
-      "date": "Aug 28, 2026",
-      "dateISO": "2026-08-28T06:30:26"
-    },
-    {
-      "title": "Pakistan Cement Sector Awaits Possible MLCF-PIOC Merger - Bloom Pakistan",
-      "summary": "Pakistan Cement Sector Awaits Possible MLCF-PIOC Merger Bloom Pakistan",
-      "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxOYklxU016WUJPUkxmcVhqRkhZdF9YNWY4N3hPc0NOazBnVk9RQjZoTzM4cDJIc2pFSTJ3TlBlMmRfaEdEc0VXSDZKeFNsdnphTTRLSmhPRUVNN3FYcXFKZWliSC11NzUxaTJualdIWGZnV1ptd0lKLURCOWdXNGZ5Nk1kZzR4NDVIWUE?oc=5",
-      "source": "Bloom Pakistan",
-      "category": "Cement Industry",
-      "keywords": "Merger",
-      "sector": "Cement",
-      "dealType": "Merger",
-      "value": "",
-      "date": "Aug 28, 2026",
-      "dateISO": "2026-08-28T05:58:05"
-    },
-    {
-      "title": "True North Fund VI LLP Divests Complete 9.54% Stake in Shree Digvijay Cement Company - scanx.trade",
-      "summary": "True North Fund VI LLP Divests Complete 9.54% Stake in Shree Digvijay Cement Company scanx.trade",
-      "url": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxOVm5kQ2hFOHBfekw4UXZ5VnJibkpHdHc4RmgxcXV1cU1SQUp0ZkNCdGdDX1k2LXZ1X1dDNk5qMmJTX19qY0NhWUJtNld2TWZCcmNtZzdURHpGMWx0Rmh5YzVKNEs2amNTTDR3eFFYYUN1eVVjMEp0REdPSUdmaFhQc0pZVjg4Q1VMWHM2bllWS00xSXhRcm1Sa3ZiaEE5T3Q3V0k1MnRhcFhnenN1S1pxa3FlRl9vVnhYYUl1RElPb1MxdjFBQmFmRU1mS0Q0MjhMZnMtREtZQQ?oc=5",
-      "source": "scanx.trade",
-      "category": "Cement Industry",
-      "keywords": "Divest",
-      "sector": "Cement",
-      "dealType": "Divestiture",
-      "value": "",
-      "date": "Aug 28, 2026",
-      "dateISO": "2026-08-28T02:09:08"
-    },
-    {
-      "title": "The architect lists the problems of Tirana from the 89th protest: Traffic starts in September, the propaganda that it is our fault returns! They sold us concrete as a playground - Balkanweb.com",
-      "summary": "The architect lists the problems of Tirana from the 89th protest: Traffic starts in September, the propaganda that it is our fault returns! They sold us concrete as a playground Balkanweb.com",
-      "url": "https://news.google.com/rss/articles/CBMiqwJBVV95cUxQXzVZcGJNWU5qUm9UVmFHS2ZNWjQxcndGQW9BYjk1LUJwYkZHTUpoa091X2V1WnI3TURxZGtyOGdQQ0VlNlR6a2p1YzV0RHpNRlBxMGw4YW5tWVJFZWR1ZUM0LW1QTHlKTmxsMWhLVnp3elVfLVNGODJrYmZ2ZFdOa0FCZ1NpS1ptaUswM0d3S1lXNi1vUlJ2cFlfclNUYjZrUWtIbjljV1hCQWtsWVktaGU5SkZTaEFZbUg0NnN0dnp2Tm81M1RCQTV4SXZQYkRPcTNuSnJKS2g0bE5jNk5UaHJTenUxNUJGQVJYaTJBeUtva2QwNmRla0w0anhYMjdEYng1S2V5RHpSckh4RVZJcnVNU2w5cHZOYmpaNzlqVXRhZnFYVmMwU21Qbw?oc=5",
-      "source": "Balkanweb.com",
-      "category": "US Concrete",
-      "keywords": "",
-      "sector": "General",
-      "dealType": "Divestiture",
-      "value": "",
-      "date": "Aug 27, 2026",
-      "dateISO": "2026-08-27T18:23:00"
     }
   ]
 }
