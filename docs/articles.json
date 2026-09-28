@@ -1,10 +1,36 @@
 {
-  "fetchedAt": "2026-09-27T17:25:53.225961",
-  "totalArticles": 147,
-  "newToday": 13,
-  "duplicatesRemoved": 10,
+  "fetchedAt": "2026-09-28T19:58:18.060710",
+  "totalArticles": 148,
+  "newToday": 15,
+  "duplicatesRemoved": 12,
   "archiveDays": 30,
   "articles": [
+    {
+      "title": "Arabian Cement finalizes exit, share swap deal for Jordanian equity - \u0627\u0631\u0642\u0627\u0645 : \u0627\u062e\u0628\u0627\u0631 \u0648\u0645\u0639\u0644\u0648\u0645\u0627\u062a \u0633\u0648\u0642 \u0627\u0644\u0623\u0633\u0647\u0645 \u0627\u0644\u0633\u0639\u0648\u062f\u064a - \u062a\u0627\u0633\u064a",
+      "summary": "Arabian Cement finalizes exit, share swap deal for Jordanian equity \u0627\u0631\u0642\u0627\u0645 : \u0627\u062e\u0628\u0627\u0631 \u0648\u0645\u0639\u0644\u0648\u0645\u0627\u062a \u0633\u0648\u0642 \u0627\u0644\u0623\u0633\u0647\u0645 \u0627\u0644\u0633\u0639\u0648\u062f\u064a - \u062a\u0627\u0633\u064a",
+      "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE04blZTUHRpNmFMSEdydktkbmhySGl3cGxINjlfUTN3UmZYb09kdkxhdjdLYzJfMWVXNmFLangyV205bU93RFhscnVPVDRSMG5LWEhxaXJ6S1hUZHAwSHVhWk10Z1M4ZTd5NFE?oc=5",
+      "source": "\u0627\u0631\u0642\u0627\u0645 : \u0627\u062e\u0628\u0627\u0631 \u0648\u0645\u0639\u0644\u0648\u0645\u0627\u062a \u0633\u0648\u0642 \u0627\u0644\u0623\u0633\u0647\u0645 \u0627\u0644\u0633\u0639\u0648\u062f\u064a - \u062a\u0627\u0633\u064a",
+      "category": "Cement Industry",
+      "keywords": "",
+      "sector": "Cement",
+      "dealType": "Acquisition",
+      "value": "",
+      "date": "Sep 28, 2026",
+      "dateISO": "2026-09-28T14:37:06"
+    },
+    {
+      "title": "CEMEX stock gains 2.10 percent after insider share purchase - AD HOC NEWS",
+      "summary": "CEMEX stock gains 2.10 percent after insider share purchase AD HOC NEWS",
+      "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxQV3hkVmFlOTkwY1ZnTzlDLTR6SzRkNUE1cldudUVVeGpOYW1Qel9Wc2swOExCLWY5NzFSd2pkaVdrTGsycVF5cnRDUFo0d1RmWGFzaEpGQmkxdlV1WHhmenNwSWY0VzQ5ZHdHYzRoRVIwWVlTOWlHNkxLRWZlZHRNQWFqamcyTnhQMFBTTGZ5OUFMRlJiTm9ocFg1cWdOTGpCWUVGekhBVkpSbzFQcF9uRkFqa3RnZkE5aEE?oc=5",
+      "source": "AD HOC NEWS",
+      "category": "Cemex",
+      "keywords": "Purchase",
+      "sector": "General",
+      "dealType": "Acquisition",
+      "value": "",
+      "date": "Sep 28, 2026",
+      "dateISO": "2026-09-28T12:43:38"
+    },
     {
       "title": "Ambuja Cements to hold Sep 28 meeting for Orient Cement merger - scanx.trade",
       "summary": "Ambuja Cements to hold Sep 28 meeting for Orient Cement merger scanx.trade",
@@ -17,6 +43,19 @@
       "value": "",
       "date": "Sep 27, 2026",
       "dateISO": "2026-09-27T07:06:47"
+    },
+    {
+      "title": "CAI Software acquires Llumin to boost visualization platform - SaasRise",
+      "summary": "CAI Software acquires Llumin to boost visualization platform SaasRise",
+      "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxOVHBuT2V6T2xOcVluNTlROVMxRTdEd3g1ZmNBMDBjVVpXZWxaU3N3Y2dETUdieDg1bWZxY3BjZkl5Smc4eXVUalFYTm5Yc0dKOE9vNkxMLXdCVk9yVmdIM0lhbm1mSDVQQnlzWFczaWVQVVZ3blRDbnlFS2M1NXRDMVJLM2thTDE4WURMLWxHMWc5dERPU09lYWlxeEI?oc=5",
+      "source": "SaasRise",
+      "category": "Aggregates Industry",
+      "keywords": "Acquired",
+      "sector": "General",
+      "dealType": "Acquisition",
+      "value": "",
+      "date": "Sep 27, 2026",
+      "dateISO": "2026-09-27T06:10:08"
     },
     {
       "title": "CEMEX Director Rogelio Zambrano Lozano Acquires 400,800 Ordinary Participation Certificates - Kalkine Media",
@@ -1889,32 +1928,6 @@
       "value": "",
       "date": "Aug 30, 2026",
       "dateISO": "2026-08-30T06:59:59"
-    },
-    {
-      "title": "Insider Purchases and Analyst Downgrades Pull Amrize in Opposite Directions - AD HOC NEWS",
-      "summary": "Insider Purchases and Analyst Downgrades Pull Amrize in Opposite Directions AD HOC NEWS",
-      "url": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxQc2ZnSUZqODBQV0dCTHg4S3M1NHd1eGdZMmczQ0tBWGxJOTYxSGI2V3FXRHd2MWsyRWtLSVFwTU9mU2d6T2N5ZmRhOVJtRy1aNHVRQmh3akZLaXNudHNKVmRqY1lvYXZaUHFScDZBSUNGeWtzRGJMSHZId0E3VGFpdFQ0MVBhVlZQSElZbjIzU2wtV3gtZkNsdDhOaDJOczJmdUFWaHpFNkY5MUdXWHYxcmpOSXQyeEVBaHhzZm1fTkYxUFRVRkhDOXd4b3FJcjZWV0E?oc=5",
-      "source": "AD HOC NEWS",
-      "category": "Amrize",
-      "keywords": "Purchase",
-      "sector": "General",
-      "dealType": "Acquisition",
-      "value": "",
-      "date": "Aug 29, 2026",
-      "dateISO": "2026-08-29T14:52:06"
-    },
-    {
-      "title": "Pune Inner Ring Road Land Acquisition: Key Deadlines Set - Pune Mirror",
-      "summary": "Pune Inner Ring Road Land Acquisition: Key Deadlines Set Pune Mirror",
-      "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxPNDV4b2d5elBfX3pRX3hVUVNVeTY5U24zdkxWbG1xaEk2Rmd6MlRYSXl1SEhxTFZEanlwOUFocmRtRkk0bk1IQnlCRFJfZjI5VXRzeFViMTBoWGRVRVoyYUtRZlF2cldEQm1oRXBGRUJDSnhtdWJlczJuLTlxc3hyODk4WUU0ZVZfc2UwbG95Tnc4QQ?oc=5",
-      "source": "Pune Mirror",
-      "category": "Asphalt Industry",
-      "keywords": "Acquired",
-      "sector": "General",
-      "dealType": "Acquisition",
-      "value": "",
-      "date": "Aug 29, 2026",
-      "dateISO": "2026-08-29T10:56:34"
     }
   ]
 }
