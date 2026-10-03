@@ -1,22 +1,48 @@
 {
-  "fetchedAt": "2026-10-02T18:11:05.066203",
-  "totalArticles": 159,
-  "newToday": 23,
+  "fetchedAt": "2026-10-03T16:56:47.782309",
+  "totalArticles": 157,
+  "newToday": 15,
   "duplicatesRemoved": 12,
   "archiveDays": 30,
   "articles": [
     {
-      "title": "Omnitek Engineering acquires Hard Rock Ready Mix, appoints new leadership - Investing.com UK",
-      "summary": "Omnitek Engineering acquires Hard Rock Ready Mix, appoints new leadership Investing.com UK",
-      "url": "https://news.google.com/rss/articles/CBMizgFBVV95cUxPcWZFNElzbS1rS0s1REl1Vk1ua2hlLW5GWENZVEcxbnF1dUcyQnZEMnVLSGVmMTFvZ1QzLUpVcWgyc1ZyY05EdEVvV0NQZDNqdjZaUEZPMDBzcTZkaTVwZDhtbzFOdVFuUDAtOHAxQTBJVjR2UFIxWXBUM0RmeDVVMlpSTDRNUmdURnpIU1k2TGJPbGh2RkJMNzVfTnUxVmFNcTJObzhWNjVleHpZZnhGTFZYWU1ZNUI4eElsSXF6V19DRl8ya1k0Vjd0NDI0UQ?oc=5",
-      "source": "Investing.com UK",
+      "title": "JSW Cement boards approve proposed Shiva Cement merger - MediaBrief",
+      "summary": "JSW Cement boards approve proposed Shiva Cement merger MediaBrief",
+      "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxORU05bzI3NklqcVo3ejNTb3RzUFJrbUlNejl3dkktdTZwYk9ZaTBrZjVfODF3NF9xLUFGWEpueFFWM2hTM3pqTENPS09lNzA4NjliZ3pabHRFamNQVGdYZkhTRktpVlItaXY5NTctWnlQbExtblRlWEhGSGV4R1ZRWjhta2ptSEQyNU1rbA?oc=5",
+      "source": "MediaBrief",
+      "category": "Cement Industry",
+      "keywords": "Merger",
+      "sector": "Cement",
+      "dealType": "Merger",
+      "value": "",
+      "date": "Oct 03, 2026",
+      "dateISO": "2026-10-03T13:05:10"
+    },
+    {
+      "title": "Maschmeyer Concrete Expands Into Georgia With Atlanta Acquisition - Construction Owners",
+      "summary": "Maschmeyer Concrete Expands Into Georgia With Atlanta Acquisition Construction Owners",
+      "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxQZ1N6X1VQTDIzU0p3LXc1RHoza3lId09YWU5TMUNaWl8tM0pUOENYeTY2VTBaTFZsUTUzOG1NbXFwcXI1THQzZ0lEUlpuWGNmUHNHV2V0eHVuVll2bVFaNExScDgwcTAxX3BnZl9mdEhLc3RYTS1aT3RGdHFubDF5cE95WWNwV3pZU1pMS3VtQzEtek9SSERGeG1tSWdNQ25HM056S1ZZUjNIWk56cnJYcmdzMVc?oc=5",
+      "source": "Construction Owners",
+      "category": "Ready-Mix Industry",
+      "keywords": "Acquired",
+      "sector": "General",
+      "dealType": "Acquisition",
+      "value": "",
+      "date": "Oct 03, 2026",
+      "dateISO": "2026-10-03T10:37:49"
+    },
+    {
+      "title": "Omnitek Engineering acquires Hard Rock Ready Mix, appoints new leadership - Investing.com Nigeria",
+      "summary": "Omnitek Engineering acquires Hard Rock Ready Mix, appoints new leadership Investing.com Nigeria",
+      "url": "https://news.google.com/rss/articles/CBMizgFBVV95cUxPN0gwcURid2Z3YXJ6a0d5ZVZfQ0JvUXlvTXMtZG13d1k0djduUDZUdE1hSmliNG8xSFVuVW5KdW9kMzFfRFlPNnJTenJwNXpNRVgydkFvUEsxX0dXMUhVNHVZMXplbXJGemRoTVU1RnlDS2M5V3ktX1lYMnFfODYwdkxXMWVVLW1aSnJTLTNtd1RMT2hBQ1RKLXlBTHhiTTE3S3N2SXNFai1EODVUTTdqalFYRWJhTGxfMjZ4UzZGdC1aTGl0ekVKVExCWjZidw?oc=5",
+      "source": "Investing.com Nigeria",
       "category": "Ready-Mix Industry",
       "keywords": "Acquired, Investment",
       "sector": "Ready-Mix",
       "dealType": "Investment",
       "value": "",
       "date": "Oct 02, 2026",
-      "dateISO": "2026-10-02T10:18:00"
+      "dateISO": "2026-10-02T10:40:09"
     },
     {
       "title": "Omnitek Engineering Acquires Hard Rock Ready Mix in Stock Exchange, Issuing 10,000 Series A Preferred Shares - TradingView",
@@ -136,6 +162,19 @@
       "dateISO": "2026-10-01T14:24:38"
     },
     {
+      "title": "UltraTech acquires additional 8.7% stake in Star Cement: Brings ownership to up to 21.84%; Aditya Birla and... - Bhaskar English",
+      "summary": "UltraTech acquires additional 8.7% stake in Star Cement: Brings ownership to up to 21.84%; Aditya Birla and... Bhaskar English",
+      "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxPVW1VTDNwNVVNM2hjcmVFbTNIWFRtbHY4cUlwQXNaYk5NMHAyNE5tVnhyVmZoemxtWV84aV9IRldWd25rSXRWZGNHejl6N0Rwd0JoSTlpeUJKQ2FrTUZsVERoaUtyb1VNejJta2NjNjVUQUJaVzZQZmxFcllnWl8zaExjYjg4YUIwZGt4UU5VTEVIUU9PMV9aWENxNl9OeEM4ZXc0TFB1ZVZBemwzeG92S2Vn0gG3AUFVX3lxTE9qQ29SaEowQ1V2Q1ZHMC1XTFVqa2xUY0s2VVFFS2E0MEpiZHI3YUNpMEJPaDFJcGNZQTh6NmZOWkthQTBHMjZGd0dFTEtNalpoY3VWU093Y3FUQWRtQTZOUDhpcDU5OHk2aEU0cW8zOTFnOU1LT1QtQ1cwS29MQWpQR0FoQlN2cUs5VzNua2FLNGxoZnQ0YktnUE5Tb044Vlo3TFVJcURLM1lJQldFazF0bG5TdXdaQQ?oc=5",
+      "source": "Bhaskar English",
+      "category": "Cement Industry",
+      "keywords": "Acquired",
+      "sector": "Cement",
+      "dealType": "Acquisition",
+      "value": "",
+      "date": "Oct 01, 2026",
+      "dateISO": "2026-10-01T12:00:45"
+    },
+    {
       "title": "Vicat in talks to acquire Cemex assets in southeastern France - CemNet.com",
       "summary": "Vicat in talks to acquire Cemex assets in southeastern France CemNet.com",
       "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxPcDd2T09wRFRHWHZNNGs1ak9kbUNKbUswVVlXZTRtdFU1NmpOV3dETFhpSXQzQ2ZwQ0poU1V6SmFMakVEeElSVGdDSnU5NHVIYkRqdkc2d3RYUXZ5Y3NKVV9od3dieEhVYW0yWWR1M0FnZE9LNTlHd1lhN3l3QVcxelZsNjRIUlpvSFBHaW9NU2l3VGJFMWpNU0xPU09VclItLWlUMVdZVE9sME0?oc=5",
@@ -225,19 +264,6 @@
       "value": "",
       "date": "Oct 01, 2026",
       "dateISO": "2026-10-01T06:00:00"
-    },
-    {
-      "title": "UltraTech acquires additional 8.7% stake in Star Cement: Brings ownership to up to 21.84%; Aditya Birla and... - Bhaskar English",
-      "summary": "UltraTech acquires additional 8.7% stake in Star Cement: Brings ownership to up to 21.84%; Aditya Birla and... Bhaskar English",
-      "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxPakNvUmhKMENVdkNWRzAtV0xVamtsVGNLNlVRRUthNDBKYmRyN2FDaTBCT2gxSXBjWUE4ejZmTlpLYUEwRzI2RndHRUxLTWpaaGN1VlNPd2NxVEFkbUE2TlA4aXA1OTh5NmhFNHFvMzkxZzlNS09ULUNXMEtvTEFqUEdBaEJTdnFLOVczbmthSzRsaGZ0NGJLZ1BOU29OOFZaN0xVSXFESzNZSUJXRWsxdGxuU3V3WkHSAbcBQVVfeXFMT2pDb1JoSjBDVXZDVkcwLVdMVWprbFRjSzZVUUVLYTQwSmJkcjdhQ2kwQk9oMUlwY1lBOHo2Zk5aS2FBMEcyNkZ3R0VMS01qWmhjdVZTT3djcVRBZG1BNk5QOGlwNTk4eTZoRTRxbzM5MWc5TUtPVC1DVzBLb0xBalBHQWhCU3ZxSzlXM25rYUs0bGhmdDRiS2dQTlNvTjhWWjdMVUlxREszWUlCV0VrMXRsblN1d1pB?oc=5",
-      "source": "Bhaskar English",
-      "category": "Cement Industry",
-      "keywords": "Acquired",
-      "sector": "Cement",
-      "dealType": "Acquisition",
-      "value": "",
-      "date": "Oct 01, 2026",
-      "dateISO": "2026-10-01T05:25:44"
     },
     {
       "title": "TCC Group targets Ukraine's postwar rebuild with cement acquisition - digitimes",
@@ -617,6 +643,19 @@
       "dateISO": "2026-09-28T12:43:38"
     },
     {
+      "title": "Is Martin Marietta Materials (MLM) A Bargain Following Its Premier Magnesia Deal? - Simply Wall Street",
+      "summary": "Is Martin Marietta Materials (MLM) A Bargain Following Its Premier Magnesia Deal? Simply Wall Street",
+      "url": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxQckoydDJpa0FFSjBYYW44VGFkN1ZmV0c4RXZMRklzcVRzb3hxTWxnMWYwRXM4UFJWcVcwcWNVcGRBVTNMZnNIelFLc3lmV2NWdlNTdUdKWVoxM0IxMG1yM3llN3NEQzlEdS1WZ29pV0JxRWZmM19kWHpZREtsUVBjbDQxd1JLRTRMNHFBM2ZqSWpOcXJFbTJCemd1YmNHWXlIa1hWdldIZUwxbFlSZk5SYkcxREFsXzRyenJIMldONmEzN2ZDc0VTaHNuNlAya2Npd0x0Mmppc25tZ9IB3wFBVV95cUxNX0dPcFRrR1BabWpaSS1xd09naGRiNWZlbW5uZW5kdjNJMmFuY0Z1VG9VMk9iS1gwaWtxRGltM1FLdlA5Mk05bmhib0Zwa2FNeGFHZl93bnZ4YVh1UkZvRkNiUjQwN1BxbWVwOGlRLWZhYjRCdndZRUVLVEl5cGkzOU14NEJmSWtxRGtyVTRTQ3VZdDA1c19RNXhYYjJCNGpMdmhsdkhySThIQVJmd055eUhwU1hVN0ZrdlNTcGJ5aHRlZXRIV3JzTGIyN2dMcWJsUXlkUjliRWVER1ROMEdZ?oc=5",
+      "source": "Simply Wall Street",
+      "category": "Martin Marietta",
+      "keywords": "",
+      "sector": "General",
+      "dealType": "Acquisition",
+      "value": "",
+      "date": "Sep 27, 2026",
+      "dateISO": "2026-09-27T16:33:27"
+    },
+    {
       "title": "Ambuja Cements to hold Sep 28 meeting for Orient Cement merger - scanx.trade",
       "summary": "Ambuja Cements to hold Sep 28 meeting for Orient Cement merger scanx.trade",
       "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxPZjBfckxXN3oteXNCRm1xWlpjYW1UX0V3aF9OdG8tODJ2aVI1WVFOY0Fqdk9OV1RCR3hZSjVtYlVIQlV3YS0yQXlFcXRhMURQNjVmeDl3T2lIYUxHVzBDdkpDTnhqZ1VNQ2pUT2NTaHY3QnhZeVo1dUl3Z2Q2ZDhRN1Z2RUpVZm5KZmJDVmNBNzJqWmhnV1ZIbEJJMU1LV3lCUjBjc0FVSVUxb2RnNHFqQjYweTVNbEk?oc=5",
@@ -916,17 +955,17 @@
       "dateISO": "2026-09-23T00:05:00"
     },
     {
-      "title": "Truliance Consulting Advises Lime Rock New Energy on Acquisition of Holton Concrete Products - einpresswire.com",
-      "summary": "Truliance Consulting Advises Lime Rock New Energy on Acquisition of Holton Concrete Products einpresswire.com",
-      "url": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxQV1h0QjdSSWgxd2FRdVgzeWI0QUs2LTFDSFEyaDhwTTQ0MnVpTS1JbkFtcm55VGpZWUdESnM1eHM2R2stZmlqeFB6N1VfNFVRZ3EtX1JrbG9iZGhiclhad1VnekFqeG5oVEEwc0N5QmNtcnJsRnJPaXBONkZ6bEFJRldKeWIxSGttTkpRUkZZUGtXMUZNS0ozbE5MbmdWV2R3SVRIM2VDUXFCQ09yUHlzanZBWnFjSHNLRmVvUGxKLXBkMWdZTDhXSXI4WVdKODVBeU84ZnBn?oc=5",
-      "source": "einpresswire.com",
+      "title": "Truliance Consulting Advises Lime Rock New Energy on Acquisition of Holton Concrete Products - The National Law Review",
+      "summary": "Truliance Consulting Advises Lime Rock New Energy on Acquisition of Holton Concrete Products The National Law Review",
+      "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxNUy04THoycC12blZ6MGxDR3JON2UteDhyZ3BBU0xlX2d2YlRKVHZERm05Z2E4bXBwTEo2cTJPcUF3TWxNRHFHTUVDMUFielZUQnVqakdnYVBGRmVvRXBFSU9uaTY3LWZNdGlCb2paajRiX1ZWMERPRmczV0tNakhrTWpJSS1mejlWdnBERklrYzVlbmh3M3p6cmRsLTVkXzh2bzhmT0hLT21NSWNu?oc=5",
+      "source": "The National Law Review",
       "category": "Precast Industry",
       "keywords": "Acquired",
       "sector": "General",
       "dealType": "Acquisition",
       "value": "",
       "date": "Sep 22, 2026",
-      "dateISO": "2026-09-22T17:55:00"
+      "dateISO": "2026-09-22T19:30:34"
     },
     {
       "title": "Construction Partners Expands Florida Presence With Roads Acquisition - Yahoo Finance",
@@ -1241,17 +1280,17 @@
       "dateISO": "2026-09-21T14:59:46"
     },
     {
-      "title": "DA Davidson reiterates Vulcan Materials stock rating on acquisition By Investing.com - Investing.com Nigeria",
-      "summary": "DA Davidson reiterates Vulcan Materials stock rating on acquisition By Investing.com Investing.com Nigeria",
-      "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxPalljN1c4SzVHazBPaDRNOWR2WTlUQ1VVbXJSb3cyMURnc044b2x4ZGFNQWlLWG5YYmZ6LUI3RnIxd2xlOGlvT19IUVQ0VHpteFdoWFh5eDVEUzBtUnpoVHV2UDZ0RHZzcy0ySVRXYmFld1JyWjlpaTg5MUh5TDRKUUV5NklzdF9zMWdpa3o2WUpZem9ueTY0LXpldW5VR0FxYTBZVWxJRjZNZmV0X0dBYUgyRjljYlFDUnJYWjY3Zm40Z3Jjem5j?oc=5",
-      "source": "Investing.com Nigeria",
+      "title": "DA Davidson reiterates Vulcan Materials stock rating on acquisition By Investing.com - Investing.com Canada",
+      "summary": "DA Davidson reiterates Vulcan Materials stock rating on acquisition By Investing.com Investing.com Canada",
+      "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxQakVnQmwwai1TYUlhZlk2d0FsYzF5QVNzYkRoYmJmWDBlOVFBQUJwdUJaZUU0MmRWcmJQaEc5emxXTEhGdzZ4NzI0R3I0NXpRVFpGSThscHF4eGhSc0RXbUFpd1ZVNTBwVDVXYVlaRWkwdXdZOVlrMWtjb3hZejVwZmgzT21jcEoyczNPRTljSjEwWDQ3Y2NiNURlaWxMUkxjMzJSR3o5RUwxaWNqMFViUW40QkxSaldzbVo3dldSZWE4SmVIN2pN?oc=5",
+      "source": "Investing.com Canada",
       "category": "Vulcan Materials",
       "keywords": "Acquired, Investment",
       "sector": "General",
       "dealType": "Investment",
       "value": "",
       "date": "Sep 21, 2026",
-      "dateISO": "2026-09-21T14:43:52"
+      "dateISO": "2026-09-21T14:52:10"
     },
     {
       "title": "Bank of America Corp DE Purchases New Stake in Eagle Materials Inc $EXP - MarketBeat",
@@ -2006,71 +2045,6 @@
       "value": "",
       "date": "Sep 03, 2026",
       "dateISO": "2026-09-03T18:05:01"
-    },
-    {
-      "title": "Adani Group may raise debt through family-owned infra firm to refinance Ambuja Cement acquisition loan - Livemint",
-      "summary": "Adani Group may raise debt through family-owned infra firm to refinance Ambuja Cement acquisition loan Livemint",
-      "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxOelpuR2ZJSnRHcS1BaWk5TzdvMm1ZWktiS2owcHUyVlBXdmlNREU2X01hYVh2cHUtQjY4WUs0X0xQYkFjX2tGSGhzbW90WVhrZ0dpTkZGRzN1YWlTNF9OenVObXhVc2xMR1ZURXVRWnAyb2ZvNjBDd0tBY2VETF82VTZDZ1Y5UDFvTkpsY2lNNm0xSFRRT0lSdTV5MFVJRXhsVWhpQlBpeTNZYUxoemfSAbMBQVVfeXFMUExhVWRPSXZfYkloZWNxMi1wcUlsVnNXOFZJTU93Y1RsU3FTMDhBbkM0RktMOUNJRy1LVVJmUmlzWkJKb2Z3cU5iMDRaN2VucFdBVEhlanRfcnZGY3FISkYyV0JqRlBKNjlUMV9VNk1ualB6MGR2WGVoN3RVV0plNEhPQ2RkYjBxS2JaZ2pLM3ROZmt6YkdPSld5aWFmUUdIeDhGVjVVOUJkazRrbGFqWlphNms?oc=5",
-      "source": "Livemint",
-      "category": "Cement Industry",
-      "keywords": "Acquired",
-      "sector": "Cement",
-      "dealType": "Acquisition",
-      "value": "",
-      "date": "Sep 03, 2026",
-      "dateISO": "2026-09-03T08:59:32"
-    },
-    {
-      "title": "Maple Leaf Cement to Become Pakistan\u2019s 3rd-Largest Cement Maker After Pioneer Merger - bloompakistan.com",
-      "summary": "Maple Leaf Cement to Become Pakistan\u2019s 3rd-Largest Cement Maker After Pioneer Merger bloompakistan.com",
-      "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxOdER6bHhRWlE2Y0lNMHpCUlo0bkw5N3JZckIweXhFRXd5ZzFab1BVMWpwaHhNREZfV3B6MkVGVm9qYzdUVVpUNDY2d2dGT1ZEUGFXT1JFeV9ZY0Jza3plb1ZsNnJxRGhXWjF2aUEwNjZnS3RMaWdsRHlWN3V1cDVLeXR4dDVZQnBmd3VEODd3QlFTNEV2eVJXNDNSZ0dTZ1FLQjZ1Z2IxWGdWWklQVjRF?oc=5",
-      "source": "bloompakistan.com",
-      "category": "Cement Industry",
-      "keywords": "Merger",
-      "sector": "Cement",
-      "dealType": "Merger",
-      "value": "",
-      "date": "Sep 03, 2026",
-      "dateISO": "2026-09-03T04:53:34"
-    },
-    {
-      "title": "Maple Leaf, Pioneer Cement move ahead with merger after board approvals - Profit by Pakistan Today",
-      "summary": "Maple Leaf, Pioneer Cement move ahead with merger after board approvals Profit by Pakistan Today",
-      "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxNMWp3T2xKYkFKMG9jQk0yRi1JLTJxZ0ZkTUk1SmtXR0Jtb1V3Q2V5UXpvNC1UdDE0UGlDMnZoY05uNWdlc3o2X2tuTXVsbG16RENmdGxVaWlPUDZhY0J4cENsLXNwYnc0WDctak1tX1BrVjIzM1lSSFBpa1NqQVhiMW5mWnh1Vll5bVl1YzZaNGQtQUZ2RkNjM3JrSDlZWmNhU2hCTXNjVGJGbHdNSkpBNENpei1xQW8y?oc=5",
-      "source": "Profit by Pakistan Today",
-      "category": "Cement Industry",
-      "keywords": "Merger",
-      "sector": "Cement",
-      "dealType": "Merger",
-      "value": "",
-      "date": "Sep 03, 2026",
-      "dateISO": "2026-09-03T02:37:28"
-    },
-    {
-      "title": "Maple Leaf Cement Approves Merger With Pioneer Cement - TechJuice",
-      "summary": "Maple Leaf Cement Approves Merger With Pioneer Cement TechJuice",
-      "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxNdGdDbld4THJqS3VkVUhCRTlsVkt2LVRkVzctMnRMMFlpQXlWUFl1TG1zdzViVGNRZ1o3a3l6ZVp1MjItc3V5azEyNkVXX3EzdE9qTnhkU2JGUlM2T2ZkX1pQYVpZUWVDYm9UOWgzUXZtN3dvNDdzOTVWR181eS1rb0xMR2pOdw?oc=5",
-      "source": "TechJuice",
-      "category": "Cement Industry",
-      "keywords": "Merger",
-      "sector": "Cement",
-      "dealType": "Merger",
-      "value": "",
-      "date": "Sep 02, 2026",
-      "dateISO": "2026-09-02T23:13:20"
-    },
-    {
-      "title": "NWPX Infrastructure Announces Acquisition of Serpentix Conveyor, LLC - PR Newswire",
-      "summary": "NWPX Infrastructure Announces Acquisition of Serpentix Conveyor, LLC PR Newswire",
-      "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxOLV9mWk5NYXhxMC01eWhLbnl5WGRHTnVmR2dZVXZyT3prdFEzR3VFejJ6UVZ1S09BeDh0eUNfRXJrekxFMHktVTVoWlRsaE5HNy16T0Y1dnhXVXpQRWpBWXNhRWdlS3R0aVdZUUlWZ1JaSFdtVE1MRzJuUFc2Z1kzcHVwUFJEY0xaN1hlR1NfWnlKc3Y3T3JmbThxWTFWWTRqVmRhZ1RmOFNJcmRXbmp0RU1NWFA0NWs1a0FZZ2JYeWQ?oc=5",
-      "source": "PR Newswire",
-      "category": "Precast Industry",
-      "keywords": "Acquired",
-      "sector": "General",
-      "dealType": "Acquisition",
-      "value": "",
-      "date": "Sep 02, 2026",
-      "dateISO": "2026-09-02T20:19:00"
     }
   ]
 }
