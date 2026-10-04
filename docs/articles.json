@@ -1,8 +1,8 @@
 {
-  "fetchedAt": "2026-10-03T16:56:47.782309",
-  "totalArticles": 157,
-  "newToday": 15,
-  "duplicatesRemoved": 12,
+  "fetchedAt": "2026-10-04T17:15:51.295525",
+  "totalArticles": 156,
+  "newToday": 9,
+  "duplicatesRemoved": 6,
   "archiveDays": 30,
   "articles": [
     {
@@ -30,6 +30,19 @@
       "value": "",
       "date": "Oct 03, 2026",
       "dateISO": "2026-10-03T10:37:49"
+    },
+    {
+      "title": "True North Fund VI LLP Divests Complete 9.54% Stake in Shree Digvijay Cement Company - scanx.trade",
+      "summary": "True North Fund VI LLP Divests Complete 9.54% Stake in Shree Digvijay Cement Company scanx.trade",
+      "url": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxOVm5kQ2hFOHBfekw4UXZ5VnJibkpHdHc4RmgxcXV1cU1SQUp0ZkNCdGdDX1k2LXZ1X1dDNk5qMmJTX19qY0NhWUJtNld2TWZCcmNtZzdURHpGMWx0Rmh5YzVKNEs2amNTTDR3eFFYYUN1eVVjMEp0REdPSUdmaFhQc0pZVjg4Q1VMWHM2bllWS00xSXhRcm1Sa3ZiaEE5T3Q3V0k1MnRhcFhnenN1S1pxa3FlRl9vVnhYYUl1RElPb1MxdjFBQmFmRU1mS0Q0MjhMZnMtREtZQQ?oc=5",
+      "source": "scanx.trade",
+      "category": "Cement Industry",
+      "keywords": "Divest",
+      "sector": "Cement",
+      "dealType": "Divestiture",
+      "value": "",
+      "date": "Oct 02, 2026",
+      "dateISO": "2026-10-02T20:28:33"
     },
     {
       "title": "Omnitek Engineering acquires Hard Rock Ready Mix, appoints new leadership - Investing.com Nigeria",
@@ -1007,6 +1020,19 @@
       "dateISO": "2026-09-22T07:47:29"
     },
     {
+      "title": "States settle lawsuit with Paramount, paving way for Warner merger - France 24",
+      "summary": "States settle lawsuit with Paramount, paving way for Warner merger France 24",
+      "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxOTnhsVl9UUlNPN01TemtfcUMxVnAwZ0NBWHN0LWF0akFCZ3JDOG1iMGlGNGQwYXYwdnZiOXplY1ZCZGU2NjZTVm5vZHJlZ0hQUVVvaGJUX1JNVkFMRjYwVDVNeW44QmxRSHlfRGp3STBVdFowZ0NtT3lXVkNzNGZwNVdxd2xraUpSdFRtTlNkR2k5aF9ZNDVNbGZIcDJyWjZ5UGVYcFBvZDBzV3pw?oc=5",
+      "source": "France 24",
+      "category": "Paving Industry",
+      "keywords": "Merger",
+      "sector": "Paving",
+      "dealType": "Merger",
+      "value": "",
+      "date": "Sep 22, 2026",
+      "dateISO": "2026-09-22T07:00:00"
+    },
+    {
       "title": "PC receives 10 EOIs for the IESCO acquisition - Business Recorder",
       "summary": "PC receives 10 EOIs for the IESCO acquisition Business Recorder",
       "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE9YWjhhdGVtUjFYVXdGdkJwUFJPbzFEQnZFbzZjV1ljYWttbjFkSm5taFVSaUI3U040T1J5RFkyUGk4NThGMHFVSkZIa3ZWRWd5azRLX1B30gFWQVVfeXFMT1haOGF0ZW1SMVhVd0Z2QnBQUk9vMURCdkVvNmNXWWNha21uMWRKbm1oVVJpQjdTTjRPUnlEWTJQaTg1OEYwcVVKRkhrdlZFZ3lrNEtfUHc?oc=5",
@@ -1748,6 +1774,19 @@
       "dateISO": "2026-09-10T07:57:00"
     },
     {
+      "title": "Arcosa Shareholders Approve $8.5B CRH Deal. Does the Vote De-Risk a First-Quarter 2027 Closing? - Yahoo Finance",
+      "summary": "Arcosa Shareholders Approve $8.5B CRH Deal. Does the Vote De-Risk a First-Quarter 2027 Closing? Yahoo Finance",
+      "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxNbEdLbk02YnAwd0ZrTk5qb0pnclhHc2VpOHV2MkxDeXQwSkFZVGVjWVFoV0F2QlFWZlk4Z29ZZjBWQ3A2cDRrNnE0bkJtRGtuQ1pXczF3Q01ER21xQlh5T3d1NUdWaWxBZmlWR19iRFUtNEpoNGRtdFZ3TWdaUFFuZ3UxTkJyY1UzNW1NMUVtZTZGU2VPbVRlYUJ5Y1V6UQ?oc=5",
+      "source": "Yahoo Finance",
+      "category": "Arcosa",
+      "keywords": "",
+      "sector": "General",
+      "dealType": "Acquisition",
+      "value": "$8.50B",
+      "date": "Sep 10, 2026",
+      "dateISO": "2026-09-10T07:00:00"
+    },
+    {
       "title": "Alabama mine included in merger is critical to defense, biomedical tech - AL.com",
       "summary": "Alabama mine included in merger is critical to defense, biomedical tech AL.com",
       "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxOc1NFbHNwREgwTXBiblphRXFWMWtqSzRUajlzc2NoVktLbzVrcndnVFFmNVVxMzdWeU8zdUVlNG05T1hleEdaREtSbU5XWm8tU3VqWE44UWRqTzRsQ1dMT3o4dDh0SHlPY0tPc2w4cHBreVZJb0dOZ0NiNDUzR0RoSGJKVkRJZ2FwNlc1RG9CRk9Bb29iM0hULVAxeHRkdG1RREZfZmxWVWx2MXh0cEx3dQ?oc=5",
@@ -1993,58 +2032,6 @@
       "value": "",
       "date": "Sep 04, 2026",
       "dateISO": "2026-09-04T20:15:00"
-    },
-    {
-      "title": "Maccaferri seeks to acquire Iterchimica. The Competition Council is reviewing the transaction - Informat.ro",
-      "summary": "Maccaferri seeks to acquire Iterchimica. The Competition Council is reviewing the transaction Informat.ro",
-      "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxQWkZFeVRHTmNMeld3N01UUnpONF9qS2l3T3MzSFUyOWhGMTRQelBDUmw0eEViR3RFU05TTnZ4cWF1enJ4MmkyQURSRTVLT0hrSUxGRi1uSElUVjg0Ync3RVVwSE1PdVJKQnJycG9VcEUtZUs2Rks3ODJZc196RnpEbHVBZlhLWlBhRFRGa2kyNGQ5MWU0VXNFcW8zUVhDUGw3cTZKelNhYVl4T1BhLVVjWjZ1SXRDZUJ2RE5YQU5TODFERG8?oc=5",
-      "source": "Informat.ro",
-      "category": "Asphalt Industry",
-      "keywords": "Acquired, To Acquire, Transaction",
-      "sector": "General",
-      "dealType": "Acquisition",
-      "value": "",
-      "date": "Sep 04, 2026",
-      "dateISO": "2026-09-04T10:23:12"
-    },
-    {
-      "title": "Competition Council Reviews Officine Maccaferri\u2019s Acquisition of Iterchimica - The Romania Journal",
-      "summary": "Competition Council Reviews Officine Maccaferri\u2019s Acquisition of Iterchimica The Romania Journal",
-      "url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxQbTd2bEVIeVUyUU1VeHFhY1pXcnlQMlduNWluX3dEMDdncmE1Z3Bodl9fRlBwVmk2cXRvOTVremJCbEtLNXpzVjlBX3BRaDRLc1dLWW5fdjhpeE5JbTVTMTItdFJLZ3VRbTZSX0JUX0dmRHJCbmNXN3hFSTZxVHRsSkZWV21jTHBKT0dyaVhOWHJqd21JRXhSUUs1aUoycTA1emtJNXByNnVoZkhhRFk4bVlTcjZyam9OSXFnWmprSElHZzkzTmhvN9IByAFBVV95cUxQbTd2bEVIeVUyUU1VeHFhY1pXcnlQMlduNWluX3dEMDdncmE1Z3Bodl9fRlBwVmk2cXRvOTVremJCbEtLNXpzVjlBX3BRaDRLc1dLWW5fdjhpeE5JbTVTMTItdFJLZ3VRbTZSX0JUX0dmRHJCbmNXN3hFSTZxVHRsSkZWV21jTHBKT0dyaVhOWHJqd21JRXhSUUs1aUoycTA1emtJNXByNnVoZkhhRFk4bVlTcjZyam9OSXFnWmprSElHZzkzTmhvNw?oc=5",
-      "source": "The Romania Journal",
-      "category": "Asphalt Industry",
-      "keywords": "Acquired",
-      "sector": "General",
-      "dealType": "Acquisition",
-      "value": "",
-      "date": "Sep 04, 2026",
-      "dateISO": "2026-09-04T10:15:16"
-    },
-    {
-      "title": "NVIDIA to Acquire Hugging Face in $12.93B Deal to Cement Open AI Infrastructure Leadership - AlleyWatch",
-      "summary": "NVIDIA to Acquire Hugging Face in $12.93B Deal to Cement Open AI Infrastructure Leadership AlleyWatch",
-      "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxNandPMU5CbC10VWhyY3RCRVRFUmR0bkwyVmRsRG5UN1pyWkNJRXNndEZlZ3RlTG14dEZzVjJlMURLYkpOUzZILWVqalhTZmVWRWFsejl1WUE3ZXc3U05iYU5pWXdReUcxT3psNy1OUnd5MnFJY0xVaWxFQ1pHTmd6YUlPaXdLcUR0dmpfTk9lc2E4a0Iwcmc?oc=5",
-      "source": "AlleyWatch",
-      "category": "Cement Industry",
-      "keywords": "Acquired, To Acquire",
-      "sector": "Cement",
-      "dealType": "Acquisition",
-      "value": "$12.93B",
-      "date": "Sep 03, 2026",
-      "dateISO": "2026-09-03T18:10:18"
-    },
-    {
-      "title": "Amrize Ltd CEO Jan Philipp Jenisch Acquires 30,000 Ordinary Shares in September 2026 - Kalkine Media",
-      "summary": "Amrize Ltd CEO Jan Philipp Jenisch Acquires 30,000 Ordinary Shares in September 2026 Kalkine Media",
-      "url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxNdVluU3dERjduQkpRMlJibG1CRnFJVnJQQ29HOFFPellKb1FKNUF0SGRuOTBGeGhMMjNkQk9UakpyR19HcjZiOVZTZEZMcHdEVTJhNzU2U1lIMFJiLU1vYWhocGNCYVp4YWY2WjNiS1kzenNZc3RNcnJ0QWVoVGJUMnhPT2V0OUtXaEM0bFVYNzVQck15T1BLMHVxRUduakpCM1NWVi0zVzFITm9OMjY5aGkyOENSckFDbUZfbllMci1rcjF0eHhSYkt3?oc=5",
-      "source": "Kalkine Media",
-      "category": "Amrize",
-      "keywords": "Acquired",
-      "sector": "General",
-      "dealType": "Acquisition",
-      "value": "",
-      "date": "Sep 03, 2026",
-      "dateISO": "2026-09-03T18:05:01"
     }
   ]
 }
