@@ -1,10 +1,101 @@
 {
-  "fetchedAt": "2026-10-07T19:11:06.501736",
-  "totalArticles": 182,
-  "newToday": 27,
-  "duplicatesRemoved": 11,
+  "fetchedAt": "2026-10-08T19:07:19.169896",
+  "totalArticles": 185,
+  "newToday": 21,
+  "duplicatesRemoved": 14,
   "archiveDays": 30,
   "articles": [
+    {
+      "title": "Certerra Expands Northeast Presence Through Acquisition of Universal Testing & Inspection Services - 01net",
+      "summary": "Certerra Expands Northeast Presence Through Acquisition of Universal Testing & Inspection Services 01net",
+      "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxNTDBvNmJvOUtyLVRJdjNtbWdhal83RGQyUWJCb0hlQUNuYXpUTUQwYTF6bHVQUmJpU0laVmFnZEtwVXRlVFkwVmVKUU9DRkdwblBiWnBybHVsTnFmeTd3cE9ZSTU2NFNqZHRqUml6N3Vzb1RBb2dBZWdURjR2MERBdXFoWkswcGF3WHR2VEJYcGN5eGVYRUJ3NTZUWFFuZXBMZFM4SXFZdHc5RkdoTVdFOWt5YUxFRmxsTVE?oc=5",
+      "source": "01net",
+      "category": "Asphalt Industry",
+      "keywords": "Acquired",
+      "sector": "General",
+      "dealType": "Acquisition",
+      "value": "",
+      "date": "Oct 08, 2026",
+      "dateISO": "2026-10-08T18:00:00"
+    },
+    {
+      "title": "Heidelberg Materials Shifts Gears: Nordic Aggregates Deal Takes Over as Buyback Era Ends - AD HOC NEWS",
+      "summary": "Heidelberg Materials Shifts Gears: Nordic Aggregates Deal Takes Over as Buyback Era Ends AD HOC NEWS",
+      "url": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxNU0Y4Q2xFX2tDNG5XdDA0a3FFTV9HcUNMdGUzRnAySXluRlEzQW16VXBRUGZEamhBVV85TkFIQzBUT1Z0MFVYbEdqLXE2cENuZEtsbDZyRVdTZFgtM2F1U1p4MXQ1ZU44SFZudlk5YllMR181ZGJNWnloeUdFdElfazZqWmUwUWoxSWNabDFNd3V1b3J0YVpTaURRYnl0TF94RU1sZ2tKdGpFam50NGk3UFpyOUxuQ1dUM2xKMmNUN1NYbE9QOU0xUGowRVl1aXRPWWFuYVZWekxPQQ?oc=5",
+      "source": "AD HOC NEWS",
+      "category": "Aggregates Industry",
+      "keywords": "",
+      "sector": "Aggregates",
+      "dealType": "Acquisition",
+      "value": "",
+      "date": "Oct 08, 2026",
+      "dateISO": "2026-10-08T17:40:47"
+    },
+    {
+      "title": "Does CRH's Nordic Aggregates Deal Add More Fuel to Its Growth Plan? - TradingView",
+      "summary": "Does CRH's Nordic Aggregates Deal Add More Fuel to Its Growth Plan? TradingView",
+      "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxPYWk4d0VFSHY2Tm5JNkhQSlpzOXB6Rlg0MGNQZFVrajZpLVlWaDlDU0tpNFBkQjNWcm9FS01QcHVrdllOQl8wd1pjdjlYd1hndE5YYkt3c3FodDJTYXhFd3FWTXFVejA1bE1MRVRla3FKcUFSTkUyM05YVGd0dnJZTTNPbmFLeTZraUtNcVF4ZEpsOXlVUmJ0QmJMemZYZHpxZUpmZjh5WlYyZnMwSlgxNDlTcm1mN2NjTU1rendaVQ?oc=5",
+      "source": "TradingView",
+      "category": "Aggregates Industry",
+      "keywords": "",
+      "sector": "Aggregates",
+      "dealType": "Acquisition",
+      "value": "",
+      "date": "Oct 08, 2026",
+      "dateISO": "2026-10-08T13:45:00"
+    },
+    {
+      "title": "JSW Cement Boards Approve Proposed Shiva Cement Merger - Indian Cement Review",
+      "summary": "JSW Cement Boards Approve Proposed Shiva Cement Merger Indian Cement Review",
+      "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxQZ0ZWRWsyR3ZhZ3NqWjM2X2VtaWpaTTQ5Z3gzdTRMcXNQVG50TTlIeEw2dXJWS1ZOR0pSeWxTYldKS3hOQVBjbXZlSlZ1RzhYSTFQMWkwUnhsWDdZLVpNUzdXX1JjMTN6YWtVdkxIVE5UZklIMHhVb0hzNlktdGZ6X2RIWG5WOGVoMUpKN2RsX0RtM1dySjBEVFRn?oc=5",
+      "source": "Indian Cement Review",
+      "category": "Cement Industry",
+      "keywords": "Merger",
+      "sector": "Cement",
+      "dealType": "Merger",
+      "value": "",
+      "date": "Oct 08, 2026",
+      "dateISO": "2026-10-08T12:04:50"
+    },
+    {
+      "title": "JSW Cement announces merger with Shiva Cement - CemNet.com",
+      "summary": "JSW Cement announces merger with Shiva Cement CemNet.com",
+      "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxONThwZUg3ZV9yWUQyOWdCN21MZkRHSEJmZmJqWWotUEpGd0FGLUg5d3ZLUTVwb19YcnRSOE9tRGgtSkFsRnBJSzhzWVh2dUVqeEpfUU9Cc0NhUUFJLXFkUnBNc01hdHdNSEZrTlJZU1pzVUljLVl3bzRLQlNCenA4Rl9sWFRneEljbFFZTDd1N0FQZEpoS0E?oc=5",
+      "source": "CemNet.com",
+      "category": "Cement Industry",
+      "keywords": "Merger",
+      "sector": "Cement",
+      "dealType": "Merger",
+      "value": "",
+      "date": "Oct 08, 2026",
+      "dateISO": "2026-10-08T07:48:00"
+    },
+    {
+      "title": "Will Amutse pay for cement merger error? \u2013 IPC\u2019s Hengombe - The Namibian -",
+      "summary": "Will Amutse pay for cement merger error? \u2013 IPC\u2019s Hengombe The Namibian -",
+      "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxOSWtibkI2ck9ZbktINVpqSWg2R2lpOUhQQ0lIVmJxVWVoZTR5UEZFN3RQb0xkVHRxNVhlMEptdGFuTW1nNWpMcmFVb2EzQnJPd0NDVXFhNy1sQmNRRzZmQjZVd3huSzR5T2w5UXZOc2o2enJGbkxKSjkwVXpvV09WVkhLY283N3hFTmc?oc=5",
+      "source": "The Namibian -",
+      "category": "Cement Industry",
+      "keywords": "Merger",
+      "sector": "Cement",
+      "dealType": "Merger",
+      "value": "",
+      "date": "Oct 08, 2026",
+      "dateISO": "2026-10-08T07:34:11"
+    },
+    {
+      "title": "Heidelberg Materials Sinks on Nordic Deal as Deutsche Bank Trims Price Target - AD HOC NEWS",
+      "summary": "Heidelberg Materials Sinks on Nordic Deal as Deutsche Bank Trims Price Target AD HOC NEWS",
+      "url": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxNOVZFekp0NkFZaXlPamo5Y1U2Z3RVdTYzaDVLcmJOaHJWcXlWbVdrNnFHZmlQc3AzUG5HQ3RUamRRZl9rdnktRnBLTnNiOGFnZUxsREJZQkE0RFk1ZTYyVEl3dnJxZzRHSjBKN0Vja2p5YlBYSmtPU1lTcDFjWG8xd0x5SldtdWZkNUo0S2oyMHowSXFJZlNuWm5iTDBRX2FQWW50R2c1Ti1SQ2xuNVJrdi1yTnZKMjFHdTk2a01NMnhPLWVLNENVX2xnX1pWZ1h4aXFVY2h4d1I4dw?oc=5",
+      "source": "AD HOC NEWS",
+      "category": "Asphalt Industry",
+      "keywords": "",
+      "sector": "General",
+      "dealType": "Acquisition",
+      "value": "",
+      "date": "Oct 08, 2026",
+      "dateISO": "2026-10-08T04:51:34"
+    },
     {
       "title": "CPI expands Texas operations with acquisition - Pit & Quarry",
       "summary": "CPI expands Texas operations with acquisition Pit & Quarry",
@@ -136,9 +227,22 @@
       "dateISO": "2026-10-07T08:14:43"
     },
     {
+      "title": "Lucky Cement, Hubco, Kohat Cement Form Consortium to Acquire GEPCO - ProPakistani",
+      "summary": "Lucky Cement, Hubco, Kohat Cement Form Consortium to Acquire GEPCO ProPakistani",
+      "url": "https://news.google.com/rss/articles/CBMiSkFVX3lxTE5tTnNwUWNvWllPSzRKaTFUc1BwMzlUWnBtMjBMNDlWU0J0Z3pUV3JzU1p0Um9PbGNfM1ZJT2l5SjB0aGdTeWZGb2hB0gGnAUFVX3lxTFAyNEdYd3hRUndWN3pGWkg1STlDWDNybzNRXzM1X2tuaXVWdVBrbzFUNWszb0xnSmItc1BFellCSEhscTVPQXZmQXRzZUdZZC13VC00UDJsUjItd1NNWUV3ZDdQX0VZRHJfdHp6RWszQzdwbzN2Z0t4a2JLa19sR3VGZkUxdUFCc1pnYUNwU0tzZjczUnc1SXBINVU5X2Jyay1oekx4NXlr?oc=5",
+      "source": "ProPakistani",
+      "category": "Cement Industry",
+      "keywords": "Acquired, To Acquire",
+      "sector": "Cement",
+      "dealType": "Acquisition",
+      "value": "",
+      "date": "Oct 07, 2026",
+      "dateISO": "2026-10-07T06:42:33"
+    },
+    {
       "title": "Qassim Cement Receives GAC No-Objection for Acquisition of Amix for Ready Mix Concrete - \u0635\u062d\u064a\u0641\u0629 \u0645\u0627\u0644",
       "summary": "Qassim Cement Receives GAC No-Objection for Acquisition of Amix for Ready Mix Concrete \u0635\u062d\u064a\u0641\u0629 \u0645\u0627\u0644",
-      "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTE1VVXNrYzRDMml6NDR0Qjh6M1VBVnVRb05LNXhJLTdPNDlrUzZkWEtmOG80dm4wM2xtWkx5dzlIUnBocGFkQXlITFZJbTJDOGN5cWhRM2thbWppZ3I0Y3JnUENKUG1mSl84dFlF?oc=5",
+      "url": "https://news.google.com/rss/articles/CBMiSkFVX3lxTE5hcUx3NTE0UE1RMDU0VVk3NjkxTnoyUFktQXVLR19NdTR1TUsySTg0dlJkaWtwejM1TUNKcU9xVUFJVndDSzBUV3Vn?oc=5",
       "source": "\u0635\u062d\u064a\u0641\u0629 \u0645\u0627\u0644",
       "category": "Cement Industry",
       "keywords": "Acquired",
@@ -146,7 +250,7 @@
       "dealType": "Acquisition",
       "value": "",
       "date": "Oct 07, 2026",
-      "dateISO": "2026-10-07T06:39:16"
+      "dateISO": "2026-10-07T06:39:17"
     },
     {
       "title": "Qassim Cement gets GAC approval for Amix acquisition - \u0627\u0631\u0642\u0627\u0645 : \u0627\u062e\u0628\u0627\u0631 \u0648\u0645\u0639\u0644\u0648\u0645\u0627\u062a \u0633\u0648\u0642 \u0627\u0644\u0623\u0633\u0647\u0645 \u0627\u0644\u0633\u0639\u0648\u062f\u064a - \u062a\u0627\u0633\u064a",
@@ -186,6 +290,19 @@
       "value": "$8.50B",
       "date": "Oct 06, 2026",
       "dateISO": "2026-10-06T21:33:45"
+    },
+    {
+      "title": "High Court blocks Whale Rock-Ohorongo cement merger - The Namibian -",
+      "summary": "High Court blocks Whale Rock-Ohorongo cement merger The Namibian -",
+      "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxOZi1UbjFBQWstanBkNGNKZjNMeGluZnBCbzhuSEw0dGREVFB5TTZWdXJ6UEpkenl3dVAxZ284cm56ekJxaXhOOWdDN1gtY21BQThZNDVSV2lxRWhBTHJyU3ZVQ1hQQ1dVeDdlUlZYT1NIa3h4MlU1cGFMdmhSSUxVQXEzOGFxUQ?oc=5",
+      "source": "The Namibian -",
+      "category": "Cement Industry",
+      "keywords": "Merger",
+      "sector": "Cement",
+      "dealType": "Merger",
+      "value": "",
+      "date": "Oct 06, 2026",
+      "dateISO": "2026-10-06T17:00:00"
     },
     {
       "title": "Can Construction Partners' Texas Acquisition Expand Its Abilene Reach? - Yahoo Finance",
@@ -238,19 +355,6 @@
       "value": "",
       "date": "Oct 06, 2026",
       "dateISO": "2026-10-06T12:21:10"
-    },
-    {
-      "title": "JSW Cement Announces Merger with Shiva Cement - Indian Cement Review",
-      "summary": "JSW Cement Announces Merger with Shiva Cement Indian Cement Review",
-      "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxQanQ2TDVsZnZLZG1udUU4Mnh5LUNFZUc0Z29nQ3Rwc3o3YjRoc29vamxPQzk0SUpaNTJYS0Z4Y0VZa241eVpvSXR2dW5ENGh4ZnNwMkc4YXpseEFrQnZzSl9iODM3aHU4ZTRkVTdVOHc5dEJwSXdNMGFpS0VZT3ZwR0daUW5hTXVIQS1xQU9B?oc=5",
-      "source": "Indian Cement Review",
-      "category": "Cement Industry",
-      "keywords": "Merger",
-      "sector": "Cement",
-      "dealType": "Merger",
-      "value": "",
-      "date": "Oct 06, 2026",
-      "dateISO": "2026-10-06T12:02:32"
     },
     {
       "title": "Court blocks cement merger approval - Windhoek Observer",
@@ -420,19 +524,6 @@
       "value": "",
       "date": "Oct 05, 2026",
       "dateISO": "2026-10-05T05:54:37"
-    },
-    {
-      "title": "JSW Cement boards approve proposed Shiva Cement merger - MediaBrief",
-      "summary": "JSW Cement boards approve proposed Shiva Cement merger MediaBrief",
-      "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxORU05bzI3NklqcVo3ejNTb3RzUFJrbUlNejl3dkktdTZwYk9ZaTBrZjVfODF3NF9xLUFGWEpueFFWM2hTM3pqTENPS09lNzA4NjliZ3pabHRFamNQVGdYZkhTRktpVlItaXY5NTctWnlQbExtblRlWEhGSGV4R1ZRWjhta2ptSEQyNU1rbA?oc=5",
-      "source": "MediaBrief",
-      "category": "Cement Industry",
-      "keywords": "Merger",
-      "sector": "Cement",
-      "dealType": "Merger",
-      "value": "",
-      "date": "Oct 03, 2026",
-      "dateISO": "2026-10-03T13:05:10"
     },
     {
       "title": "Maschmeyer Concrete Expands Into Georgia With Atlanta Acquisition - Construction Owners",
@@ -2318,58 +2409,6 @@
       "value": "",
       "date": "Sep 09, 2026",
       "dateISO": "2026-09-09T05:57:52"
-    },
-    {
-      "title": "Heidelberg Materials to Acquire Majority Stake in Peruvian Cement Producer Cementos Inka - News and Statistics - IndexBox",
-      "summary": "Heidelberg Materials to Acquire Majority Stake in Peruvian Cement Producer Cementos Inka - News and Statistics IndexBox",
-      "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxNX0VieVp5d2piNi10OTM4S1RTcUxIVlhtcEY5enl2akF5b09SQ1BpdFEydS00QWc0eE5UZHZBRTFEbHJIMXcyZjJ4WGhqajZEUVZlT1BVTkpCM2xyYkpuUmpvb1RnUjE0NEh4WGxISTQ1SmR1VndXMHFhRWNlRjg0dU1IY1A5djFKVG1hTXYzMlhOUVowblE?oc=5",
-      "source": "IndexBox",
-      "category": "Heidelberg Materials",
-      "keywords": "Acquired, To Acquire",
-      "sector": "Cement",
-      "dealType": "Acquisition",
-      "value": "",
-      "date": "Sep 08, 2026",
-      "dateISO": "2026-09-08T15:01:32"
-    },
-    {
-      "title": "Expanding its trading operations with asset-light acquisition: Heidelberg Materials takes majority stake in Peru-based Cementos Inka - marketscreener.com",
-      "summary": "Expanding its trading operations with asset-light acquisition: Heidelberg Materials takes majority stake in Peru-based Cementos Inka marketscreener.com",
-      "url": "https://news.google.com/rss/articles/CBMi5wFBVV95cUxQS25oRUN2MXd6YzlsbnFWalB4cXZYTjlFSUd4akNOU05ONlp0czVHTFowc25NTDRkTTJmT196LVRQOFNzMWd6V0JUSy02TnAtNnBzQUt0V0VzME1HWTZteFR5S0hoRGVtSGJiUHhDc0dUSTJNeE9sTFZQTFBhcEhXQjBCLTE1SngyOEo2S0JPYWlyV0VwY1E4S1ozY2REeGpWdlNaUVRLQnhkWUVaQ2VUSzNja1RhdFhCbmVaZG1PbDA5dGdQbmtMUmpPRE03OHFkRXZZVEpuN0FqbF95d21IaThjYjMyakU?oc=5",
-      "source": "marketscreener.com",
-      "category": "Heidelberg Materials",
-      "keywords": "Acquired",
-      "sector": "Cement",
-      "dealType": "Acquisition",
-      "value": "",
-      "date": "Sep 08, 2026",
-      "dateISO": "2026-09-08T09:13:05"
-    },
-    {
-      "title": "Heidelberg Materials acquires majority stake in Cementos Inka - CemNet.com",
-      "summary": "Heidelberg Materials acquires majority stake in Cementos Inka CemNet.com",
-      "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxNdk9VT3ZzanJBNHhjLU9lc1BQY1BxVHFzWlYxOTNCWHNQSzJ1dDV5dHFoUDN4UjJFSDFKQTU4bElxWU9aVlhPZmRYQ0Y1aXZ1Z052NmxkOVZZSUpwdmdmanZSd2tfbF93RnNEQXRRaGtCN2RXQi12WFdtNWp2aHoyUHJ0dVkyU0xkZjFseW9aVGtuRTMyMWw5SFV3TTR6WWFzS2p3U2ExZFFRSkE?oc=5",
-      "source": "CemNet.com",
-      "category": "Cement Industry",
-      "keywords": "Acquired",
-      "sector": "Cement",
-      "dealType": "Acquisition",
-      "value": "",
-      "date": "Sep 08, 2026",
-      "dateISO": "2026-09-08T08:21:00"
-    },
-    {
-      "title": "Kenya claims top spot in corporate merger deals - Daily Nation",
-      "summary": "Kenya claims top spot in corporate merger deals Daily Nation",
-      "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxPdDk4ZmZtR1FtQ01hb1RRdmRGbFBsTzR3Y1pNZU9UbVowUzd5c3BWNXB2NF9rX2FGbmFwclZGaUcxemFDVlJna3B1M3F0bG5xN1pZU0Fnb2d1UnpJNGhGZU5KWGFPZUJGWnVBcGdDWkFMQU5welM5bEZCZVJhRmFLREtIZm9ZZ09Pcnl4aU9takF0anU0dmZhT3JGTmVTc3o5Zi1FOQ?oc=5",
-      "source": "Daily Nation",
-      "category": "Cement Industry",
-      "keywords": "Merger",
-      "sector": "General",
-      "dealType": "Merger",
-      "value": "",
-      "date": "Sep 08, 2026",
-      "dateISO": "2026-09-08T03:00:00"
     }
   ]
 }
