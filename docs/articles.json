@@ -1,10 +1,49 @@
 {
-  "fetchedAt": "2026-10-08T19:07:19.169896",
-  "totalArticles": 185,
-  "newToday": 21,
-  "duplicatesRemoved": 14,
+  "fetchedAt": "2026-10-09T18:37:58.545222",
+  "totalArticles": 182,
+  "newToday": 18,
+  "duplicatesRemoved": 15,
   "archiveDays": 30,
   "articles": [
+    {
+      "title": "CRH to acquire aggregate operations in Denmark and Finland - World Cement",
+      "summary": "CRH to acquire aggregate operations in Denmark and Finland World Cement",
+      "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxQaWR1RVU5aUJiMmw1YU9QY1B4VzNYMGstVWs2R1pySEFvc1FBTlFRNC1fMy1wMXE1MG5GYlJGUWpwWGRPU2RyTHF3YzlTQTdZY0R3bTJ4OE1MQjRVRGM5emZzTVZiSWh0RUhhbm5ZZ183UGRZWjRmSTloNkU1ZV9sXzJWdV9DMHZUOW5tV0EyeHcxY1g5enJjMlRaRzNXdGdKT1ZpdDRqNWM1VlRFRWpacw?oc=5",
+      "source": "World Cement",
+      "category": "Asphalt Industry",
+      "keywords": "Acquired, To Acquire",
+      "sector": "Multiple",
+      "dealType": "Acquisition",
+      "value": "",
+      "date": "Oct 09, 2026",
+      "dateISO": "2026-10-09T16:22:23"
+    },
+    {
+      "title": "Crh Plc $CRH Shares Sold by Artemis Investment Management LLP - MarketBeat",
+      "summary": "Crh Plc $CRH Shares Sold by Artemis Investment Management LLP MarketBeat",
+      "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxQcHd1ZllTLUlLZnlXMnRJdWhZTTV2dDVzUVg0YUFKSVRjdjlPTGo1VURtOU5KT1ROeVJMMGZ0WnYybkMzLVFRYWJKNXYtMzBFVThHbV9SaWlkSVJJUHQzNnpFa1hKTFI2eFdGZy1Cc29GMzYzaXlFeGFCR012NXhJaVVnenZOZkpuZ1Q3NEVjTWhfVWZLOGdvaVFTRkM2alFWNEV4R3prTU83Q1NWWXl6eXE4MU95RjRUdTA3U1lB?oc=5",
+      "source": "MarketBeat",
+      "category": "CRH",
+      "keywords": "Investment",
+      "sector": "General",
+      "dealType": "Divestiture",
+      "value": "",
+      "date": "Oct 09, 2026",
+      "dateISO": "2026-10-09T07:37:17"
+    },
+    {
+      "title": "MPIC closes P12.4-B Meralco deal, tightens grip on power giant - InsiderPH",
+      "summary": "MPIC closes P12.4-B Meralco deal, tightens grip on power giant InsiderPH",
+      "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxNUDNHVm9BWEZieXRYV0JjbXlkMWN2blloZmZOTWJSeUxIZHRYc0N6c2dXcDkwODNwOTRPbjNWT3ZIVS01ME1idGttNUYxTmJsaGJfSlhDQi1hckF6RVNEd3FTRGMwUlV1N0NBR2pkajBfWlpFSWNuZmlmb1gya0JtNVpNeWdKb3ktdnc?oc=5",
+      "source": "InsiderPH",
+      "category": "Holcim",
+      "keywords": "",
+      "sector": "General",
+      "dealType": "Acquisition",
+      "value": "",
+      "date": "Oct 09, 2026",
+      "dateISO": "2026-10-09T01:31:11"
+    },
     {
       "title": "Certerra Expands Northeast Presence Through Acquisition of Universal Testing & Inspection Services - 01net",
       "summary": "Certerra Expands Northeast Presence Through Acquisition of Universal Testing & Inspection Services 01net",
@@ -212,19 +251,6 @@
       "value": "",
       "date": "Oct 07, 2026",
       "dateISO": "2026-10-07T08:22:47"
-    },
-    {
-      "title": "CRH to acquire aggregate operations in Denmark and Finland - Business Plus",
-      "summary": "CRH to acquire aggregate operations in Denmark and Finland Business Plus",
-      "url": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE8xSWotTVdsWjFIZHM3a2VKZWtCOG9XdjAxNzdVTHhMbXhQVWtBcWUwY1NVd2hvdURFeDlOUWhpUUx6ZzVLcW9tUDRUVQ?oc=5",
-      "source": "Business Plus",
-      "category": "Asphalt Industry",
-      "keywords": "Acquired, To Acquire",
-      "sector": "Aggregates",
-      "dealType": "Acquisition",
-      "value": "",
-      "date": "Oct 07, 2026",
-      "dateISO": "2026-10-07T08:14:43"
     },
     {
       "title": "Lucky Cement, Hubco, Kohat Cement Form Consortium to Acquire GEPCO - ProPakistani",
@@ -524,6 +550,19 @@
       "value": "",
       "date": "Oct 05, 2026",
       "dateISO": "2026-10-05T05:54:37"
+    },
+    {
+      "title": "Construction Partners, Inc. acquired Asphalt manufacturing and construction assets from J. H. Strain & Sons, Inc. - www.marketscreener.com",
+      "summary": "Construction Partners, Inc. acquired Asphalt manufacturing and construction assets from J. H. Strain & Sons, Inc. www.marketscreener.com",
+      "url": "https://news.google.com/rss/articles/CBMi4wFBVV95cUxPSHZLTzdsUVhoSHNPc0lhMUZJX2k0UGk5OUFvMDVlemZ5SjEwYW1QYXlDdF9NRlJuWTFHYUZnRW42aW9iNHhrR25pbDZncE9NdDlFdkdPX0RqaEJDYVB0dDFPb2VQZnc3OENiLUh5ckJOaDZuendXSlMyOEV5Q2JPZEM4TmpLVjdZRE0zenpjcWxVbTI1RzhvZUdjNzZjRVJnbU9uQ01BYVdlbGVkUUlnOUo5c1dUMDAtdlpJdDFYQ0lGQkhaX0FJdUJ5TDBhcWpzWVFGeXlXR2xqLW05TVdvVnY1Yw?oc=5",
+      "source": "www.marketscreener.com",
+      "category": "Asphalt Industry",
+      "keywords": "Acquired",
+      "sector": "Asphalt",
+      "dealType": "Acquisition",
+      "value": "",
+      "date": "Oct 04, 2026",
+      "dateISO": "2026-10-04T22:00:00"
     },
     {
       "title": "Maschmeyer Concrete Expands Into Georgia With Atlanta Acquisition - Construction Owners",
@@ -2331,84 +2370,6 @@
       "value": "$8.50B",
       "date": "Sep 10, 2026",
       "dateISO": "2026-09-10T07:00:00"
-    },
-    {
-      "title": "Alabama mine included in merger is critical to defense, biomedical tech - AL.com",
-      "summary": "Alabama mine included in merger is critical to defense, biomedical tech AL.com",
-      "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxOc1NFbHNwREgwTXBiblphRXFWMWtqSzRUajlzc2NoVktLbzVrcndnVFFmNVVxMzdWeU8zdUVlNG05T1hleEdaREtSbU5XWm8tU3VqWE44UWRqTzRsQ1dMT3o4dDh0SHlPY0tPc2w4cHBreVZJb0dOZ0NiNDUzR0RoSGJKVkRJZ2FwNlc1RG9CRk9Bb29iM0hULVAxeHRkdG1RREZfZmxWVWx2MXh0cEx3dQ?oc=5",
-      "source": "AL.com",
-      "category": "Vulcan Materials",
-      "keywords": "Merger",
-      "sector": "General",
-      "dealType": "Merger",
-      "value": "",
-      "date": "Sep 09, 2026",
-      "dateISO": "2026-09-09T16:43:00"
-    },
-    {
-      "title": "FCC scrutinises Chinese-linked bid to acquire TC Cement - therespondents.co.tz",
-      "summary": "FCC scrutinises Chinese-linked bid to acquire TC Cement therespondents.co.tz",
-      "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxQMFBkc2JsdE12S3BqcHpTQ2M2UUZZUG5CWHFlVjM4cS1tSVZXQWh1RGMtQVZhMmhKY2RqVm5ER2hENmxucTNwcWw0VG16ZEpDRUpPcS1wQ3lPM3ZHNGxudk1BSWFBRGN2SHZDcFRIY3dteHBBUkJNSHdWVDZHSmJSMXdlYmRvR3VQN0Rr?oc=5",
-      "source": "therespondents.co.tz",
-      "category": "Cement Industry",
-      "keywords": "Acquired, To Acquire",
-      "sector": "Cement",
-      "dealType": "Acquisition",
-      "value": "",
-      "date": "Sep 09, 2026",
-      "dateISO": "2026-09-09T14:45:00"
-    },
-    {
-      "title": "Adani Group Plans $2.5 Billion Offshore Loan To Refinance Cement Acquisition Deb - Business Today",
-      "summary": "Adani Group Plans $2.5 Billion Offshore Loan To Refinance Cement Acquisition Deb Business Today",
-      "url": "https://news.google.com/rss/articles/CBMi5gFBVV95cUxNeGR5Q2NwUDVGYXNkX0luTVF2Z0p0WUpJWkpCMWhUdmpZNFJOSEtjT2FkM0o0bzdjSXBndTdQaG9ERGhDcWR6SU9aVVp0bm1RaUNoZ1FaMk54VEJabDF3ODNFYldVcXFkRnp3NXliT0dEdWpjdWxKZWREaHRPUHN6LTdlcFlnVHFZNXEtaGZCb0JoVlhpY0NUeVI2ejFPOUJWa3AtYk1HdUJGa1pNNkhZTlNsRy1OcU1yLXZPZlljOVhoZ2pxUnVVNDlpbm9FcWhsdnJwaWV6U1k1eXVYNVBfR1JyV1k1Z9IB6wFBVV95cUxNaHlmSlYwUXd6VHhLWEtIMzJKYXFOU3dhbWZxOEFnS2xuZnZpTVlkbzdVd255WmZ1QzVOemFBY2JIQWRjZWZlbS03SUtoMmV3M210Z3RsSE5tRGNqRi12S3RHOXg2RFNOOWZJSkphTC14Q2NWajY5NWhlUkdPRVFya3FVOVNmbEV4VWx6V3hfWjZid01sX3hPY0JELTBwTW54aFZhLUdBRDNFNl90cVdtYzg5bThBR1pibGpfSGQ2MHp6NWdlb09WcFFVSUlpaFNxUk1XRGN4VWhJZ0pFV1BjNHBkUVYzc2ZJZE5r?oc=5",
-      "source": "Business Today",
-      "category": "Cement Industry",
-      "keywords": "Acquired",
-      "sector": "Cement",
-      "dealType": "Acquisition",
-      "value": "$2.50B",
-      "date": "Sep 09, 2026",
-      "dateISO": "2026-09-09T11:44:01"
-    },
-    {
-      "title": "Auburn Engineering acquires facility to centralize transportation research - Auburn University",
-      "summary": "Auburn Engineering acquires facility to centralize transportation research Auburn University",
-      "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE5acmdPaG45U203ODc2aXdwQUZMaXlSQlpQV3FYTl84WmdOYkRydk9zU1h5b3FCNDZLd1FOYzB1M1NUYkpQbG9KSHhKaWFWLTlvY2JPWV9SaVJqR2s0M3J6V191VU1TOXlzSHJiUmVMb2tQYzRhdkE?oc=5",
-      "source": "Auburn University",
-      "category": "Asphalt Industry",
-      "keywords": "Acquired",
-      "sector": "General",
-      "dealType": "Acquisition",
-      "value": "",
-      "date": "Sep 09, 2026",
-      "dateISO": "2026-09-09T07:17:37"
-    },
-    {
-      "title": "Qassim Cement acquires 100% of Amix Ready Mix for SAR 65M - \u0627\u0631\u0642\u0627\u0645",
-      "summary": "Qassim Cement acquires 100% of Amix Ready Mix for SAR 65M \u0627\u0631\u0642\u0627\u0645",
-      "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE9wdkZMajBvRDd0UE1PWTRwWkpqbUNDUzVJY2ZTa0wxYzVkZTRwaHVnNDZpRUNkVlhsNV9MLURlZXhtcm9CeWl2WC1KZmVaeHdPdDBNUGxrNUlYVmFSZXA2YmxzNlRvQmlQQXc?oc=5",
-      "source": "\u0627\u0631\u0642\u0627\u0645",
-      "category": "Ready-Mix Industry",
-      "keywords": "Acquired",
-      "sector": "Multiple",
-      "dealType": "Acquisition",
-      "value": "",
-      "date": "Sep 09, 2026",
-      "dateISO": "2026-09-09T06:11:23"
-    },
-    {
-      "title": "Qassim Cement to Acquire 100% of E-Mix Ready Mix Concrete for SAR 65 Mln - \u0635\u062d\u064a\u0641\u0629 \u0645\u0627\u0644",
-      "summary": "Qassim Cement to Acquire 100% of E-Mix Ready Mix Concrete for SAR 65 Mln \u0635\u062d\u064a\u0641\u0629 \u0645\u0627\u0644",
-      "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTE9QLUZ0VWJUSVBJSF80WS1lSmpVX0Jua01DVGlGUnU4VzJEcHVuOGI2dFZiVW45bG1IQnJrNGI2OTJubzFzRGp1WHBnUUZHeXJqdHo5X0pRYWU3UmJPYXpSU3hfS1BCS0JNb2Y4?oc=5",
-      "source": "\u0635\u062d\u064a\u0641\u0629 \u0645\u0627\u0644",
-      "category": "Ready-Mix Industry",
-      "keywords": "Acquired, To Acquire",
-      "sector": "Multiple",
-      "dealType": "Acquisition",
-      "value": "",
-      "date": "Sep 09, 2026",
-      "dateISO": "2026-09-09T05:57:52"
     }
   ]
 }
