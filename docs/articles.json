@@ -1,8 +1,8 @@
 {
-  "fetchedAt": "2026-10-09T18:37:58.545222",
-  "totalArticles": 182,
-  "newToday": 18,
-  "duplicatesRemoved": 15,
+  "fetchedAt": "2026-10-10T17:37:00.864357",
+  "totalArticles": 179,
+  "newToday": 10,
+  "duplicatesRemoved": 8,
   "archiveDays": 30,
   "articles": [
     {
@@ -251,6 +251,19 @@
       "value": "",
       "date": "Oct 07, 2026",
       "dateISO": "2026-10-07T08:22:47"
+    },
+    {
+      "title": "Maccaferri announces two acquisitions - Geosynthetics Magazine",
+      "summary": "Maccaferri announces two acquisitions Geosynthetics Magazine",
+      "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxQQTZZUjB0TjlETkJwWGRhTWhqZmlwVkdaZ2phY1V1a29WWkdPbzZTdDJ2YkpaWmxIZnJtUktZZXhZay10ckVYbm5zd3F2TGxFV21EUjd1NGkzU1U2akRkWnpaWFBSUDhIOUg1bUJKTjQwcG5GVkRBa091WTRBQ2dpVGJIb1FUWGptV3lr?oc=5",
+      "source": "Geosynthetics Magazine",
+      "category": "Asphalt Industry",
+      "keywords": "Acquired",
+      "sector": "General",
+      "dealType": "Acquisition",
+      "value": "",
+      "date": "Oct 07, 2026",
+      "dateISO": "2026-10-07T07:00:00"
     },
     {
       "title": "Lucky Cement, Hubco, Kohat Cement Form Consortium to Acquire GEPCO - ProPakistani",
@@ -1252,6 +1265,19 @@
       "value": "",
       "date": "Sep 27, 2026",
       "dateISO": "2026-09-27T07:06:47"
+    },
+    {
+      "title": "Construction Partners Expands Asphalt Operations With Oklahoma Deal - Eastern Progress",
+      "summary": "Construction Partners Expands Asphalt Operations With Oklahoma Deal Eastern Progress",
+      "url": "https://news.google.com/rss/articles/CBMi4wFBVV95cUxOTDdWVHgxMUdEQ0UyaEFSTDhGWXBibVljZ045VTIydVQwNFV1SUdCeGxyZU5tU2IxX004Ql9HNXJLTEUxNEJSSjBqQmNZR2ZHTDVvTHZ1bU9UNXRtcjVRYmtRc1dsbUllQTB1cm9kaEppdEtKelY2QXY0anliZDJoSWtYMURtNWxCSmwtQVo1NmZRRWVPWkgweHpydE5BTFFTeHA1RWFvQnRCNXR3alg4ZlFTWWc4QUN5bHBxaWU3ZHNLX2pCcWF4WXg2cHpLYTBCN05NdGhxSkVPZmw3VkdOcUtGOA?oc=5",
+      "source": "Eastern Progress",
+      "category": "Asphalt Industry",
+      "keywords": "",
+      "sector": "Asphalt",
+      "dealType": "Acquisition",
+      "value": "",
+      "date": "Sep 27, 2026",
+      "dateISO": "2026-09-27T07:00:00"
     },
     {
       "title": "CAI Software acquires Llumin to boost visualization platform - SaasRise",
@@ -2305,71 +2331,6 @@
       "value": "",
       "date": "Sep 11, 2026",
       "dateISO": "2026-09-11T00:00:00"
-    },
-    {
-      "title": "Cherat Cement moves to acquire at least 30% stake in Nimir Industrial Chemicals - Profit by Pakistan Today",
-      "summary": "Cherat Cement moves to acquire at least 30% stake in Nimir Industrial Chemicals Profit by Pakistan Today",
-      "url": "https://news.google.com/rss/articles/CBMizAFBVV95cUxQcGQ2SXhnU3NOcWY1d0FhYi1iRURTXzQtYXNfZ2JrRURSMkwxcm9jdDFHVVZVSUxqNFpGdDZ6aTRoVThmc3dZUk1xdHcxc21SZG5LZ0VuNVVxNE9uLWw3VkdjVkowRzQ1bTVEVHF3ejg0R2RfUlJJS3Bybzd1ZFdKVnV1Yk1NRFZaNXZBRTdQYTRIZ2pKLW9LOE5lVThkSlk3aXM4N2FOcVU5SlE2UFVlR2FkaW4xMUktaWNEcE5Bc3VLemZ4eXpXaVU3bjM?oc=5",
-      "source": "Profit by Pakistan Today",
-      "category": "Cement Industry",
-      "keywords": "Acquired, To Acquire",
-      "sector": "Cement",
-      "dealType": "Acquisition",
-      "value": "",
-      "date": "Sep 10, 2026",
-      "dateISO": "2026-09-10T11:43:51"
-    },
-    {
-      "title": "Ambuja Cements Back at 2023 Levels: Can the ACC, Orient, Sanghi and Penna Merger Unlock Shareholder Value? - tradebrains.in",
-      "summary": "Ambuja Cements Back at 2023 Levels: Can the ACC, Orient, Sanghi and Penna Merger Unlock Shareholder Value? tradebrains.in",
-      "url": "https://news.google.com/rss/articles/CBMi4wFBVV95cUxPZ3M4Mi1kT2R1UEZpbEJjaU5CRl9WMGI1UUZiT2V3Y2JkZTF6UWNGWUx3SHZBenowZDl5WEZCSno4Sy14QjhkSm9FYkZtWk53YkF5YnB2TE1OOGxKWUdpdTFVemU2azRzV1VucDZlWU90NDhmQW5tV3k5QVFteWFfWDU1dnFPM2JuUUFPQW9YUGRfZ0t5QkJBUTVDRnJabGFOb1B1U2dJNVphdVR1X0wwbUtwS2JOcE8xc0ZvZDJteUZTNjAtMXl4NklRQkR3RzRhb0R3ZEhsS3ZTODVTRndEd1RyWQ?oc=5",
-      "source": "tradebrains.in",
-      "category": "Cement Industry",
-      "keywords": "Merger",
-      "sector": "Cement",
-      "dealType": "Merger",
-      "value": "",
-      "date": "Sep 10, 2026",
-      "dateISO": "2026-09-10T11:09:06"
-    },
-    {
-      "title": "CRH rated Buy for growth via Arcosa deal and st... - Pluang",
-      "summary": "CRH rated Buy for growth via Arcosa deal and st... Pluang",
-      "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE1uQVNTc0xkZ0ZKWlFCTDB4ZVp0dmRTSmNqUXJmZnBxeEY0NVpBV3dEdkstNzdVbGtqcGR5SkdvMnJiZTFFVHp2Z2VTZnBKSkEzUnpBeExBNmhiSHdvUUxGcmMzV21KNGxFTFJpLW9lVjRJTzhDRUE?oc=5",
-      "source": "Pluang",
-      "category": "Aggregates Industry",
-      "keywords": "",
-      "sector": "General",
-      "dealType": "Acquisition",
-      "value": "",
-      "date": "Sep 10, 2026",
-      "dateISO": "2026-09-10T08:26:18"
-    },
-    {
-      "title": "Dangote Cement Treasury Chief Buys 986 Shares in Insider Deal - Brand Icon Image",
-      "summary": "Dangote Cement Treasury Chief Buys 986 Shares in Insider Deal Brand Icon Image",
-      "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxOdGk1R0VXN2RaU1FsU25UdEdPZTlIcEJNUWxBaGxFSl9qQzZPX2dJcmNnSGZhX09USjNlLUdCeEx2bEtsaWgzZ09MUXk2MFBSU1gtZ1hTSmZPY3JlUjZXUElXWWRvSWtnekRRQW0yTFc1MXYwSlUza1FWVTNzZm5mMFFRYmV6SVBmZmc?oc=5",
-      "source": "Brand Icon Image",
-      "category": "Cement Industry",
-      "keywords": "",
-      "sector": "Cement",
-      "dealType": "Acquisition",
-      "value": "",
-      "date": "Sep 10, 2026",
-      "dateISO": "2026-09-10T07:57:00"
-    },
-    {
-      "title": "Arcosa Shareholders Approve $8.5B CRH Deal. Does the Vote De-Risk a First-Quarter 2027 Closing? - Yahoo Finance",
-      "summary": "Arcosa Shareholders Approve $8.5B CRH Deal. Does the Vote De-Risk a First-Quarter 2027 Closing? Yahoo Finance",
-      "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxNbEdLbk02YnAwd0ZrTk5qb0pnclhHc2VpOHV2MkxDeXQwSkFZVGVjWVFoV0F2QlFWZlk4Z29ZZjBWQ3A2cDRrNnE0bkJtRGtuQ1pXczF3Q01ER21xQlh5T3d1NUdWaWxBZmlWR19iRFUtNEpoNGRtdFZ3TWdaUFFuZ3UxTkJyY1UzNW1NMUVtZTZGU2VPbVRlYUJ5Y1V6UQ?oc=5",
-      "source": "Yahoo Finance",
-      "category": "Arcosa",
-      "keywords": "",
-      "sector": "General",
-      "dealType": "Acquisition",
-      "value": "$8.50B",
-      "date": "Sep 10, 2026",
-      "dateISO": "2026-09-10T07:00:00"
     }
   ]
 }
