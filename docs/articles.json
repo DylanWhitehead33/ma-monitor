@@ -1,10 +1,62 @@
 {
-  "fetchedAt": "2026-10-10T17:37:00.864357",
-  "totalArticles": 179,
-  "newToday": 10,
-  "duplicatesRemoved": 8,
+  "fetchedAt": "2026-10-11T17:53:20.135226",
+  "totalArticles": 182,
+  "newToday": 16,
+  "duplicatesRemoved": 11,
   "archiveDays": 30,
   "articles": [
+    {
+      "title": "Metromont acquires longtime engineering partner PTAC after 25-year collaboration - Dealroom",
+      "summary": "Metromont acquires longtime engineering partner PTAC after 25-year collaboration Dealroom",
+      "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxQTjdpT1VhWHBEemM2MktjbUN3d1RqZjBpSUZPX1UyTDVXeWxaUV9admt5TjcybE9YSUhHOGl2N2VmRDFSQTJxTV8yejM5cGttNTBaWjJjNFJrZ0VxTVBJaTJJcGVTUTFjVFNPX0VKRWFaQjl1T09iWFRERUNfYk5mb2JDRmQ2cHk4LVRTSWxUWmJ3Ny00UnNoY1RWZVF3OTJUZ1pNREpFdmFkRDZBOFo1Z3pCOVE?oc=5",
+      "source": "Dealroom",
+      "category": "Precast Industry",
+      "keywords": "Acquired",
+      "sector": "General",
+      "dealType": "Acquisition",
+      "value": "",
+      "date": "Oct 11, 2026",
+      "dateISO": "2026-10-11T14:34:02"
+    },
+    {
+      "title": "Construction Partners Expands Texas Asphalt Operations With Abilene Acquisition - Construction Owners",
+      "summary": "Construction Partners Expands Texas Asphalt Operations With Abilene Acquisition Construction Owners",
+      "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxPcUVLUDF6cUxKSGdvQVhUZVRIb1BvdTdxVE40VWtJYWR1aTVTYm5fU2I5eUNOMmxuUjRpc2lYRk1zd2FPZ1pLc0JNUXdZT0ItWF9SSW1hSU1aRmlDTGZGYml5OGluUEtheV81NzA1ZFJsdmp3cGlkRVBmcWN4cHAwRXVfeTUyRTAtcUFCajRFZDl6QWJSR294TGQtbjFyLU41WlNHdV9XWUVaLTA4U2dJZjQza3pfWVNteW84?oc=5",
+      "source": "Construction Owners",
+      "category": "Asphalt Industry",
+      "keywords": "Acquired",
+      "sector": "Asphalt",
+      "dealType": "Acquisition",
+      "value": "",
+      "date": "Oct 11, 2026",
+      "dateISO": "2026-10-11T09:37:28"
+    },
+    {
+      "title": "Heidelberg Materials Completes EUR 1.2 Billion Buyback, Turns to SEK 5.5 Billion Nordic Acquisition - ad-hoc-news.de",
+      "summary": "Heidelberg Materials Completes EUR 1.2 Billion Buyback, Turns to SEK 5.5 Billion Nordic Acquisition ad-hoc-news.de",
+      "url": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxPWnhRcUxkdTJmWUp3OV9FMi1SclRKV2F0aUU5Y1RIazR4ejlJRzlya3hkWVhkMkZtbUJjQkhjQVg0YjBpTWhIU1cweVlsakpuMmJKN1NGNnNGYzJRaUxKTVNkOHQ4VXBZcWN2dElQMXZuU1BCYVhzWFJBcGdmMVc5ZnhQdUZ5eU9Zd3dVd3gtQVlpMm8xZnRndXJaLVV2OWNzVFhsRVlLUEhvZ0RFb0xYNEdYekpLVXNMZ3NVWW9Wa29iM3ktZnBISkVYb29maHl4ODNyd3JteTlfRGM?oc=5",
+      "source": "ad-hoc-news.de",
+      "category": "Aggregates Industry",
+      "keywords": "Acquired",
+      "sector": "General",
+      "dealType": "Acquisition",
+      "value": "",
+      "date": "Oct 11, 2026",
+      "dateISO": "2026-10-11T04:11:02"
+    },
+    {
+      "title": "CRH To Acquire NCC Industry Aggregate Operations In Denmark And Finland - Pulse 2.0",
+      "summary": "CRH To Acquire NCC Industry Aggregate Operations In Denmark And Finland Pulse 2.0",
+      "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxQeGRhUC1yMkdpNkZxeV9HM2l6WVAyUENsSHcyRGhJTlBZcnNpNC01S05RWW5pbzBKdVcwN3VkLS1iX2FQNTVIeE1DSFNBSXdHUndUX19yc3hkRFZtSmducEExbU1HOVE2OUE3Y0pJaUJqSGtrUmhYdmc2LXpsZm11WUNFb1RpRjAzYlhZTGJFMmxWU0lsUVHSAZsBQVVfeXFMTnRNb0txbHRoRWRaX3owUUpwS2F3dlJLV2ZUSFNqYlRCZnRsU1Z5RmI1ZUJhdmN5bGstZUlrZjlaSmxDMFFGaENPZ3hHOWkyd3BnY19sOGlTWThsU3VTaTdGY1BGbm9HNWxhd2pWTDhvYTVkQTk5dWRPY0lxVXJocThHWVgzMlJ1b2FVcUZhb1lYQXVZQml1TENVTUU?oc=5",
+      "source": "Pulse 2.0",
+      "category": "Aggregates Industry",
+      "keywords": "Acquired, To Acquire",
+      "sector": "Aggregates",
+      "dealType": "Acquisition",
+      "value": "",
+      "date": "Oct 10, 2026",
+      "dateISO": "2026-10-10T19:47:56"
+    },
     {
       "title": "CRH to acquire aggregate operations in Denmark and Finland - World Cement",
       "summary": "CRH to acquire aggregate operations in Denmark and Finland World Cement",
@@ -162,11 +214,11 @@
       "dateISO": "2026-10-07T15:49:02"
     },
     {
-      "title": "Heidelberg Materials Expands Nordic Footprint With SEK 5.5 Billion NCC Deal - AD HOC NEWS",
-      "summary": "Heidelberg Materials Expands Nordic Footprint With SEK 5.5 Billion NCC Deal AD HOC NEWS",
-      "url": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxQTnNFc2Y0ckNnX3AyZUgybDJJTmNhTHlTaDZtX0xRa2VBNzJlNUFNb1NpV2kycEZTbnNmZHN1RUo5QjFQYmF3Y2EtbVBvWlY5UzJrVWtsLWdobjNjZmJxc3AwTFUxTkFtYm9pY2M3OTRCanljNGlvMVQyZGVqVG41eThxMHc5cEd0U2JyTDZqb0JnRUJQczh6YnZUNGhuenA0Q0NaUU5ieUpnZ0gzaXRnZTBvNjI1SDRVR0p5VGliZUZJaTc3WGhvTkNPU1MzbFVQWXlCY09McnB1Zw?oc=5",
-      "source": "AD HOC NEWS",
-      "category": "Aggregates Industry",
+      "title": "Heidelberg Materials Expands Nordic Footprint With SEK 5.5 Billion NCC Deal - ad-hoc-news.de",
+      "summary": "Heidelberg Materials Expands Nordic Footprint With SEK 5.5 Billion NCC Deal ad-hoc-news.de",
+      "url": "https://news.google.com/rss/articles/CBMi4AFBVV95cUxPTmlfRHo3MUJOcm9nRndKdFkxVHB2aUFUXzZwNlNzMEdZdlFyYk94dmVmLTQyeEpaNTBDdnlZZVROVDlLdWR2WUpwTTllcnV3VktSdV9VNHNtaWYtblFkMXdBMlVjVTkyU3B5Vnk3N1hSdVYzS3dVUjc5RjdNczFYUVN5OVppMFpUZ0FWRVczdExZVm15UmhrUWU0NWk0d1lZcElaU3NxS0RDNGdnZkJJTDNYWVNPV0xLQ3U4c2JGa2FEa2F2b2RhWDZoRHpNNlpKQmV6cXNfOU9iS1VlakpHdg?oc=5",
+      "source": "ad-hoc-news.de",
+      "category": "Asphalt Industry",
       "keywords": "",
       "sector": "General",
       "dealType": "Acquisition",
@@ -370,6 +422,19 @@
       "dateISO": "2026-10-06T13:58:31"
     },
     {
+      "title": "Construction Partners expands Texas footprint with strategic acquisition - The Globe and Mail",
+      "summary": "Construction Partners expands Texas footprint with strategic acquisition The Globe and Mail",
+      "url": "https://news.google.com/rss/articles/CBMi8AFBVV95cUxONUYwY2pwMDhydnFsQ19QR3IxeTB1SlRPV3hiYkNqVmZteEU3SHhFVTVoYzdBOThXclhieWVRM3pLTlpZRWxkbFRuRnZBSGRoMnZjXzZUZDRvR3BxMk1KQnBwRWFaSU9oRWZmMGRYTklJRDM4cXNveEtMUU8tX1NPd2M0SV91M3lTeXVKaEN6eHBIZV95bmFYeHhneDJ6YUhHZlZTc0N3Wmw5Z19PcTlab1AxeF9mbTZMbzBnZ2ZWNHVuempUY0xDZ3NtdzZRdl9FTVg4eWtCa1FfclNwQnRHUXNHZTVtMkRwLVdyeEhGc0c?oc=5",
+      "source": "The Globe and Mail",
+      "category": "Asphalt Industry",
+      "keywords": "Acquired",
+      "sector": "General",
+      "dealType": "Acquisition",
+      "value": "",
+      "date": "Oct 06, 2026",
+      "dateISO": "2026-10-06T13:44:00"
+    },
+    {
       "title": "High Court overturns ministerial determination on critical merger between big cement suppliers - Namibia Economist",
       "summary": "High Court overturns ministerial determination on critical merger between big cement suppliers Namibia Economist",
       "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxQT0t3RURRRE50dkRSQUxDYnQtLXJYZzFqRm9uTjlTU2tHa2djbEtMb3pfWGp3LU9oeF9rWjNBZDJTcnY5UHVEd190UjYzOUNSbXphbmpqaGg3eXpseGFVZWpPWUJnWUdaNFlKaURFNFNEaEtwdXp3N0gxbHIxV09TMFNvWGcyNUJMVV9TMDB0TWp5QlZ3dDlaT0llc3NEYlhwMWJvckNRR18xSWl2enA2ZXVYaF9YZjBtSGhyVw?oc=5",
@@ -472,19 +537,6 @@
       "value": "",
       "date": "Oct 05, 2026",
       "dateISO": "2026-10-05T18:06:00"
-    },
-    {
-      "title": "Construction Partners expands Texas footprint with strategic acquisition - TipRanks",
-      "summary": "Construction Partners expands Texas footprint with strategic acquisition TipRanks",
-      "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxOcUl5ZmZocUhzUjV4YmtleVBFUFdnNkNiWjlGYTJ2X2tZeklaS2dSbUtoUXNXclVLMmYySENQcXZEcVVfdU42OHJpLUVzekhXOGZ5aEtFVDJkM1ZPS3BXci00RDRadXRoRzdZWW5JOG9kNDR2VGs3VzlhemRkY05IVTlOM080bHNoRWZNejcxRnNUenl3NUh1Q3BoeG1pd2tDaGFKaEFFdkhRcUMzOHdfRF9hNFNiUXU4ZmlBN25hY0F4dw?oc=5",
-      "source": "TipRanks",
-      "category": "Asphalt Industry",
-      "keywords": "Acquired",
-      "sector": "General",
-      "dealType": "Acquisition",
-      "value": "",
-      "date": "Oct 05, 2026",
-      "dateISO": "2026-10-05T13:52:05"
     },
     {
       "title": "Construction Partners acquires J.H. Strain asphalt assets By Investing.com - Investing.com Canada",
@@ -1657,6 +1709,19 @@
       "dateISO": "2026-09-22T07:00:00"
     },
     {
+      "title": "TJC Completes Acquisition of Luna Innovations Incorporated - Yahoo Finance",
+      "summary": "TJC Completes Acquisition of Luna Innovations Incorporated Yahoo Finance",
+      "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxOTGxjSGhveFFjYWNNcG4wTjhUYVA4UkQzWlJvV3A3RFdLNjBTWHBZZ3QydHMxdG90cldfNEZxNUNnUzE4eG4yN0FJblQydUdicy1qdWNmcWdkaWlpUmxKVlM2Mnc5RzJfOGRsMmVkSzVJNVpwdzNpRXlramdSTXZwMjBGd0RMVDlsbTJRdXpET1AzUElMTERtZXZuS0o3T2xlQ0RLM28yT0c1dTg?oc=5",
+      "source": "Yahoo Finance",
+      "category": "Martin Marietta",
+      "keywords": "Acquired",
+      "sector": "General",
+      "dealType": "Acquisition",
+      "value": "",
+      "date": "Sep 22, 2026",
+      "dateISO": "2026-09-22T07:00:00"
+    },
+    {
       "title": "PC receives 10 EOIs for the IESCO acquisition - Business Recorder",
       "summary": "PC receives 10 EOIs for the IESCO acquisition Business Recorder",
       "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE9YWjhhdGVtUjFYVXdGdkJwUFJPbzFEQnZFbzZjV1ljYWttbjFkSm5taFVSaUI3U040T1J5RFkyUGk4NThGMHFVSkZIa3ZWRWd5azRLX1B30gFWQVVfeXFMT1haOGF0ZW1SMVhVd0Z2QnBQUk9vMURCdkVvNmNXWWNha21uMWRKbm1oVVJpQjdTTjRPUnlEWTJQaTg1OEYwcVVKRkhrdlZFZ3lrNEtfUHc?oc=5",
@@ -2305,32 +2370,6 @@
       "value": "",
       "date": "Sep 13, 2026",
       "dateISO": "2026-09-13T05:38:09"
-    },
-    {
-      "title": "Punch List: Procore closes $845M M&A deal, Jacobs wins $131M water job - Construction Dive",
-      "summary": "Punch List: Procore closes $845M M&A deal, Jacobs wins $131M water job Construction Dive",
-      "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxNUHE4cE9XR29hVzhoZHgxYnMtUWNpNmVsdlFlTXVwTEtpT0tMX2VieXZzb1VlY0dQX09MMVhzdlB3VGhJU0JKVnlCaFdfcmYwaEpPb1pTZnJ5RGhXemVyNVJjUUZRZWFRcVFXeUJzNE0xV1J5bU9IREw2NnFBNUdZTVpLM2hTeUVha2FSa0tJRFAwSDRsS0tQRWdGRm1Wc0tka2tTZ0FSbw?oc=5",
-      "source": "Construction Dive",
-      "category": "Granite Construction",
-      "keywords": "",
-      "sector": "General",
-      "dealType": "Acquisition",
-      "value": "$845M",
-      "date": "Sep 11, 2026",
-      "dateISO": "2026-09-11T13:56:20"
-    },
-    {
-      "title": "Heidelberg Materials to Acquire 70% Stake in Peruvian Cementos Inka - Global Legal Chronicle",
-      "summary": "Heidelberg Materials to Acquire 70% Stake in Peruvian Cementos Inka Global Legal Chronicle",
-      "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE9XNF9jSXBfemdMVWNYb19WUk92VGxGMjlsa0gtR1RrV3F4Y2dPUlRFZzA4NXNqSEs2dHpOS0ZuQzdrRlBwRFhHRkhjVlVmN3dkREMzVTFXYlc?oc=5",
-      "source": "Global Legal Chronicle",
-      "category": "Heidelberg Materials",
-      "keywords": "Acquired, To Acquire",
-      "sector": "Cement",
-      "dealType": "Acquisition",
-      "value": "",
-      "date": "Sep 11, 2026",
-      "dateISO": "2026-09-11T00:00:00"
     }
   ]
 }
