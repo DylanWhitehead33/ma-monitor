@@ -1,7 +1,7 @@
 {
-  "fetchedAt": "2026-10-14T17:45:31.470372",
+  "fetchedAt": "2026-10-15T17:34:09.276118",
   "totalArticles": 196,
-  "newToday": 19,
+  "newToday": 16,
   "duplicatesRemoved": 14,
   "archiveDays": 30,
   "articles": [
@@ -69,6 +69,19 @@
       "value": "",
       "date": "Oct 13, 2026",
       "dateISO": "2026-10-13T16:39:30"
+    },
+    {
+      "title": "Star Step Performance Coatings Group Acquires DAAS & Chemicals, Creating a Global Industrial Coatings Platform - Yahoo Finance",
+      "summary": "Star Step Performance Coatings Group Acquires DAAS & Chemicals, Creating a Global Industrial Coatings Platform Yahoo Finance",
+      "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxQSGZlRm4yVW5VcWpkcFIyQ2E4RTJTOERIcUZSM053QjVSSm01SDViRlVydlh2ejVGX3BsbkcwY3FqR0UwdklJS1Z5SlByWFI2V2tvXy1WZ0x4NDUwVlQ0eFY1RzdCUlZoMTRIeTFEZVVRa3FQOExGbmNtX3JIeUhudEgtZUtER1lFM2JoallhSE1DR0RsTEpDc2Y0ajhhbEkyWDV3?oc=5",
+      "source": "Yahoo Finance",
+      "category": "Paving Industry",
+      "keywords": "Acquired",
+      "sector": "General",
+      "dealType": "Acquisition",
+      "value": "",
+      "date": "Oct 13, 2026",
+      "dateISO": "2026-10-13T16:16:00"
     },
     {
       "title": "GBS Finance advises Touro Capital Partners on the acquisition of a 37% stake in Portuguese company Rui & Candeias - Capital-Riesgo.es",
@@ -823,6 +836,19 @@
       "value": "",
       "date": "Oct 04, 2026",
       "dateISO": "2026-10-04T22:00:00"
+    },
+    {
+      "title": "JSW Cement proposes merger of listed subsidiary Shiva Cement - MediaBrief",
+      "summary": "JSW Cement proposes merger of listed subsidiary Shiva Cement MediaBrief",
+      "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxORU05bzI3NklqcVo3ejNTb3RzUFJrbUlNejl3dkktdTZwYk9ZaTBrZjVfODF3NF9xLUFGWEpueFFWM2hTM3pqTENPS09lNzA4NjliZ3pabHRFamNQVGdYZkhTRktpVlItaXY5NTctWnlQbExtblRlWEhGSGV4R1ZRWjhta2ptSEQyNU1rbA?oc=5",
+      "source": "MediaBrief",
+      "category": "Cement Industry",
+      "keywords": "Merger",
+      "sector": "Cement",
+      "dealType": "Merger",
+      "value": "",
+      "date": "Oct 03, 2026",
+      "dateISO": "2026-10-03T13:05:10"
     },
     {
       "title": "Maschmeyer Concrete Expands Into Georgia With Atlanta Acquisition - Construction Owners",
@@ -2526,32 +2552,6 @@
       "value": "",
       "date": "Sep 16, 2026",
       "dateISO": "2026-09-16T07:00:00"
-    },
-    {
-      "title": "Qassim Cement to acquire A-Mix Company - Middle East Construction News",
-      "summary": "Qassim Cement to acquire A-Mix Company Middle East Construction News",
-      "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxNS2NXeHF6XzZoOGdCMXFJS1JRMkh5aVA2MUFrQUl0YXZqUWt5ZjlCV05mclNQS01KWUhJM2VSZ3dOVXlZajNNc25PRWFKSklOc0tYbVM1OEZEN3NKTVhudlA0MWdjeXhnLUV6X2ptQVlwZW9MTkdRclVuSHk2S3BNdA?oc=5",
-      "source": "Middle East Construction News",
-      "category": "Cement Industry",
-      "keywords": "Acquired, To Acquire",
-      "sector": "Cement",
-      "dealType": "Acquisition",
-      "value": "",
-      "date": "Sep 15, 2026",
-      "dateISO": "2026-09-15T06:16:02"
-    },
-    {
-      "title": "Dangote turns to China for new vessels acquisition deal, as group targets 1,800 annual vessel calls - Businessamlive",
-      "summary": "Dangote turns to China for new vessels acquisition deal, as group targets 1,800 annual vessel calls Businessamlive",
-      "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxQaFZmWGpVOU9ydTR4Rm15MXNCSUJOdjJsWEJ5bVFjc001TzFsbkUza09HbGgxZ3B1QzU3aENUcGZhQlluMWYxV1E3bzRSMU82a2ctc1Znb2c1UHJhRzZVQ1Bvb180c0JpZk9xNHBuUVhLRjBuNTllYWdwR2Q1UEVOY1g3VmZvOUtzT3RQX0tFTndaS2RJNGxxbkRYSmtqS3hZS0VaSThfNmdiTjAxQnlWaDdrSGJOU0tjeV9PN21NTko2Y28?oc=5",
-      "source": "Businessamlive",
-      "category": "Cement Industry",
-      "keywords": "Acquired",
-      "sector": "General",
-      "dealType": "Acquisition",
-      "value": "",
-      "date": "Sep 15, 2026",
-      "dateISO": "2026-09-15T02:32:50"
     }
   ]
 }
