@@ -1,10 +1,49 @@
 {
-  "fetchedAt": "2026-10-16T17:09:03.649744",
+  "fetchedAt": "2026-10-17T16:06:26.576053",
   "totalArticles": 199,
-  "newToday": 19,
-  "duplicatesRemoved": 14,
+  "newToday": 20,
+  "duplicatesRemoved": 16,
   "archiveDays": 30,
   "articles": [
+    {
+      "title": "Vicat announces proposed Cemex asset deal: what it means for Cemex stock - ad-hoc-news.de",
+      "summary": "Vicat announces proposed Cemex asset deal: what it means for Cemex stock ad-hoc-news.de",
+      "url": "https://news.google.com/rss/articles/CBMizwFBVV95cUxQWUR5TEQxN1BRczc0aTloR05wNlMtM1c2UV9iUlhZbC01ZWpaRW80cjBGN3pXUDJMQ3dDdkJoYk1mV1IxUHdQblBFM01VaUg5Zm5YRFN1dV82TmprWjFZM3MxUF9yM0F3T0FVek5NRlFpS1RmZ2tBWjZQbHg3M3c3S2EtTVlJb0tTSEtUaFZvNWhtVTN5dWxaRmRoNnhMWXBMOTZBTXFaaURCZFg1dDNKQXJ0UnEzWDZhaVFSY09YRkF5U09CMjMzaVFSSTZSaXM?oc=5",
+      "source": "ad-hoc-news.de",
+      "category": "Ready-Mix Industry",
+      "keywords": "",
+      "sector": "General",
+      "dealType": "Acquisition",
+      "value": "",
+      "date": "Oct 17, 2026",
+      "dateISO": "2026-10-17T09:00:06"
+    },
+    {
+      "title": "Weekly review asks what Nordic acquisition means for Heidelberg Materials stock - ad-hoc-news.de",
+      "summary": "Weekly review asks what Nordic acquisition means for Heidelberg Materials stock ad-hoc-news.de",
+      "url": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxQbGpiUkhodnUzdjMzXzV0cnRLZURqYUcwMTlWYjdaQ0tnUTh6SnJpbUhpQW1IOVI2UFZlaVd3ZXhKOC10Uk56b2JseWYxaHFaekJVdmFncXk5TDM5a2drYzJ6QW56cHp0aTdpWEZKbmtOa0JaVG9wNkJKQXZxNWdMS21sLXVXTkIwZHpzUG1jMkd0b3FweC05TGVNUEtpRVJ6TjN2ci1KbS1XWjdwcnlJNS1SOU9JZXNjVERNVmp1THpMSFR5VzVtalh2YXBnQnNWcjE4ZkE3TzhWdw?oc=5",
+      "source": "ad-hoc-news.de",
+      "category": "Asphalt Industry",
+      "keywords": "Acquired",
+      "sector": "General",
+      "dealType": "Acquisition",
+      "value": "",
+      "date": "Oct 17, 2026",
+      "dateISO": "2026-10-17T08:19:28"
+    },
+    {
+      "title": "CMC Completes Foley, CP&P Precast Acquisitions, Renames Emerging Businesses Group - Minichart",
+      "summary": "CMC Completes Foley, CP&P Precast Acquisitions, Renames Emerging Businesses Group Minichart",
+      "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxPX1UwM3hVQ1dCWEd1MTVGMWU0ZUR2VW5qZ1lQbm95VUNwTFVpdzB5R0lZMmJLeXFVN01TelZGTVRTMGY4VGVxelJWWW42T2ZjT3JycVQ4T0hzUlRTZzJPSWQyN2ZuWjFJdzlfajM0WFF3TUZlRnM3Uzl1MmdzRVZPUmVfdWRzdXVIbERsT2l6ZE1GVk9vUUQyYUJzMEcyQ2tPd2hKUmNudW5ZQ1gtMkp5OWJ1ZkE2QVA3YUtZ?oc=5",
+      "source": "Minichart",
+      "category": "Precast Industry",
+      "keywords": "Acquired",
+      "sector": "Precast",
+      "dealType": "Merger",
+      "value": "",
+      "date": "Oct 16, 2026",
+      "dateISO": "2026-10-16T15:16:00"
+    },
     {
       "title": "Eagle Materials Inc $EXP Shares Acquired by Fort Washington Investment Advisors Inc. OH - MarketBeat",
       "summary": "Eagle Materials Inc $EXP Shares Acquired by Fort Washington Investment Advisors Inc. OH MarketBeat",
@@ -17,6 +56,19 @@
       "value": "",
       "date": "Oct 16, 2026",
       "dateISO": "2026-10-16T07:49:42"
+    },
+    {
+      "title": "Maple Leaf Cement Approves Merger With Pioneer Cement - TechJuice",
+      "summary": "Maple Leaf Cement Approves Merger With Pioneer Cement TechJuice",
+      "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxNdGdDbld4THJqS3VkVUhCRTlsVkt2LVRkVzctMnRMMFlpQXlWUFl1TG1zdzViVGNRZ1o3a3l6ZVp1MjItc3V5azEyNkVXX3EzdE9qTnhkU2JGUlM2T2ZkX1pQYVpZUWVDYm9UOWgzUXZtN3dvNDdzOTVWR181eS1rb0xMR2pOdw?oc=5",
+      "source": "TechJuice",
+      "category": "Cement Industry",
+      "keywords": "Merger",
+      "sector": "Cement",
+      "dealType": "Merger",
+      "value": "",
+      "date": "Oct 16, 2026",
+      "dateISO": "2026-10-16T06:07:06"
     },
     {
       "title": "Eagle Materials' Eric Cribbs Acquires Dividend Equivalent RSUs on October 13, 2026 - Kalkine Media",
@@ -448,19 +500,6 @@
       "dateISO": "2026-10-07T16:38:50"
     },
     {
-      "title": "CRH To Acquire NCC Industry Operations In Denmark And Finland - Pulse 2.0",
-      "summary": "CRH To Acquire NCC Industry Operations In Denmark And Finland Pulse 2.0",
-      "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxPLWJKMERQWWtDYnE1YUM5QXllMW92UDhGZmpqUlIwOUpFRG5ZZ2tOS2lRZFgyeFVsb3hSVzlrelVqWGxmeUxTaGhmbzN6MHFpcEE3NVR3eENCcEs5NUNiRUpaczhPYkN2Z3VTTVNLSi03bXpHcnZQazZuTGtVS0xnbUt6WWhVR0tkZVNwaVZ30gGOAUFVX3lxTE8tYkowRFBZa0NicTVhQzlBeWUxb3ZQOEZmampSUjA5SkVEbllna05LaVFkWDJ4VWxveFJXOWt6VWpYbGZ5TFNoaGZvM3owcWlwQTc1VHd4Q0JwSzk1Q2JFSlpzOE9iQ3ZndVNNU0tKLTdtekdydlBrNm5Ma1VLTGdtS3pZaFVHS2RlU3BpVnc?oc=5",
-      "source": "Pulse 2.0",
-      "category": "Aggregates Industry",
-      "keywords": "Acquired, To Acquire",
-      "sector": "General",
-      "dealType": "Acquisition",
-      "value": "",
-      "date": "Oct 07, 2026",
-      "dateISO": "2026-10-07T15:49:02"
-    },
-    {
       "title": "Heidelberg Materials Expands Nordic Footprint With SEK 5.5 Billion NCC Deal - ad-hoc-news.de",
       "summary": "Heidelberg Materials Expands Nordic Footprint With SEK 5.5 Billion NCC Deal ad-hoc-news.de",
       "url": "https://news.google.com/rss/articles/CBMi4AFBVV95cUxPTmlfRHo3MUJOcm9nRndKdFkxVHB2aUFUXzZwNlNzMEdZdlFyYk94dmVmLTQyeEpaNTBDdnlZZVROVDlLdWR2WUpwTTllcnV3VktSdV9VNHNtaWYtblFkMXdBMlVjVTkyU3B5Vnk3N1hSdVYzS3dVUjc5RjdNczFYUVN5OVppMFpUZ0FWRVczdExZVm15UmhrUWU0NWk0d1lZcElaU3NxS0RDNGdnZkJJTDNYWVNPV0xLQ3U4c2JGa2FEa2F2b2RhWDZoRHpNNlpKQmV6cXNfOU9iS1VlakpHdg?oc=5",
@@ -550,6 +589,19 @@
       "value": "",
       "date": "Oct 07, 2026",
       "dateISO": "2026-10-07T08:22:47"
+    },
+    {
+      "title": "CRH to Acquire Finland, Denmark Operations of NCC Industry - Yahoo Finance",
+      "summary": "CRH to Acquire Finland, Denmark Operations of NCC Industry Yahoo Finance",
+      "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxOOWRyNW9yckhreXlnMTRWb3JOOFl6b1FBRnM5WHVjUkIwOUl1SV9pYW9jdmVvamotWlNka2ZrTGtHaTBCWGlPVXJ6MmJQSjZ6WEhJMzRkSjFGdjgyUTVPY0hQUGtmRzJhUnp3WjBCdkhfTnJDekt6QkduTGV5UjBkVG1xQ3RUdHEtcWV2M3JiQmp3TjlDZEV1Xzh3VEo0dFhqV0hyYTdR?oc=5",
+      "source": "Yahoo Finance",
+      "category": "Aggregates Industry",
+      "keywords": "Acquired, To Acquire",
+      "sector": "General",
+      "dealType": "Acquisition",
+      "value": "",
+      "date": "Oct 07, 2026",
+      "dateISO": "2026-10-07T07:00:00"
     },
     {
       "title": "Maccaferri announces two acquisitions - Geosynthetics Magazine",
@@ -2539,58 +2591,6 @@
       "value": "",
       "date": "Sep 18, 2026",
       "dateISO": "2026-09-18T07:41:00"
-    },
-    {
-      "title": "Lime Rock New Energy\u2019s HCP Infrastructure Acquires Holton Concrete Products - The Manila Times",
-      "summary": "Lime Rock New Energy\u2019s HCP Infrastructure Acquires Holton Concrete Products The Manila Times",
-      "url": "https://news.google.com/rss/articles/CBMi4gFBVV95cUxNbXBfYy1SQ2hLcU9JakRCWEh5eG1uelg0ZWFQRG9HVjQ0ZC1FZWQ5TEZvRnBpemlaU1duSnZLWWdRZHJQTHVuaks1ck5YN2NyYjhoeUpvSUtyMUlMUnBoMXFZbkI1YmNuN1NJUW5Mc01IeXE2TnBrNUxhNVNRb0JqU2pGZnY4RDFLZkVRemJlUTJVT3NRaEl1NDJDcW1tNTExVnZrZE1JUjRkdGNpcVNLZXplSXJmdE83ZFVEaEYtSFJEQ0Q2cE81LWhxU3VGeUxlZThOenB5R2p6SEZHOUxhZnBn0gHnAUFVX3lxTE9EeW44R2tjeFZXYjlXUVRzSVc3WUltRE13LXQ5QllKVTRWQVpkNzQtNk0zYlhlYld0ZS1CdC1hSEJ5OENyZk9UMVlOekxaRGxMNWJtVVJrVXhXZXJuYm5rRnRCTzVSZHRuRnlnZzZDTms3elBLR28zQy1JS2RJWEhKc2phM2UyR29lWFktS1hqVEFKVlVvODIyV1JJbkN4bHRMdDVCUWNjQTdTX3JOandmQnpuMEI0LU52VmRQMHo1aEhaeUxBcjVGc2VjMjh4TE1QS0hmbEJHYzhTQ0R6b3lENXFqTU5FOA?oc=5",
-      "source": "The Manila Times",
-      "category": "Precast Industry",
-      "keywords": "Acquired",
-      "sector": "General",
-      "dealType": "Acquisition",
-      "value": "",
-      "date": "Sep 17, 2026",
-      "dateISO": "2026-09-17T07:00:00"
-    },
-    {
-      "title": "ABC Mart completes Folder acquisition, sets sights on Musinsa rival - \ud5e4\ub7f4\ub4dc\uacbd\uc81c",
-      "summary": "ABC Mart completes Folder acquisition, sets sights on Musinsa rival \ud5e4\ub7f4\ub4dc\uacbd\uc81c",
-      "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE1NaHUyY1F4UG96SV9qV3Y3TU5XUzNWZmd6NEhYS0t1YTFZdUNZT0FfaWR4Y2tVM21Cb2NfYlJCaTNiWU5KWC16WENMTTJuelMxTGxKMFZR?oc=5",
-      "source": "\ud5e4\ub7f4\ub4dc\uacbd\uc81c",
-      "category": "Cement Industry",
-      "keywords": "Acquired",
-      "sector": "General",
-      "dealType": "Acquisition",
-      "value": "",
-      "date": "Sep 17, 2026",
-      "dateISO": "2026-09-17T06:50:00"
-    },
-    {
-      "title": "Camus Engineering & Construction to Acquire KRW 18 Billion PC Factory to Expand Off-Site Concrete Production - The Globe and Mail",
-      "summary": "Camus Engineering & Construction to Acquire KRW 18 Billion PC Factory to Expand Off-Site Concrete Production The Globe and Mail",
-      "url": "https://news.google.com/rss/articles/CBMilgJBVV95cUxQZldOUGRFT20yYlhpX3RNTDF0TTZPd1F3czBobnpReERWZmd5Vlp5b0FOcURzTzJuaUdaWnJ6OGp6QklNbU5hcENwZnZUQ0IwOFMzNVphYjNxVlJnemIzSTRPY1lfalNCY3FIT3QzSC1fTDNTbHdITUZyZmgyUl9mSTl2eUJEZlljbE1hbVpMRUxHMHFDM1FjenlvZ29VWm1CQU5xWnA0bC1nWlVna0hVREpsX3NrWGRyTTFsVmJXenZxdFlkT2JwQTJ6VFExcmdSS25KRWs1ZDFpOTJ6cERhc0ZGWWpoalA3LWNEY1N0bzFhSXp4bm9IaGV6WUo5LTU3Y2dTSWd5S3E3VjRSeXNVN2dVZGdBdw?oc=5",
-      "source": "The Globe and Mail",
-      "category": "Precast Industry",
-      "keywords": "Acquired, To Acquire",
-      "sector": "General",
-      "dealType": "Acquisition",
-      "value": "",
-      "date": "Sep 17, 2026",
-      "dateISO": "2026-09-17T02:46:00"
-    },
-    {
-      "title": "Dalmia Bharat completes JAL asset acquisition, capacity rises to 54.7 MnTPA - scanx.trade",
-      "summary": "Dalmia Bharat completes JAL asset acquisition, capacity rises to 54.7 MnTPA scanx.trade",
-      "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxNLTFRU1hTVmJ0MHlTVmR6X2ItLUpGZGEzZUpiUU8wLUdwSmc1ZnBEWEh2UngtTXE2MFhMeDNUemF4SW9wUmhCbmNvQmdjbzIzeTF0dERLeXlRRnItaU1VRTVnb1lNLW9xdUxKa1hiYl81VG5Qc0wzVEdmeUwxMHhKektEd29FSDdQSnZ1dlN6bzk3QzJGdGhUUUY1Y0ppanlPc09abDRZcUg4ZTdnX3h2bg?oc=5",
-      "source": "scanx.trade",
-      "category": "Cement Industry",
-      "keywords": "Acquired",
-      "sector": "General",
-      "dealType": "Acquisition",
-      "value": "",
-      "date": "Sep 16, 2026",
-      "dateISO": "2026-09-16T17:30:25"
     }
   ]
 }
