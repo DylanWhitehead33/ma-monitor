@@ -1,10 +1,179 @@
 {
-  "fetchedAt": "2026-10-22T17:54:09.097541",
-  "totalArticles": 190,
-  "newToday": 0,
-  "duplicatesRemoved": 0,
+  "fetchedAt": "2026-10-23T17:40:17.651445",
+  "totalArticles": 198,
+  "newToday": 36,
+  "duplicatesRemoved": 21,
   "archiveDays": 30,
   "articles": [
+    {
+      "title": "CRH completes $8.5 billion Arcosa acquisition - Pit & Quarry",
+      "summary": "CRH completes $8.5 billion Arcosa acquisition Pit & Quarry",
+      "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE5OVWE0cU83cG9yZEdqeC10bWdPeThtWmpEazBISXVZZ05SQzVERGdLM2JUX2o0SnhhZUg4OXRhV0RSUC1PY0VzRWI3U3hSc2xkcmFJMUlnQVAxaUhPSXl5MHZtdkJMV29HUlVLRVlXdzM1U1E3bjFTQUtkOU15NXM?oc=5",
+      "source": "Pit & Quarry",
+      "category": "Pit & Quarry \u00b7 Aggregates",
+      "keywords": "Acquired",
+      "sector": "Aggregates",
+      "dealType": "Acquisition",
+      "value": "$8.50B",
+      "date": "Oct 23, 2026",
+      "dateISO": "2026-10-23T15:06:51"
+    },
+    {
+      "title": "Heidelberg Materials expands in Europe with NCC deal - Construction & Demolition Recycling",
+      "summary": "Heidelberg Materials expands in Europe with NCC deal Construction & Demolition Recycling",
+      "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxPbVlvdUxiU1JCclpzelhMNE4yR21Kd3FuLVJheFJ4S1RJQWJmLTk0Y2hScXNxNWxsa3JnZUtnN3dHdEJDcDFlQ00ySHRkYVRvekJ5VjBrLTh3UDd4VENGbldSd2RPYXo1NGNpcWJVV0ZGNlh6a0hUY1VWdTI4VWtjR0FOVWVweG9mbmp1TWMxM3laWVpRNFhMbWdOekJpZGNuMGlmeHMtcDJEZjN2YXFvLWd3?oc=5",
+      "source": "Construction & Demolition Recycling",
+      "category": "Precast Industry",
+      "keywords": "",
+      "sector": "General",
+      "dealType": "Acquisition",
+      "value": "",
+      "date": "Oct 23, 2026",
+      "dateISO": "2026-10-23T14:05:00"
+    },
+    {
+      "title": "CRH Completes $8.5 Billion Acquisition of Arcosa, Expanding U.S. Aggregates and Infrastructure Business - citybiz",
+      "summary": "CRH Completes $8.5 Billion Acquisition of Arcosa, Expanding U.S. Aggregates and Infrastructure Business citybiz",
+      "url": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxON0FWY20yQktmdFhSSFNlZXBUXzdJQ2FoT2lodEZoclhBNnI4cF92aGpyOFFMSHRfM0ZSUzZhTF96U01uX3d0Q09zelh2VHhjRDZuSXplN3VhdW1IYUI1UkhYaGkyNjNvN1I0MEt0UzNoTFZBdzhqZk14Y1Y3Ny1VN0RPQmxxVmdELWtGUTZndGRMSExCSW84dUtfMDRoYTU5WnRxQ2VXdWNmV1dQM2NPRWdYbWkxZEZRTHl4WkNsQU9WQ3Vvcms4NUpjTUpIZzhicTBmYWJ3?oc=5",
+      "source": "citybiz",
+      "category": "Aggregates Industry",
+      "keywords": "Acquired",
+      "sector": "Aggregates",
+      "dealType": "Acquisition",
+      "value": "$8.50B",
+      "date": "Oct 23, 2026",
+      "dateISO": "2026-10-23T13:26:16"
+    },
+    {
+      "title": "Construction Partners Acquires Cline Construction in Florida - Construction Owners",
+      "summary": "Construction Partners Acquires Cline Construction in Florida Construction Owners",
+      "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxQVGtfclhubWZYbHdWN1gxN1ZUNmJsOHFJdjV4UFBUWmd4b2owSjlYdTRDRXNSUEEtTmpCa1Y5TzNFWGFpeV84Qk9IX2JLRnFQSEZDOUVVdk4tVHllQ0FHOG9FMHU4NTUwLVd3bjJRZ3hZYlhzeEFCcVlkZXUwQV9DTVd5WVpoaGtjaTRHelkzVUNGa0F1bXMzY25pQlRBdmp1V1pWRkZiRmw1MDJ6emctZ0ZsZ2kzUWhSUVNERmM3b1A4QQ?oc=5",
+      "source": "Construction Owners",
+      "category": "Asphalt Industry",
+      "keywords": "Acquired",
+      "sector": "General",
+      "dealType": "Acquisition",
+      "value": "",
+      "date": "Oct 23, 2026",
+      "dateISO": "2026-10-23T09:43:21"
+    },
+    {
+      "title": "Bloomsburg asphalt plant to be sold, upgraded in merger settlement - NorthcentralPA.com",
+      "summary": "Bloomsburg asphalt plant to be sold, upgraded in merger settlement NorthcentralPA.com",
+      "url": "https://news.google.com/rss/articles/CBMi6wFBVV95cUxPeGNxZnFsb2wxUzhoS1hOWHRvYUJPZ1hWc2ZSNzVqTXZRZ0hPajJaYjljNkM0QU1VTWkwdzFrcDMwYmdMMUkwbmJ3dE1HLU9xRWxmVEpoMWVMYlN5NG9XOUVUX1lUd1UwWnI2V18zbUdLU2hVQnFIMUQ5TUVqeXdJNGJHSlpyRFBsSTFzM2tmb1hUTEtmVGtiTzRqakFvNkpIYnZoM3Fub3ZyMC1SZGFPMG9tZHRXZHdfZUJ6Nk1WYlpXZi0zTy1WQUdocXItNHR6TmdVdGc2UVYxZXJCX3JDeFVyRm8wT1JEampR?oc=5",
+      "source": "NorthcentralPA.com",
+      "category": "Asphalt Industry",
+      "keywords": "Merger",
+      "sector": "Asphalt",
+      "dealType": "Merger",
+      "value": "",
+      "date": "Oct 22, 2026",
+      "dateISO": "2026-10-22T22:00:00"
+    },
+    {
+      "title": "Wieser Concrete Acquires Bush Concrete Products in Muskegon - Hoodline",
+      "summary": "Wieser Concrete Acquires Bush Concrete Products in Muskegon Hoodline",
+      "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxPWkloQWNxWENKTGhfS1VyWlRYMHlFU1lWb0l3WllkUl96WTE2MXNZbjdkMlBDZXk4ck5jYTlHSUVobjFNZEkwM09YWWNuN1RGNGpYVHFXc1EtMnd4eHMtQkZhbHJkbW4zcUpLLTZVaW0wd0F4WXZnbkIzanJUN0xISjdxNzZ4b0ROeGtZSkIwZDlFTkxDODR6RlNhQ0RIX1JfZW0zcWdycjNMOE40?oc=5",
+      "source": "Hoodline",
+      "category": "Precast Industry",
+      "keywords": "Acquired",
+      "sector": "General",
+      "dealType": "Acquisition",
+      "value": "",
+      "date": "Oct 22, 2026",
+      "dateISO": "2026-10-22T21:23:00"
+    },
+    {
+      "title": "Wisconsin concrete manufacturer acquires 99-year-old West Michigan company - MLive.com",
+      "summary": "Wisconsin concrete manufacturer acquires 99-year-old West Michigan company MLive.com",
+      "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxPTHZYZm5IaG0wSmR4NjVEaUxOZ2JwQks5Ykpxamc5ZVRwTzctU2ZIbWYxRzhZWkNUa1dnMEZhU3ZSWkVSU0F1T2VzYldXTFljd2lNZTBOOFVBRERWdTVWZE9SOUtYMGs5aWpsVFZiaFYwU0dWMzNPNnBPeG43Q2Q4LXR4Y0R0amJfWDZPejROT1J6bFBUeGFPdmFVdUdzYlV3ZzJWdHZOY3d4ZVk5aGoxZGNvYjdzNUpUaktESmhWTDY?oc=5",
+      "source": "MLive.com",
+      "category": "Precast Industry",
+      "keywords": "Acquired",
+      "sector": "General",
+      "dealType": "Acquisition",
+      "value": "",
+      "date": "Oct 22, 2026",
+      "dateISO": "2026-10-22T17:52:00"
+    },
+    {
+      "title": "AG Davenport Takes Action to Move to Protect Taxpayers and Preserve Competition in Proposed CRH\u2013Arcosa Merger - Insider NJ",
+      "summary": "AG Davenport Takes Action to Move to Protect Taxpayers and Preserve Competition in Proposed CRH\u2013Arcosa Merger Insider NJ",
+      "url": "https://news.google.com/rss/articles/CBMi5AFBVV95cUxPckVYQWh3Z3FNWXc3Y3Y1TVhPRkRKRE9DcDFkZF9mOFRkWEpKVklXZWhDQ2xHOWxoRU5PZ2daYmJHV2xmQm5FQzlIb1RrblY2RFRxOE9lRk94MDlTbXhvbEtKYXo3MEtTOHpWOUVtYlozOU5ncXJZb0ZjcTNYQ2hOU1FCUFhiaHRZSXJ6WWI4Nm1HYTE5MWdSOHdUVnZmakVSbmRVYXpXeTNrX2d1ZUhtRnQ1TGZvY1VXNVJaX3NtbU1qMVF6bWE1NGF2YlZSc3NCN3dhVzFwNFFIdWFqSWRDVHMxUTE?oc=5",
+      "source": "Insider NJ",
+      "category": "Asphalt Industry",
+      "keywords": "Merger",
+      "sector": "General",
+      "dealType": "Merger",
+      "value": "",
+      "date": "Oct 22, 2026",
+      "dateISO": "2026-10-22T14:01:00"
+    },
+    {
+      "title": "CRH completes $8.5B acquisition of Arcosa - Business Wire",
+      "summary": "CRH completes $8.5B acquisition of Arcosa Business Wire",
+      "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxQd2RDOGo0Q1NzM1g1cFJSRVRtUjVOTTdWRU9sMmdVaGZqUzh4LTF1Y0ZBU1o3Vm9wdS0tbjg3cVBHcXU4TGpZOWZ2YWh1M3pOa3lxZmpqakRNbWdldW13WGJqUk9EaXRRU0U4TThmc2hFeWUxMVFOS242cHpleGlPMzJMRUlZamd6Wl9VWHB6X0tFSm9aenVmNDZmV2ZsYXZublE?oc=5",
+      "source": "Business Wire",
+      "category": "Aggregates Industry",
+      "keywords": "Acquired",
+      "sector": "General",
+      "dealType": "Acquisition",
+      "value": "$8.50B",
+      "date": "Oct 22, 2026",
+      "dateISO": "2026-10-22T07:00:00"
+    },
+    {
+      "title": "Suit-Kote Colas Merger Settlement Forces NY, PA Plant Sales - Hoodline",
+      "summary": "Suit-Kote Colas Merger Settlement Forces NY, PA Plant Sales Hoodline",
+      "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxOS0xJWjlCVkhFOXZWX0R3bDYtVWdwbjMtdERBODBOR01XbHVmZjJQWFIxbTFzLXJvSk1zYW00a29ITG10SE5SMXFzbHdTaW0zT3RKRHhVLWhvWlN0b0otZWk5alU3ejlUM0RZTlk5TG5oMWsycnI1bGktYnc2SndJZGx2ZVFSM3pEY3BVXzNjaUg4V3VZQmRRdEhQLW5FdGp4?oc=5",
+      "source": "Hoodline",
+      "category": "Paving Industry",
+      "keywords": "Merger",
+      "sector": "General",
+      "dealType": "Merger",
+      "value": "",
+      "date": "Oct 21, 2026",
+      "dateISO": "2026-10-21T23:46:08"
+    },
+    {
+      "title": "White Cap to Acquire Iowa-Based Gierke Robinson - National Association of Wholesaler-Distributors",
+      "summary": "White Cap to Acquire Iowa-Based Gierke Robinson National Association of Wholesaler-Distributors",
+      "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxQQlBORXp2bEF6cTdjbnhZd3pZV2N1SFVOeGJGdllJbTVSQ3VSS0NmRWxITjFhMHhMd3VwOUdoZDA4ZFZELVFtX1J6TzAxYnlfbFJZRlhFSjhvcHgydDMwam5md2o5d2pwOC15bk9tb0l5dFBVeFFodmp1bTBiMWZmc2xuVQ?oc=5",
+      "source": "National Association of Wholesaler-Distributors",
+      "category": "Paving Industry",
+      "keywords": "Acquired, To Acquire",
+      "sector": "General",
+      "dealType": "Acquisition",
+      "value": "",
+      "date": "Oct 21, 2026",
+      "dateISO": "2026-10-21T19:48:42"
+    },
+    {
+      "title": "KC construction firm's parent company expands into New Mexico with two acquisitions - The Business Journals",
+      "summary": "KC construction firm's parent company expands into New Mexico with two acquisitions The Business Journals",
+      "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxPOXRSUXdFMlZzNGdCWFFxQUVlQ2NNa2dKcmdDT0V3OHdCa001a1V3MV9pZHA2LUJxT2FLTURRUF9oQjRqOUIzZjN0T0t2QWVlT0pySmhTLXYtMkI5MGduajAtQVpiN2hsUDdEWlptRXlaM1hQaGp1b1lFS2pRWjFBQU01ZU4wQUx4OGxJZ1lwVDlSaHNRMGo5VjlINzJFU3o0?oc=5",
+      "source": "The Business Journals",
+      "category": "Ready-Mix Industry",
+      "keywords": "Acquired",
+      "sector": "General",
+      "dealType": "Acquisition",
+      "value": "",
+      "date": "Oct 21, 2026",
+      "dateISO": "2026-10-21T19:37:00"
+    },
+    {
+      "title": "Merger blocked between asphalt companies Colas Inc., Suit-Kote Corporation - The River Reporter",
+      "summary": "Merger blocked between asphalt companies Colas Inc., Suit-Kote Corporation The River Reporter",
+      "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxNVFZoa25pNnJyNldlUWhVc0p1amVGdjFGWV94NGVXY1dKUmFCVEdEb0UzTmduZzh5dTlwT0QxYldZZzlhZXBQLWVkZ3NNSDQ5QV9VQzh6Uno0YnVDREdaeFZYMHY1Qk1sUmJscGEyLXJPM2RIbTRRVUUzNHgyWk1SZHUzYVBUT1RQeXNneGFIWm9wZEJEUnJMdmRxNDY5elVTOE1ZdDVrVHVxX21iUWtZa1JJTzVFUnZI?oc=5",
+      "source": "The River Reporter",
+      "category": "Asphalt Industry",
+      "keywords": "Merger",
+      "sector": "Asphalt",
+      "dealType": "Merger",
+      "value": "",
+      "date": "Oct 21, 2026",
+      "dateISO": "2026-10-21T18:01:24"
+    },
     {
       "title": "Construction Partners Acquires S.E. Cline Construction To Expand Florida Operations - Pulse 2.0",
       "summary": "Construction Partners Acquires S.E. Cline Construction To Expand Florida Operations Pulse 2.0",
@@ -149,6 +318,19 @@
       "dateISO": "2026-10-20T22:50:19"
     },
     {
+      "title": "Construction Partners expands Florida presence with Cline acquisition - The Globe and Mail",
+      "summary": "Construction Partners expands Florida presence with Cline acquisition The Globe and Mail",
+      "url": "https://news.google.com/rss/articles/CBMi7AFBVV95cUxPc1RjaWNDVEFVN3B3UEg2cDlyWmdaQWE3MXBxTl9iNkpUM2RXWVMwT0hqMHBsVTIxZ0dGWW5TTzBXZHhwc2tPY3FiYWFLcmhjWkFqLVpPUm5yRnA5Vmp3dm1Ebk9MWDQtNjdGeVhUUUluenpPTG5EWG5rSjVQdVAyRVVZMnZBYUtwUnJNSzZsRnJyaEszZmQwQmcwb19LWjV3M0JDUzhuamEzS2tQQVN5NUd2RlJ6WlFvRi1NSzVOaGpqeE1pMk10V2JmVXhxOWxwQl96ZEN6ZFRmNTFPOHJwcWQ0SUQ0OXE3b1J3aw?oc=5",
+      "source": "The Globe and Mail",
+      "category": "Asphalt Industry",
+      "keywords": "Acquired",
+      "sector": "General",
+      "dealType": "Acquisition",
+      "value": "",
+      "date": "Oct 20, 2026",
+      "dateISO": "2026-10-20T21:00:00"
+    },
+    {
       "title": "CRH-Arcosa deal would harm market for hot-mix asphalt, New Jersey AG claims - MLex",
       "summary": "CRH-Arcosa deal would harm market for hot-mix asphalt, New Jersey AG claims MLex",
       "url": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxPNlFsZ0xiV1hIMmtXc0dmQW5aeGFfVXQzZDZULUR5T0gtY2kyQWxjbFNjVWtHOFJiSi1Xc0ZjdkRYZU9BbmRsdFpBRTZpdnhoV3k5OVBzM1dIZUltbERISGJkLWN3N0RLbEFYZDJMcUFoSVA0ZXVmYlRoRjNUTUg3Y3p3Sk5CYzZ3VE82czM3QThOOEd6MTFSN2lKUUMwNy1oUzZ5VFlMaGpvZmltQjlqSlYzVGF6a1J4UU1EV2FLeDlmaGdhVkc0cUJGQWUtUnVXNE1jUdIBWkFVX3lxTE5zU0RMaUNBWC1VeGtLOGI2M1NWRmU0QjVwQUV1QlY4ZDJhdF9mTFdyb19oZXh3QzNWSWNtYWNWV21oSFRMVmdMQXpadmxMNnQ3WENwR0lXcUdhUQ?oc=5",
@@ -186,6 +368,19 @@
       "value": "",
       "date": "Oct 20, 2026",
       "dateISO": "2026-10-20T17:07:17"
+    },
+    {
+      "title": "Pennsylvania files claim against proposed merger between major Asphalt companies - AOL.com",
+      "summary": "Pennsylvania files claim against proposed merger between major Asphalt companies AOL.com",
+      "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxPbDVYSTNjanRyOHpUaTQ3bE5TbFhPa3NmUkpEUElsNmFyOHhRRXNaeDlVZ2pRWFZsQ0dNbWlSbnVta2l1VGVIMmZKZDFWaUMyOWpQX0N5ZHF3SUhKMHF5T0tNX1VHUlV2b2ZYYkpfYWVSUXZYa29hck90ZUNhTldIMmEwQ1ZFSjBoamQ3SVhn?oc=5",
+      "source": "AOL.com",
+      "category": "Paving Industry",
+      "keywords": "Merger",
+      "sector": "Asphalt",
+      "dealType": "Merger",
+      "value": "",
+      "date": "Oct 20, 2026",
+      "dateISO": "2026-10-20T16:51:16"
     },
     {
       "title": "Southern Paving & Milling Acquires Carolina Site to Expand Southeast Operations - citybiz",
@@ -318,19 +513,6 @@
       "dateISO": "2026-10-19T21:59:51"
     },
     {
-      "title": "Pennsylvania files claim against proposed merger between major Asphalt companies - WTAJ",
-      "summary": "Pennsylvania files claim against proposed merger between major Asphalt companies WTAJ",
-      "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxOQVdHcGN1UlRtWVplOW10bU9LbUNCek5TeVVHaGZSd0RaRmdVdE1KRi1PaGJ0VW1pSUdTUGU1MVN4eHB2cWRNMFBnWVkyeFpOZ1pVVml0N2VaR2dWYTRXVi0yeXNfQ0JHTThFSWYxNVdUY09rTTRtd3NsNHd4M2VXcExOTjl2bmlrWGRmLWJaUzUxR1NqZm5vNWktbDlpdlFnLXpHRkt4M2pQZncwOExZdTZGdGxhbnlvUGhWV9IBwgFBVV95cUxNNk9nOFAyNmdfLWdsUTNrVjU0LTBwSXFTWU9OZXRCVlFmTmxUWkppU19pcDRlQjBkdjNhNldoSEJPcTd6dHJKaElna0dHVUh4bEFkVWdqVi0tNm9BR0R5STBrLUdyU29zcXY2TmZjNE1tWWsydzVNS05qZDlzbjJVbDN4ampyRmhQX0VpcnNreGZ4OV94Q3VUdUw0SEVfWjJRalVheDVSZWhRQjh6ekVOTV83Tndfanc1M0pXWTNBc1J6QQ?oc=5",
-      "source": "WTAJ",
-      "category": "Asphalt Industry",
-      "keywords": "Merger",
-      "sector": "Asphalt",
-      "dealType": "Merger",
-      "value": "",
-      "date": "Oct 19, 2026",
-      "dateISO": "2026-10-19T20:57:23"
-    },
-    {
       "title": "A Florida acquisition brings about 60 employees to Construction Partners (ROAD). - Stock Titan",
       "summary": "A Florida acquisition brings about 60 employees to Construction Partners (ROAD). Stock Titan",
       "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxNM3ctZ1NkV3pRQm1jZWc1cXdZMnB0Rl9WZXZIeVdTc19idGt6LTAxOTVseDlNc3hJanZRb2h2Mmc5TUZoZnBlOGh5YzNMS3o0NVlERDN2X1RhbHRQUjhjSEZSVkVzNTVOeDF2ZFRBZHZyVGF1Z1M2Skh0Q3BCTkdHNUluNi0wOUpwQVBDQUM4d1lSbWlxNnFrTU1OOXBHZThKMXVuZHBzaHUzd3dBV2xfa2NTNjE?oc=5",
@@ -342,6 +524,19 @@
       "value": "",
       "date": "Oct 19, 2026",
       "dateISO": "2026-10-19T20:16:48"
+    },
+    {
+      "title": "Borgman Capital Acquires Concrete Production Equipment Distributor CMW - National Association of Wholesaler-Distributors",
+      "summary": "Borgman Capital Acquires Concrete Production Equipment Distributor CMW National Association of Wholesaler-Distributors",
+      "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxPX2duQzlhd19qMjlBZlZpRFBEaFpZSEJjY25JVkZScVZ2U2dqTGpaZXpwdmY4U0ZDQ2pXaWd4anlpenU3LVBoZnd4ajRTeTlCUXU3cXZOS243aXJuRmI0Tm50NFI1M1FyLTNVbERWejZzb1I4X2Nwb0xMeUl5MnFHRU5QeDNPNVBrcGpZSkNWV2dlTVhVQU5sdjY3WXczRHhwUlE?oc=5",
+      "source": "National Association of Wholesaler-Distributors",
+      "category": "Paving Industry",
+      "keywords": "Acquired",
+      "sector": "General",
+      "dealType": "Acquisition",
+      "value": "",
+      "date": "Oct 19, 2026",
+      "dateISO": "2026-10-19T14:45:06"
     },
     {
       "title": "Qassim Cement completes Amix acquisition - \u0627\u0631\u0642\u0627\u0645",
@@ -929,6 +1124,19 @@
       "dateISO": "2026-10-08T07:00:00"
     },
     {
+      "title": "Heidelberg Materials to acquire NCC aggregates and asphalt operations in Sweden and Norway - CemNet.com",
+      "summary": "Heidelberg Materials to acquire NCC aggregates and asphalt operations in Sweden and Norway CemNet.com",
+      "url": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxQOU1WQlhJZURzcU1OdG9femQycFM5NkVIaVNPZUtZaml3Vi14bXg5bDl1cFY4MHpBNU5LNTRLRS1mZFBRWnV5cm9adjFBWnhUekJrNVFxLTB5QlI0X2hmcm1lcHRWbmdnUGppSGNnU0VmbGhPMngwaFhGZjJNb25KaVZ5bEpTQVNYYmdsb0JsUlA0dGJJbHQwbUswZFFXLTJrNVNEVVJSRlhXMURUVDJFT3Q0NHRkaFFEYVFiN0NnYlBpeHliWjFSYW9WN0V5YllPT3c?oc=5",
+      "source": "CemNet.com",
+      "category": "Asphalt Industry",
+      "keywords": "Acquired, To Acquire",
+      "sector": "Multiple",
+      "dealType": "Acquisition",
+      "value": "",
+      "date": "Oct 08, 2026",
+      "dateISO": "2026-10-08T07:00:00"
+    },
+    {
       "title": "Heidelberg Materials Sinks on Nordic Deal as Deutsche Bank Trims Price Target - AD HOC NEWS",
       "summary": "Heidelberg Materials Sinks on Nordic Deal as Deutsche Bank Trims Price Target AD HOC NEWS",
       "url": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxNOVZFekp0NkFZaXlPamo5Y1U2Z3RVdTYzaDVLcmJOaHJWcXlWbVdrNnFHZmlQc3AzUG5HQ3RUamRRZl9rdnktRnBLTnNiOGFnZUxsREJZQkE0RFk1ZTYyVEl3dnJxZzRHSjBKN0Vja2p5YlBYSmtPU1lTcDFjWG8xd0x5SldtdWZkNUo0S2oyMHowSXFJZlNuWm5iTDBRX2FQWW50R2c1Ti1SQ2xuNVJrdi1yTnZKMjFHdTk2a01NMnhPLWVLNENVX2xnX1pWZ1h4aXFVY2h4d1I4dw?oc=5",
@@ -968,19 +1176,6 @@
       "dateISO": "2026-10-07T14:20:24"
     },
     {
-      "title": "Wieser Concrete Products acquire Bush Concrete Products in Muskegon - Pierce County Journal",
-      "summary": "Wieser Concrete Products acquire Bush Concrete Products in Muskegon Pierce County Journal",
-      "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxObHZrd2xjRFJSSDc3S1Q5eTlYUHBHbkRCVnF2VnZXMkRUVTl4S2cxWnktczlkN1ZnQTluX0pwN3RjNFFhNHhvUXUwQ2NIVEtnLVdjeFhrLUFWVW5Bc0ozdE4zTlNIYVJGREV1R3pFS3c3OFhfaGtOdUJxTkhkYkRkaGRyUE1BQnEwbVI0Y2NfRkw4T19TRjhyS0FtRm80U080Mktzc1dxUm9zd05ZTW1faFExamNUekVCUXlv?oc=5",
-      "source": "Pierce County Journal",
-      "category": "Precast Industry",
-      "keywords": "Acquired",
-      "sector": "General",
-      "dealType": "Acquisition",
-      "value": "",
-      "date": "Oct 07, 2026",
-      "dateISO": "2026-10-07T14:12:00"
-    },
-    {
       "title": "Heidelberg Materials stock expands in Nordic aggregates deal - AD HOC NEWS",
       "summary": "Heidelberg Materials stock expands in Nordic aggregates deal AD HOC NEWS",
       "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxOWTY2Qm45RlVPekU2VGQwOEpHZXFHZER2anZyZFJHTmNpLWx1VGFVRlNfOVljOXNWc1F4VnBxSXZWZXI5dUZUS09BQk1JVkE2RmFORWw3U0tvMHVpT2VIcldDOVloZm95cng1eml2eHMwTWJzbXBGQl8yckVxRmxMUjhFWTNLc1YwZmpPRUFVNjJjdTdkTW03Qzc2ZF9kaU82Sk0tZUQwam1XWmVJbGhtendjV0hmTHo2T04tYXhnRUo?oc=5",
@@ -992,19 +1187,6 @@
       "value": "",
       "date": "Oct 07, 2026",
       "dateISO": "2026-10-07T12:02:12"
-    },
-    {
-      "title": "Heidelberg Materials Acquires NCC Aggregates & Asphalt in Nordics - News and Statistics - IndexBox",
-      "summary": "Heidelberg Materials Acquires NCC Aggregates & Asphalt in Nordics - News and Statistics IndexBox",
-      "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxPNHdWNjVNVlVyQTF3ajJWdGpEVGg4Ml9vNWpsc1l0dXUxWU5OOF8yTG9YbHpTdURRdW9aS2pnb3UzRmpFM29WYW12VDZxRzdNMEV3RlVQbk5ZbVhpQnBvZ3JlaC1uVFJJekJ1aXVXdU1qQ1B5dlZOMFhqeXd1VkEwNWN4NThPS2d6YkwxeFcyTXg1X3gzWWM4YkxrcXlIVVdNZTJWd1pneGJuQ1hkbV9OeW02aDdrNEoxa2EyTEc0WQ?oc=5",
-      "source": "IndexBox",
-      "category": "Aggregates Industry",
-      "keywords": "Acquired",
-      "sector": "Multiple",
-      "dealType": "Acquisition",
-      "value": "",
-      "date": "Oct 07, 2026",
-      "dateISO": "2026-10-07T11:01:01"
     },
     {
       "title": "CRH to acquire Nordic operations of Swedish construction group - Business Post",
@@ -2333,6 +2515,19 @@
       "dateISO": "2026-09-24T07:00:00"
     },
     {
+      "title": "TCC Group seeks purchase of Ukraine cement plant - Taipei Times",
+      "summary": "TCC Group seeks purchase of Ukraine cement plant Taipei Times",
+      "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTFBINElQUVNjbkdRNkNwNlVLUHRKODVxYVBDeEFJeGJaZUdHTHl0S2xkSFdlNFV1QVdQMFpWNzY2VjFqcXhDNW5DaGxiMEV2UmFZd3Iwa2ZJczBnSElwNmpWbmxMbjA1dkdhcHhfaDloamlhSW9zQ3c?oc=5",
+      "source": "Taipei Times",
+      "category": "Cement Industry",
+      "keywords": "Purchase",
+      "sector": "Cement",
+      "dealType": "Acquisition",
+      "value": "",
+      "date": "Sep 24, 2026",
+      "dateISO": "2026-09-24T07:00:00"
+    },
+    {
       "title": "STRABAG announces KEE Surfacing acquisition - Roads & Infrastructure Magazine",
       "summary": "STRABAG announces KEE Surfacing acquisition Roads & Infrastructure Magazine",
       "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTE1FT1hzaGpDOWlBWm94Q2hhUlFzTXFsNW9aTGw3RU85QUNTOF9mMHRZcmdncFhTc2ZsZVd5Y0drbFQwSUFoUktTSU0wX2NIam9jWThMWktDamh5MVZka3J1RlhVc20yUFA0ZnVmNHRuLXB4MXcxa1JkNmMtRQ?oc=5",
@@ -2383,97 +2578,6 @@
       "value": "",
       "date": "Sep 23, 2026",
       "dateISO": "2026-09-23T17:44:19"
-    },
-    {
-      "title": "CRH Falls as Weak Construction Sentiment and Deal-Related Concerns Weigh on Shares - quiverquant.com",
-      "summary": "CRH Falls as Weak Construction Sentiment and Deal-Related Concerns Weigh on Shares quiverquant.com",
-      "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxNVDlvMkh5Y0VIUWZxWWJ4UFFMcWdDZUoyWmg0Uk9oeklBSVJoSW5qdlJIRUI2eXZ1anRTTVRSQUpPUGZ2bTY2bHViWHN2QlFqb2UtdXp2c3VHdlEyZjhvZ1hJajV4a09Jc3ZmTFJRSmtfMGhRcXVENVgzZlF4VEtBMnlUcFYwZzNubnhyeDhMQ1RKLUc4N3p2MFNITTBDSkRMaXBIbEZhNndqNG9MNEg1bWc4NXZjdw?oc=5",
-      "source": "quiverquant.com",
-      "category": "CRH",
-      "keywords": "",
-      "sector": "General",
-      "dealType": "Acquisition",
-      "value": "",
-      "date": "Sep 23, 2026",
-      "dateISO": "2026-09-23T16:18:00"
-    },
-    {
-      "title": "TCC Group seeks purchase of Ukraine cement plant - Taipei Times",
-      "summary": "TCC Group seeks purchase of Ukraine cement plant Taipei Times",
-      "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTFBINElQUVNjbkdRNkNwNlVLUHRKODVxYVBDeEFJeGJaZUdHTHl0S2xkSFdlNFV1QVdQMFpWNzY2VjFqcXhDNW5DaGxiMEV2UmFZd3Iwa2ZJczBnSElwNmpWbmxMbjA1dkdhcHhfaDloamlhSW9zQ3c?oc=5",
-      "source": "Taipei Times",
-      "category": "Cement Industry",
-      "keywords": "Purchase",
-      "sector": "Cement",
-      "dealType": "Acquisition",
-      "value": "",
-      "date": "Sep 23, 2026",
-      "dateISO": "2026-09-23T16:00:00"
-    },
-    {
-      "title": "Nexture expands Middle East presence with La Crema acquisition - Milling Middle East & Africa",
-      "summary": "Nexture expands Middle East presence with La Crema acquisition Milling Middle East & Africa",
-      "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxNRWhJcFk4YXFHcWtyMWZRS25zVWVIOHp4NTBzenZuT3NYMHp3dkQzZ3pMSFlJcGZwam5wa2VJQTdpWmZCN0Y1TnFYYV9lbEVnS1ZBN0pjSmxVUGNmZ0VXQXY3clhVT1hTTlRRcFc2WnhlUDNWbVhHRTNnc01iaTJJSVVITmY5SFp1RnhmUGgtWQ?oc=5",
-      "source": "Milling Middle East & Africa",
-      "category": "Ready-Mix Industry",
-      "keywords": "Acquired",
-      "sector": "General",
-      "dealType": "Acquisition",
-      "value": "",
-      "date": "Sep 23, 2026",
-      "dateISO": "2026-09-23T10:36:29"
-    },
-    {
-      "title": "DC Advisory advises IFCEM\u2019s shareholders on TCC Group\u2019s proposed acquisition of IFCEM - DC Advisory",
-      "summary": "DC Advisory advises IFCEM\u2019s shareholders on TCC Group\u2019s proposed acquisition of IFCEM DC Advisory",
-      "url": "https://news.google.com/rss/articles/CBMi5wFBVV95cUxOS1FkVzk2WHF2TlFEVnhWYVVvekRSQ1owVHNIaEh1VWtJMFNzQjdpa2F3VmdOaWNaU1VRcUVvTWZpZEM0M0Z0TXRobDN1cWdrSnlGSWRXTUppUkl3eDhKUkVTTk1jRnl4Tk5TS2F0RW9jRTI2R1lmMzh0VXlQWlJUc2IwMzhUWE11d3FYRU5kdUpkQ245U2w5UWR6ZU9lWEN1TVN4WHEyOTJWWEZvRVN1QWtiRGNJQWJ4ZVlnMmV6M2Z5WFpRU1pvSXVCQ0Z0Y0dxcjY2QWRTLU9BNFc0Q1ZwdmZ1SHIwZUE?oc=5",
-      "source": "DC Advisory",
-      "category": "Cement Industry",
-      "keywords": "Acquired",
-      "sector": "General",
-      "dealType": "Acquisition",
-      "value": "",
-      "date": "Sep 23, 2026",
-      "dateISO": "2026-09-23T08:29:39"
-    },
-    {
-      "title": "TCC approves plan to acquire Ukrainian cement producer, other entities - Focus Taiwan",
-      "summary": "TCC approves plan to acquire Ukrainian cement producer, other entities Focus Taiwan",
-      "url": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE9KaVpBQjNVQ0lGakxWcWhXWUQ3T25EVXlaNzAtX0RRQTN1cTQ3RVduZ2h3MkRVd1RRQnRtbWFBWnFPTFdQdTVKdjdvZWJONjBBUEVOdVBZaw?oc=5",
-      "source": "Focus Taiwan",
-      "category": "Cement Industry",
-      "keywords": "Acquired, To Acquire",
-      "sector": "Cement",
-      "dealType": "Acquisition",
-      "value": "",
-      "date": "Sep 23, 2026",
-      "dateISO": "2026-09-23T07:47:00"
-    },
-    {
-      "title": "TCC Group Holdings to Acquire Ukraine's Second-Largest Cement Producer for \u20ac750 Million \u2014 Chairman Nelson Chang Personally Visits Frontline to Position for Reconstruction Opportunities - finance.biggo.com",
-      "summary": "TCC Group Holdings to Acquire Ukraine's Second-Largest Cement Producer for \u20ac750 Million \u2014 Chairman Nelson Chang Personally Visits Frontline to Position for Reconstruction Opportunities finance.biggo.com",
-      "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE84NUU0dGJ0QmJVWnZQbklJTGVpaHJzQWZWRmk1YmYwVGNnOWM1clNrLWJ6Z1h1NWdHazR3dU8xY3ZkR2k2cUYwVi1fOHZ3WWVFdkRPMDY3MHIxOWtOUTdWRENfVDl3bGg1Q1ByWjhPM0tPaWlSQWc?oc=5",
-      "source": "finance.biggo.com",
-      "category": "Cement Industry",
-      "keywords": "Acquired, To Acquire",
-      "sector": "Cement",
-      "dealType": "Acquisition",
-      "value": "",
-      "date": "Sep 23, 2026",
-      "dateISO": "2026-09-23T00:05:00"
-    },
-    {
-      "title": "Truliance Consulting Advises Lime Rock New Energy on Acquisition of Holton Concrete Products - The National Law Review",
-      "summary": "Truliance Consulting Advises Lime Rock New Energy on Acquisition of Holton Concrete Products The National Law Review",
-      "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxNUy04THoycC12blZ6MGxDR3JON2UteDhyZ3BBU0xlX2d2YlRKVHZERm05Z2E4bXBwTEo2cTJPcUF3TWxNRHFHTUVDMUFielZUQnVqakdnYVBGRmVvRXBFSU9uaTY3LWZNdGlCb2paajRiX1ZWMERPRmczV0tNakhrTWpJSS1mejlWdnBERklrYzVlbmh3M3p6cmRsLTVkXzh2bzhmT0hLT21NSWNu?oc=5",
-      "source": "The National Law Review",
-      "category": "Precast Industry",
-      "keywords": "Acquired",
-      "sector": "General",
-      "dealType": "Acquisition",
-      "value": "",
-      "date": "Sep 22, 2026",
-      "dateISO": "2026-09-22T19:30:34"
     }
   ]
 }
