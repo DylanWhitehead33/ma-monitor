@@ -1,10 +1,62 @@
 {
-  "fetchedAt": "2026-10-25T16:56:43.814757",
-  "totalArticles": 188,
-  "newToday": 25,
-  "duplicatesRemoved": 24,
+  "fetchedAt": "2026-10-26T18:59:53.355770",
+  "totalArticles": 192,
+  "newToday": 26,
+  "duplicatesRemoved": 20,
   "archiveDays": 30,
   "articles": [
+    {
+      "title": "Legacy Infrastructure Acquires Two New Mexico Businesses - Construction Owners",
+      "summary": "Legacy Infrastructure Acquires Two New Mexico Businesses Construction Owners",
+      "url": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxOUnVBSEJvTm9lZU9wamNqbXYxRkVJNGZhcEtCVXZCOG9hU2IzczFrMDlTcDFwdm5sZm9wbkUyR0RVUU5qck1ua0JDQmc4U1BkXzR6TDlBdFpoS1lESElQODJBSF85bUFDdjlmUlFHZkFrNW1Va3daMW1fMGp6dV9WMk1fTncxS0VkX2w1ZVFpNGRDM3AxUmc2YXJRbDM4VEU2TVR2REw4RDBac1ZIZXlSNUFzV2ZGU2lxc1lOQ2t3Q2VVLUNpTnh1VEtRQ0NSbWhvUzFCV0VMMlpqVTg?oc=5",
+      "source": "Construction Owners",
+      "category": "Ready-Mix Industry",
+      "keywords": "Acquired",
+      "sector": "General",
+      "dealType": "Acquisition",
+      "value": "",
+      "date": "Oct 26, 2026",
+      "dateISO": "2026-10-26T17:19:06"
+    },
+    {
+      "title": "CRH completes USD 8.5 billion Arcosa deal: what it means for CRH stock - ad-hoc-news.de",
+      "summary": "CRH completes USD 8.5 billion Arcosa deal: what it means for CRH stock ad-hoc-news.de",
+      "url": "https://news.google.com/rss/articles/CBMizAFBVV95cUxNTjkwdHJBclJIanU0dTZsaC12eDNNbS13QkhwNzREM0ozZDZUTUJEdjNacXRDSVliQnhhS3NFbUlFOXhYd3VCRjloLXJhLWFUcmtobUNBNVpPS25TZklNZ3hMQ21VXzBsdnNtOXpaUjRKSUMzV1A1MmR5alltVng5MDhZR05HbXFuSXYyOXNGUV9OdmtfUWViUXB1TTh6ZXl0VkY3MUlzMVNYNXZFN2dEZmpXQjZqRDBibDRnOWJOX1NVQU9KcjMyVGNXTVk?oc=5",
+      "source": "ad-hoc-news.de",
+      "category": "Aggregates Industry",
+      "keywords": "",
+      "sector": "General",
+      "dealType": "Acquisition",
+      "value": "",
+      "date": "Oct 26, 2026",
+      "dateISO": "2026-10-26T15:09:34"
+    },
+    {
+      "title": "CRH completes $8.5B Arcosa acquisition - Construction & Demolition Recycling",
+      "summary": "CRH completes $8.5B Arcosa acquisition Construction & Demolition Recycling",
+      "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxOUG40T29CSE16RFJmTjEtQ3p2SGQzZGc2RVFpREZLODNhLTBPdVNEdVJCczRJdUxnS3gxc1RFSVozYlFtMFRMQmlHMllYeXVpQmFhM3ZUaHBlLXk4akpxVlR6NGhmRncxTGprZHhqblYya053X0ctbElKYlVfREhXcnFJS2pSNldqX3c?oc=5",
+      "source": "Construction & Demolition Recycling",
+      "category": "Aggregates Industry",
+      "keywords": "Acquired",
+      "sector": "General",
+      "dealType": "Acquisition",
+      "value": "$8.50B",
+      "date": "Oct 26, 2026",
+      "dateISO": "2026-10-26T15:08:00"
+    },
+    {
+      "title": "Metso agrees to acquire Italbronze - www.quarrymagazine.com",
+      "summary": "Metso agrees to acquire Italbronze www.quarrymagazine.com",
+      "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTE9BdzVNV3VTU2RLbnltMFpqbWhjQmVTVm5tb0RTRTB1bUg1R19IUEc5TUF5UTEzQWdQNXRMb0dZR2dzM3JkZ0htSGN4UW9kemYwVkpyemRMOEVGRlM5LU1SYXptQjAwQzdmT3hzREVJVHhFQ0xf?oc=5",
+      "source": "www.quarrymagazine.com",
+      "category": "Quarry Magazine \u00b7 Aggregates",
+      "keywords": "Acquired, To Acquire",
+      "sector": "Aggregates",
+      "dealType": "Acquisition",
+      "value": "",
+      "date": "Oct 26, 2026",
+      "dateISO": "2026-10-26T00:02:16"
+    },
     {
       "title": "New Jersey requires sale of five asphalt plants as part of proposed $8 billion merger - WRNJ Radio",
       "summary": "New Jersey requires sale of five asphalt plants as part of proposed $8 billion merger WRNJ Radio",
@@ -134,19 +186,6 @@
       "value": "",
       "date": "Oct 22, 2026",
       "dateISO": "2026-10-22T14:01:00"
-    },
-    {
-      "title": "CRH completes $8.5B acquisition of Arcosa - Business Wire",
-      "summary": "CRH completes $8.5B acquisition of Arcosa Business Wire",
-      "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxQd2RDOGo0Q1NzM1g1cFJSRVRtUjVOTTdWRU9sMmdVaGZqUzh4LTF1Y0ZBU1o3Vm9wdS0tbjg3cVBHcXU4TGpZOWZ2YWh1M3pOa3lxZmpqakRNbWdldW13WGJqUk9EaXRRU0U4TThmc2hFeWUxMVFOS242cHpleGlPMzJMRUlZamd6Wl9VWHB6X0tFSm9aenVmNDZmV2ZsYXZublE?oc=5",
-      "source": "Business Wire",
-      "category": "Aggregates Industry",
-      "keywords": "Acquired",
-      "sector": "General",
-      "dealType": "Acquisition",
-      "value": "$8.50B",
-      "date": "Oct 22, 2026",
-      "dateISO": "2026-10-22T07:00:00"
     },
     {
       "title": "Suit-Kote Colas Merger Settlement Forces NY, PA Plant Sales - Hoodline",
@@ -942,6 +981,19 @@
       "dateISO": "2026-10-12T04:06:50"
     },
     {
+      "title": "Heidelberg Materials Draws Fresh Analyst Support as Nordic Deal and Q3 Update Loom - ad-hoc-news.de",
+      "summary": "Heidelberg Materials Draws Fresh Analyst Support as Nordic Deal and Q3 Update Loom ad-hoc-news.de",
+      "url": "https://news.google.com/rss/articles/CBMi6gFBVV95cUxOY0JtaWZMcUVwZ2NZb21TOXNRN0EteW4tLWN2UGU5Q2daYm95WDBVQXJwbDdjUURLZ2szVWZjSngzWm5NbW9FRjV5cEx3ZlM2YnNvUm5lZGRNNW9Dc3l4WHYwc0FFd3NuQ0dEbDFzbUlWdHhiM3FvYXNsYXFvclFPMjlQSHVDblpoYUVZVFZCSWNNWGh2Wm1wUFoydmlhTGFsWi1STVVHZTRBQTZpTG1jSy1UdU9xbmNnMjRZRTd0VXU3cWx0VWNSXzhHWkk1blppa1c2U2lrMmV0Rl9mcWY1dXJuNlpJS0ZXOEE?oc=5",
+      "source": "ad-hoc-news.de",
+      "category": "Heidelberg Materials",
+      "keywords": "",
+      "sector": "General",
+      "dealType": "Acquisition",
+      "value": "",
+      "date": "Oct 12, 2026",
+      "dateISO": "2026-10-12T03:01:34"
+    },
+    {
       "title": "Metromont Acquires PTAC Engineering in Florida and Alabama - Construction Owners",
       "summary": "Metromont Acquires PTAC Engineering in Florida and Alabama Construction Owners",
       "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxOT2pVLTlKTDE1VVBfUXRiZWVyTU5pdGdzNmk3bU9pT1pkQzhIMFpKdVNjeFh6cndOa05vdVcxeUxUX20zUzdkWVVSSko4OTNzd3JUZGJvYi0wYXMtbC1HdjhtU2lRbVE0Zmt3R0VjSkk4VWFWUUlBQWJ6VnRraTlDNW1sak5hZC1MYmVSb3hKUm95NnBkUXVyRWg4QTNyZ3dyZl9felhuSnMtTEpTbFJzMkp6WQ?oc=5",
@@ -1722,6 +1774,19 @@
       "dateISO": "2026-10-02T10:04:15"
     },
     {
+      "title": "List of 20 Acquisitions by Construction Partners (Oct 2026) - Tracxn",
+      "summary": "List of 20 Acquisitions by Construction Partners (Oct 2026) Tracxn",
+      "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxNMFJ2blpKcWFNZFQxOUQzcVFjVlRvV1hLYnhUZUlzbTRPQzNtYjZwbmRCMnRWUUtQZTNWeC1ROXZwRWJDNklTR1VjaFl5YlZFaHRZdzZvd2tKVDI3T2NiNEdpeFc2ZURuSHp6dU44X3FpUzQ2WmxXSWVSdGV1d1NIcjd0VlZYdlViclVHU3dlUFllN2NodzZwdmI2QUk2cFBSTkFDZ1ZIcHZtQnU5bFRobnNvaGRLR09z?oc=5",
+      "source": "Tracxn",
+      "category": "Paving Industry",
+      "keywords": "Acquired",
+      "sector": "General",
+      "dealType": "Acquisition",
+      "value": "",
+      "date": "Oct 02, 2026",
+      "dateISO": "2026-10-02T07:00:00"
+    },
+    {
       "title": "List of 6 Acquisitions by Martin Marietta (Oct 2026) - Tracxn",
       "summary": "List of 6 Acquisitions by Martin Marietta (Oct 2026) Tracxn",
       "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxPZUxUNFg1dlJLaFBRb0VMMDdGUlJaczZuaGNsdVQ5dGs0bGtTQzZMRXJnd2NId0NzZEFlZXZZbVdObU1EMTdHZVNpQzUyRm0tT09KSmF0S3VJR18yRVd1Y29pQjJrMXNHc01jbHhrWDN3TzVzbDhILVFjMUFZMDd4MFNSY3M3VWViOTdwTDJLOWl3eGJBV2M4WmpxRUt1ekV4VWpBSUNkOEVuYjBramtjRA?oc=5",
@@ -2086,6 +2151,19 @@
       "dateISO": "2026-09-30T07:29:11"
     },
     {
+      "title": "JSW Cement announces merger with its listed subsidiary Shiva Cement | Markets News - Business Standard",
+      "summary": "JSW Cement announces merger with its listed subsidiary Shiva Cement | Markets News Business Standard",
+      "url": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxNclh2d2o4aHBoTktmQmxKa045R3BoTkx2Smk1cGJabVFzWGVIYXk2eUhvaWdXaU95RjNkcnhQckJYcm9XbkY5T0VZNmwyREw2S0FhSm1VZzI4akNiX2YtUEV4NWRSQmk0NHE1SjZaRzJ3UzhNdGMzVnI3VFNGQ2RFOWRCb0ZYaEpkeHdsYjBzcE9KNVJobXVvLWprcVBMclVIMFhDODhlYUVjeHZqOFBfMlFoSkk4d1ktemV2RVptWm95alQyYmhQcGVzckRxOFRIWE00?oc=5",
+      "source": "Business Standard",
+      "category": "Cement Industry",
+      "keywords": "Merger",
+      "sector": "Cement",
+      "dealType": "Merger",
+      "value": "",
+      "date": "Sep 30, 2026",
+      "dateISO": "2026-09-30T07:00:00"
+    },
+    {
       "title": "JSW Cement To Issue 5 Shares For Every 41 Shiva Cement Shares In Merger To Create Unified Platform - Free Press Journal",
       "summary": "JSW Cement To Issue 5 Shares For Every 41 Shiva Cement Shares In Merger To Create Unified Platform Free Press Journal",
       "url": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxONHBQX0pMUVNMTVI0eHBCc09yQl91YjQzZ1BubFJPV0hoUFFINjdzbTlTc3gwd2ZIT3N1TmtTUkpXbV9KcUFOOGhKN3Fla0hUQjZ5djlhcDlJRVlPMEh2M3hUSWNMR1Z2d3FDdEpzMmJhZkFzRks1V2JZMWwtc3RWSXV6N3ljbnJhN0ZVbzQ5M1V4WnVaVUt1RHlaYUNBNlZKemQ2SUptWDNSUDhhd0NOWmFLQk5lV0treTF4MS1hSFpQN05fUlo0NlBHWGFhNzdhOVgtQzh30gHbAUFVX3lxTE5ZN3g2eHRKd2t0Q3RIVGdMUnNpMXVWazFKbUZwSWpxWWpacVNJWElYWVdwZEozTVc4ZkNtd3JYUXA2MVVBSlp0Nl9wMHBZT3ZmcXN4dDI3bkRiWmRTYWpBVmpxdEVOTk05TFgzMzRiM3VTbzB3SVJxV0ZVTTRKc0Y4M1JNMmFvYjRvdWNqZXBQb2VBR0ZFNjd1ejNJSFBGa1RDWDdBRFpoRDBJRTJsYUpzSlVzOGVsUkpnVDFBWWl3ZXhzMU85RXFrTFVuVDE4VG1ISzVmd2hKXzlCRQ?oc=5",
@@ -2422,32 +2500,6 @@
       "value": "",
       "date": "Sep 27, 2026",
       "dateISO": "2026-09-27T02:59:23"
-    },
-    {
-      "title": "CEMEX Director Rogelio Zambrano Lozano Acquires 400,800 Ordinary Participation Certificates - Kalkine Media",
-      "summary": "CEMEX Director Rogelio Zambrano Lozano Acquires 400,800 Ordinary Participation Certificates Kalkine Media",
-      "url": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxQZlo4b2V4bEswZXJrZnpSVkNBSGdnS2FqdVJ1eW50OGpVeHo2Ql9OSUZUdmJxTE11RjhtanpTXzdmbVJLTy01N2IyNU9LNGhWYzB6UEVzcWtOWGxkVDllalNicEhFbEJBY1NGenlVUlVSbzhZR3NtdWRTbm9MZ2YyVkk2bWtadlg0NUdoMzdxRFVWeTluVTRGSFZpWDdqOEkxR3Z4TUk1eWozVXBMTjcwZHBrbkdzMUdpZGJ6cGsyVm5sbDhTNmVvWWlZMFd1TkpyTGlv?oc=5",
-      "source": "Kalkine Media",
-      "category": "Cemex",
-      "keywords": "Acquired",
-      "sector": "General",
-      "dealType": "Acquisition",
-      "value": "",
-      "date": "Sep 26, 2026",
-      "dateISO": "2026-09-26T06:27:23"
-    },
-    {
-      "title": "Taiwan\u2019s TCC Group plans to acquire a Ukrainian cement manufacturer for \u20ac750 million - \u041a\u043e\u043c\u0435\u0440\u0441\u0430\u043d\u0442 \u0423\u043a\u0440\u0430\u0457\u043d\u0441\u044c\u043a\u0438\u0439",
-      "summary": "Taiwan\u2019s TCC Group plans to acquire a Ukrainian cement manufacturer for \u20ac750 million \u041a\u043e\u043c\u0435\u0440\u0441\u0430\u043d\u0442 \u0423\u043a\u0440\u0430\u0457\u043d\u0441\u044c\u043a\u0438\u0439",
-      "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxOQjd6WThKejIwMWtIelJCTEt2eGtCY3lMcmNpR2ZzRjRDVGpkNzFxYjdXUGwxTmxBTkh4ZmFsZkpiRHJBcG12UXpJTk1uRHR4bWJ1Yk50eEhVam9zS2QtZTZfQlQ2RVAyM3UxZFVEclZNUmRQQkJUMVdnU1hJMEQyWjM3bUNWbXMxeWQwYjF3ZzhxOHNSY051QnNYRGZKaWw5RmxqTjd0OA?oc=5",
-      "source": "\u041a\u043e\u043c\u0435\u0440\u0441\u0430\u043d\u0442 \u0423\u043a\u0440\u0430\u0457\u043d\u0441\u044c\u043a\u0438\u0439",
-      "category": "Cement Industry",
-      "keywords": "Acquired, To Acquire",
-      "sector": "Cement",
-      "dealType": "Acquisition",
-      "value": "",
-      "date": "Sep 25, 2026",
-      "dateISO": "2026-09-25T18:26:00"
     }
   ]
 }
