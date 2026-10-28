@@ -1,8 +1,8 @@
 {
-  "fetchedAt": "2026-10-27T18:31:49.166098",
+  "fetchedAt": "2026-10-28T18:38:03.713234",
   "totalArticles": 192,
-  "newToday": 21,
-  "duplicatesRemoved": 16,
+  "newToday": 20,
+  "duplicatesRemoved": 18,
   "archiveDays": 30,
   "articles": [
     {
@@ -56,6 +56,19 @@
       "value": "",
       "date": "Oct 27, 2026",
       "dateISO": "2026-10-27T03:27:39"
+    },
+    {
+      "title": "Amsons Group Acquires Geneva-Based Oryx Energies' Downstream Business in $230 Million Transformative Infrastructure Deal - Digital Journal",
+      "summary": "Amsons Group Acquires Geneva-Based Oryx Energies' Downstream Business in $230 Million Transformative Infrastructure Deal Digital Journal",
+      "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxPRDFpeEx3d3ozSmpkbHdmSm1lT2FVQ2ZCM1hlWVAta01yenF6Zm9ka2ZDUXBoSzBOTTFnbkpFajZoRXJDWUdicDNEWHhYWjVja0ZNY3NMWGttTmd0UGJjbUZCM2FabGdWaTV1SVJ4VTE2UUNweC14aFNqVy00QmFZWlhObE13MHJ4MzJJbWdhS1FZbXVWZWdRS2F3eGdZbkpNVF8xeG9lZS1NRU5jbzhN?oc=5",
+      "source": "Digital Journal",
+      "category": "Cement Industry",
+      "keywords": "Acquired",
+      "sector": "General",
+      "dealType": "Acquisition",
+      "value": "$230M",
+      "date": "Oct 26, 2026",
+      "dateISO": "2026-10-26T19:45:52"
     },
     {
       "title": "Legacy Infrastructure Acquires Two New Mexico Businesses - Construction Owners",
@@ -446,6 +459,19 @@
       "value": "",
       "date": "Oct 20, 2026",
       "dateISO": "2026-10-20T22:50:19"
+    },
+    {
+      "title": "BGO acquires newly constructed industrial asset in Greater Boston - JLL",
+      "summary": "BGO acquires newly constructed industrial asset in Greater Boston JLL",
+      "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxNVnZMNm1UVnpYbjVMcFhtYmRBUUVtVVRBYzFhbFdXeU5YYjdyTTFfLVRxRThXOFlHeDdxTmRaNzlvbGdKaS13aEN2eHY0aFlWaUQ4dUxBckdvVlVzN0NIZ05IUWZ2bFJZcmRoN25GTlpNS3hzTnZ1cEduWjNNSnlFZWJTMFRrWUVj?oc=5",
+      "source": "JLL",
+      "category": "Precast Industry",
+      "keywords": "Acquired",
+      "sector": "General",
+      "dealType": "Acquisition",
+      "value": "",
+      "date": "Oct 20, 2026",
+      "dateISO": "2026-10-20T21:18:07"
     },
     {
       "title": "Construction Partners expands Florida presence with Cline acquisition - The Globe and Mail",
@@ -2474,32 +2500,6 @@
       "value": "",
       "date": "Sep 29, 2026",
       "dateISO": "2026-09-29T04:04:19"
-    },
-    {
-      "title": "Arabian Cement finalizes exit, share swap deal for Jordanian equity - \u0627\u0631\u0642\u0627\u0645 : \u0627\u062e\u0628\u0627\u0631 \u0648\u0645\u0639\u0644\u0648\u0645\u0627\u062a \u0633\u0648\u0642 \u0627\u0644\u0623\u0633\u0647\u0645 \u0627\u0644\u0633\u0639\u0648\u062f\u064a - \u062a\u0627\u0633\u064a",
-      "summary": "Arabian Cement finalizes exit, share swap deal for Jordanian equity \u0627\u0631\u0642\u0627\u0645 : \u0627\u062e\u0628\u0627\u0631 \u0648\u0645\u0639\u0644\u0648\u0645\u0627\u062a \u0633\u0648\u0642 \u0627\u0644\u0623\u0633\u0647\u0645 \u0627\u0644\u0633\u0639\u0648\u062f\u064a - \u062a\u0627\u0633\u064a",
-      "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE04blZTUHRpNmFMSEdydktkbmhySGl3cGxINjlfUTN3UmZYb09kdkxhdjdLYzJfMWVXNmFLangyV205bU93RFhscnVPVDRSMG5LWEhxaXJ6S1hUZHAwSHVhWk10Z1M4ZTd5NFE?oc=5",
-      "source": "\u0627\u0631\u0642\u0627\u0645 : \u0627\u062e\u0628\u0627\u0631 \u0648\u0645\u0639\u0644\u0648\u0645\u0627\u062a \u0633\u0648\u0642 \u0627\u0644\u0623\u0633\u0647\u0645 \u0627\u0644\u0633\u0639\u0648\u062f\u064a - \u062a\u0627\u0633\u064a",
-      "category": "Cement Industry",
-      "keywords": "",
-      "sector": "Cement",
-      "dealType": "Acquisition",
-      "value": "",
-      "date": "Sep 28, 2026",
-      "dateISO": "2026-09-28T14:37:06"
-    },
-    {
-      "title": "CEMEX stock gains 2.10 percent after insider share purchase - AD HOC NEWS",
-      "summary": "CEMEX stock gains 2.10 percent after insider share purchase AD HOC NEWS",
-      "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxQV3hkVmFlOTkwY1ZnTzlDLTR6SzRkNUE1cldudUVVeGpOYW1Qel9Wc2swOExCLWY5NzFSd2pkaVdrTGsycVF5cnRDUFo0d1RmWGFzaEpGQmkxdlV1WHhmenNwSWY0VzQ5ZHdHYzRoRVIwWVlTOWlHNkxLRWZlZHRNQWFqamcyTnhQMFBTTGZ5OUFMRlJiTm9ocFg1cWdOTGpCWUVGekhBVkpSbzFQcF9uRkFqa3RnZkE5aEE?oc=5",
-      "source": "AD HOC NEWS",
-      "category": "Cemex",
-      "keywords": "Purchase",
-      "sector": "General",
-      "dealType": "Acquisition",
-      "value": "",
-      "date": "Sep 28, 2026",
-      "dateISO": "2026-09-28T12:43:38"
     }
   ]
 }
