@@ -1,22 +1,35 @@
 {
-  "fetchedAt": "2026-10-30T18:22:53.098677",
-  "totalArticles": 178,
-  "newToday": 26,
-  "duplicatesRemoved": 19,
+  "fetchedAt": "2026-10-31T17:29:37.198357",
+  "totalArticles": 175,
+  "newToday": 27,
+  "duplicatesRemoved": 20,
   "archiveDays": 30,
   "articles": [
     {
-      "title": "Terex to acquire Keestrack - Agg-Net",
-      "summary": "Terex to acquire Keestrack Agg-Net",
-      "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTFBGMkV6MUFGaS1sQTVpYjNQWVc4X2s3eHYyQUg1c2xaNGNZUi15cTVlVEI0NDZBbnhNUWpUQWNkdXRXRVpHUUppZVBhY3F0WExhRHlmTjVxNzA1Ry03b1lLbUM4Yl9ZOEdp?oc=5",
-      "source": "Agg-Net",
-      "category": "Aggregates Industry",
-      "keywords": "Acquired, To Acquire",
-      "sector": "General",
+      "title": "Competition Commission of Pakistan Approves Maple Leaf Cement Share Acquisition in Faysal Bank - TechJuice",
+      "summary": "Competition Commission of Pakistan Approves Maple Leaf Cement Share Acquisition in Faysal Bank TechJuice",
+      "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxNUXgyMWVDTGthOWFkcUNvTDJnbGJsbERlejd1WGNfcllfdFAxQkZSbld1c1l3WFZNR2pBNWdodVNBN1VOS04wbkxDdWpUMjh4bDRnQUpCSmE0R0JIdVlqUVFpUzhRZDlvbDlaT0dGYkVpUUlMbzN2WFliNkU1V3licjl2MHM0SHNLaVZwSWd3dzVRSjlmdGswZmRxYVRWRDY0Q2tHeDNjNV9wMGR5Uzdjd0NGd3NsODdCeFdqZA?oc=5",
+      "source": "TechJuice",
+      "category": "Cement Industry",
+      "keywords": "Acquired",
+      "sector": "Cement",
+      "dealType": "Acquisition",
+      "value": "",
+      "date": "Oct 31, 2026",
+      "dateISO": "2026-10-31T12:13:51"
+    },
+    {
+      "title": "Terex acquires Keestrack - Pit & Quarry",
+      "summary": "Terex acquires Keestrack Pit & Quarry",
+      "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE5uOFZhaGhfaGJFQ3V6angtQ3BrdWZNMVRPSHJ4cy04VmhNbThKblp5c1MwWEF1RkhZTUJSTTVQNnVRMC1iaWF6WVZLVXI3Z0tjY19zY3R4WmFGZGVuVDVEX01PWXg?oc=5",
+      "source": "Pit & Quarry",
+      "category": "Pit & Quarry \u00b7 Aggregates",
+      "keywords": "Acquired",
+      "sector": "Aggregates",
       "dealType": "Acquisition",
       "value": "",
       "date": "Oct 30, 2026",
-      "dateISO": "2026-10-30T15:48:05"
+      "dateISO": "2026-10-30T18:49:31"
     },
     {
       "title": "Penny Stocks: CVAT, VRDR, AIBT, NXGB Highlight Acquisition Offers, BioAsphalt, AI Robotics and More... - openPR.com",
@@ -43,6 +56,58 @@
       "value": "",
       "date": "Oct 30, 2026",
       "dateISO": "2026-10-30T15:41:09"
+    },
+    {
+      "title": "Anup Engineering acquires 10% stake in Arvind GCC for \u20b910,000 - scanx.trade",
+      "summary": "Anup Engineering acquires 10% stake in Arvind GCC for \u20b910,000 scanx.trade",
+      "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxPUGhGYmlvUE02LW5fZ0thWnhzR256Q2V4NVhiNjZ2Mlp6RjItemptTXNLcmJOUE1ReHBIUmdlb1JrdHZTWHZvckZna3ZpbDI5UmdlaWl5Y05GWUpPQUQ5ZHM4eWFRd0V6RXBBSS1WR0dGQ183b2hybzgtZTBtYjNJUTN3YVhrX1JESVh3ZWZPV3JuOUlvQjJJWmJqNFVhNGlONWxsbUFhSHJhRFhMLUE?oc=5",
+      "source": "scanx.trade",
+      "category": "GCC Cement",
+      "keywords": "Acquired",
+      "sector": "General",
+      "dealType": "Acquisition",
+      "value": "",
+      "date": "Oct 30, 2026",
+      "dateISO": "2026-10-30T14:28:18"
+    },
+    {
+      "title": "Huaxin Shareholders Approve Acquisition of Holcim Philippines at Extraordinary Meeting - TipRanks",
+      "summary": "Huaxin Shareholders Approve Acquisition of Holcim Philippines at Extraordinary Meeting TipRanks",
+      "url": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxNUHQ2MHR3ekd3bDBYcVpFMjdZMnhoME5RR056Mlh4bU5lOVY1Ym00Zjg3NGI3ME1id2xFSktKcVZ2VDhWTWtDem1VTHRZS3FBM2RhYndzbmYyTkUzNEtGZGZaTkFnOVFhUEt5SHhqaWNiVTE3M2FiU2xPUjdYcUZ4bnV3cnl0c2w4aldBSTRZbmxTdm00d0R2SU12Y2E4R1pSNUdMZWxHOTZ4YWtBeFRvM1VxSGhYNXhMOFYzUGoyeGxtbjhSNkRMTXUyajFYS2xwN3FuVg?oc=5",
+      "source": "TipRanks",
+      "category": "Holcim",
+      "keywords": "Acquired",
+      "sector": "General",
+      "dealType": "Acquisition",
+      "value": "",
+      "date": "Oct 30, 2026",
+      "dateISO": "2026-10-30T14:22:44"
+    },
+    {
+      "title": "Private Company\u2019s Incidental Benefit Cannot Invalidate Railway Land Acquisition for Public Purpose: Chhattisgarh High Court - Court Book",
+      "summary": "Private Company\u2019s Incidental Benefit Cannot Invalidate Railway Land Acquisition for Public Purpose: Chhattisgarh High Court Court Book",
+      "url": "https://news.google.com/rss/articles/CBMi4gFBVV95cUxOLWRmVFhWTmZHeEthTXB1QjQ3U19XdjRmWjN6bDl0bjd5bGtCT0xHNTNYVkNpVm05NDZxQ0d4d2lrMEMzQmNfOG1EVWE5bllhcklNb3pXaVh2dDYxYUxhNXJ5RC04cGtrdERUMDVjcUg1LUN3Vy1iSVVmMWc3aDU2anBCcGNHSnlxd3pna1hGYmY5RkdKd09ieEFGM2dOUDJKcHhyREZ5bmJXOUZQczd0bWFBOVdzOFpwdmphQTJxMGc4N3FWR1IwQU92QkZxVTdzY2tEMmhHQ2cxdV9zcDBsR1ZR?oc=5",
+      "source": "Court Book",
+      "category": "Cement Industry",
+      "keywords": "Acquired",
+      "sector": "General",
+      "dealType": "Acquisition",
+      "value": "",
+      "date": "Oct 30, 2026",
+      "dateISO": "2026-10-30T08:14:59"
+    },
+    {
+      "title": "Land Acquisition Can Be For 'Public Purpose' Even If Private Entity Derives Incidental Benefit:... - Live Law",
+      "summary": "Land Acquisition Can Be For 'Public Purpose' Even If Private Entity Derives Incidental Benefit:... Live Law",
+      "url": "https://news.google.com/rss/articles/CBMizwFBVV95cUxNc2dQazM4eTNTZWYtT3JjczNKc1JjMURTX2s0Q0lzeWRBMlZUYmRtbmcxaEQ4aHR1MkJRbGRDNkdUWEJHUTBsNUdEQ2FRY1k3QjctNnNFWjB3ZGZuNEt4U3JLRF9jd1lyVmtURzV6bHhiVnMzbU9PeWdqaXZtYnBaV0p1ZFVXTjRvb1FpYmJOYjBWSlNYem1MQzV6d0hsVGpMenFuLWtSdklLWE5HMERaTm9QYzBERW5qdk1sVUtOelZVZkhqamI3N1FYNmhsVVXSAc8BQVVfeXFMTXNnUGszOHkzU2VmLU9yY3MzSnNSYzFEU19rNENJc3lkQTJWVGJkbW5nMWhEOGh0dTJCUWxkQzZHVFhCR1EwbDVHRENhUWNZN0I3LTZzRVowd2RmbjRLeFNyS0RfY3dZclZrVEc1emx4YlZzM21PT3lnaml2bWJwWldKdWRVV040b29RaWJiTmIwVkpTWHptTEM1endIbFRqTHpxbi1rUnZJS1hORzBEWk5vUGMwREVuanZNbFVLTnpWVWZIampiNzdRWDZobFVV?oc=5",
+      "source": "Live Law",
+      "category": "Cement Industry",
+      "keywords": "Acquired",
+      "sector": "General",
+      "dealType": "Acquisition",
+      "value": "",
+      "date": "Oct 30, 2026",
+      "dateISO": "2026-10-30T07:38:14"
     },
     {
       "title": "Coloray Seeks Shareholder Backing for Strategic Acquisition to Cement Control of Pigment Trader - TipRanks",
@@ -82,6 +147,19 @@
       "value": "",
       "date": "Oct 29, 2026",
       "dateISO": "2026-10-29T16:21:37"
+    },
+    {
+      "title": "L.B. Foster expands wastewater footprint with Dulworth acquisition - TipRanks",
+      "summary": "L.B. Foster expands wastewater footprint with Dulworth acquisition TipRanks",
+      "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxQZ2NwZTJDNnVwWE9TdGZ6Zmo1LTZVdzhEMXJYQ0djRlUtNFZzWWtYMkRKLTZmd3lyRUFidndva3V5SlhWS2YxX2NvY2lSWjlBUUZPOWxBcTgyNWMyLW54SGE0TGRVbF9PdWZ4SkdnSTlGOW83cTdUQ1dlT3oyUlN4VlpGWWJYX3ExZTNBdzlyeFFqbE5QNFR0QVZNOWNTVTlmMVhiVXdhc3RyOVlUalhPMWVIek1Bc0p5?oc=5",
+      "source": "TipRanks",
+      "category": "Precast Industry",
+      "keywords": "Acquired",
+      "sector": "General",
+      "dealType": "Acquisition",
+      "value": "",
+      "date": "Oct 29, 2026",
+      "dateISO": "2026-10-29T12:28:48"
     },
     {
       "title": "L.B. Foster Acquires Dulworth's Operating Assets for $52.18 Million - TradingView",
@@ -1126,15 +1204,15 @@
     {
       "title": "Heidelberg Materials Prepares for November 4 Trading Update With Nordic Deal in the Pipeline - ad-hoc-news.de",
       "summary": "Heidelberg Materials Prepares for November 4 Trading Update With Nordic Deal in the Pipeline ad-hoc-news.de",
-      "url": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxOV3RnaEx2ZnJOc3psVjRzcTlLNHRKcFRtT1phVk5DV1BsT042M3pHYm9mQUcwcjNHNWx0dmU0b1BnMGhaUnU4aS11TVNaSkdhOFdydDlpYndwZ2RFWWFVVm56MjBiTlNvc254YTFzbXNSOXZSaTRCWDFlelFpS2JaSlZBOE45RmRwZWtnbklqNld0dXN4Uy1zZ3o4V3lQcVhaM28xNGFmMHdJSXY3TmM4UGhsRWl1T1RYbXFOMzhzSVk5STJGSzlhQldDRmJQQXpyX2Y2ZkNtdlNFTmM?oc=5",
+      "url": "https://news.google.com/rss/articles/CBMi9wFBVV95cUxQa3FsQzVGbW81SWhqWVpaSmNiSXo5dE1uc25DQ3plVUNjWVNldzJHcmEwV1JkYXZqRkgwR29PY01JVEtyTWpXMjVrVmtHNEpDTHFDMWx2RVJDNzdhTDduS195OFZPWU10NTRyR2pqcDdlZ0pBcFNibDREcTJKeS0zaDhWQnJhaG1XZTJOLTB0ZFlCRGExODZJb1J0Vl9YWnZhSEJmeU5RSkNhcVBRME8zczJhYl9sR2FaXzhhRDJNNk05aEFKRHJ2dFZISFRLS29taXQ0a25wZGJzY0pKOGlnTFgyLXM0UG1ia3pheTV5WjA4ZWp4NkhF?oc=5",
       "source": "ad-hoc-news.de",
-      "category": "Asphalt Industry",
+      "category": "Heidelberg Materials",
       "keywords": "",
       "sector": "General",
       "dealType": "Acquisition",
       "value": "",
       "date": "Oct 14, 2026",
-      "dateISO": "2026-10-14T02:50:29"
+      "dateISO": "2026-10-14T07:00:00"
     },
     {
       "title": "Pa. sues to block Colas acquisition of Suit-Kote over road-maintenance costs - MLex",
@@ -1213,6 +1291,19 @@
       "value": "",
       "date": "Oct 13, 2026",
       "dateISO": "2026-10-13T08:18:10"
+    },
+    {
+      "title": "Ambuja Cements ACC Merger NCLT Hearing Date Set - Kalkine India",
+      "summary": "Ambuja Cements ACC Merger NCLT Hearing Date Set Kalkine India",
+      "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxQZXlwaENPTGtPdWtLTEI2bG9yanF6ZktKMW5mX2QwbEdOTE5tYjlVWFBKUmlOOWZGSkVCdEZpQWRFemZsLUpWZDN4VGZETk44MTV0dk51RWhtdGQ3SGV3TUR5Mlh5T3B1MUk4RWVFQ1B5UWVYWlVfcWVGcDZCRU1rTDU3dTZxVzM5cWJEUDZZVC10azZWQXhjUlNtWDQyUUs5ZmhDZHVnQ3dHOEk2a0tUeDk4aXFJT005Y3Br?oc=5",
+      "source": "Kalkine India",
+      "category": "Cement Industry",
+      "keywords": "Merger",
+      "sector": "Cement",
+      "dealType": "Merger",
+      "value": "",
+      "date": "Oct 13, 2026",
+      "dateISO": "2026-10-13T07:00:00"
     },
     {
       "title": "Huaxin Building Materials Calls EGM on Holcim Philippines Acquisition - TipRanks",
@@ -2188,136 +2279,6 @@
       "value": "",
       "date": "Oct 01, 2026",
       "dateISO": "2026-10-01T17:36:56"
-    },
-    {
-      "title": "Vicat Targets French Market Expansion With Massive Cemex Asset Buyout - YouTube - t.co",
-      "summary": "Vicat Targets French Market Expansion With Massive Cemex Asset Buyout - YouTube t.co",
-      "url": "https://news.google.com/rss/articles/CBMiO0FVX3lxTE9BUjQtd3F1TlRYN2pYSW9uNmlWTnp5SkwtRkptMnh1WExpWS1DYXdDaU5yUGhvVnJndmIw?oc=5",
-      "source": "t.co",
-      "category": "Cemex",
-      "keywords": "Buyout",
-      "sector": "General",
-      "dealType": "Acquisition",
-      "value": "",
-      "date": "Oct 01, 2026",
-      "dateISO": "2026-10-01T14:24:38"
-    },
-    {
-      "title": "UltraTech acquires additional 8.7% stake in Star Cement: Brings ownership to up to 21.84%; Aditya Birla and... - Bhaskar English",
-      "summary": "UltraTech acquires additional 8.7% stake in Star Cement: Brings ownership to up to 21.84%; Aditya Birla and... Bhaskar English",
-      "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxPVW1VTDNwNVVNM2hjcmVFbTNIWFRtbHY4cUlwQXNaYk5NMHAyNE5tVnhyVmZoemxtWV84aV9IRldWd25rSXRWZGNHejl6N0Rwd0JoSTlpeUJKQ2FrTUZsVERoaUtyb1VNejJta2NjNjVUQUJaVzZQZmxFcllnWl8zaExjYjg4YUIwZGt4UU5VTEVIUU9PMV9aWENxNl9OeEM4ZXc0TFB1ZVZBemwzeG92S2Vn0gG3AUFVX3lxTE9qQ29SaEowQ1V2Q1ZHMC1XTFVqa2xUY0s2VVFFS2E0MEpiZHI3YUNpMEJPaDFJcGNZQTh6NmZOWkthQTBHMjZGd0dFTEtNalpoY3VWU093Y3FUQWRtQTZOUDhpcDU5OHk2aEU0cW8zOTFnOU1LT1QtQ1cwS29MQWpQR0FoQlN2cUs5VzNua2FLNGxoZnQ0YktnUE5Tb044Vlo3TFVJcURLM1lJQldFazF0bG5TdXdaQQ?oc=5",
-      "source": "Bhaskar English",
-      "category": "Cement Industry",
-      "keywords": "Acquired",
-      "sector": "Cement",
-      "dealType": "Acquisition",
-      "value": "",
-      "date": "Oct 01, 2026",
-      "dateISO": "2026-10-01T12:00:45"
-    },
-    {
-      "title": "Vicat in talks to acquire Cemex assets in southeastern France - CemNet.com",
-      "summary": "Vicat in talks to acquire Cemex assets in southeastern France CemNet.com",
-      "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxPcDd2T09wRFRHWHZNNGs1ak9kbUNKbUswVVlXZTRtdFU1NmpOV3dETFhpSXQzQ2ZwQ0poU1V6SmFMakVEeElSVGdDSnU5NHVIYkRqdkc2d3RYUXZ5Y3NKVV9od3dieEhVYW0yWWR1M0FnZE9LNTlHd1lhN3l3QVcxelZsNjRIUlpvSFBHaW9NU2l3VGJFMWpNU0xPU09VclItLWlUMVdZVE9sME0?oc=5",
-      "source": "CemNet.com",
-      "category": "Cemex",
-      "keywords": "Acquired, To Acquire",
-      "sector": "General",
-      "dealType": "Acquisition",
-      "value": "",
-      "date": "Oct 01, 2026",
-      "dateISO": "2026-10-01T07:45:00"
-    },
-    {
-      "title": "Vicat in negotiations to acquire 48 concrete plants from Cemex in the South-East - Ideal Investisseur",
-      "summary": "Vicat in negotiations to acquire 48 concrete plants from Cemex in the South-East Ideal Investisseur",
-      "url": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxQbEsyZzFoWFZKSGRuTjY1WUZFZWxNVVlUby1UY3FkeWVmWEJZWHVxNWlIRmxVRzUydFF1dURhOTc2MHcySmxlX3ZfYmdEM3hodjVKRzRBS3g1OXZFcl9BZHpsTFlSSGMzSkVFVUFCNVE2NGZNckRENkg2TXJmN0xpRGlyRnBkMzhwYTFIZEoyNk9LSGhCNTh2VTl4ZjNhRU8zTTU3Sk5QUWUtTjJiVUhCLVpVNEJfVWlwaXBGX2tUNHZPZ0wyWTdEUzdHS2tCWjdqU2JES3l3?oc=5",
-      "source": "Ideal Investisseur",
-      "category": "Ready-Mix Industry",
-      "keywords": "Acquired, Investment, To Acquire",
-      "sector": "Ready-Mix",
-      "dealType": "Acquisition",
-      "value": "",
-      "date": "Oct 01, 2026",
-      "dateISO": "2026-10-01T07:37:00"
-    },
-    {
-      "title": "India: JSW Cement consolidates operations through Shiva Cement merger - BigMint",
-      "summary": "India: JSW Cement consolidates operations through Shiva Cement merger BigMint",
-      "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxNU3FwRkJsSUpEVGtkZTNUNEJJckJmZWZTVUduNk1RRWNzSi1YaExfZWVXOWp4VUhPc20zMUpXX1NLRFNiM1FLNlRGZkxDZkRxY2RPazRxa2swQ1VKYWgtcGtWYnRfOEQ4WmFZNG1hRVlMNHhfUm1tLTRNdllwVHA2X2FJTEM3N1d4Mmw5NmR0LVdrOE5BS2lnMG9PeExxeUh3VGVpN3JXejhLMVNGb0pj?oc=5",
-      "source": "BigMint",
-      "category": "Cement Industry",
-      "keywords": "Merger, Consolidation",
-      "sector": "Cement",
-      "dealType": "Merger",
-      "value": "",
-      "date": "Oct 01, 2026",
-      "dateISO": "2026-10-01T06:33:38"
-    },
-    {
-      "title": "Proposed Acquisition By Vicat Group Of Cemex Group's Ready-Mix Concrete And Aggregates Businesses In France - tradingview.com",
-      "summary": "Proposed Acquisition By Vicat Group Of Cemex Group's Ready-Mix Concrete And Aggregates Businesses In France tradingview.com",
-      "url": "https://news.google.com/rss/articles/CBMiiAJBVV95cUxQTF9CaGNOZTQwczZmTmdMODZmbkRTbDhnTDZxRGpuelowU3dtZ1o1dVRDZWJnbXBkVUtQOTAwWUU4eklFb2NUTVdpUWowNGkxY1FQdjNLX1htX0hCRDBpSHBJdlE0N2pEMy1BZk5lZ1VaVDZVMEFKMkJpSXFCNTl3dDFHalJZY053d3VLTnFBcE95VzhKcEZTY1ROdTlCVXlBMW4xV3hablV3TVdrMWNQekdSdzB4c2o3MWNBRi0xUG0wamNhbF9sdUxuYW1Lckp6VFdLUGdIU3hFVEtGUG1pc1A5SW92UHBkTVRMRnpkVHB5VmE4cl9heExVQjZwVkgxclNIWDV2U1I?oc=5",
-      "source": "tradingview.com",
-      "category": "Ready-Mix Industry",
-      "keywords": "Acquired",
-      "sector": "Multiple",
-      "dealType": "Acquisition",
-      "value": "",
-      "date": "Oct 01, 2026",
-      "dateISO": "2026-10-01T06:05:00"
-    },
-    {
-      "title": "Vicat - Proposed Acquisition by Vicat Group of Cemex - GlobeNewswire",
-      "summary": "Vicat - Proposed Acquisition by Vicat Group of Cemex GlobeNewswire",
-      "url": "https://news.google.com/rss/articles/CBMipgJBVV95cUxOMXdsWXM3MGVkd1RUeHpadHJWX1VTTkhlaWlZRUgxVzVmWDBUSzluM1lKX29PTklGcmE0U1NxdFc0ZjY0ZVVCOHNvSTk0cWhFd0RROC1uRmRhQ1lxUE1EbUxXUEtJOXZNOHZSVFhvdkxwcEx2V1JxMXNNa3Q1ZWhESlVpMFNrdi1PV3B0MFpUVEFvMnhBSDVtTzBhSXJBV3gxNW5WZUZwakRNQWVVOERxQTM3VlJyci1BaGhkTldjOHdMSlJvTG9iZWFHR1h3cW5qWE9ES3MyWXAxRlhSbGx2bzZMUTNhTEUyYWZCOXphMlFLalNqc1ZNV0MxUmlJSHVYNWNQVGZqWS1zZGVRMEFFNldzRUNQLWFmWkJJU1NyM0RzV2ptSEE?oc=5",
-      "source": "GlobeNewswire",
-      "category": "Aggregates Industry",
-      "keywords": "Acquired",
-      "sector": "General",
-      "dealType": "Acquisition",
-      "value": "",
-      "date": "Oct 01, 2026",
-      "dateISO": "2026-10-01T06:00:00"
-    },
-    {
-      "title": "Vicat - Proposed Acquisition by Vicat Group of Cemex Group's Ready-Mix Concrete and Aggregates Businesses in South-Eastern France - Yahoo Finance",
-      "summary": "Vicat - Proposed Acquisition by Vicat Group of Cemex Group's Ready-Mix Concrete and Aggregates Businesses in South-Eastern France Yahoo Finance",
-      "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxPbVRrNF9fVDN1clJ3VlhYekFqS0xOUkhNZktQZEFjZ1hRNXU1eGVXdVczRy1hUGNDVm5Gb1dvaXl6SXlheTd6WXVFcHNETXNyNHRtaTVyUTltUlhVRklhMk5iQ1NEOHVVOE9hSU5rUWppN0dVdGZBX3dZd3RRS3FaMVd5NlAzeGQzVnNvTGdSTWR0LVFlNFduaC02U1V0ZVVRTDhkc0tR?oc=5",
-      "source": "Yahoo Finance",
-      "category": "Ready-Mix Industry",
-      "keywords": "Acquired",
-      "sector": "Multiple",
-      "dealType": "Acquisition",
-      "value": "",
-      "date": "Oct 01, 2026",
-      "dateISO": "2026-10-01T06:00:00"
-    },
-    {
-      "title": "TCC Group targets Ukraine's postwar rebuild with cement acquisition - digitimes",
-      "summary": "TCC Group targets Ukraine's postwar rebuild with cement acquisition digitimes",
-      "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxPaExFX25OWkdTZGJXMW00cThpWENJZEkxWjVXVmJIckJidGUzb3RSbjVHR2xGcnJYVXIyMFBPLTVOcnlDcHpWbC0xYWt5bDlsZkV2SVBteFdIRDBuWE1tSmExbUhRQUxYZnJIN2pXZHZHdUcySkVVNXhvTDVBM3A2VE5mM2t3Qk40aFlGaGtuYmo?oc=5",
-      "source": "digitimes",
-      "category": "Cement Industry",
-      "keywords": "Acquired",
-      "sector": "Cement",
-      "dealType": "Acquisition",
-      "value": "",
-      "date": "Oct 01, 2026",
-      "dateISO": "2026-10-01T04:02:10"
-    },
-    {
-      "title": "ACC-Ambuja merger moves ahead: What investors should watch next - financialexpress.com",
-      "summary": "ACC-Ambuja merger moves ahead: What investors should watch next financialexpress.com",
-      "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxQUC05X1JTWHRXdzczZWFzeHhBU0c5aUhsOXBJNFI1SktBQl9GcjJ3bmExaGljWW9mQWRpUGJwNlFVMGNUVTNiZ011dE9HYnF1Y1I1VFF6cDQ5V1lGenVyTERYaGxxUHhCNGotWFpweXpMN2dvWDJ4QnVxbUV0c1FoeWJMTWF0ZUo5MHBxR29wNXBWUUE5MUVpZ01LVnNKazhWMEJPQzctTzcyOGI2eW80ZmloYmprbUNxdUwtSUcyUm53TU420gHLAUFVX3lxTE1qbHY0SDZiallGcEw1dnlGb1ZWdFluQkJuOUdLbWdyQVQtc1hhcjBNR3lBR2d4N3ZEaVo2aFhhcG0tTFBQYl8zSEN2Rjhfdy1Jazk0MjE2V29XeVVRYUk0VU9Uc3h1X3BzMXVnLTVMX0dIQTJTcjZ5bHVVaGdXbzBWbHBvaFVweWg5R1UxTUMzekJZaGt6cEhnQkpSMkdQWjBNMlpITXptT2I1RmJZX1l5NjVOd2RSSWotbl9KTGpVRjZTNDhHcFRiMEhZ?oc=5",
-      "source": "financialexpress.com",
-      "category": "Cement Industry",
-      "keywords": "Merger, Investment",
-      "sector": "General",
-      "dealType": "Merger",
-      "value": "",
-      "date": "Sep 30, 2026",
-      "dateISO": "2026-09-30T23:35:00"
     }
   ]
 }
