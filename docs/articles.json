@@ -1,10 +1,36 @@
 {
-  "fetchedAt": "2026-11-02T22:04:45.472095",
-  "totalArticles": 165,
-  "newToday": 24,
-  "duplicatesRemoved": 21,
+  "fetchedAt": "2026-11-03T19:56:16.891908",
+  "totalArticles": 173,
+  "newToday": 28,
+  "duplicatesRemoved": 20,
   "archiveDays": 30,
   "articles": [
+    {
+      "title": "Metromont Acquires PTAC Engineering to Expand Precast Design Capabilities - Construction Owners",
+      "summary": "Metromont Acquires PTAC Engineering to Expand Precast Design Capabilities Construction Owners",
+      "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxOaWh0blZzbFVCMldNQm9za2FkX0MwVy00QWdVU3pKUE0wMXFUYzBPZC01TGZabjJUOUtOeTJaY2REeFFDblJVSXhZZFBaZjZlR3B4eDNVaFRfSlJwdEJfa3FKV1V6TzctRC1mdFhoajNoZElRQjUtSURuNzgxX2I2X0VsU2pULXhOMjFhVkp4QUZub1NxVG40SjR3QVdqbG9hSWluQi1OOTFIOW9UUDVnSHJJQk9rZE41NzUw?oc=5",
+      "source": "Construction Owners",
+      "category": "Precast Industry",
+      "keywords": "Acquired",
+      "sector": "Precast",
+      "dealType": "Acquisition",
+      "value": "",
+      "date": "Nov 03, 2026",
+      "dateISO": "2026-11-03T16:38:06"
+    },
+    {
+      "title": "Cherat Cement agrees PKR24bn Nimir acquisition - CemNet.com",
+      "summary": "Cherat Cement agrees PKR24bn Nimir acquisition CemNet.com",
+      "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxQV3Rrb3E5eklERnJXaUtvUzVJU3NtQmdXcHNjbDU3UmhEdzc3UGFOZTk0NWVWd01Ibnp0em9YOUdhRW5FZm5oRU5yRmU2Ql96dTdDUnFhakZTVHdxLUNVWndHR1hNT1hkMUVSYlFqRkwtTnRMQTVFMk13STN4akpUaXFKWWtnX0U5SWQ2M1ZKMkFOX05nM1F3?oc=5",
+      "source": "CemNet.com",
+      "category": "Cement Industry",
+      "keywords": "Acquired",
+      "sector": "Cement",
+      "dealType": "Acquisition",
+      "value": "",
+      "date": "Nov 03, 2026",
+      "dateISO": "2026-11-03T06:31:25"
+    },
     {
       "title": "Terex Corporation to acquire Keestrack - Equipment Journal",
       "summary": "Terex Corporation to acquire Keestrack Equipment Journal",
@@ -17,6 +43,19 @@
       "value": "",
       "date": "Nov 02, 2026",
       "dateISO": "2026-11-02T13:59:35"
+    },
+    {
+      "title": "Weekly Recap: Q3 results miss estimates and Rapid Redi-Mix deal closes - TradingView",
+      "summary": "Weekly Recap: Q3 results miss estimates and Rapid Redi-Mix deal closes TradingView",
+      "url": "https://news.google.com/rss/articles/CBMiywFBVV95cUxNYUhlRXVfMzBPV2JMVjBiUDhQOTdDckFJOERyUkhlNmRfRzZSRUtacmlFRFNSbXh6UEphTmlwQVY1VS14Uzlsd08xOWo5aUlQdk1pMlp2dE1aWkpLMG5nVXNfZ1NDSHBHSWVEcHo4UDB2aUpsNW50S1VKaS1leFFNcDg2NFR0LWVDOGJCYXQ3QXEzbVFLUTNlaEVtU3pEV3BWVzJ1UDdjN3F5TGlOSXlKYkZrbHowWWNNTjg3QWRlSTAxbWM2Rkl3el94Zw?oc=5",
+      "source": "TradingView",
+      "category": "Amrize",
+      "keywords": "",
+      "sector": "General",
+      "dealType": "Acquisition",
+      "value": "",
+      "date": "Nov 02, 2026",
+      "dateISO": "2026-11-02T11:00:00"
     },
     {
       "title": "Rathfarnham based CRH agrees Nordic building materials takeover - Echo.ie",
@@ -32,6 +71,19 @@
       "dateISO": "2026-11-02T09:35:17"
     },
     {
+      "title": "Huaxin advances US$2.33bn CSN Cimentos acquisition talks - CemNet.com",
+      "summary": "Huaxin advances US$2.33bn CSN Cimentos acquisition talks CemNet.com",
+      "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxNMmpzWWxDMmk5cW9HWmRPUXN2ZktwYnV1Y3RjRXVqeUdOcWpYX0FCMFB3ZHRwRl9PUmF6SWxIeDh2WXVTcjc1enJfVTFFMktaR2piOWkyT2VSRFJ3QjRvZkh2eWZPQW1BTWQtNmhKeEpCUGZ4R01HR1hLVkpCQ0F2UlFlenNYRmdFS2tlZFVFSm1KNnhHTFhZY21zZE5fMVU3MEd5MQ?oc=5",
+      "source": "CemNet.com",
+      "category": "Cement Industry",
+      "keywords": "Acquired",
+      "sector": "General",
+      "dealType": "Acquisition",
+      "value": "",
+      "date": "Nov 02, 2026",
+      "dateISO": "2026-11-02T09:03:30"
+    },
+    {
       "title": "Cherat Cement signs deal to acquire 64.07% stake in Nimir Industrial Chemicals for Rs 24 billion - Profit by Pakistan Today",
       "summary": "Cherat Cement signs deal to acquire 64.07% stake in Nimir Industrial Chemicals for Rs 24 billion Profit by Pakistan Today",
       "url": "https://news.google.com/rss/articles/CBMi4gFBVV95cUxQRi1WZTRXcEZKbEk0Wm9JX1dlUkNDdEtXZTFpS2hvQzF3VUhzUW96VWFIaVo5d29lcGRZTk9sYl9rendBSFpZOFN5TzU4RmJVM3AtenZqOWs4VTg5REFTZkpXYkM2UVh5S0ZFa1ROdDdKX25uTFBMN2Zzd0hVNmFJWmF0TWxKVlh4ajNLZnE1Z21jSHdCU2t3R1F1Ylk0QjlSV3dPTkZiajZTb2FSdm9uV1lLTG9XT3I1UklWbERIQnpjNnROeW5uc1J1d0wzaDBXQ0MwXy1XTEpXV2FTcjlNZ1JR?oc=5",
@@ -43,6 +95,19 @@
       "value": "",
       "date": "Nov 02, 2026",
       "dateISO": "2026-11-02T06:07:44"
+    },
+    {
+      "title": "Cherat Cement agrees to acquire majority stake in Nimir Industrial Chemicals for Rs24 billion - Investify",
+      "summary": "Cherat Cement agrees to acquire majority stake in Nimir Industrial Chemicals for Rs24 billion Investify",
+      "url": "https://news.google.com/rss/articles/CBMizgFBVV95cUxPQ2s2a3JBWTJaa1kybWIybV9sZW4xSTJpdXZIVEEzMmZDQlB5ODNoOXpqNlFhX1pTNmZyTHFFbW5RUkp6cXJaYm5jSzN6bzRzbnRrSHR1VDVUai11TTdGWTdfN091cnpyejBOZTlDemVLcGE3bnlGcEJIVUdDenl5aXFYMnNSZk16Z2RRS3BfSkFMRm9vMTRERjQyUF9NSW5faFZDOUhsTEFfR2kzLUU4aUtfUnZtQTBZTWdyVW1IM3lfWE9zOFpMbF9BTUxxdw?oc=5",
+      "source": "Investify",
+      "category": "Cement Industry",
+      "keywords": "Acquired, Investment, To Acquire",
+      "sector": "Cement",
+      "dealType": "Acquisition",
+      "value": "",
+      "date": "Nov 02, 2026",
+      "dateISO": "2026-11-02T05:24:38"
     },
     {
       "title": "Holcim buys France's Cem'In'Eu, adding 0.48Mta of grinding capacity - Dealroom",
@@ -266,6 +331,19 @@
       "dateISO": "2026-10-29T09:39:43"
     },
     {
+      "title": "Ambuja Cements Q2 FY27 Investor Presentation Highlights Capacity Expansion and Merger Progress - Kalkine Media",
+      "summary": "Ambuja Cements Q2 FY27 Investor Presentation Highlights Capacity Expansion and Merger Progress Kalkine Media",
+      "url": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxNc2pQU1Etd01CQnJnMWJEaGxEaG9TTU5EYk9UaEdXRFpZazkxZ0RhZWU2clZOZE5XcFI1VzhVN3JwREllTE42WnVjQ3NIRV80aG5zOG9JdkItb2VJeWUyVW5sRGpfazZFdlYxc0tkdWJMejNDQmsybmt6UFIwd2Y2MTQ1Y2VFbVN3WHRuaFNpbFEtcVhNZ1pZNElkT0lCMU9kYUZLbndqZ0pSTnowQ3ZPeXMtZkltdGtjeXBrX3pCdkxENGR5WEptbW11cnpDQlBEQ2JGajdoZGw?oc=5",
+      "source": "Kalkine Media",
+      "category": "Cement Industry",
+      "keywords": "Merger, Investment",
+      "sector": "Cement",
+      "dealType": "Merger",
+      "value": "",
+      "date": "Oct 29, 2026",
+      "dateISO": "2026-10-29T09:08:00"
+    },
+    {
       "title": "Siam Cement, PTT Global Forge $5.5 Billion Petrochemical Deal - Bloomberg.com",
       "summary": "Siam Cement, PTT Global Forge $5.5 Billion Petrochemical Deal Bloomberg.com",
       "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxNWmdmNGpCODQ3NXJxQ3JIcVNKZ3h0ZUJIQ2FoY3pmektUbUZsUldrZzliQWl1WmFhVHdELTcyTGdHZmdrN245ZEVfMm5QeXdPSXV4M0oyYzE1UkFQWXJYbWdRYmJNc2tsNUVyczV4T01HU0NMRDhLaFpZWnFsMXRuQWtrazJFWVNFRFpXSXVOMUxvYnY5TWxGVnNtM0RWTVk4WUlpTllUU0g2bGxjVjU4?oc=5",
@@ -433,6 +511,19 @@
       "value": "",
       "date": "Oct 24, 2026",
       "dateISO": "2026-10-24T22:36:48"
+    },
+    {
+      "title": "Arcosa Completes Merger and Transitions to Private Ownership - The Globe and Mail",
+      "summary": "Arcosa Completes Merger and Transitions to Private Ownership The Globe and Mail",
+      "url": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxNNmhJQXhwSnZJWHB4OXZHbEZlYVQ2amR1c09GbHhwZkdoMERqNEo5dmY5XzNBajRBWFRBMlUzS0gtVk52aDJ1NW1mNTlzNXN4R3ZvV0xfTXJOTS1IWHVfZWVaQUtaUkJad3dPTG9SVHpDdGtfTDhBR0lIcWJNZ3ZSSGtvUjBJeE44dXFjWXBwQjFvMFF1RnNkaG5KNXBtaFN0RV9lNzlROXN4NjFrX2FQMWJaWXI4TXlEcnRINzViemJhMG81N3hkemRyZ0dHeXhrYkZPcmlNU3c4bl9r?oc=5",
+      "source": "The Globe and Mail",
+      "category": "Arcosa",
+      "keywords": "Merger",
+      "sector": "General",
+      "dealType": "Merger",
+      "value": "",
+      "date": "Oct 24, 2026",
+      "dateISO": "2026-10-24T13:48:00"
     },
     {
       "title": "New Jersey requires sale of five asphalt plants as part of proposed $8 billion merger - WRNJ Radio",
@@ -667,6 +758,19 @@
       "value": "",
       "date": "Oct 21, 2026",
       "dateISO": "2026-10-21T10:56:02"
+    },
+    {
+      "title": "MAPLE LEAF CEMENT, PIONEER CEMENT SHAREHOLDE\u00adRS APPROVE MERGER, AWAIT COURT CLEARANCE - PressReader",
+      "summary": "MAPLE LEAF CEMENT, PIONEER CEMENT SHAREHOLDE\u00adRS APPROVE MERGER, AWAIT COURT CLEARANCE PressReader",
+      "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxNZWdyMHN4aTVLaXZOWEI2QUJlZ0QzLVNMYXB1WER1Q0pvdU15Vk5MSDZIQmlnY1NSSTZkSk1RMlQ1OUNja2ZyTUNQdFRLOE4xY3plMXoyMlFkVktxN2trek01QnA1WTJ1RGVYTXVjTms1SHlNLVBPRHJfUFc1cHEzMFJCZGI1Ulotc3U4?oc=5",
+      "source": "PressReader",
+      "category": "Cement Industry",
+      "keywords": "Merger",
+      "sector": "Cement",
+      "dealType": "Merger",
+      "value": "",
+      "date": "Oct 21, 2026",
+      "dateISO": "2026-10-21T08:56:49"
     },
     {
       "title": "Maple Leaf shareholders approve Pioneer Cement merger - CemNet.com",
@@ -953,19 +1057,6 @@
       "value": "",
       "date": "Oct 20, 2026",
       "dateISO": "2026-10-20T07:19:47"
-    },
-    {
-      "title": "Maple Leaf Cement, Pioneer Cement shareholders approve merger, await court clearance - Investify",
-      "summary": "Maple Leaf Cement, Pioneer Cement shareholders approve merger, await court clearance Investify",
-      "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxNWHBrbmptMVVLc29GcUU5RldFZmF5NURnRHBIMGllajdZdGZEZG5kbmJXb2pYZmlZR3Z3NTVxWFdKS3RONWZUV2Y1aUpuaDFmT0ZXZm5qQkxzWU9YZktEMmdNTS1aZ29ncFZPSXpBeXI5N3lncDI4XzdycDdKV3NZMHlhTkZmVC1CRHRTWUZaN0RjeElWc1d6cmd1M2Y0NGhkamtWTzVualhPNDdSdkxIUFlwOUNMaEk4OVZiZTRTdVBELUk?oc=5",
-      "source": "Investify",
-      "category": "Cement Industry",
-      "keywords": "Merger, Investment",
-      "sector": "Cement",
-      "dealType": "Merger",
-      "value": "",
-      "date": "Oct 20, 2026",
-      "dateISO": "2026-10-20T07:05:55"
     },
     {
       "title": "Jamestown Suit-Kote plant to be sold to avoid monopoly - Post Journal",
@@ -1833,6 +1924,19 @@
       "category": "Cement Industry",
       "keywords": "Acquired",
       "sector": "Multiple",
+      "dealType": "Acquisition",
+      "value": "",
+      "date": "Oct 07, 2026",
+      "dateISO": "2026-10-07T07:00:00"
+    },
+    {
+      "title": "LUCK Material Disclosure: Lucky Cement consortium pre-qualified for due diligence on proposed GEPCO acquisition - Investify",
+      "summary": "LUCK Material Disclosure: Lucky Cement consortium pre-qualified for due diligence on proposed GEPCO acquisition Investify",
+      "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE1JaFdTYzBabEFqcG9McUFQQkNTR3VYaHR0ZXNFeXRQVmNNdnJQZUNLV3NBRDdYT3E3NWNUV29RRDBhRXVNdGVhamtScHQ1dTIzNzdfLXVwUDRqeUpqbFBhazNWSnZVVmdqZWc?oc=5",
+      "source": "Investify",
+      "category": "Cement Industry",
+      "keywords": "Acquired, Investment",
+      "sector": "Cement",
       "dealType": "Acquisition",
       "value": "",
       "date": "Oct 07, 2026",
