@@ -1,22 +1,48 @@
 {
-  "fetchedAt": "2026-11-05T20:27:17.027940",
-  "totalArticles": 172,
-  "newToday": 30,
-  "duplicatesRemoved": 17,
+  "fetchedAt": "2026-11-06T19:49:17.223434",
+  "totalArticles": 162,
+  "newToday": 22,
+  "duplicatesRemoved": 18,
   "archiveDays": 30,
   "articles": [
     {
       "title": "Holcim stock: Burdett acquisition expands circular construction - ad-hoc-news.de",
       "summary": "Holcim stock: Burdett acquisition expands circular construction ad-hoc-news.de",
-      "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxOVUs4THcySmRzMjR2YlhKT04tb21jOVNrNDE5eXZqM1cyQWZfZG5UbVlVMGNaTG1sYnZ4em1PWjZRTXRJbVM5bkYxellHOHZWX3F1dm9EU1VDbk5IWnFKLW5FSktrQ1RNZU00SWZWQ3F0ajRBM2taUG1OX2RxTEFUTHdaV0t0QmdwT1JVTG1yUnQyQ3VtTlpCSnBoWjlvZEl5WVd5VDlRLW9feHB6bTlrcmtpMFc2dlhySndNMXg3dENHZlU?oc=5",
+      "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxNVHJtWXZVcmQ2dkZqeklDUkhqYVBvME5pbnhtREFvc0FMMDNPZTdEcnplSzlnUVJCOTBzVnpnTWV2c0RISml2QmVTYkZibnVlZ3ZvVmZZUk9DU1lTTHV3MTNIanFCMk9jQnJNdnpJX3Y5MEJzSExKNHRKLTBJV3F1MGFzdTdFWXZVc09PZENiVG1ueUZ2UEZjeThlOXhRWWxtWU4zbmdOVkROcDQwZVdSdnNSVnJRZGdFeVdwMHpkVEZGclE?oc=5",
       "source": "ad-hoc-news.de",
       "category": "Aggregates Industry",
       "keywords": "Acquired",
       "sector": "General",
       "dealType": "Acquisition",
       "value": "",
+      "date": "Nov 06, 2026",
+      "dateISO": "2026-11-06T11:21:11"
+    },
+    {
+      "title": "ACC stock advances cement expansion as Ambuja merger moves ahead - ad-hoc-news.de",
+      "summary": "ACC stock advances cement expansion as Ambuja merger moves ahead ad-hoc-news.de",
+      "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxNRVdEMExVbkxIcVdEek5uOXllajRTcjNqRVNxZW1xdHFfd3NEZC1QQzIxSklsWTgxdFlydUJtUDA3N2hYX0cwY3pTbTZzRzBVN2QtdWJfNXhjWDRLMGZGV2kwa0RWREg0SENlZTlqZ3I2VG9YdnRJZlZaUlRIaG1MT2VJdG5USkRrRkVBOV9hbHNFVTNMaXlXbXFaS1BpS2NTUmk0a21uUURrMVpXLWE1bnB2QmtnWEdTaDFwQmdKR3k?oc=5",
+      "source": "ad-hoc-news.de",
+      "category": "Cement Industry",
+      "keywords": "Merger",
+      "sector": "Cement",
+      "dealType": "Merger",
+      "value": "",
+      "date": "Nov 06, 2026",
+      "dateISO": "2026-11-06T00:26:09"
+    },
+    {
+      "title": "Vicat (0MGJ) Boosts 2026 Sales Forecast After 10.2% Q3 Growth and Plans CEMEX Asset Acquisition - Kalkine Media",
+      "summary": "Vicat (0MGJ) Boosts 2026 Sales Forecast After 10.2% Q3 Growth and Plans CEMEX Asset Acquisition Kalkine Media",
+      "url": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxPMjhrakFfZnZVQm8tVlhfQU85Wnp0MkxTNk1oZWVKbmlzcEdnRW12Qms5MngtME1RZVdJb3BMR0lxdUdmUm0xZDRlbmo5YVVtaTYxUUhmck83MHQ2N05ZNzdqb09SWEtZa2NRUTVFTmxnbDlUNkNrOXZWMEpwNVdibEVkWVNBMHdiTVNMbDRpT3JWc3JpdXdKeTNwWk05QU1zVmY3Sk1UYTRwUGZOT0lHVDh5RVpjcnJiR1hzMG1yU3FoWkNBVXVnSVVXWFJ6VlphaGVrQg?oc=5",
+      "source": "Kalkine Media",
+      "category": "Cemex",
+      "keywords": "Acquired",
+      "sector": "General",
+      "dealType": "Acquisition",
+      "value": "",
       "date": "Nov 05, 2026",
-      "dateISO": "2026-11-05T17:19:39"
+      "dateISO": "2026-11-05T21:11:31"
     },
     {
       "title": "Construction Partners stock falls 13.7% after Piedmont Paving acquisition - Traders Union",
@@ -136,6 +162,19 @@
       "dateISO": "2026-11-05T02:13:08"
     },
     {
+      "title": "Martin Marietta Q3 Revenue Hits Record as Acquisitions Boost EBITDA - TradingKey",
+      "summary": "Martin Marietta Q3 Revenue Hits Record as Acquisitions Boost EBITDA TradingKey",
+      "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE5XMjdMdUx5U3g2TmEtYjIyUE1LXzFNYWJXbm1abWlPZXJ0T2VlaU9rUlgxYm5RWVBQVXBMTFdqZzBRbVRGRHpTMUR5YjVva3A1WTliTnZBX0lqd0pFTVlXM1lmOWE4UQ?oc=5",
+      "source": "TradingKey",
+      "category": "Martin Marietta",
+      "keywords": "Acquired",
+      "sector": "General",
+      "dealType": "Acquisition",
+      "value": "",
+      "date": "Nov 05, 2026",
+      "dateISO": "2026-11-05T00:06:06"
+    },
+    {
       "title": "Dangote Cement director acquires 280,283 company shares - Head Topics",
       "summary": "Dangote Cement director acquires 280,283 company shares Head Topics",
       "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxOUzc0NTRlbEh6TEhBLS1aU296UHd4NEFDTFczY2JCTTQySEh0SGhqbDFqSjlJVnZxTy1oajFPYmhoaEw5UHdpU2tLLVctZDZFZXUzM2dUUzNrbXVJSjkwQUNuakNoV0VJWlhxN2pjWTJFVWYtQWdaeVRSOG9zbnU3NEFTTHliVl9HeUJmQmtralktOHExcjAyQUxQTQ?oc=5",
@@ -251,6 +290,19 @@
       "value": "$8.50B",
       "date": "Nov 04, 2026",
       "dateISO": "2026-11-04T01:24:21"
+    },
+    {
+      "title": "Construction Partners, Inc. acquired Piedmont Paving, Inc. - www.marketscreener.com",
+      "summary": "Construction Partners, Inc. acquired Piedmont Paving, Inc. www.marketscreener.com",
+      "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxNck92a2VTVUFTaEZ0MC1ETlplNFhuQ2t2eEZsdEE0ZkJYS1I0UmNBR25rWW95d05GTVUwc0cxaFBLcGg1RHI3R2RiTm9nVWFTYjJwWDlEM1d3VEthTkVMcjVXTlpCMlNyUVJEWlNPODlidGFsaXBiLXk4aExyU2tWdVZ4ZUpkUXF3M1JPaHlzVEdqdjBmS1E5RXdDUjBvMmNPeDh2Q3RtdzRza0U?oc=5",
+      "source": "www.marketscreener.com",
+      "category": "Construction Partners",
+      "keywords": "Acquired",
+      "sector": "Paving",
+      "dealType": "Acquisition",
+      "value": "",
+      "date": "Nov 03, 2026",
+      "dateISO": "2026-11-03T23:00:00"
     },
     {
       "title": "Metromont Acquires PTAC Engineering to Expand Precast Design Capabilities - Construction Owners",
@@ -474,6 +526,19 @@
       "dateISO": "2026-10-30T07:38:14"
     },
     {
+      "title": "Legacy Infrastructure Acquires Two New Mexico Businesses - Construction Owners",
+      "summary": "Legacy Infrastructure Acquires Two New Mexico Businesses Construction Owners",
+      "url": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxOUnVBSEJvTm9lZU9wamNqbXYxRkVJNGZhcEtCVXZCOG9hU2IzczFrMDlTcDFwdm5sZm9wbkUyR0RVUU5qck1ua0JDQmc4U1BkXzR6TDlBdFpoS1lESElQODJBSF85bUFDdjlmUlFHZkFrNW1Va3daMW1fMGp6dV9WMk1fTncxS0VkX2w1ZVFpNGRDM3AxUmc2YXJRbDM4VEU2TVR2REw4RDBac1ZIZXlSNUFzV2ZGU2lxc1lOQ2t3Q2VVLUNpTnh1VEtRQ0NSbWhvUzFCV0VMMlpqVTg?oc=5",
+      "source": "Construction Owners",
+      "category": "Ready-Mix Industry",
+      "keywords": "Acquired",
+      "sector": "General",
+      "dealType": "Acquisition",
+      "value": "",
+      "date": "Oct 30, 2026",
+      "dateISO": "2026-10-30T07:00:00"
+    },
+    {
       "title": "Coloray Seeks Shareholder Backing for Strategic Acquisition to Cement Control of Pigment Trader - TipRanks",
       "summary": "Coloray Seeks Shareholder Backing for Strategic Acquisition to Cement Control of Pigment Trader TipRanks",
       "url": "https://news.google.com/rss/articles/CBMi4AFBVV95cUxQQWZ5S05UUnZqQUQwSnRhVGVnTDVtc2NQSC1SNmVZTWc5dFhQOTlmSXhDV3d1MURyN2RsZEZkd3dldjdkZXYyY1c1UUF1c212RkpfOGUxLURKY2MtNVRHVDQ3S3l1M1pkT1h1TG9nRTh0MHJGY3c5MEFzYXgwdC1PcjhsUkliVUdacVRUT1FKdlNpWkNLa0owZjU0LVpzSnEtdFM5bkcwSTZ4YlpiSFJIYjBYVjQwVlJ2QmMtVWZoaDZNcGZieV96SnVmMTdkU2ZrVHVXWnVyVllYR1VROGRFaQ?oc=5",
@@ -641,19 +706,6 @@
       "value": "",
       "date": "Oct 27, 2026",
       "dateISO": "2026-10-27T10:36:55"
-    },
-    {
-      "title": "Legacy Infrastructure Acquires Two New Mexico Businesses - Construction Owners",
-      "summary": "Legacy Infrastructure Acquires Two New Mexico Businesses Construction Owners",
-      "url": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxPM0lIN0U1LTgzZkhkdFNYVTdNeERVaGlBS3lGZGl1RUVCM1NsczZsdndhb3ZjVXlPcVFkMFFMeXh0ellVSUcydGlqWmZXSUd5N2pRMnhIU0E4akVvZVdXc3JGRHNNWTRyWDhodjliSmN6MEV2ZUw0Yzl5VWlTQUZKX0xUQldibGMzTFI2SmQ4WWRQWVVMbl8zUExTb1RqUy1fQXNkRzQ3dVZlRHBsNkhUd1JzNTlHZlFqYnVQLW5ha2c3LXFzMDRjYVMzbXRlNUZYMENPaVNzZUdyd2hmZmtV?oc=5",
-      "source": "Construction Owners",
-      "category": "Ready-Mix Industry",
-      "keywords": "Acquired",
-      "sector": "General",
-      "dealType": "Acquisition",
-      "value": "",
-      "date": "Oct 27, 2026",
-      "dateISO": "2026-10-27T09:43:47"
     },
     {
       "title": "Fecto Cement reports lower quarterly profit and EPS; approves acquisition of Frontier Paper Products shares - Investify",
@@ -2058,188 +2110,6 @@
       "value": "",
       "date": "Oct 08, 2026",
       "dateISO": "2026-10-08T04:51:34"
-    },
-    {
-      "title": "CPI expands Texas operations with acquisition - Pit & Quarry",
-      "summary": "CPI expands Texas operations with acquisition Pit & Quarry",
-      "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxPbnpnSkR0RlZ1aTd4eWRnVXlZZmFabG9pRnh4ZlFjNWVRU25mV2JESV9uZVJKYW8yMEdrZzItVWlVdmtjWGRERmZVRnpTeTlMOUVGQVNQMUl6aFFNYTZueHRQdm1TT1hiQ1hIZW9ZYlR0WDVybW9lSXBkdkdaa3V6cA?oc=5",
-      "source": "Pit & Quarry",
-      "category": "Asphalt Industry",
-      "keywords": "Acquired",
-      "sector": "Aggregates",
-      "dealType": "Acquisition",
-      "value": "",
-      "date": "Oct 07, 2026",
-      "dateISO": "2026-10-07T16:38:50"
-    },
-    {
-      "title": "Heidelberg Materials Expands Nordic Footprint With SEK 5.5 Billion NCC Deal - ad-hoc-news.de",
-      "summary": "Heidelberg Materials Expands Nordic Footprint With SEK 5.5 Billion NCC Deal ad-hoc-news.de",
-      "url": "https://news.google.com/rss/articles/CBMi4AFBVV95cUxPTmlfRHo3MUJOcm9nRndKdFkxVHB2aUFUXzZwNlNzMEdZdlFyYk94dmVmLTQyeEpaNTBDdnlZZVROVDlLdWR2WUpwTTllcnV3VktSdV9VNHNtaWYtblFkMXdBMlVjVTkyU3B5Vnk3N1hSdVYzS3dVUjc5RjdNczFYUVN5OVppMFpUZ0FWRVczdExZVm15UmhrUWU0NWk0d1lZcElaU3NxS0RDNGdnZkJJTDNYWVNPV0xLQ3U4c2JGa2FEa2F2b2RhWDZoRHpNNlpKQmV6cXNfOU9iS1VlakpHdg?oc=5",
-      "source": "ad-hoc-news.de",
-      "category": "Asphalt Industry",
-      "keywords": "",
-      "sector": "General",
-      "dealType": "Acquisition",
-      "value": "",
-      "date": "Oct 07, 2026",
-      "dateISO": "2026-10-07T14:20:24"
-    },
-    {
-      "title": "Heidelberg Materials stock expands in Nordic aggregates deal - AD HOC NEWS",
-      "summary": "Heidelberg Materials stock expands in Nordic aggregates deal AD HOC NEWS",
-      "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxOWTY2Qm45RlVPekU2VGQwOEpHZXFHZER2anZyZFJHTmNpLWx1VGFVRlNfOVljOXNWc1F4VnBxSXZWZXI5dUZUS09BQk1JVkE2RmFORWw3U0tvMHVpT2VIcldDOVloZm95cng1eml2eHMwTWJzbXBGQl8yckVxRmxMUjhFWTNLc1YwZmpPRUFVNjJjdTdkTW03Qzc2ZF9kaU82Sk0tZUQwam1XWmVJbGhtendjV0hmTHo2T04tYXhnRUo?oc=5",
-      "source": "AD HOC NEWS",
-      "category": "Asphalt Industry",
-      "keywords": "",
-      "sector": "Aggregates",
-      "dealType": "Acquisition",
-      "value": "",
-      "date": "Oct 07, 2026",
-      "dateISO": "2026-10-07T12:02:12"
-    },
-    {
-      "title": "CRH to acquire Nordic operations of Swedish construction group - Business Post",
-      "summary": "CRH to acquire Nordic operations of Swedish construction group Business Post",
-      "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxOcExDXzVoZ0k4QVlXai0xUUFjQkhiTlAyekZsbHotdG1WS0lfcVFCb0FKV2pXem9GMm5kOTBJYVQtcnFYTjZ0b05TaERxTDNzejM3NS1mdUxwdnFiakF3V2tGZHU5TWo0OGs3NmY0N2lEelY1dFptMjd4SG1kRXJHaVZRdVB5QkIwNkpvY29XTEZCbDJZOTBxMjY3X3FMbG83?oc=5",
-      "source": "Business Post",
-      "category": "CRH",
-      "keywords": "Acquired, To Acquire",
-      "sector": "General",
-      "dealType": "Acquisition",
-      "value": "",
-      "date": "Oct 07, 2026",
-      "dateISO": "2026-10-07T10:59:01"
-    },
-    {
-      "title": "Martin Marietta Materials (MLM) Looks Cheaper As Acquisition Synergy Hopes Meet A Sharp Pullback - Simply Wall Street",
-      "summary": "Martin Marietta Materials (MLM) Looks Cheaper As Acquisition Synergy Hopes Meet A Sharp Pullback Simply Wall Street",
-      "url": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxQd0FoaFUwQnhIRlQxTUk2WF93LXNrU2FWcGlVRVVoS2E5ZFJpZ2tmRjItVW1sUTQ3MkNLNFlaVEZtS1g2NUs3X1UwbWp5aTdsVW1Ib210TkFraFR6aXR1b1ZkN3lSUTk1MUJnRnB4TWNYLVlySy1UZGRGMzJPYnNQQWZIdTltM1Y3VWZCZ1FyaWRkOXlZaS15S0YzMWRBd0xCZnR1dHpQUW9rTUFmQ1ZJY3VqaGVQa2RVSm9tbjBvOFZRZEF5cGNfc3EzN3l3ZWxwbTJwTnlIRUhmUdIB3wFBVV95cUxOYl9Pd1hMZDlDQTd1YjVxcFpIcTVwZTVmYXdiQ3R3Qm15TnlrSmlXc2ROMkUxbUhnbkxhbEhRWl84R3JuMFJWVG5RMndjb0dWbFFRdndCSzVYU1NVZG52RlJsNHk0NVBqRmhaMGxmSjNsaXhvd2g0OU5ESFRKVDItVGRpUDF6OTRTeGNXTEM1MUlSY0VRbGN5N3NTVUs5cGNRcE81ZmlHZUhSa1d6d0Z5Q2FkQjMtUV9rR0Jka1dmaGhweGl3QkFVaVQwdzgyLXV0SUpwZEM3anNxbTExSjVV?oc=5",
-      "source": "Simply Wall Street",
-      "category": "Martin Marietta",
-      "keywords": "Acquired",
-      "sector": "General",
-      "dealType": "Acquisition",
-      "value": "",
-      "date": "Oct 07, 2026",
-      "dateISO": "2026-10-07T08:33:16"
-    },
-    {
-      "title": "CRH to acquire NCC Industry operations - Agg-Net",
-      "summary": "CRH to acquire NCC Industry operations Agg-Net",
-      "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE5wRGk0Vk5URTVZVmVKRUZqbV92Wi05SjlxTmxBN0RoM3JkNGNsRzFTZ0d0em5mNU1VZFhLSEhYbUJnelFZQ20waGItY1JpZHhVUlJjQjAtY3F0NlFZVWltaHV3UjBPXzZpUGRLTTZHMGFESGZlUmc?oc=5",
-      "source": "Agg-Net",
-      "category": "Aggregates Industry",
-      "keywords": "Acquired, To Acquire",
-      "sector": "General",
-      "dealType": "Acquisition",
-      "value": "",
-      "date": "Oct 07, 2026",
-      "dateISO": "2026-10-07T08:22:47"
-    },
-    {
-      "title": "CRH to Acquire Finland, Denmark Operations of NCC Industry - Yahoo Finance",
-      "summary": "CRH to Acquire Finland, Denmark Operations of NCC Industry Yahoo Finance",
-      "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxOOWRyNW9yckhreXlnMTRWb3JOOFl6b1FBRnM5WHVjUkIwOUl1SV9pYW9jdmVvamotWlNka2ZrTGtHaTBCWGlPVXJ6MmJQSjZ6WEhJMzRkSjFGdjgyUTVPY0hQUGtmRzJhUnp3WjBCdkhfTnJDekt6QkduTGV5UjBkVG1xQ3RUdHEtcWV2M3JiQmp3TjlDZEV1Xzh3VEo0dFhqV0hyYTdR?oc=5",
-      "source": "Yahoo Finance",
-      "category": "Aggregates Industry",
-      "keywords": "Acquired, To Acquire",
-      "sector": "General",
-      "dealType": "Acquisition",
-      "value": "",
-      "date": "Oct 07, 2026",
-      "dateISO": "2026-10-07T07:00:00"
-    },
-    {
-      "title": "Maccaferri announces two acquisitions - Geosynthetics Magazine",
-      "summary": "Maccaferri announces two acquisitions Geosynthetics Magazine",
-      "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxQQTZZUjB0TjlETkJwWGRhTWhqZmlwVkdaZ2phY1V1a29WWkdPbzZTdDJ2YkpaWmxIZnJtUktZZXhZay10ckVYbm5zd3F2TGxFV21EUjd1NGkzU1U2akRkWnpaWFBSUDhIOUg1bUJKTjQwcG5GVkRBa091WTRBQ2dpVGJIb1FUWGptV3lr?oc=5",
-      "source": "Geosynthetics Magazine",
-      "category": "Asphalt Industry",
-      "keywords": "Acquired",
-      "sector": "General",
-      "dealType": "Acquisition",
-      "value": "",
-      "date": "Oct 07, 2026",
-      "dateISO": "2026-10-07T07:00:00"
-    },
-    {
-      "title": "Qassim Cement Receives GAC No-Objection for Acquisition of Amix for Ready Mix Concrete - \u0635\u062d\u064a\u0641\u0629 \u0645\u0627\u0644",
-      "summary": "Qassim Cement Receives GAC No-Objection for Acquisition of Amix for Ready Mix Concrete \u0635\u062d\u064a\u0641\u0629 \u0645\u0627\u0644",
-      "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE03cTNyMjNpb09kOXdHUDNiQW9xcHIxVTNQaUFCQ3B1WXFVd2pLMzBCR054QjY1R2FkZjc4WHZDd0ozZkJib0V2NVZQN21BaWhBR1BIbkx6eHpZcF9mWURCTDN5d2lFbmNZRmYyOA?oc=5",
-      "source": "\u0635\u062d\u064a\u0641\u0629 \u0645\u0627\u0644",
-      "category": "Cement Industry",
-      "keywords": "Acquired",
-      "sector": "Multiple",
-      "dealType": "Acquisition",
-      "value": "",
-      "date": "Oct 07, 2026",
-      "dateISO": "2026-10-07T07:00:00"
-    },
-    {
-      "title": "LUCK Material Disclosure: Lucky Cement consortium pre-qualified for due diligence on proposed GEPCO acquisition - Investify",
-      "summary": "LUCK Material Disclosure: Lucky Cement consortium pre-qualified for due diligence on proposed GEPCO acquisition Investify",
-      "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE1JaFdTYzBabEFqcG9McUFQQkNTR3VYaHR0ZXNFeXRQVmNNdnJQZUNLV3NBRDdYT3E3NWNUV29RRDBhRXVNdGVhamtScHQ1dTIzNzdfLXVwUDRqeUpqbFBhazNWSnZVVmdqZWc?oc=5",
-      "source": "Investify",
-      "category": "Cement Industry",
-      "keywords": "Acquired, Investment",
-      "sector": "Cement",
-      "dealType": "Acquisition",
-      "value": "",
-      "date": "Oct 07, 2026",
-      "dateISO": "2026-10-07T07:00:00"
-    },
-    {
-      "title": "Lucky Cement, Hubco, Kohat Cement Form Consortium to Acquire GEPCO - ProPakistani",
-      "summary": "Lucky Cement, Hubco, Kohat Cement Form Consortium to Acquire GEPCO ProPakistani",
-      "url": "https://news.google.com/rss/articles/CBMiSkFVX3lxTE5tTnNwUWNvWllPSzRKaTFUc1BwMzlUWnBtMjBMNDlWU0J0Z3pUV3JzU1p0Um9PbGNfM1ZJT2l5SjB0aGdTeWZGb2hB0gGnAUFVX3lxTFAyNEdYd3hRUndWN3pGWkg1STlDWDNybzNRXzM1X2tuaXVWdVBrbzFUNWszb0xnSmItc1BFellCSEhscTVPQXZmQXRzZUdZZC13VC00UDJsUjItd1NNWUV3ZDdQX0VZRHJfdHp6RWszQzdwbzN2Z0t4a2JLa19sR3VGZkUxdUFCc1pnYUNwU0tzZjczUnc1SXBINVU5X2Jyay1oekx4NXlr?oc=5",
-      "source": "ProPakistani",
-      "category": "Cement Industry",
-      "keywords": "Acquired, To Acquire",
-      "sector": "Cement",
-      "dealType": "Acquisition",
-      "value": "",
-      "date": "Oct 07, 2026",
-      "dateISO": "2026-10-07T06:42:33"
-    },
-    {
-      "title": "Qassim Cement gets GAC approval for Amix acquisition - \u0627\u0631\u0642\u0627\u0645 : \u0627\u062e\u0628\u0627\u0631 \u0648\u0645\u0639\u0644\u0648\u0645\u0627\u062a \u0633\u0648\u0642 \u0627\u0644\u0623\u0633\u0647\u0645 \u0627\u0644\u0633\u0639\u0648\u062f\u064a - \u062a\u0627\u0633\u064a",
-      "summary": "Qassim Cement gets GAC approval for Amix acquisition \u0627\u0631\u0642\u0627\u0645 : \u0627\u062e\u0628\u0627\u0631 \u0648\u0645\u0639\u0644\u0648\u0645\u0627\u062a \u0633\u0648\u0642 \u0627\u0644\u0623\u0633\u0647\u0645 \u0627\u0644\u0633\u0639\u0648\u062f\u064a - \u062a\u0627\u0633\u064a",
-      "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE92MGNyZ09iT2pnaHpYeTE3SFRacXNoakhFMGZwdWlzclNBcThrZ3k4dElKTVRPZkNrbXQxXzdCYUdQdzNjbFlCdzBocUxwLUhDU0VTb1JtNzZ4OEZPeHhmYXV3djhWY2R4MGc?oc=5",
-      "source": "\u0627\u0631\u0642\u0627\u0645 : \u0627\u062e\u0628\u0627\u0631 \u0648\u0645\u0639\u0644\u0648\u0645\u0627\u062a \u0633\u0648\u0642 \u0627\u0644\u0623\u0633\u0647\u0645 \u0627\u0644\u0633\u0639\u0648\u062f\u064a - \u062a\u0627\u0633\u064a",
-      "category": "Cement Industry",
-      "keywords": "Acquired",
-      "sector": "Cement",
-      "dealType": "Acquisition",
-      "value": "",
-      "date": "Oct 07, 2026",
-      "dateISO": "2026-10-07T05:36:54"
-    },
-    {
-      "title": "Ascendum Machinery Acquires Reynolds- Warren Equipment Company, Expanding Georgia Presence - Construction Equipment Guide",
-      "summary": "Ascendum Machinery Acquires Reynolds- Warren Equipment Company, Expanding Georgia Presence Construction Equipment Guide",
-      "url": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxPUlpQbFpkZGYxaU0zU0tyNXVNZ3ZzVlNnaW83NVY3aEpodnJqWjB0a1h0eTNHLWNpaEk2Yi00M24xa0xtOXhFN2o0UkhmbWtpVXBQZHJURmFzRERra3dwVTJCUmotVUdwOHlnZWkzNkl1QjFDbDdUTFNGVjJOYW5DZGNFN3pzMDB6Sm44djE0UUZFNXlCUnlmaWpYZG9lZVdKQ2FmMHVQbTFUX0NheWZENnNoMFFXRGlHUUJmR3VnaXpMVWdkanZROTRnLWJqeUsyNU04?oc=5",
-      "source": "Construction Equipment Guide",
-      "category": "Asphalt Industry",
-      "keywords": "Acquired",
-      "sector": "General",
-      "dealType": "Acquisition",
-      "value": "",
-      "date": "Oct 07, 2026",
-      "dateISO": "2026-10-07T04:00:00"
-    },
-    {
-      "title": "CRH's $8.5 Billion Acquisition of Arcosa Introduces Additional Cyclicality; Valuation Lowered - Morningstar",
-      "summary": "CRH's $8.5 Billion Acquisition of Arcosa Introduces Additional Cyclicality; Valuation Lowered Morningstar",
-      "url": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxQNXJubEpnaUtudUlrd0s0U1p4T0FFVnZwYjAzQzJHb0FFeUY3akE5Z3FXVU14eU9UOVRyRDZiMjhHQnk1R2RnZ0h3QlphckhPZmlyTEhjV0dWanIwOHdKMUxzQXUwcFVBb01ON2I3djE3Wnh3LUdzdVdqOHFBa0IxdFB1SExHWXVQaV8ySzZjTVRadDFfZlhPdFpvQ3V0bVNEYm9oWmREQ21DVkFUU1lPTGdZYkJsMzlBZ2VYYW9XT2RzUnE3cU5sRzRFZEFSSnBiR3QwZFBxbmE?oc=5",
-      "source": "Morningstar",
-      "category": "CRH",
-      "keywords": "Acquired",
-      "sector": "General",
-      "dealType": "Acquisition",
-      "value": "$8.50B",
-      "date": "Oct 06, 2026",
-      "dateISO": "2026-10-06T21:33:45"
     }
   ]
 }
