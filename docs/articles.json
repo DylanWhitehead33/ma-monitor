@@ -1,10 +1,36 @@
 {
-  "fetchedAt": "2026-11-06T19:49:17.223434",
-  "totalArticles": 162,
-  "newToday": 22,
-  "duplicatesRemoved": 18,
+  "fetchedAt": "2026-11-07T17:55:53.012986",
+  "totalArticles": 157,
+  "newToday": 21,
+  "duplicatesRemoved": 15,
   "archiveDays": 30,
   "articles": [
+    {
+      "title": "Holcim stock: Q3 momentum meets Burdett acquisition close - ad-hoc-news.de",
+      "summary": "Holcim stock: Q3 momentum meets Burdett acquisition close ad-hoc-news.de",
+      "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxQRFpteW12bVhiVHRZYTF5eDVaNFMtNjFvbGlFSFZWQnN4dzZ5LVJyS04wSC0xRWJRY2xPMExqTDNUSGNvRWFNNnNVYUxBemk0WXpPOEtiR0VfQmRONmktM0ItYjNaZkVxQ0tmeUNDSEE4S05WaDJYU05vR09uSWVyelhnMFFNdkZSVW1MZ2UyOUlidUxmYVZJSElEQ1c1ZHRWT2pudW53TzZQZkFLckljRmJ6dTNfampST0RZ?oc=5",
+      "source": "ad-hoc-news.de",
+      "category": "Aggregates Industry",
+      "keywords": "Acquired",
+      "sector": "General",
+      "dealType": "Acquisition",
+      "value": "",
+      "date": "Nov 07, 2026",
+      "dateISO": "2026-11-07T10:50:41"
+    },
+    {
+      "title": "Heidelberg Materials Lifts Revenue 10% as Analysts Raise Targets and Nordic Deal Takes Shape - ad-hoc-news.de",
+      "summary": "Heidelberg Materials Lifts Revenue 10% as Analysts Raise Targets and Nordic Deal Takes Shape ad-hoc-news.de",
+      "url": "https://news.google.com/rss/articles/CBMi9gFBVV95cUxNZlZmNFBjS05ZeE96RGxXWWcwdU1LaDgzeFFPUTlrYkhJWkt4WHBGRlBTWE9XSzRMY3pVdi1Ma3hjbTBXMXZpcnRFV3QtZVl0emFZM2JnY29VRDVJUlhGQ1kzRGNoVXBjSm1BcjVJMTUxdnRFVndMdmpOWVhkQ28tUWs5a3BHdU1Ya0pqM25tNXh6dXBDd0lHUjRrZkd2N3RHRVR5d084UDU1YWxJYlg1MVlkUWhHZlF6dW9mbnFfb2phRDRxTnNCdG8wUHFQZnlmX1p5UTc2WkVCUEZKRC1VSVkxUlBFa3pINmctX1BrUkctYW9zaVE?oc=5",
+      "source": "ad-hoc-news.de",
+      "category": "Heidelberg Materials",
+      "keywords": "",
+      "sector": "General",
+      "dealType": "Acquisition",
+      "value": "",
+      "date": "Nov 06, 2026",
+      "dateISO": "2026-11-06T16:02:15"
+    },
     {
       "title": "Holcim stock: Burdett acquisition expands circular construction - ad-hoc-news.de",
       "summary": "Holcim stock: Burdett acquisition expands circular construction ad-hoc-news.de",
@@ -43,6 +69,19 @@
       "value": "",
       "date": "Nov 05, 2026",
       "dateISO": "2026-11-05T21:11:31"
+    },
+    {
+      "title": "Martin Marietta Earnings: Acquisition-Related Headwinds Obscure Long-Term Outlook - Morningstar",
+      "summary": "Martin Marietta Earnings: Acquisition-Related Headwinds Obscure Long-Term Outlook Morningstar",
+      "url": "https://news.google.com/rss/articles/CBMizAFBVV95cUxPWjFEdDRmc3FsRmJ0Mzg4MUVEVkFlWTFDRnltWHFCSmROQlpPZnFoSDBYODRsVmNLbDNjRUdjOGV4eS1zTExtWFhYQ2UteWhJWExmdHNfbXJGeGtCcW9xS3l5T1l2aURvXzN4N2cwS2pNUHpKZXY2RDBWMXE5am5kYk1ZOWhPUGpNZkplc2VLXzlmTzNvYldHekx0VmR2Xzd0MGM1V2NkdHFRam9HMWF2TWdHTU1OZ3ZvNl9QZFl3M01XSnFCNExXenZSeXY?oc=5",
+      "source": "Morningstar",
+      "category": "Martin Marietta",
+      "keywords": "Acquired",
+      "sector": "General",
+      "dealType": "Acquisition",
+      "value": "",
+      "date": "Nov 05, 2026",
+      "dateISO": "2026-11-05T15:52:07"
     },
     {
       "title": "Construction Partners stock falls 13.7% after Piedmont Paving acquisition - Traders Union",
@@ -123,6 +162,19 @@
       "dateISO": "2026-11-05T09:33:06"
     },
     {
+      "title": "FSTR Q3 2026 deep dive: strong sales momentum and new acquisition drive upbeat outlook - TradingView",
+      "summary": "FSTR Q3 2026 deep dive: strong sales momentum and new acquisition drive upbeat outlook TradingView",
+      "url": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxNOTRPdVhoMGcwUXJtdE92MUFoWDJmUm1vQzlQX2dhcDhmQ3VkbDQyTC1xTXQ3RVpGeE1EQ0NLbVRUM2dGeFF0M3VQNzN4cTJpYUUzTzNDMVo5c1NkVzF5WDZIR3ZDWHBMUnFBUEtQakJoX2plRUc4Vk5NNHdScUp5MWRYbWpvQWZ1aGw4VFNrYnVyZVZXUlNpa1FsYndTMDZXbjJZQzB2VTJJbEJCeDE2bFI5am4wVUE2M1NVdmc2bmFPV2pvdnZBd1hOZFRYZ0xqUU1ZV0hnRDNEbWNZdzRR?oc=5",
+      "source": "TradingView",
+      "category": "Precast Industry",
+      "keywords": "Acquired",
+      "sector": "General",
+      "dealType": "Acquisition",
+      "value": "",
+      "date": "Nov 05, 2026",
+      "dateISO": "2026-11-05T05:40:00"
+    },
+    {
       "title": "Caterpillar Completes Acquisition of Fabick Cat Dealership - Construction Equipment Guide",
       "summary": "Caterpillar Completes Acquisition of Fabick Cat Dealership Construction Equipment Guide",
       "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxNVkNwWU9jVEVleHdNdnZaNFB0QkVQOFdGWTZsV0Z5QmJHSDcxeU5RVjNES2dsWlV6QjdmckVSS3ljUVhVMHFLdVZXVlk3Q2FQV0lNbXF0UVVmcThtaVFjUVVUaXZmUEYwV2VMSndnQkxnV0RVQlBtbUctN3VPa3JqU0JhZWJFdnp0WS00UFhJWU94b2luN0hacm1EdktxYzV0OHNaRzFTV1RwNDA?oc=5",
@@ -201,17 +253,17 @@
       "dateISO": "2026-11-04T23:12:53"
     },
     {
-      "title": "Construction Partners, Inc. Completes Georgia Acquisition - Quantisnow",
-      "summary": "Construction Partners, Inc. Completes Georgia Acquisition Quantisnow",
-      "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxPYVBWdHkyYTZ1RnZXTEp5aW1xQjNrenYzeDZPUXh0S3JLMGFyNzJ4T3J0V2N5U0x4Y0dTOENlTXllcGZ1UkxSV1VFX0J4MTVJRGlfUGoxR24wX2paTDlta1hUZjFqZjFLUUhuSk9BMExxbUR1N0JrTW14YjcyV1cyZm94S2h2LWxlVGVpcnNRSnFGcDd0akp0ZkhIbVk2LUU?oc=5",
-      "source": "Quantisnow",
-      "category": "Asphalt Industry",
+      "title": "Construction Partners, Inc. Completes Georgia Acquisition - Yahoo Finance",
+      "summary": "Construction Partners, Inc. Completes Georgia Acquisition Yahoo Finance",
+      "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxOeHpvRmNNOGVmSXN5aHU1RGhnQ01Rcm5VMS1LcEswVHRFR3JmQkt6VGlzTUp3bzVrTWRsYVRicFpveV9DM2ZmS0steGMwUU1lZmVVLXR1VG5vUkpRTHB5TW5uZlF3bGpvY0hwZXZFUlBLcUhYdzAxTkc2TGh5bUcyRDQxTG1kOFA4SGZyMEFleEpybXdtZDFHWW5tREw4N2ZzTFZFWTREU0g?oc=5",
+      "source": "Yahoo Finance",
+      "category": "Construction Partners",
       "keywords": "Acquired",
       "sector": "General",
       "dealType": "Acquisition",
       "value": "",
       "date": "Nov 04, 2026",
-      "dateISO": "2026-11-04T21:28:23"
+      "dateISO": "2026-11-04T21:25:00"
     },
     {
       "title": "Command Alkon Acquires C60: AI Analytics for Ready-Mix Concrete - News and Statistics - IndexBox",
@@ -305,6 +357,19 @@
       "dateISO": "2026-11-03T23:00:00"
     },
     {
+      "title": "Martin Marietta Materials, Inc. acquired The Frazier Quarry Incorporated. - www.marketscreener.com",
+      "summary": "Martin Marietta Materials, Inc. acquired The Frazier Quarry Incorporated. www.marketscreener.com",
+      "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxOU3FwWmdYVWV4VG1CZEpzeWwtM0wzR3FEV1lCZFYxaklwMjhoR0syNkFxS1dKd0ZrWDNCd1Q1TzVkWlJXOVR1VEFtYkFhRWNmMS1oNFlhd0h2aTZrQVdKbl9GQ1JHMDBkMy12bnFobXdNVy0xZ1NSakR4cDNiVmMyTkVuU1BRU2ZfeGU5cEZCLTY3dFppeUc2RGdqY2ZBNElxTTVrLVNWdmdXT3ZvTjNOa1VnMnk3UHI5ck52TTRsbkE?oc=5",
+      "source": "www.marketscreener.com",
+      "category": "Martin Marietta",
+      "keywords": "Acquired",
+      "sector": "Aggregates",
+      "dealType": "Acquisition",
+      "value": "",
+      "date": "Nov 03, 2026",
+      "dateISO": "2026-11-03T23:00:00"
+    },
+    {
       "title": "Metromont Acquires PTAC Engineering to Expand Precast Design Capabilities - Construction Owners",
       "summary": "Metromont Acquires PTAC Engineering to Expand Precast Design Capabilities Construction Owners",
       "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxOaWh0blZzbFVCMldNQm9za2FkX0MwVy00QWdVU3pKUE0wMXFUYzBPZC01TGZabjJUOUtOeTJaY2REeFFDblJVSXhZZFBaZjZlR3B4eDNVaFRfSlJwdEJfa3FKV1V6TzctRC1mdFhoajNoZElRQjUtSURuNzgxX2I2X0VsU2pULXhOMjFhVkp4QUZub1NxVG40SjR3QVdqbG9hSWluQi1OOTFIOW9UUDVnSHJJQk9rZE41NzUw?oc=5",
@@ -342,6 +407,19 @@
       "value": "",
       "date": "Nov 02, 2026",
       "dateISO": "2026-11-02T13:59:35"
+    },
+    {
+      "title": "Arvind Fashions acquires 25% stake in Arvind GCC for \u20b925,000 - scanx.trade",
+      "summary": "Arvind Fashions acquires 25% stake in Arvind GCC for \u20b925,000 scanx.trade",
+      "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxPSVh0T0RNSVktNGNKRzc0eVhpempEbVRFcjRCOExhbnpoZi1sVVE3ZFFPXzQ0VTYtWVhKLTdqQVpRVUkzRnlQTk5yXzhkZ05qZk5SVF9aMUFCamlJS3BOZUhhZFgwLWhaamNqR0RXRDAzamwtbTVpeWNHUldMdUdVcUtfUFNRNTVPR1V2aW9fbGNpdDl3dGR1TFJhU0VxbEpYaGt5aDAtZnVxQzNM?oc=5",
+      "source": "scanx.trade",
+      "category": "GCC Cement",
+      "keywords": "Acquired",
+      "sector": "General",
+      "dealType": "Acquisition",
+      "value": "",
+      "date": "Nov 02, 2026",
+      "dateISO": "2026-11-02T13:58:54"
     },
     {
       "title": "Weekly Recap: Q3 results miss estimates and Rapid Redi-Mix deal closes - TradingView",
@@ -1967,149 +2045,6 @@
       "value": "",
       "date": "Oct 09, 2026",
       "dateISO": "2026-10-09T01:31:11"
-    },
-    {
-      "title": "Heidelberg Materials Shifts Gears: Nordic Aggregates Deal Takes Over as Buyback Era Ends - AD HOC NEWS",
-      "summary": "Heidelberg Materials Shifts Gears: Nordic Aggregates Deal Takes Over as Buyback Era Ends AD HOC NEWS",
-      "url": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxNU0Y4Q2xFX2tDNG5XdDA0a3FFTV9HcUNMdGUzRnAySXluRlEzQW16VXBRUGZEamhBVV85TkFIQzBUT1Z0MFVYbEdqLXE2cENuZEtsbDZyRVdTZFgtM2F1U1p4MXQ1ZU44SFZudlk5YllMR181ZGJNWnloeUdFdElfazZqWmUwUWoxSWNabDFNd3V1b3J0YVpTaURRYnl0TF94RU1sZ2tKdGpFam50NGk3UFpyOUxuQ1dUM2xKMmNUN1NYbE9QOU0xUGowRVl1aXRPWWFuYVZWekxPQQ?oc=5",
-      "source": "AD HOC NEWS",
-      "category": "Aggregates Industry",
-      "keywords": "",
-      "sector": "Aggregates",
-      "dealType": "Acquisition",
-      "value": "",
-      "date": "Oct 08, 2026",
-      "dateISO": "2026-10-08T17:40:47"
-    },
-    {
-      "title": "Does CRH's Nordic Aggregates Deal Add More Fuel to Its Growth Plan? - The Globe and Mail",
-      "summary": "Does CRH's Nordic Aggregates Deal Add More Fuel to Its Growth Plan? The Globe and Mail",
-      "url": "https://news.google.com/rss/articles/CBMi4wFBVV95cUxONWZEVnBTV3pMZ3A3X1YteHg5ekRyYUYwTTRtUHZkRXdxeXByWm5DZVVVR1hEWEpVOWlyWExLY3JwMWFFcTN5RE9qbjY4VXlucWZ2b0dCaFk4RGgwYTJHb0JqeDRYajduUjJxSThIN1JiMTJqaHR6d1NfZEYtOV9od0hBQ2Y4YThFdEFDZUpkU3h2NDgtalRYTnJwRHFZVGZVZjE4aW1nMXA4UXExMWI5RnlVUUtIaTljNUFOU3dBVmh1WnlIUnZBRlVMZGNlSUlESVVXbDJsUVBQaFRMQk1jOTVjUQ?oc=5",
-      "source": "The Globe and Mail",
-      "category": "Aggregates Industry",
-      "keywords": "",
-      "sector": "Aggregates",
-      "dealType": "Acquisition",
-      "value": "",
-      "date": "Oct 08, 2026",
-      "dateISO": "2026-10-08T15:52:00"
-    },
-    {
-      "title": "JSW Cement Boards Approve Proposed Shiva Cement Merger - Indian Cement Review",
-      "summary": "JSW Cement Boards Approve Proposed Shiva Cement Merger Indian Cement Review",
-      "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxQZ0ZWRWsyR3ZhZ3NqWjM2X2VtaWpaTTQ5Z3gzdTRMcXNQVG50TTlIeEw2dXJWS1ZOR0pSeWxTYldKS3hOQVBjbXZlSlZ1RzhYSTFQMWkwUnhsWDdZLVpNUzdXX1JjMTN6YWtVdkxIVE5UZklIMHhVb0hzNlktdGZ6X2RIWG5WOGVoMUpKN2RsX0RtM1dySjBEVFRn?oc=5",
-      "source": "Indian Cement Review",
-      "category": "Cement Industry",
-      "keywords": "Merger",
-      "sector": "Cement",
-      "dealType": "Merger",
-      "value": "",
-      "date": "Oct 08, 2026",
-      "dateISO": "2026-10-08T12:04:50"
-    },
-    {
-      "title": "Namibia High Court: Cement Merger Ruling Invalidates Ministerial Approval - Wansom AI",
-      "summary": "Namibia High Court: Cement Merger Ruling Invalidates Ministerial Approval Wansom AI",
-      "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxQOFgydFlpajduR1N2Q3pBRURSNjRidEVJb29pMVVkbFNwXy15OWdHTy1lUEJXVl9GZE5DQlVFSFR2dDlfMnRqRHpIaElpVzg5d3JQSWxvalVzcGlOd3lrTGF5X1hJSF9yazdRaUlkMFBNVlRMNXE1WjlpUFZvN09KcU5SSkFTWGl2QzVfTVl2bWUtQlhEQ1lkZDB5MEdGVW5mcVlFX0lqN3ZzYWtnUUJaTzFKbjA1WnI1blhIM3U3dDI?oc=5",
-      "source": "Wansom AI",
-      "category": "Cement Industry",
-      "keywords": "Merger",
-      "sector": "Cement",
-      "dealType": "Merger",
-      "value": "",
-      "date": "Oct 08, 2026",
-      "dateISO": "2026-10-08T09:07:48"
-    },
-    {
-      "title": "JSW Cement announces merger with Shiva Cement - CemNet.com",
-      "summary": "JSW Cement announces merger with Shiva Cement CemNet.com",
-      "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxONThwZUg3ZV9yWUQyOWdCN21MZkRHSEJmZmJqWWotUEpGd0FGLUg5d3ZLUTVwb19YcnRSOE9tRGgtSkFsRnBJSzhzWVh2dUVqeEpfUU9Cc0NhUUFJLXFkUnBNc01hdHdNSEZrTlJZU1pzVUljLVl3bzRLQlNCenA4Rl9sWFRneEljbFFZTDd1N0FQZEpoS0E?oc=5",
-      "source": "CemNet.com",
-      "category": "Cement Industry",
-      "keywords": "Merger",
-      "sector": "Cement",
-      "dealType": "Merger",
-      "value": "",
-      "date": "Oct 08, 2026",
-      "dateISO": "2026-10-08T07:48:00"
-    },
-    {
-      "title": "Will Amutse pay for cement merger error? \u2013 IPC\u2019s Hengombe - The Namibian -",
-      "summary": "Will Amutse pay for cement merger error? \u2013 IPC\u2019s Hengombe The Namibian -",
-      "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxOSWtibkI2ck9ZbktINVpqSWg2R2lpOUhQQ0lIVmJxVWVoZTR5UEZFN3RQb0xkVHRxNVhlMEptdGFuTW1nNWpMcmFVb2EzQnJPd0NDVXFhNy1sQmNRRzZmQjZVd3huSzR5T2w5UXZOc2o2enJGbkxKSjkwVXpvV09WVkhLY283N3hFTmc?oc=5",
-      "source": "The Namibian -",
-      "category": "Cement Industry",
-      "keywords": "Merger",
-      "sector": "Cement",
-      "dealType": "Merger",
-      "value": "",
-      "date": "Oct 08, 2026",
-      "dateISO": "2026-10-08T07:34:11"
-    },
-    {
-      "title": "Certerra Expands Northeast Presence Through Acquisition of Universal Testing & Inspection Services - Business Wire",
-      "summary": "Certerra Expands Northeast Presence Through Acquisition of Universal Testing & Inspection Services Business Wire",
-      "url": "https://news.google.com/rss/articles/CBMi6AFBVV95cUxQTWpNT0tkQXowWk5kRUM0SUxIbk8wWXdXeGdjajZXVTNUeE9sTUw2Vkx1YXg3M0cxUFJUVUpSbGZOYWZaOFd4Y2xTN2Z4bFRmZlFtcmNXQnl0Q3oxSmZvbzFTMVVjQTRfUHRiSWZ2MXhWeVpuN1hxcFdEVlhZSTdoNFBOWHRDYlZ5QkNOeFdTVlN4X1RPVktBSXVISGdqM2ZLZUIyNnZQSHh1aVA1NGotUDEzSENnZ0dWTUFZZE1NVUpNbjI1SkZ4aDYwLVdFSDdicjNURm5jZ3FLN3NyaUExQzJUdzdvaVNZ?oc=5",
-      "source": "Business Wire",
-      "category": "Aggregates Industry",
-      "keywords": "Acquired",
-      "sector": "General",
-      "dealType": "Acquisition",
-      "value": "",
-      "date": "Oct 08, 2026",
-      "dateISO": "2026-10-08T07:00:00"
-    },
-    {
-      "title": "High Court of Karnataka Dismisses Appeals by Cement Company Seeking Enhanced Compensation for Land Acquisition \u2014 Market Value Determined Based on Comparable Sales and Potential Use - Lawtext",
-      "summary": "High Court of Karnataka Dismisses Appeals by Cement Company Seeking Enhanced Compensation for Land Acquisition \u2014 Market Value Determined Based on Comparable Sales and Potential Use Lawtext",
-      "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTFBwTm5YWmVWN1ZQdjJabHRiaXNZc2RMRUp2eXdLYXM2czNOMGkwMnBGN0ZSYzYtbVFFNzVoQjc3MEI4WWtMeUxuaGhSdFdYdWxtaTh6WmhLblhtYVNZMmd1ZDRoc2dDUQ?oc=5",
-      "source": "Lawtext",
-      "category": "Cement Industry",
-      "keywords": "Acquired",
-      "sector": "Cement",
-      "dealType": "Acquisition",
-      "value": "",
-      "date": "Oct 08, 2026",
-      "dateISO": "2026-10-08T07:00:00"
-    },
-    {
-      "title": "Heidelberg Materials to acquire NCC aggregates and asphalt operations in Sweden and Norway - CemNet.com",
-      "summary": "Heidelberg Materials to acquire NCC aggregates and asphalt operations in Sweden and Norway CemNet.com",
-      "url": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxQOU1WQlhJZURzcU1OdG9femQycFM5NkVIaVNPZUtZaml3Vi14bXg5bDl1cFY4MHpBNU5LNTRLRS1mZFBRWnV5cm9adjFBWnhUekJrNVFxLTB5QlI0X2hmcm1lcHRWbmdnUGppSGNnU0VmbGhPMngwaFhGZjJNb25KaVZ5bEpTQVNYYmdsb0JsUlA0dGJJbHQwbUswZFFXLTJrNVNEVVJSRlhXMURUVDJFT3Q0NHRkaFFEYVFiN0NnYlBpeHliWjFSYW9WN0V5YllPT3c?oc=5",
-      "source": "CemNet.com",
-      "category": "Asphalt Industry",
-      "keywords": "Acquired, To Acquire",
-      "sector": "Multiple",
-      "dealType": "Acquisition",
-      "value": "",
-      "date": "Oct 08, 2026",
-      "dateISO": "2026-10-08T07:00:00"
-    },
-    {
-      "title": "Vulcan Materials (VMC) Ticks Higher to $244.94 as Stock Sits Mid-Range Between Key Levels - MFI Oversold - https://www.dars.gov.et/",
-      "summary": "Vulcan Materials (VMC) Ticks Higher to $244.94 as Stock Sits Mid-Range Between Key Levels - MFI Oversold https://www.dars.gov.et/",
-      "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxOU3NpMV9zTVZBUFZNWWR1bHI2RUFaSFFhU2dZdWJqRG8yeW9Ca1dPbWxkbG13N29QM203WENiR1hsVVNtOTZSeWhoY3BKak9fZFlkMnpNVjhBd05XeE00MTZIaGpzVTc2ZUZlamgySDVQOHhKcFdSVjBpTkxwWk0wdk1Td2M1VnAxdTV5TEtKM1lLZktjRnNyMVNtRGNkQzBLdTN2RmVLbGNoM1VGUHZDMTlUM1BnZGFncVRZMHhXSTJWOGhV?oc=5",
-      "source": "https://www.dars.gov.et/",
-      "category": "Vulcan Materials",
-      "keywords": "",
-      "sector": "General",
-      "dealType": "Acquisition",
-      "value": "",
-      "date": "Oct 08, 2026",
-      "dateISO": "2026-10-08T07:00:00"
-    },
-    {
-      "title": "Heidelberg Materials Sinks on Nordic Deal as Deutsche Bank Trims Price Target - AD HOC NEWS",
-      "summary": "Heidelberg Materials Sinks on Nordic Deal as Deutsche Bank Trims Price Target AD HOC NEWS",
-      "url": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxNOVZFekp0NkFZaXlPamo5Y1U2Z3RVdTYzaDVLcmJOaHJWcXlWbVdrNnFHZmlQc3AzUG5HQ3RUamRRZl9rdnktRnBLTnNiOGFnZUxsREJZQkE0RFk1ZTYyVEl3dnJxZzRHSjBKN0Vja2p5YlBYSmtPU1lTcDFjWG8xd0x5SldtdWZkNUo0S2oyMHowSXFJZlNuWm5iTDBRX2FQWW50R2c1Ti1SQ2xuNVJrdi1yTnZKMjFHdTk2a01NMnhPLWVLNENVX2xnX1pWZ1h4aXFVY2h4d1I4dw?oc=5",
-      "source": "AD HOC NEWS",
-      "category": "Asphalt Industry",
-      "keywords": "",
-      "sector": "General",
-      "dealType": "Acquisition",
-      "value": "",
-      "date": "Oct 08, 2026",
-      "dateISO": "2026-10-08T04:51:34"
     }
   ]
 }
