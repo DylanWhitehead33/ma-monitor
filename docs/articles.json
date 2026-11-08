@@ -1,10 +1,23 @@
 {
-  "fetchedAt": "2026-11-07T17:55:53.012986",
-  "totalArticles": 157,
-  "newToday": 21,
-  "duplicatesRemoved": 15,
+  "fetchedAt": "2026-11-08T18:11:38.510834",
+  "totalArticles": 155,
+  "newToday": 18,
+  "duplicatesRemoved": 16,
   "archiveDays": 30,
   "articles": [
+    {
+      "title": "Construction Partners Acquires Piedmont Paving in Georgia - Construction Owners",
+      "summary": "Construction Partners Acquires Piedmont Paving in Georgia Construction Owners",
+      "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxQTFhPTTFybm8taVZYdTBZMGxJeEt4R0d2QmFKbTdlbXBYeHBERDdKUFo2REhiYUdNZVdTaGxIUzNJSVNibFRHcU5PVEU0Tk04V2xtOGJ1azlxQ3RZeGlEbFctRHZzN0dnNGtFSTRrTmY1UEhYMWcyY1UyUmQ1c2taNzYwTXFCWEgybExKSmFaWFpEdmNDMkZJRzktNXRCOGpfXzMxOGpOOHZaSjN0cjBZT0hKczExdw?oc=5",
+      "source": "Construction Owners",
+      "category": "Asphalt Industry",
+      "keywords": "Acquired",
+      "sector": "Paving",
+      "dealType": "Acquisition",
+      "value": "",
+      "date": "Nov 08, 2026",
+      "dateISO": "2026-11-08T08:03:25"
+    },
     {
       "title": "Holcim stock: Q3 momentum meets Burdett acquisition close - ad-hoc-news.de",
       "summary": "Holcim stock: Q3 momentum meets Burdett acquisition close ad-hoc-news.de",
@@ -17,6 +30,19 @@
       "value": "",
       "date": "Nov 07, 2026",
       "dateISO": "2026-11-07T10:50:41"
+    },
+    {
+      "title": "CBF: Record revenue, profit, and major Shoper acquisition cement CEE tech leadership - TradingView",
+      "summary": "CBF: Record revenue, profit, and major Shoper acquisition cement CEE tech leadership TradingView",
+      "url": "https://news.google.com/rss/articles/CBMi9wFBVV95cUxPblRORGZHYlFJdW1VRkJjX3p1MjBlTXUyTjN3ek0tV1NRbWgtR3ZfUWQzRVM3eTJNM25qUXVpWlFMMTZfRG1QdHBzNmFHSlVjQmpZZEN5NFNYcDdXOGpSZTdLVGc4TTgyakJyV0R2VlV6ZklJVzFEb3ZCa1pkWlptQUJLcWxpTW5mMzVEWEZuamJwRkRfbkhXYVdsOHY4eTFSUnBvUUJBVmZFX3Ntc0lacjBSOHdQYVpfSjlzQXgyTjF5elV2dVdmTXprN1h3Y0pOQzBTTlZ3b1RjaU9qUTBZOTE0UW9teGE0ODhwY3dfSHFZZ1RZUjFV?oc=5",
+      "source": "TradingView",
+      "category": "Cement Industry",
+      "keywords": "Acquired",
+      "sector": "Cement",
+      "dealType": "Acquisition",
+      "value": "",
+      "date": "Nov 06, 2026",
+      "dateISO": "2026-11-06T20:04:58"
     },
     {
       "title": "Heidelberg Materials Lifts Revenue 10% as Analysts Raise Targets and Nordic Deal Takes Shape - ad-hoc-news.de",
@@ -108,6 +134,19 @@
       "value": "",
       "date": "Nov 05, 2026",
       "dateISO": "2026-11-05T14:42:23"
+    },
+    {
+      "title": "Arvind SmartSpaces acquires 15% stake in GCC unit for \u20b915,000 - scanx.trade",
+      "summary": "Arvind SmartSpaces acquires 15% stake in GCC unit for \u20b915,000 scanx.trade",
+      "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxOaWZRLVUyZjh0Rm85TjNZZ0dUMXpaYjRVbnVKT1NmR3lGR3JWWjd4dHBDZzBtRUdSczVlR09XNWF6Q01OcWhZeldiSzJySTNOZ3BCLUNMLVk1OXRuSTBjVWFXdXN1bWFQNmxmUTRkX2xDUVlrdGZIY05xM0VhTDFXWXNydzQ2NXVyS0lPR21fdDBmVlRPVmxST0kyeUQ0U2FfUGZKSzN1V1pqSkt2Q3c?oc=5",
+      "source": "scanx.trade",
+      "category": "GCC Cement",
+      "keywords": "Acquired",
+      "sector": "General",
+      "dealType": "Acquisition",
+      "value": "",
+      "date": "Nov 05, 2026",
+      "dateISO": "2026-11-05T13:19:37"
     },
     {
       "title": "Holcim stock in focus after Burdett acquisition closes - ad-hoc-news.de",
@@ -238,19 +277,6 @@
       "value": "",
       "date": "Nov 04, 2026",
       "dateISO": "2026-11-04T23:27:03"
-    },
-    {
-      "title": "Construction Partners Completes Piedmont Paving Purchase in Georgia - Securities.io",
-      "summary": "Construction Partners Completes Piedmont Paving Purchase in Georgia Securities.io",
-      "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxOcjZkT0VtSl8tb2p3SjBOR1FJQ2lMM1RqZm1Od2lIbkE5cEVMSEd2eTRpak5pN1FQWnEzM08zQmVTdEU5ZGNseVFyTU9sOHROQWIzcDJrY1F1M0VXSGtyUm56RF9RU3FOZWxfclJ0NkJLdXR1RDBPZmY4MnVRay1mQnRLYlJ4eGRWSHZJTERfU3F2QWdVVURXdEdB?oc=5",
-      "source": "Securities.io",
-      "category": "Construction Partners",
-      "keywords": "Purchase",
-      "sector": "Paving",
-      "dealType": "Acquisition",
-      "value": "",
-      "date": "Nov 04, 2026",
-      "dateISO": "2026-11-04T23:12:53"
     },
     {
       "title": "Construction Partners, Inc. Completes Georgia Acquisition - Yahoo Finance",
@@ -1993,58 +2019,6 @@
       "value": "",
       "date": "Oct 10, 2026",
       "dateISO": "2026-10-10T03:14:30"
-    },
-    {
-      "title": "CRH to acquire aggregate operations in Denmark and Finland - World Cement",
-      "summary": "CRH to acquire aggregate operations in Denmark and Finland World Cement",
-      "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxQaWR1RVU5aUJiMmw1YU9QY1B4VzNYMGstVWs2R1pySEFvc1FBTlFRNC1fMy1wMXE1MG5GYlJGUWpwWGRPU2RyTHF3YzlTQTdZY0R3bTJ4OE1MQjRVRGM5emZzTVZiSWh0RUhhbm5ZZ183UGRZWjRmSTloNkU1ZV9sXzJWdV9DMHZUOW5tV0EyeHcxY1g5enJjMlRaRzNXdGdKT1ZpdDRqNWM1VlRFRWpacw?oc=5",
-      "source": "World Cement",
-      "category": "Asphalt Industry",
-      "keywords": "Acquired, To Acquire",
-      "sector": "Multiple",
-      "dealType": "Acquisition",
-      "value": "",
-      "date": "Oct 09, 2026",
-      "dateISO": "2026-10-09T16:22:23"
-    },
-    {
-      "title": "Hard Rock Holdco LLC Secures 85.20% Stake in Omnitek Engineering Through Series A Preferred Stock Acquisition - Kalkine Media",
-      "summary": "Hard Rock Holdco LLC Secures 85.20% Stake in Omnitek Engineering Through Series A Preferred Stock Acquisition Kalkine Media",
-      "url": "https://news.google.com/rss/articles/CBMi6gFBVV95cUxPa2NzMzZVWDhBd284YzlKZWdyRjZRQXpOUUhDZ0pQOGtTekJxOGxhemNONGFGU3FQN0ZyVzBlbjJtbk9aQUE5WVhYNTdiWVhjeGhNamNvZUZEQXFTU2lfTXFsVm9VdEZZaHFLejk2WG4yTkdrLWhKOFY3U1NWdWNxMzZXVWdiOHVJMTdwLWY5a2E4OVJnSUd4eEo2WXNWQU0zd2dWV1ZCNHpQQl96VFRrdkdmLWJieVB3aGdRS0VxWUNEbUQtbl9Jc1dORm5XdXJqVW5reWY5ZER0UjdxR2pkMjQwUHdOZFFKQ0E?oc=5",
-      "source": "Kalkine Media",
-      "category": "Ready-Mix Industry",
-      "keywords": "Acquired",
-      "sector": "General",
-      "dealType": "Acquisition",
-      "value": "",
-      "date": "Oct 09, 2026",
-      "dateISO": "2026-10-09T14:09:42"
-    },
-    {
-      "title": "Crh Plc $CRH Shares Sold by Artemis Investment Management LLP - MarketBeat",
-      "summary": "Crh Plc $CRH Shares Sold by Artemis Investment Management LLP MarketBeat",
-      "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxQcHd1ZllTLUlLZnlXMnRJdWhZTTV2dDVzUVg0YUFKSVRjdjlPTGo1VURtOU5KT1ROeVJMMGZ0WnYybkMzLVFRYWJKNXYtMzBFVThHbV9SaWlkSVJJUHQzNnpFa1hKTFI2eFdGZy1Cc29GMzYzaXlFeGFCR012NXhJaVVnenZOZkpuZ1Q3NEVjTWhfVWZLOGdvaVFTRkM2alFWNEV4R3prTU83Q1NWWXl6eXE4MU95RjRUdTA3U1lB?oc=5",
-      "source": "MarketBeat",
-      "category": "CRH",
-      "keywords": "Investment",
-      "sector": "General",
-      "dealType": "Divestiture",
-      "value": "",
-      "date": "Oct 09, 2026",
-      "dateISO": "2026-10-09T07:37:17"
-    },
-    {
-      "title": "MPIC closes P12.4-B Meralco deal, tightens grip on power giant - InsiderPH",
-      "summary": "MPIC closes P12.4-B Meralco deal, tightens grip on power giant InsiderPH",
-      "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxNUDNHVm9BWEZieXRYV0JjbXlkMWN2blloZmZOTWJSeUxIZHRYc0N6c2dXcDkwODNwOTRPbjNWT3ZIVS01ME1idGttNUYxTmJsaGJfSlhDQi1hckF6RVNEd3FTRGMwUlV1N0NBR2pkajBfWlpFSWNuZmlmb1gya0JtNVpNeWdKb3ktdnc?oc=5",
-      "source": "InsiderPH",
-      "category": "Holcim",
-      "keywords": "",
-      "sector": "General",
-      "dealType": "Acquisition",
-      "value": "",
-      "date": "Oct 09, 2026",
-      "dateISO": "2026-10-09T01:31:11"
     }
   ]
 }
