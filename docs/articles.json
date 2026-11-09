@@ -1,14 +1,92 @@
 {
-  "fetchedAt": "2026-11-08T18:11:38.510834",
-  "totalArticles": 155,
-  "newToday": 18,
-  "duplicatesRemoved": 16,
+  "fetchedAt": "2026-11-09T22:50:59.112729",
+  "totalArticles": 160,
+  "newToday": 26,
+  "duplicatesRemoved": 19,
   "archiveDays": 30,
   "articles": [
     {
+      "title": "CRH Americas Materials Expands Aggregates Footprint in Pacific Northwest with Acquisition in Oregon - StreetInsider",
+      "summary": "CRH Americas Materials Expands Aggregates Footprint in Pacific Northwest with Acquisition in Oregon StreetInsider",
+      "url": "https://news.google.com/rss/articles/CBMi7gFBVV95cUxPOWVPQkJzS0RLa3EweFkzMjEya1BLSG8tS240cWd5YVAzV1VvOXRoODdaSkFCRENaUGFKVXk0V0VLNFZGVVZaZ3ZoTVJmUEQ2ekNtRDRVZVVsTTZnVlpGT19MbUx6cFpFRDZaYi1CWkFncl9nRkR5bDNRTThmUnRhZDctX2VFRGFkSzZ4dlhBXzVFVEx2SmxXcjkyY3BYdEZld3VnN01vdFRmR0J3M2hjYlVtRWtLai0ySW52SjlJTWVDR09SR0xfU01PUFZSTHZtcjZxQ3J3SlY0UG9tQk1uSkNLVXdFbldETVFicTN3?oc=5",
+      "source": "StreetInsider",
+      "category": "Aggregates Industry",
+      "keywords": "Acquired",
+      "sector": "Aggregates",
+      "dealType": "Acquisition",
+      "value": "",
+      "date": "Nov 09, 2026",
+      "dateISO": "2026-11-09T21:05:19"
+    },
+    {
+      "title": "Brazil Dealmaker Sees Potential for More China Deals Ahead - Bloomberg.com",
+      "summary": "Brazil Dealmaker Sees Potential for More China Deals Ahead Bloomberg.com",
+      "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxOdmVDMVR3NUFaWlFoRTdKYkZ0cUpKdUtCamk4RnFGTWY0WVVOR200NTI3dWhtSmI2SUxUdFE3QkZYWGtTdko5R0NXNlZTdWRaWnNDNVh2MXpQSXkta3FJb0ZMczdqWmNOYVV1OVEzTjhjVVdXRUlGbEk2VWZoUm1xbnN0Y050NW53STg4dW5vdG1ScTNhZjJuTzQ3NDBEX04yZ2FHYV9GX1NEbEFnOWc?oc=5",
+      "source": "Bloomberg.com",
+      "category": "Cement Industry",
+      "keywords": "",
+      "sector": "General",
+      "dealType": "Acquisition",
+      "value": "",
+      "date": "Nov 09, 2026",
+      "dateISO": "2026-11-09T17:11:22"
+    },
+    {
+      "title": "Construction Partners Acquires Piedmont Paving In Georgia, Adding Asphalt Plant And More Than 110 Employees - Pulse 2.0",
+      "summary": "Construction Partners Acquires Piedmont Paving In Georgia, Adding Asphalt Plant And More Than 110 Employees Pulse 2.0",
+      "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxOLV9lUkRBYklFSy1QOWt0QnVCUVpEdmJWT1BVaVFCbWZLd3Z5NnhZQkdjZnczYTRiNnVMNHJFcEtrY2xCMmgtMFdKbml0U0s5MGNrVGxITWVOdFVTbzcxNWdpdlMxQ3JJbWcxMjVqdFVyU2VhOExHS3dXYmoyNkNxQUNhWl9xNXlkejAxTnE3LU53M0hyLTh3Y2RGTEQycTRFWl9MTThrUEdmdEx2Q1NqQkF4ZkU3Tlo0b1JjdkxQOUxCSE94?oc=5",
+      "source": "Pulse 2.0",
+      "category": "Asphalt Industry",
+      "keywords": "Acquired",
+      "sector": "Multiple",
+      "dealType": "Acquisition",
+      "value": "",
+      "date": "Nov 09, 2026",
+      "dateISO": "2026-11-09T13:52:06"
+    },
+    {
+      "title": "Huaxin signs US$2.3bn CSN Cimentos acquisition agreement - CemNet.com",
+      "summary": "Huaxin signs US$2.3bn CSN Cimentos acquisition agreement CemNet.com",
+      "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxQN1BkYVNwSWtSYTEtSVVGWklkSVlqWml5NElJam1EaFhNc1lvaGV2Vjd5R3VvdndraWh0bjVDVWRIT0NkYmE4bjE3OUJxaWFDWEZYVjZ1U1Izc19yY19VbDVCNWcxTWtqbVQ1NkhWN2RWSUZjREc5TDhzYThaRWt0VG1HSkw0ME5OQ0ZfQmtJdTc4LVQ4dnRZNUQ5eEFkeEM2M3ZFMA?oc=5",
+      "source": "CemNet.com",
+      "category": "Cement Industry",
+      "keywords": "Acquired",
+      "sector": "General",
+      "dealType": "Acquisition",
+      "value": "",
+      "date": "Nov 09, 2026",
+      "dateISO": "2026-11-09T08:53:02"
+    },
+    {
+      "title": "Brazil\u2019s CSN Agrees to $2.3 Billion Deal to Sell Cement Unit to China\u2019s Huaxin - The China-Global South Project",
+      "summary": "Brazil\u2019s CSN Agrees to $2.3 Billion Deal to Sell Cement Unit to China\u2019s Huaxin The China-Global South Project",
+      "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxPdlc3MmRUN2Z4ejBxTk1WaDQ3d0xqNzlQQUtRZkZ6YWtMRFRUQ01vZk9HTUtPalllTmptYnYxRy0xZ1RRSXRRMjJGaWdzSWNBdnpsaWU1VmJXRjhJckUyUDYzd1UtSGc1SVlRendaZ0hFcUJsNGdEV2x1c2JHZy1IWjdSZ1JvNzNZclBR?oc=5",
+      "source": "The China-Global South Project",
+      "category": "Cement Industry",
+      "keywords": "",
+      "sector": "Cement",
+      "dealType": "Acquisition",
+      "value": "$2.30B",
+      "date": "Nov 09, 2026",
+      "dateISO": "2026-11-09T01:22:24"
+    },
+    {
+      "title": "Holcim acquires Burdett Group - www.quarrymagazine.com",
+      "summary": "Holcim acquires Burdett Group www.quarrymagazine.com",
+      "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE85WHN4NFo2NUhGRkZQQnFOMjNQZklyUDZkTXA0dnVVdHdHb0VfNUxlZ2VQS3llNzlIcjJGRzBkTmQ1NDF5SjlUamNqbVVjcUo0VTJmUW43V2VQdUtXamhvcUYwRjhkZUlVZTRDMkx3?oc=5",
+      "source": "www.quarrymagazine.com",
+      "category": "Quarry Magazine \u00b7 Aggregates",
+      "keywords": "Acquired",
+      "sector": "Aggregates",
+      "dealType": "Acquisition",
+      "value": "",
+      "date": "Nov 09, 2026",
+      "dateISO": "2026-11-09T00:10:59"
+    },
+    {
       "title": "Construction Partners Acquires Piedmont Paving in Georgia - Construction Owners",
       "summary": "Construction Partners Acquires Piedmont Paving in Georgia Construction Owners",
-      "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxQTFhPTTFybm8taVZYdTBZMGxJeEt4R0d2QmFKbTdlbXBYeHBERDdKUFo2REhiYUdNZVdTaGxIUzNJSVNibFRHcU5PVEU0Tk04V2xtOGJ1azlxQ3RZeGlEbFctRHZzN0dnNGtFSTRrTmY1UEhYMWcyY1UyUmQ1c2taNzYwTXFCWEgybExKSmFaWFpEdmNDMkZJRzktNXRCOGpfXzMxOGpOOHZaSjN0cjBZT0hKczExdw?oc=5",
+      "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxNdElfUVNEYUZiWHJQQkFhdXlwWTVpWm1MeEVERFY5dlYxVTlETFlSRjRZWDAyU0Vmb0dHaWM4MDBnNzc5eS1mdlExbDRjN0g0ZnI2UV8xdlRaQmhoRFBEdkdVakZPaVFzcUlhM1dXZ1NGb1BVYkFyN285eUlQYlctS2FXYXZsZDJ5ZGlQMTZ2cVl4TjdCVktiR2xOcnBISEZkNG1VdnpZZ29DMkpfWWdkT1MyUE10RnA0NFE?oc=5",
       "source": "Construction Owners",
       "category": "Asphalt Industry",
       "keywords": "Acquired",
@@ -16,7 +94,7 @@
       "dealType": "Acquisition",
       "value": "",
       "date": "Nov 08, 2026",
-      "dateISO": "2026-11-08T08:03:25"
+      "dateISO": "2026-11-08T08:24:35"
     },
     {
       "title": "Holcim stock: Q3 momentum meets Burdett acquisition close - ad-hoc-news.de",
@@ -69,6 +147,19 @@
       "value": "",
       "date": "Nov 06, 2026",
       "dateISO": "2026-11-06T11:21:11"
+    },
+    {
+      "title": "Holcim Completes Burdett Acquisition to Expand Circular Construction in Australia - The Globe and Mail",
+      "summary": "Holcim Completes Burdett Acquisition to Expand Circular Construction in Australia The Globe and Mail",
+      "url": "https://news.google.com/rss/articles/CBMi9AFBVV95cUxPdE5ERURqY2RNM0xfcDRkSUs5clNab0lqLXVRem5ucWYta1VDTzJETUpDSU9kLXF5Ym1ZLTRLNjVpVU1ZS2VnZHFfd3EyVy0zaTc2WGVGTGxUdXFKZzA4WWFJWjNXWmVub05acmFjcEdUM21zaEdnMW0yRDNXRkc0X2JiUG0xQlloX1NqaUpaUjUtSy1EbHl5SS15Wl9QX0UxbzBaY3loOFNiU3NTcHdFQS1CSElMODhBM2l5YmVGaWR4eF8xa21FbHJuTW9ZNUVDSS1pZ1Ffd2hfZlJzdjQ3bFJLQURTc1d1RjZ5T21aSnVybVRM?oc=5",
+      "source": "The Globe and Mail",
+      "category": "Aggregates Industry",
+      "keywords": "Acquired",
+      "sector": "General",
+      "dealType": "Acquisition",
+      "value": "",
+      "date": "Nov 06, 2026",
+      "dateISO": "2026-11-06T06:52:04"
     },
     {
       "title": "ACC stock advances cement expansion as Ambuja merger moves ahead - ad-hoc-news.de",
@@ -175,17 +266,17 @@
       "dateISO": "2026-11-05T10:40:44"
     },
     {
-      "title": "Holcim Completes Burdett Acquisition to Expand Circular Construction in Australia - TipRanks",
-      "summary": "Holcim Completes Burdett Acquisition to Expand Circular Construction in Australia TipRanks",
-      "url": "https://news.google.com/rss/articles/CBMizgFBVV95cUxQUVVrY3ZRZm5kckMwSHhBcTFpSXpxWTJfa2pOUXRPRFNsREZkS3dVbmEyZ2ZfRGRDX2NEZlBOOTZnSTI1NTVMWTZzZTEyQTdaTWhIYm52TGNLQ25iYzJiYjRCSEktcFN2Z3RVRW8xbURQNndNNG8ycGItclNZTEpzbTVRbFJCOXp1UWlNUHRIU1YyRWJuaFZ5b0NjSUNfem5GdzJBNGstenRzQjFVc3V4MG11R1g5RkwxbVF5dERFelRYbUs1RVp1czE3SkY4Zw?oc=5",
-      "source": "TipRanks",
-      "category": "Holcim",
+      "title": "FSTR Q3 2026 deep dive: strong sales momentum and new acquisition drive upbeat outlook - StockStory",
+      "summary": "FSTR Q3 2026 deep dive: strong sales momentum and new acquisition drive upbeat outlook StockStory",
+      "url": "https://news.google.com/rss/articles/CBMi4wFBVV95cUxOSnExR1Z1WHhrVFFoTmZuUFBKM2xpdWFuQ3BRWk5OWTByRzBBVkc1Z0JDelp6MV9jSjkyY1ZkMnNrRTUzaHA3M0NKYVd2U1hmN2d2aGZXbFNRcV9oYmprYkVOdW9TVkk4cjJtSVctejlOUUJTZzZjN2pwb1o2b1NLcWJRWmtFanFoRVNyOTVGMnV1TjRqWTl2ZktQdnZCaTE4QWd0X0JWZ2NNbGRaVEs4MjFUOE9WSkNuLXBmMHcwMkFMSzBxWU1zMDRaem8xaFVzVmJGOXU2aWFjSlR1NHNMZjJnNA?oc=5",
+      "source": "StockStory",
+      "category": "Precast Industry",
       "keywords": "Acquired",
       "sector": "General",
       "dealType": "Acquisition",
       "value": "",
       "date": "Nov 05, 2026",
-      "dateISO": "2026-11-05T09:47:35"
+      "dateISO": "2026-11-05T10:14:07"
     },
     {
       "title": "Holcim completes acquisition of Burdett Group to advance circular construction in Australia - World Cement",
@@ -199,19 +290,6 @@
       "value": "",
       "date": "Nov 05, 2026",
       "dateISO": "2026-11-05T09:33:06"
-    },
-    {
-      "title": "FSTR Q3 2026 deep dive: strong sales momentum and new acquisition drive upbeat outlook - TradingView",
-      "summary": "FSTR Q3 2026 deep dive: strong sales momentum and new acquisition drive upbeat outlook TradingView",
-      "url": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxNOTRPdVhoMGcwUXJtdE92MUFoWDJmUm1vQzlQX2dhcDhmQ3VkbDQyTC1xTXQ3RVpGeE1EQ0NLbVRUM2dGeFF0M3VQNzN4cTJpYUUzTzNDMVo5c1NkVzF5WDZIR3ZDWHBMUnFBUEtQakJoX2plRUc4Vk5NNHdScUp5MWRYbWpvQWZ1aGw4VFNrYnVyZVZXUlNpa1FsYndTMDZXbjJZQzB2VTJJbEJCeDE2bFI5am4wVUE2M1NVdmc2bmFPV2pvdnZBd1hOZFRYZ0xqUU1ZV0hnRDNEbWNZdzRR?oc=5",
-      "source": "TradingView",
-      "category": "Precast Industry",
-      "keywords": "Acquired",
-      "sector": "General",
-      "dealType": "Acquisition",
-      "value": "",
-      "date": "Nov 05, 2026",
-      "dateISO": "2026-11-05T05:40:00"
     },
     {
       "title": "Caterpillar Completes Acquisition of Fabick Cat Dealership - Construction Equipment Guide",
@@ -238,6 +316,19 @@
       "value": "$2.37B",
       "date": "Nov 05, 2026",
       "dateISO": "2026-11-05T04:48:02"
+    },
+    {
+      "title": "Construction Partners acquires Piedmont Paving in Georgia By Investing.com - Investing.com Nigeria",
+      "summary": "Construction Partners acquires Piedmont Paving in Georgia By Investing.com Investing.com Nigeria",
+      "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxNNlh0LU1qekYtQWFqX2Ftd2hsY3hWbTI0TmRsV3ZiR0hxdmdNbXpCbE9CcnRDTC1UWEZKanltYzdiNW15enkzVkZuenBrTDM5VzN6ODZyQmpPRjJaZUhTamVUc2pSWTlqY3NHZmdsdzRQcXd2SG9tc1ljQlBkRFJLcWo0SVoxZktVTFg5SzlERXhkVGlmbEQwd0FJVS1NQ1ppMW9uSklOSE5VVy1lc3hiZ3JaLTdJVUJ0UVE?oc=5",
+      "source": "Investing.com Nigeria",
+      "category": "Paving Industry",
+      "keywords": "Acquired, Investment",
+      "sector": "Paving",
+      "dealType": "Investment",
+      "value": "",
+      "date": "Nov 05, 2026",
+      "dateISO": "2026-11-05T03:49:26"
     },
     {
       "title": "Martin Marietta's $12.9B Lhoist deal cuts pro forma 2025 EPS to $14.17 - Dealroom",
@@ -1993,32 +2084,6 @@
       "value": "",
       "date": "Oct 11, 2026",
       "dateISO": "2026-10-11T07:00:00"
-    },
-    {
-      "title": "CRH To Acquire NCC Industry Aggregate Operations In Denmark And Finland - Pulse 2.0",
-      "summary": "CRH To Acquire NCC Industry Aggregate Operations In Denmark And Finland Pulse 2.0",
-      "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxQeGRhUC1yMkdpNkZxeV9HM2l6WVAyUENsSHcyRGhJTlBZcnNpNC01S05RWW5pbzBKdVcwN3VkLS1iX2FQNTVIeE1DSFNBSXdHUndUX19yc3hkRFZtSmducEExbU1HOVE2OUE3Y0pJaUJqSGtrUmhYdmc2LXpsZm11WUNFb1RpRjAzYlhZTGJFMmxWU0lsUVHSAZsBQVVfeXFMTnRNb0txbHRoRWRaX3owUUpwS2F3dlJLV2ZUSFNqYlRCZnRsU1Z5RmI1ZUJhdmN5bGstZUlrZjlaSmxDMFFGaENPZ3hHOWkyd3BnY19sOGlTWThsU3VTaTdGY1BGbm9HNWxhd2pWTDhvYTVkQTk5dWRPY0lxVXJocThHWVgzMlJ1b2FVcUZhb1lYQXVZQml1TENVTUU?oc=5",
-      "source": "Pulse 2.0",
-      "category": "Aggregates Industry",
-      "keywords": "Acquired, To Acquire",
-      "sector": "Aggregates",
-      "dealType": "Acquisition",
-      "value": "",
-      "date": "Oct 10, 2026",
-      "dateISO": "2026-10-10T19:47:56"
-    },
-    {
-      "title": "Why MPs could stop acquisition of East Africa Portland Cement by Tanzania firm - www.standardmedia.co.ke",
-      "summary": "Why MPs could stop acquisition of East Africa Portland Cement by Tanzania firm www.standardmedia.co.ke",
-      "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxQSktzSU9CVkI5R0tZSTdSeUhQeE1NWWU5VGNKVmtHdXo4LTUtMFBtODF0YWdWVnZxeGZ1S21iUnVaSVd5VUM1b2JUUTkwYjZwMk9nSnNHVHdubS12S3V0UU1MSzBmUUw3eXRnSjV4V2ZKNHRmVnZGcUhGV1k0T0Y2UkN0eXQ0N1M3eGhsU3dVdzczWWp2TmQyWnp3U2I2WXgxMVQ0a0lpbTBnbG93TjZwa1Y1c2s0anU0Y3BWLQ?oc=5",
-      "source": "www.standardmedia.co.ke",
-      "category": "Cement Industry",
-      "keywords": "Acquired",
-      "sector": "Cement",
-      "dealType": "Acquisition",
-      "value": "",
-      "date": "Oct 10, 2026",
-      "dateISO": "2026-10-10T03:14:30"
     }
   ]
 }
