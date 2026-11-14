@@ -1,10 +1,36 @@
 {
-  "fetchedAt": "2026-11-13T20:16:44.149725",
-  "totalArticles": 159,
-  "newToday": 21,
-  "duplicatesRemoved": 19,
+  "fetchedAt": "2026-11-14T18:37:59.429649",
+  "totalArticles": 160,
+  "newToday": 19,
+  "duplicatesRemoved": 16,
   "archiveDays": 30,
   "articles": [
+    {
+      "title": "CRH stock: Oregon quarry deal broadens Pacific Northwest footprint - ad-hoc-news.de",
+      "summary": "CRH stock: Oregon quarry deal broadens Pacific Northwest footprint ad-hoc-news.de",
+      "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxOTVB6UU14c29fXy1wNWs5TXptaU1IVTF6V2stYWFTN0ZCWGp3UzNtajZNeGxaNFBPVklDN2QtV2NDLXl0ZmJYSFNqUHllSXdvOXFnOUYwSFI3Z0ZPRkJ3cHZmbGRPN05ZYUZQdjRIR3RhRlE5bVpkYUloa1o3eEVvQmxHSmdwM3FaQ1M1Qm5sdXRTLTBMMHRUZmhDaE9hVUFkVGx0cEhDTEpMVE1xb0dzWlZjaXY1NnpHQUpiN19zSTh5clMzSVFJ?oc=5",
+      "source": "ad-hoc-news.de",
+      "category": "CRH",
+      "keywords": "",
+      "sector": "Aggregates",
+      "dealType": "Acquisition",
+      "value": "",
+      "date": "Nov 14, 2026",
+      "dateISO": "2026-11-14T10:24:40"
+    },
+    {
+      "title": "Ambuja Cements Near Adani's Acquisition Price: Is the Stock Worth a Look? - Trade Brains",
+      "summary": "Ambuja Cements Near Adani's Acquisition Price: Is the Stock Worth a Look? Trade Brains",
+      "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxORnJ1NlFtd3V0clBkd1NCclpIYUVQcTVvbkNXRzcyVC1JSERSYVB1VXhPUFNBbmNOVmRLd1lYeVFqanMtVXVfVHF6Wnp6TFlrWUpEMnhyUjNKc1ZuV1Fjb0RkTFF3RlhMVzAwZmx0czVObmxvRnRnNDE2VTFCNlVKYmV0dnZzT1NwcDNlRnhWM2hRU3FIWmR2RGFxR1NINmtPaWh1Wlp6YUE2SVJvQ0dMczRHOXo1UWZU?oc=5",
+      "source": "Trade Brains",
+      "category": "Cement Industry",
+      "keywords": "Acquired",
+      "sector": "Cement",
+      "dealType": "Acquisition",
+      "value": "",
+      "date": "Nov 14, 2026",
+      "dateISO": "2026-11-14T07:30:37"
+    },
     {
       "title": "TCS acquires Best Buy India GCC for \u20b91 lakh to build AI hub - scanx.trade",
       "summary": "TCS acquires Best Buy India GCC for \u20b91 lakh to build AI hub scanx.trade",
@@ -628,6 +654,19 @@
       "value": "",
       "date": "Nov 04, 2026",
       "dateISO": "2026-11-04T21:25:00"
+    },
+    {
+      "title": "L.B. Foster acquires Texas wastewater precast products manufacturer - Wastewater Digest",
+      "summary": "L.B. Foster acquires Texas wastewater precast products manufacturer Wastewater Digest",
+      "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxOUloxczFEQnhrVm14b2gwODN6d2pTdm9WcndOZ3lPMFlBM3hrUnFFXzFHNFNfZGlmRkJVdmNVRHVzM2NIZHVob0xZcWl3dHk2OS1qWk8yUVJ0LWJYdUxIS25NRnFsd3ZiT0N5ZzFHZ0VNeVBRWVR0UlowcWpsa1ZBMUNQdzNaelliWUgxN2hIWEMxX0g5bmh4Qm1tSjJ6QUlUT055WmtfaDlkNks1UFFmT1NwVmdjemJ2ckhMaDlZZlE?oc=5",
+      "source": "Wastewater Digest",
+      "category": "Precast Industry",
+      "keywords": "Acquired",
+      "sector": "Precast",
+      "dealType": "Acquisition",
+      "value": "",
+      "date": "Nov 04, 2026",
+      "dateISO": "2026-11-04T20:05:58"
     },
     {
       "title": "Command Alkon Acquires C60: AI Analytics for Ready-Mix Concrete - News and Statistics - IndexBox",
@@ -2045,32 +2084,6 @@
       "value": "",
       "date": "Oct 15, 2026",
       "dateISO": "2026-10-15T20:41:11"
-    },
-    {
-      "title": "MLM: Margin Pressure Is Real, Acquisition Benefits Still Support The Upside - Simply Wall Street",
-      "summary": "MLM: Margin Pressure Is Real, Acquisition Benefits Still Support The Upside Simply Wall Street",
-      "url": "https://news.google.com/rss/articles/CBMi7gJBVV95cUxNNTNMRkhHNXdua2RraS02MmF0U0hvY2I5TEZMWlBFcFBOb3ZNWlBSZnFfWl9qeGlNZEFFUGhrU3FwR3ZhaUt5ZUNfbUJROXNUcnZSZFljSDBHc1ltT2dIUG02S0RZSzNoRkl2aG9LY1FDTlowNlU4ZDRJT191QU4wTE5NUXl3VFdpaklLV3VwYUlOczBwZWQ2ejVvQ2R5WTFXUjcyallUNlV1UnEteVYxZUpOTnA1WFpEZ2N0VzllSGhNbF9rbm50bWsxQV93WllOd0lnUWw3am5zb2tSNXBOblBWNW43ZzhteDdIalVMcE9NelY2bUE4QkZzdVVHbzZtTlp1VkRmckhGWWJfdjNQYlpDMW1GbHBVV2ppekVZOG8yR1dMR3o4ZGtFXzI4S0p0am81dmEwWkxfQ00xODZland3em16VkVmQ2RLdkVuQ2p6UkhRaG14ZUhGaXphMmZIRHNWZ0VwNUlCMXlMUGc?oc=5",
-      "source": "Simply Wall Street",
-      "category": "Martin Marietta",
-      "keywords": "Acquired",
-      "sector": "General",
-      "dealType": "Acquisition",
-      "value": "",
-      "date": "Oct 15, 2026",
-      "dateISO": "2026-10-15T07:00:00"
-    },
-    {
-      "title": "Perella Weinberg, Piper Sandler abandon merger talks, source says - AOL.com",
-      "summary": "Perella Weinberg, Piper Sandler abandon merger talks, source says AOL.com",
-      "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxQbTk0N1ZpOXBQSDFrU2JUYXZhV09PVmVEN1YzblowdmtkS3ZGR1RsUVB5ZTRIVWZUcUpINHpMOUYtTVUzblBxakpuNDd0SUJtSV9JUE1oNVpMbU9yRG5NTURsTVowV0VIN0NRMHc4TjdBODJRQjNIendXeW15bUpOSllXNE8tbkQ1WlE?oc=5",
-      "source": "AOL.com",
-      "category": "Asphalt Industry",
-      "keywords": "Merger",
-      "sector": "General",
-      "dealType": "Merger",
-      "value": "",
-      "date": "Oct 14, 2026",
-      "dateISO": "2026-10-14T21:05:51"
     }
   ]
 }
