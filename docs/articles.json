@@ -1,8 +1,8 @@
 {
-  "fetchedAt": "2026-11-14T18:37:59.429649",
-  "totalArticles": 160,
-  "newToday": 19,
-  "duplicatesRemoved": 16,
+  "fetchedAt": "2026-11-15T19:13:27.286376",
+  "totalArticles": 155,
+  "newToday": 17,
+  "duplicatesRemoved": 15,
   "archiveDays": 30,
   "articles": [
     {
@@ -121,6 +121,19 @@
       "value": "",
       "date": "Nov 12, 2026",
       "dateISO": "2026-11-12T13:43:28"
+    },
+    {
+      "title": "Pearl Continental owner says \u2018not a party\u2019 to Thatta Cement-Fauji Foundation restructuring deal - Business Recorder",
+      "summary": "Pearl Continental owner says \u2018not a party\u2019 to Thatta Cement-Fauji Foundation restructuring deal Business Recorder",
+      "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE5NTi1YY3MzRklqNmJXdjQ4Ny1qUHJCbWMtenRCNkF0UGR1eGd0eFFudzBkYWVTU29mNVVrQnd5T2NJUnU3U1ZndWZ0ajd4clRpVTFUY2RR0gFWQVVfeXFMTk1OLVhjczNGSWo2Yld2NDg3LWpQckJtYy16dEI2QXRQZHV4Z3R4UW53MGRhZVNTb2Y1VWtCd3lPY0lSdTdTVmd1ZnRqN3hyVGlVMVRjZFE?oc=5",
+      "source": "Business Recorder",
+      "category": "Cement Industry",
+      "keywords": "",
+      "sector": "Cement",
+      "dealType": "Acquisition",
+      "value": "",
+      "date": "Nov 12, 2026",
+      "dateISO": "2026-11-12T10:47:19"
     },
     {
       "title": "Adani group looking to raise $2.5 billion from MUFG, Barclays and Sumitomo to refinance Ambuja, ACC acquisition debt - Moneycontrol.com",
@@ -286,6 +299,19 @@
       "category": "Aggregates Industry",
       "keywords": "Acquired",
       "sector": "Aggregates",
+      "dealType": "Acquisition",
+      "value": "",
+      "date": "Nov 09, 2026",
+      "dateISO": "2026-11-09T21:03:00"
+    },
+    {
+      "title": "Four active quarries sit along Oregon\u2019s I-5 corridor. CRH has acquired assets from their operators. - Stock Titan",
+      "summary": "Four active quarries sit along Oregon\u2019s I-5 corridor. CRH has acquired assets from their operators. Stock Titan",
+      "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxOU2ZaV3NnV0V2dV9DZ0gtV0U0dEtNeFg2Y25odmFhaXFBdG9KZTk0cF9tQnJZMWNoQ1kxT2VqTUhNZkF3VXkwRUZyLVRJaksydlRIbUtvY1pYNWhnajdlemVObnVwdEppUzZEaDhJOVNTOGh0WHhqOHNaQ0Vud3JveG5OTDhhNERUTFV5UVNOT29Ua2JhQUcwRmVuX3VrSjJTS3pLRXpyU2JNR3RRN2ZRYU1ReGpXSFU?oc=5",
+      "source": "Stock Titan",
+      "category": "Aggregates Industry",
+      "keywords": "Acquired",
+      "sector": "General",
       "dealType": "Acquisition",
       "value": "",
       "date": "Nov 09, 2026",
@@ -1993,97 +2019,6 @@
       "value": "",
       "date": "Oct 17, 2026",
       "dateISO": "2026-10-17T08:19:28"
-    },
-    {
-      "title": "Heidelberg Materials Egypt buys into waste-to-fuel firm ZeroCarbon - Dealroom",
-      "summary": "Heidelberg Materials Egypt buys into waste-to-fuel firm ZeroCarbon Dealroom",
-      "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxNWWNzR2VMbWRRVzdqaEtQbnVKcGV3czJ2UnI3eTdybEtZSGNzVG90Uk9VRlB2UGFfWkkzVTBRRHRWN3h6SElhS2ZTYjNuaWh6THZzWnEzSkdfVTN6TWRKck9lcGVENVQ4YnF3SXoyQlVMQmFMUmFOdm9pdGRZOHFKUzVtZ1o1dC1XbFMyaUZSWGdOZ3ZEOURFcy1xRWh0OVlXdUE?oc=5",
-      "source": "Dealroom",
-      "category": "Heidelberg Materials",
-      "keywords": "",
-      "sector": "General",
-      "dealType": "Acquisition",
-      "value": "",
-      "date": "Oct 16, 2026",
-      "dateISO": "2026-10-16T18:53:03"
-    },
-    {
-      "title": "CMC Completes Foley, CP&P Precast Acquisitions, Renames Emerging Businesses Group - Minichart",
-      "summary": "CMC Completes Foley, CP&P Precast Acquisitions, Renames Emerging Businesses Group Minichart",
-      "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxPX1UwM3hVQ1dCWEd1MTVGMWU0ZUR2VW5qZ1lQbm95VUNwTFVpdzB5R0lZMmJLeXFVN01TelZGTVRTMGY4VGVxelJWWW42T2ZjT3JycVQ4T0hzUlRTZzJPSWQyN2ZuWjFJdzlfajM0WFF3TUZlRnM3Uzl1MmdzRVZPUmVfdWRzdXVIbERsT2l6ZE1GVk9vUUQyYUJzMEcyQ2tPd2hKUmNudW5ZQ1gtMkp5OWJ1ZkE2QVA3YUtZ?oc=5",
-      "source": "Minichart",
-      "category": "Precast Industry",
-      "keywords": "Acquired",
-      "sector": "Precast",
-      "dealType": "Merger",
-      "value": "",
-      "date": "Oct 16, 2026",
-      "dateISO": "2026-10-16T15:16:00"
-    },
-    {
-      "title": "Ha Tinh: Removing land acquisition obstacles to accelerate progress of the over 1.48 trillion VND railway project. - Vietnam.vn",
-      "summary": "Ha Tinh: Removing land acquisition obstacles to accelerate progress of the over 1.48 trillion VND railway project. Vietnam.vn",
-      "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxNRzNfZW9jT2t0SFJkc1RBYk1rUXJwRTExTWlmN2pzOTlSbkp3NnVVaWlBek9sYzJSWVo5RGdLVnNLVXg3ZlgwWWhOVkxwR2NKZjZ6cDdhcmJ3Smg1QzBpa1JVUi1mVVNYY3BEUEpSNk1ibkJ2OEpFdEhHMlRsWWZqbEp2aFo2NVBiY1dnWmpodDdPWm5BeHhDSjM4YzhUU3h2UjJN?oc=5",
-      "source": "Vietnam.vn",
-      "category": "Precast Industry",
-      "keywords": "Acquired",
-      "sector": "General",
-      "dealType": "Acquisition",
-      "value": "",
-      "date": "Oct 16, 2026",
-      "dateISO": "2026-10-16T07:55:19"
-    },
-    {
-      "title": "Eagle Materials Inc $EXP Shares Acquired by Fort Washington Investment Advisors Inc. OH - MarketBeat",
-      "summary": "Eagle Materials Inc $EXP Shares Acquired by Fort Washington Investment Advisors Inc. OH MarketBeat",
-      "url": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxNem1NRGhISEd6aW5DTGxfLWlLNHBYckwtY2l6ckhHdDV4M3RhRTlXYWRTb3o4b2hMQnIzT0cyODhEUHI3cDVGT0RvZ2lfN2pXT3hhRjM2STcwazE5X2Y4TmFESzNtZ2hQMlEwTXloTXl1YkF2QU5UcklUZW5VOC1rVWE1WDQwbDdFUnI5VlFiUGZEbmNrdzVDNnY1UjJxMzRMYUhlejB6MlRMUk1LTF9HdXQtVWhvWi1nejg1VGVsdG9nVmRtcmxSTGppalJCRnVNcHpmdi1yRUxWZ2s5cHMw?oc=5",
-      "source": "MarketBeat",
-      "category": "Eagle Materials",
-      "keywords": "Acquired, Investment",
-      "sector": "General",
-      "dealType": "Investment",
-      "value": "",
-      "date": "Oct 16, 2026",
-      "dateISO": "2026-10-16T07:49:42"
-    },
-    {
-      "title": "Maple Leaf Cement Approves Merger With Pioneer Cement - TechJuice",
-      "summary": "Maple Leaf Cement Approves Merger With Pioneer Cement TechJuice",
-      "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxNdGdDbld4THJqS3VkVUhCRTlsVkt2LVRkVzctMnRMMFlpQXlWUFl1TG1zdzViVGNRZ1o3a3l6ZVp1MjItc3V5azEyNkVXX3EzdE9qTnhkU2JGUlM2T2ZkX1pQYVpZUWVDYm9UOWgzUXZtN3dvNDdzOTVWR181eS1rb0xMR2pOdw?oc=5",
-      "source": "TechJuice",
-      "category": "Cement Industry",
-      "keywords": "Merger",
-      "sector": "Cement",
-      "dealType": "Merger",
-      "value": "",
-      "date": "Oct 16, 2026",
-      "dateISO": "2026-10-16T06:07:06"
-    },
-    {
-      "title": "Eagle Materials' Eric Cribbs Acquires Dividend Equivalent RSUs on October 13, 2026 - Kalkine Media",
-      "summary": "Eagle Materials' Eric Cribbs Acquires Dividend Equivalent RSUs on October 13, 2026 Kalkine Media",
-      "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxPd25vWTBydFQ5MXNzN0JxeHNyeUpXUUhkTmdfOXc1dld5cVJzd1J2amJMMjg2VkRNc1RLRENKRXRzUS1tcjNHa01HQWt2Q3FLbC1TeW9xcWdZVmJvd3JPTXRhdkFDNGE1clUtRzQxN084SWZGeGpFV0RzQzE1aWV4Y3FTTF9hT1VyM05iWU5DYmdiY3V5TUZJNmRNVTM5V0VJWnJJS2tEWWxwOUZxTDRKZkNpeHh2LWk0RWRyS2VJWVBnN00waFE?oc=5",
-      "source": "Kalkine Media",
-      "category": "Eagle Materials",
-      "keywords": "Acquired",
-      "sector": "General",
-      "dealType": "Acquisition",
-      "value": "",
-      "date": "Oct 15, 2026",
-      "dateISO": "2026-10-15T20:47:52"
-    },
-    {
-      "title": "An Eagle Materials (EXP) officer acquires 0.6978, 1.7937 and 3.0672 dividend-linked stock units. - Stock Titan",
-      "summary": "An Eagle Materials (EXP) officer acquires 0.6978, 1.7937 and 3.0672 dividend-linked stock units. Stock Titan",
-      "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxOV2JUMUhzZ1lPb3pWRjZaNFpKZW5hbnpya1lOblZkRFRJQkwzUGpZcGtBdlNIR3hWUEVOSFhkcGFibXhRQXJNWG5iNEs4ZkpBVGxVVTlER2x6S1dCQXRPMF9UX0FRZ1VRZms4SUNYNUhCMUhWVi0xYkMtYVB0NEYzLTZMTkRHOUVLdGprU1NublI4OUFwUHRKdWpmUlA2bVM2Z0JGbDJwZkUwbjFBcl83UFNR?oc=5",
-      "source": "Stock Titan",
-      "category": "Eagle Materials",
-      "keywords": "Acquired",
-      "sector": "General",
-      "dealType": "Acquisition",
-      "value": "",
-      "date": "Oct 15, 2026",
-      "dateISO": "2026-10-15T20:41:11"
     }
   ]
 }
