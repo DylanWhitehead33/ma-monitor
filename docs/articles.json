@@ -1,10 +1,62 @@
 {
-  "fetchedAt": "2026-11-15T19:13:27.286376",
-  "totalArticles": 155,
-  "newToday": 17,
-  "duplicatesRemoved": 15,
+  "fetchedAt": "2026-11-16T22:43:00.004575",
+  "totalArticles": 160,
+  "newToday": 20,
+  "duplicatesRemoved": 13,
   "archiveDays": 30,
   "articles": [
+    {
+      "title": "Komatsu Goes Paving, Acquires Roadtec and Carlson Paving Equipment from Astec - Construction Equipment",
+      "summary": "Komatsu Goes Paving, Acquires Roadtec and Carlson Paving Equipment from Astec Construction Equipment",
+      "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxNbjlvRGhVVUhpVmxHTWFta0dXWHJRemZ2Y2trTm9uRTZaYm9EWHNCZmdVeHltNFd2SE1EZDhIaENXdW1qaUZsRlpfZng1bWZuV29JZlljRERNS1c2NlFldTBGYUFzdWVhcGVpM0xIRlBhSTZDWkZqN0pZYlRYekRoWFFUNy1DMzFjWjByZFNmTE9hRzFRbEYtb0pVbnduc2psSllnS3p6R3NXQ19qT3dkM2FSczZrU0JHbmdRb3l5QzZWZw?oc=5",
+      "source": "Construction Equipment",
+      "category": "Asphalt Industry",
+      "keywords": "Acquired",
+      "sector": "Paving",
+      "dealType": "Acquisition",
+      "value": "",
+      "date": "Nov 16, 2026",
+      "dateISO": "2026-11-16T15:05:33"
+    },
+    {
+      "title": "Granite completes two deals with $175 million revenue outlook - grafa.com",
+      "summary": "Granite completes two deals with $175 million revenue outlook grafa.com",
+      "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxQbm1FSWVFNC1fcG5Ba1Y2YnR2QVdERlpmd1J1OE14dGU5dGtKUmZPaGM1WFZwSmZ6b21TdWtqSHBycTE5SXNNS09PbnlJMmxHY3pqZE1FV01lM3JRQjl3aUlmRGdiakhHUXduOUJBV3ZTYzlwY1VmU084MzJqUVU2RkFaMUtYZTFGb2pvVDU4YU5VMDZicjNZbzdDa1NTMks1eTJka3JlTnVtTVpQaGVHU3pn?oc=5",
+      "source": "grafa.com",
+      "category": "Ready-Mix Industry",
+      "keywords": "",
+      "sector": "General",
+      "dealType": "Acquisition",
+      "value": "$175M",
+      "date": "Nov 16, 2026",
+      "dateISO": "2026-11-16T13:49:52"
+    },
+    {
+      "title": "Granite expands footprint with deals in Utah, Tennessee - Pit & Quarry",
+      "summary": "Granite expands footprint with deals in Utah, Tennessee Pit & Quarry",
+      "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxPNWxMQUhDOG8wXzhOTk5BZGljVHpDZGhmR0ppZ0pXMkRndE02Q2ZpNmJFOWdVYWMxbXRGMnJWdHFjVkJ3YXZqN0kzczM2ZHpRM2NrQk0zRnVxMmFGNGhQYjZOdDdxSW83UUZKV0Ezd19nWWtOQWJYSF84UVNvZFl6Qmk1TDVRTm5yQjBjSQ?oc=5",
+      "source": "Pit & Quarry",
+      "category": "Pit & Quarry \u00b7 Aggregates",
+      "keywords": "",
+      "sector": "Aggregates",
+      "dealType": "Acquisition",
+      "value": "",
+      "date": "Nov 16, 2026",
+      "dateISO": "2026-11-16T13:47:18"
+    },
+    {
+      "title": "Granite Completes Acquisitions of Construction Materials Company and Ford Construction - Business Wire",
+      "summary": "Granite Completes Acquisitions of Construction Materials Company and Ford Construction Business Wire",
+      "url": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxQTDd0RUJTUmZEOFhVT2hiaUZHNEF2OUdFTjBZTC12Y2pLRnVjVGR6ZkFId29vQWJCWTZzQ1VNRDNMUnYxbXRhUFF5a0VxTl9CUW9LQnZSLVhpVGJLdE5uakloVE5hQzMzMFEtTDFqbFRkLWZHWEtZMHhhd0ZWOGlYbENJRXB2bnRPNzR4QWl4TE1Dc3VfOHgxcE5SOENoMEItckU2U0FtWkJhaE5GWlkyY3hWMVloOHpEV19sTVg3OWtOUWdvX3Y2dVBxdVZQUXc3c1VQOE12YXdsdUE?oc=5",
+      "source": "Business Wire",
+      "category": "Aggregates Industry",
+      "keywords": "Acquired",
+      "sector": "General",
+      "dealType": "Acquisition",
+      "value": "",
+      "date": "Nov 16, 2026",
+      "dateISO": "2026-11-16T11:45:00"
+    },
     {
       "title": "CRH stock: Oregon quarry deal broadens Pacific Northwest footprint - ad-hoc-news.de",
       "summary": "CRH stock: Oregon quarry deal broadens Pacific Northwest footprint ad-hoc-news.de",
@@ -890,6 +942,19 @@
       "dateISO": "2026-11-02T09:03:30"
     },
     {
+      "title": "Cherat Cement agrees to acquire majority stake in Nimir Industrial Chemicals for Rs24 billion - Business Recorder",
+      "summary": "Cherat Cement agrees to acquire majority stake in Nimir Industrial Chemicals for Rs24 billion Business Recorder",
+      "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE1pSEZRMnBRMG1LX3YzWEctLVhfN1hDbS1YcEloeFk4WkRxV3pIZmdudUhBZzVFZ0EyNDVqeFNXOXF2cXpId2dCYnFfcEVaSXZjQmZ3SWlB0gFWQVVfeXFMTWlIRlEycFEwbUtfdjNYRy0tWF83WENtLVhwSWh4WThaRHFXekhmZ251SEFnNUVnQTI0NWp4U1c5cXZxekh3Z0JicV9wRVpJdmNCZndJaUE?oc=5",
+      "source": "Business Recorder",
+      "category": "Cement Industry",
+      "keywords": "Acquired, To Acquire",
+      "sector": "Cement",
+      "dealType": "Acquisition",
+      "value": "",
+      "date": "Nov 02, 2026",
+      "dateISO": "2026-11-02T08:00:00"
+    },
+    {
       "title": "Cherat Cement signs deal to acquire 64.07% stake in Nimir Industrial Chemicals for Rs 24 billion - Profit by Pakistan Today",
       "summary": "Cherat Cement signs deal to acquire 64.07% stake in Nimir Industrial Chemicals for Rs 24 billion Profit by Pakistan Today",
       "url": "https://news.google.com/rss/articles/CBMi4gFBVV95cUxQRi1WZTRXcEZKbEk0Wm9JX1dlUkNDdEtXZTFpS2hvQzF3VUhzUW96VWFIaVo5d29lcGRZTk9sYl9rendBSFpZOFN5TzU4RmJVM3AtenZqOWs4VTg5REFTZkpXYkM2UVh5S0ZFa1ROdDdKX25uTFBMN2Zzd0hVNmFJWmF0TWxKVlh4ajNLZnE1Z21jSHdCU2t3R1F1Ylk0QjlSV3dPTkZiajZTb2FSdm9uV1lLTG9XT3I1UklWbERIQnpjNnROeW5uc1J1d0wzaDBXQ0MwXy1XTEpXV2FTcjlNZ1JR?oc=5",
@@ -901,19 +966,6 @@
       "value": "",
       "date": "Nov 02, 2026",
       "dateISO": "2026-11-02T06:07:44"
-    },
-    {
-      "title": "Cherat Cement agrees to acquire majority stake in Nimir Industrial Chemicals for Rs24 billion - Investify",
-      "summary": "Cherat Cement agrees to acquire majority stake in Nimir Industrial Chemicals for Rs24 billion Investify",
-      "url": "https://news.google.com/rss/articles/CBMizgFBVV95cUxPQ2s2a3JBWTJaa1kybWIybV9sZW4xSTJpdXZIVEEzMmZDQlB5ODNoOXpqNlFhX1pTNmZyTHFFbW5RUkp6cXJaYm5jSzN6bzRzbnRrSHR1VDVUai11TTdGWTdfN091cnpyejBOZTlDemVLcGE3bnlGcEJIVUdDenl5aXFYMnNSZk16Z2RRS3BfSkFMRm9vMTRERjQyUF9NSW5faFZDOUhsTEFfR2kzLUU4aUtfUnZtQTBZTWdyVW1IM3lfWE9zOFpMbF9BTUxxdw?oc=5",
-      "source": "Investify",
-      "category": "Cement Industry",
-      "keywords": "Acquired, Investment, To Acquire",
-      "sector": "Cement",
-      "dealType": "Acquisition",
-      "value": "",
-      "date": "Nov 02, 2026",
-      "dateISO": "2026-11-02T05:24:38"
     },
     {
       "title": "Holcim buys France's Cem'In'Eu, adding 0.48Mta of grinding capacity - Dealroom",
@@ -1041,6 +1093,19 @@
       "keywords": "Acquired",
       "sector": "General",
       "dealType": "Acquisition",
+      "value": "",
+      "date": "Oct 30, 2026",
+      "dateISO": "2026-10-30T07:00:00"
+    },
+    {
+      "title": "DOJ Antitrust Division Partners With State AGs on Local Mergers - edhat",
+      "summary": "DOJ Antitrust Division Partners With State AGs on Local Mergers edhat",
+      "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxOSzNhZWh6V3RVd3BhZXpEMGU2UUh6RjFfanpmVFFSRkdPYWZfdEJoTHY3ZDV6U0M4enotSVZWbENyZFM2ZUxHeVo2SmNSTDA4ZHZoZUdkay1uNkkzZzlIbkppRnVyeWZyQlE3Zmgxb2JEUE5yaG9GbGJRbHNmRVhoM1FnWUdLTm1fY2xyTkZuajhhT3BNOWJSbDlSU1BmT0RyQXVBdVR1a2JWR2x5V05IVlptMzJ4dXNFVXd3?oc=5",
+      "source": "edhat",
+      "category": "Cement Industry",
+      "keywords": "Merger",
+      "sector": "General",
+      "dealType": "Merger",
       "value": "",
       "date": "Oct 30, 2026",
       "dateISO": "2026-10-30T07:00:00"
@@ -1878,6 +1943,32 @@
       "dateISO": "2026-10-20T07:19:47"
     },
     {
+      "title": "AG Sunday\u2019s Antitrust Section Takes Action to Preserve Competition for Asphalt in Central and Western Pa. Following Companies Merger - EIN Presswire",
+      "summary": "AG Sunday\u2019s Antitrust Section Takes Action to Preserve Competition for Asphalt in Central and Western Pa. Following Companies Merger EIN Presswire",
+      "url": "https://news.google.com/rss/articles/CBMiigJBVV95cUxOY21mZndtMmhwZFpFNXU4MGdQQ1NXbjg1V29iUWV1bmN5SmlqTzM1Q0xUVG9BZExLNGx5RzFDOUV3UUVUa1RIbmZRQXFFNW1USzN6TUJZS3JRci0xa2VwOUxQUGlTSVJkMm81YXNZLUh4U1lXYTE5V1pLTmtEQ2hIa2VuTUozSWNLNk1CQkUzaGhQWndYNXVqS3JrWGtpN0h5S1NKWXNPQVNIYWFlRnprS0c2R3NFa0htWEk4cTBjclFiTGdnVHo0Ym5pZy12aTJRZTB0WGk1T1o1RmR4d3E1THlnSXFRUWpfWlM0S3VlLW9FYTUxbUZEcUtRR3B0UDU5dk45QVllT2t3dw?oc=5",
+      "source": "EIN Presswire",
+      "category": "Asphalt Industry",
+      "keywords": "Merger",
+      "sector": "Asphalt",
+      "dealType": "Merger",
+      "value": "",
+      "date": "Oct 20, 2026",
+      "dateISO": "2026-10-20T07:00:00"
+    },
+    {
+      "title": "Construction Partners acquires Florida contractor Cline By Investing.com - Investing.com India",
+      "summary": "Construction Partners acquires Florida contractor Cline By Investing.com Investing.com India",
+      "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxNTGIweENxQ0RIVmY2U0dUdWRvQ09Bbm80QTJuQzVaQ3RFMHh2ZnVLdnptOHltSlV3TW85RWdRdkc4QXFnUlp1Q2s4ZHo1ZFh5RDVzaHluem9WMUp3bEZCczNsREVzZnQ3cC1vT0pKcHZIV1JPZnVZX3M4TmdoTnZsN3NhOEtnT3hBWVpzdUI0RzlobXhXY2RjblgyT1NTcnRjQlU0UkJMZHZWWC10Zlo1bTVTbjBjVkE?oc=5",
+      "source": "Investing.com India",
+      "category": "Construction Partners",
+      "keywords": "Acquired, Investment",
+      "sector": "General",
+      "dealType": "Investment",
+      "value": "",
+      "date": "Oct 20, 2026",
+      "dateISO": "2026-10-20T07:00:00"
+    },
+    {
       "title": "Jamestown Suit-Kote plant to be sold to avoid monopoly - Post Journal",
       "summary": "Jamestown Suit-Kote plant to be sold to avoid monopoly Post Journal",
       "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxOT2xqNVdsdUxXaWhjZzV2OFdMVXVwTXNyUjJoZW1fNms3ejgtTllXZjNfc2M0UnJOT2RRQVoweXE3T21RakJSN3A1dDdTNFhWaXpBWXVnMFd6SGV1dVZjN01neXZfWnZpd3RYeklRLW1aMktMQTMtdHFVUE9kT3JoTkx5UGVnYTh3ekxDdi01Rzh4ZllXb1N2T2s4RXFjRWNLVlo2WHNQRGpydEhRWFE?oc=5",
@@ -1993,32 +2084,6 @@
       "value": "",
       "date": "Oct 18, 2026",
       "dateISO": "2026-10-18T07:00:00"
-    },
-    {
-      "title": "Vicat announces proposed Cemex asset deal: what it means for Cemex stock - ad-hoc-news.de",
-      "summary": "Vicat announces proposed Cemex asset deal: what it means for Cemex stock ad-hoc-news.de",
-      "url": "https://news.google.com/rss/articles/CBMizwFBVV95cUxQWUR5TEQxN1BRczc0aTloR05wNlMtM1c2UV9iUlhZbC01ZWpaRW80cjBGN3pXUDJMQ3dDdkJoYk1mV1IxUHdQblBFM01VaUg5Zm5YRFN1dV82TmprWjFZM3MxUF9yM0F3T0FVek5NRlFpS1RmZ2tBWjZQbHg3M3c3S2EtTVlJb0tTSEtUaFZvNWhtVTN5dWxaRmRoNnhMWXBMOTZBTXFaaURCZFg1dDNKQXJ0UnEzWDZhaVFSY09YRkF5U09CMjMzaVFSSTZSaXM?oc=5",
-      "source": "ad-hoc-news.de",
-      "category": "Ready-Mix Industry",
-      "keywords": "",
-      "sector": "General",
-      "dealType": "Acquisition",
-      "value": "",
-      "date": "Oct 17, 2026",
-      "dateISO": "2026-10-17T09:00:06"
-    },
-    {
-      "title": "Weekly review asks what Nordic acquisition means for Heidelberg Materials stock - ad-hoc-news.de",
-      "summary": "Weekly review asks what Nordic acquisition means for Heidelberg Materials stock ad-hoc-news.de",
-      "url": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxQbGpiUkhodnUzdjMzXzV0cnRLZURqYUcwMTlWYjdaQ0tnUTh6SnJpbUhpQW1IOVI2UFZlaVd3ZXhKOC10Uk56b2JseWYxaHFaekJVdmFncXk5TDM5a2drYzJ6QW56cHp0aTdpWEZKbmtOa0JaVG9wNkJKQXZxNWdMS21sLXVXTkIwZHpzUG1jMkd0b3FweC05TGVNUEtpRVJ6TjN2ci1KbS1XWjdwcnlJNS1SOU9JZXNjVERNVmp1THpMSFR5VzVtalh2YXBnQnNWcjE4ZkE3TzhWdw?oc=5",
-      "source": "ad-hoc-news.de",
-      "category": "Asphalt Industry",
-      "keywords": "Acquired",
-      "sector": "General",
-      "dealType": "Acquisition",
-      "value": "",
-      "date": "Oct 17, 2026",
-      "dateISO": "2026-10-17T08:19:28"
     }
   ]
 }
