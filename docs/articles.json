@@ -1,10 +1,75 @@
 {
-  "fetchedAt": "2026-11-16T22:43:00.004575",
-  "totalArticles": 160,
-  "newToday": 20,
-  "duplicatesRemoved": 13,
+  "fetchedAt": "2026-11-17T21:28:57.913555",
+  "totalArticles": 164,
+  "newToday": 24,
+  "duplicatesRemoved": 18,
   "archiveDays": 30,
   "articles": [
+    {
+      "title": "Princes Group Agrees Proposed \u20ac80 Million Acquisition of Mondel\u0113z French Bakery and Cereal Bar Businesses - Yahoo Finance UK",
+      "summary": "Princes Group Agrees Proposed \u20ac80 Million Acquisition of Mondel\u0113z French Bakery and Cereal Bar Businesses Yahoo Finance UK",
+      "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxQZDc2NlFBalRLLV9fdUMyenJpVGdpRFc4U1JXX0l4eDBxQy1GbkFrcFYzZlBUSDBMb3hVNXI5WU5mNXRVUGt2TG1lbzhPYXdXalJwMlRLcnA5enBjVWFYeWZhOFFmZk1WeE5vc19MQlpJQmd5UTBoSGY4dEVJOERWUDcycnZJaUtU?oc=5",
+      "source": "Yahoo Finance UK",
+      "category": "Cemex",
+      "keywords": "Acquired",
+      "sector": "General",
+      "dealType": "Acquisition",
+      "value": "",
+      "date": "Nov 17, 2026",
+      "dateISO": "2026-11-17T08:02:01"
+    },
+    {
+      "title": "Is Granite (NYSE:GVA) Completing New Construction Deals? - Kalkine Media",
+      "summary": "Is Granite (NYSE:GVA) Completing New Construction Deals? Kalkine Media",
+      "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxOYTBwZGVpeUdzVmpHTUtGcDh6SlhrbDlsaWRfU3RCLWg3Z095UC1MUUs3OVJ5VVBUR0w4ZW9NUzcxa2NFZzM1VXJXT0xLUGJKRzdKcnRRb1d4aUJTbkVIbjd3QnNxTS1aY3NJU1h3aTVuT3ZLcjRjeHVobHREdzNpMUd0TnJibWFIWENhMnRMc1FHOXhOTzUtdGNucDlKSjdqcHpiWkRNVTVyc0FWQUo5cmVJMjRST1FTNWc?oc=5",
+      "source": "Kalkine Media",
+      "category": "Granite Construction",
+      "keywords": "",
+      "sector": "General",
+      "dealType": "Acquisition",
+      "value": "",
+      "date": "Nov 17, 2026",
+      "dateISO": "2026-11-17T06:59:00"
+    },
+    {
+      "title": "CRH Completes $8.5B Acquisition of Arcosa to Expand North American Infrastructure Portfolio - https://megaproject.com/",
+      "summary": "CRH Completes $8.5B Acquisition of Arcosa to Expand North American Infrastructure Portfolio https://megaproject.com/",
+      "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxONWNrNHhxUU9pRlNyZEpOd0VTZFl4SFdpZWg1TndnMWVfbFcyZjg2QndBYi16TnpMWWM0ZEwtNDRnWjFxYnJiRWhhMmhHZmVyblJzVUpraEdScFJQaUNlbFYxX0lzMDk3dFpyS25pLXVVSWZSdHFMMDU5Z3pKSTYzdHlfUGsybU5UNHlfVDBRc2RoUHN2OXF0emNXOGZfMDI1YURuNktPVzREdTMyelFRQnhiXzRPQmF1UURTSkVBS2FtRmc?oc=5",
+      "source": "https://megaproject.com/",
+      "category": "Aggregates Industry",
+      "keywords": "Acquired",
+      "sector": "General",
+      "dealType": "Acquisition",
+      "value": "$8.50B",
+      "date": "Nov 17, 2026",
+      "dateISO": "2026-11-17T03:22:44"
+    },
+    {
+      "title": "Holcim Agrees to Acquire Fermacell for \u20ac840M to Expand Sustainable Building Solutions - https://megaproject.com/",
+      "summary": "Holcim Agrees to Acquire Fermacell for \u20ac840M to Expand Sustainable Building Solutions https://megaproject.com/",
+      "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxOVVFjVmVSWUU2amJ3ZHJydWZ2OFZDd0FraDhkazNkaFRTWjc5bExtRnIzbFRwNHBLS05QZ1VSWWJzajA5aDRfaGxWay13QkMyMkdJRUdmbnRRRUMwUWFaQWstYlpwcDB2RElxOVF3bl90ZGJVbEs4TU9BZlVvRXhua2JHLVhtTmlBSGcxTGoyNTFVQUdGS0VnVFdSd0YxX2N1MkxrVVVrd25oVmd4WjRxYzhXN0ItZmN6NUIwWkJaMA?oc=5",
+      "source": "https://megaproject.com/",
+      "category": "Holcim",
+      "keywords": "Acquired, To Acquire",
+      "sector": "General",
+      "dealType": "Acquisition",
+      "value": "",
+      "date": "Nov 17, 2026",
+      "dateISO": "2026-11-17T03:12:42"
+    },
+    {
+      "title": "Granite completes two deals with $175 million revenue outlook - grafa.com",
+      "summary": "Granite completes two deals with $175 million revenue outlook grafa.com",
+      "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxOYUNLVTBuXzVmelRlVnlCZlZwU2dlTTdHX1ZiVUtXWERyQ29MZ3E2M1RnbHVndE9wYkxBUkFtajZfX2JPd21DZ1hLLTZQVzh6clh2a1JmbGVxMDAtTmxmeHAyM1A1dmZlalpuT2h6U09tTWYybWk3MXc1ampyeGMyeDhwMWRlZDBXaW14OGxOVTFXNEVvVVJxb1NoY1dKT19HZlZOMjVxWnlHNjNFQnFEQW1PYjJkZw?oc=5",
+      "source": "grafa.com",
+      "category": "Ready-Mix Industry",
+      "keywords": "",
+      "sector": "General",
+      "dealType": "Acquisition",
+      "value": "$175M",
+      "date": "Nov 16, 2026",
+      "dateISO": "2026-11-16T18:38:00"
+    },
     {
       "title": "Komatsu Goes Paving, Acquires Roadtec and Carlson Paving Equipment from Astec - Construction Equipment",
       "summary": "Komatsu Goes Paving, Acquires Roadtec and Carlson Paving Equipment from Astec Construction Equipment",
@@ -19,19 +84,6 @@
       "dateISO": "2026-11-16T15:05:33"
     },
     {
-      "title": "Granite completes two deals with $175 million revenue outlook - grafa.com",
-      "summary": "Granite completes two deals with $175 million revenue outlook grafa.com",
-      "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxQbm1FSWVFNC1fcG5Ba1Y2YnR2QVdERlpmd1J1OE14dGU5dGtKUmZPaGM1WFZwSmZ6b21TdWtqSHBycTE5SXNNS09PbnlJMmxHY3pqZE1FV01lM3JRQjl3aUlmRGdiakhHUXduOUJBV3ZTYzlwY1VmU084MzJqUVU2RkFaMUtYZTFGb2pvVDU4YU5VMDZicjNZbzdDa1NTMks1eTJka3JlTnVtTVpQaGVHU3pn?oc=5",
-      "source": "grafa.com",
-      "category": "Ready-Mix Industry",
-      "keywords": "",
-      "sector": "General",
-      "dealType": "Acquisition",
-      "value": "$175M",
-      "date": "Nov 16, 2026",
-      "dateISO": "2026-11-16T13:49:52"
-    },
-    {
       "title": "Granite expands footprint with deals in Utah, Tennessee - Pit & Quarry",
       "summary": "Granite expands footprint with deals in Utah, Tennessee Pit & Quarry",
       "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxPNWxMQUhDOG8wXzhOTk5BZGljVHpDZGhmR0ppZ0pXMkRndE02Q2ZpNmJFOWdVYWMxbXRGMnJWdHFjVkJ3YXZqN0kzczM2ZHpRM2NrQk0zRnVxMmFGNGhQYjZOdDdxSW83UUZKV0Ezd19nWWtOQWJYSF84UVNvZFl6Qmk1TDVRTm5yQjBjSQ?oc=5",
@@ -43,6 +95,19 @@
       "value": "",
       "date": "Nov 16, 2026",
       "dateISO": "2026-11-16T13:47:18"
+    },
+    {
+      "title": "Granite completes two acquisitions in Utah and Tennessee By Investing.com - Investing.com Canada",
+      "summary": "Granite completes two acquisitions in Utah and Tennessee By Investing.com Investing.com Canada",
+      "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxNcmlIMVJjMnlneDMyVHJlcFpiZTFrbXp5WGxFRVZoUWRkdTlKb25qdGV0MnAxdG56TTBjT2p4TnNyNEtJbHczNFJHdS1kUTBSV2FPd2ZHV2JfbEVSY1ZKTUhCZ0tpdFpfNmRRWXEwRmMwZFEzTlNBOEZaQW03cmZ0UmlTV3V4SEhMVW1Ddm5DNFJzSjlaZjFFaklPN2IxSF9KY01FdGk0aEpQNHNjTDBtODFiM1VkakJE?oc=5",
+      "source": "Investing.com Canada",
+      "category": "Granite Construction",
+      "keywords": "Acquired, Investment",
+      "sector": "General",
+      "dealType": "Investment",
+      "value": "",
+      "date": "Nov 16, 2026",
+      "dateISO": "2026-11-16T12:12:21"
     },
     {
       "title": "Granite Completes Acquisitions of Construction Materials Company and Ford Construction - Business Wire",
@@ -498,6 +563,19 @@
       "value": "",
       "date": "Nov 06, 2026",
       "dateISO": "2026-11-06T11:21:11"
+    },
+    {
+      "title": "Popees plans national, GCC expansion after \u20b9511-crore merger - BusinessLine",
+      "summary": "Popees plans national, GCC expansion after \u20b9511-crore merger BusinessLine",
+      "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxQTXJ5bHpFbC1RYVcycFhGazBPMTRtZUdYTUV3bFZGRExiWmVabThsOUZlN2RGRTFPVzFxVkV2RklPckRrM0E1RU5paVluR3F3aU50LXMwb1U3RjRnOXViQ1VQUmlaWXZGNWtuRlBQV3BZNVA4Sk1FaFU0UkZZUHFIaHFUc05lM2MyLXoyeXMwUEZjNlltWnZSSi1VeFI4MGJqaXFtQzU2ZURfb19Fd0lDbnVLendhelB3MDRCSFV5YnU0YW_SAcoBQVVfeXFMTll3NUp3VGw1My1pQi1PUWJCWmRZWjNuRWdBRmt1aDdRQWhSaUZUM05KbGtGakhHWTZpSklzWjkwcXA5a0FKd2phdjhlNTYxSDY0MHNLdk9HclFadVZvWHEwY0p5YWlJNFNLZFV5a09fekVkdTN1cjVzcl9BTDJVZjdmc2lPZlA1MkZMTGlLb2FWdlNGZHJGeTR0V0ZMWkJad2h2bmhwQ0diNmJFemRNTjdDQjRNeGlTRmp1emI3ZXEycnUwNDJmTWJmQQ?oc=5",
+      "source": "BusinessLine",
+      "category": "GCC Cement",
+      "keywords": "Merger",
+      "sector": "General",
+      "dealType": "Merger",
+      "value": "",
+      "date": "Nov 06, 2026",
+      "dateISO": "2026-11-06T08:00:00"
     },
     {
       "title": "Holcim Completes Burdett Acquisition to Expand Circular Construction in Australia - The Globe and Mail",
@@ -2058,32 +2136,6 @@
       "value": "",
       "date": "Oct 19, 2026",
       "dateISO": "2026-10-19T12:55:52"
-    },
-    {
-      "title": "5 Biggest Acquisitions of The Dalal Street in the Last 5 Years - Trade Brains",
-      "summary": "5 Biggest Acquisitions of The Dalal Street in the Last 5 Years Trade Brains",
-      "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxOSGo4SzVaZWRTaHlyY1BkM3p6NzZBMXU2OU9VZ2RqQnVzYml6SHZrT1JhNFpsb0dzMUZqQ1QzbWtXbjhTeW9ZbUU1eEoxQU5TYjRKaE02a1ZYRUJ0a0dZZkhFLU1fTEFLbjZRbkN2M1FoeHdPdzlKMV9kRkhubzk4MmJlT2lZbVoyc3lTRDIxZ19VWTN2WEVOc2V1MExUdGRpRmUxcEs2YnkxM1BkMUE?oc=5",
-      "source": "Trade Brains",
-      "category": "Cement Industry",
-      "keywords": "Acquired",
-      "sector": "General",
-      "dealType": "Acquisition",
-      "value": "",
-      "date": "Oct 18, 2026",
-      "dateISO": "2026-10-18T07:31:37"
-    },
-    {
-      "title": "Martin Marietta: The Lhoist Deal Leaves Little Room For Upside (NYSE:MLM) - Seeking Alpha",
-      "summary": "Martin Marietta: The Lhoist Deal Leaves Little Room For Upside (NYSE:MLM) Seeking Alpha",
-      "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxNLU5kalhTN2Q4MXh4ODhvdzNLSzhIYVFKakZ2WVpWdXdNM2tFYlpyNkpqRVUzQU5zMHhHdHZ6d1ZYT0dYYTNremttM29wV1ZNYWZQSlp5OG5rVGJLQml1alUtekk2RF92OUFyWGRKOHhZNFNBQk1GZWswcGVYZktucnFTUGVPLVVyemxMZ2RrSWhuWl9sSWt0elRQdHRzd0E?oc=5",
-      "source": "Seeking Alpha",
-      "category": "Martin Marietta",
-      "keywords": "",
-      "sector": "General",
-      "dealType": "Acquisition",
-      "value": "",
-      "date": "Oct 18, 2026",
-      "dateISO": "2026-10-18T07:00:00"
     }
   ]
 }
