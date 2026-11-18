@@ -1,10 +1,49 @@
 {
-  "fetchedAt": "2026-11-17T21:28:57.913555",
-  "totalArticles": 164,
-  "newToday": 24,
-  "duplicatesRemoved": 18,
+  "fetchedAt": "2026-11-18T21:03:32.511050",
+  "totalArticles": 165,
+  "newToday": 17,
+  "duplicatesRemoved": 11,
   "archiveDays": 30,
   "articles": [
+    {
+      "title": "Granite acquires CMC and Ford Construction - Construction & Demolition Recycling",
+      "summary": "Granite acquires CMC and Ford Construction Construction & Demolition Recycling",
+      "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxPV21xdG1MemxaeVJsdEpwT09JeGF4WVhtNVBaeFZBZmdoN2pOS080R3lwZW5uYmJ4cl8zME1sTnRkdlMtNTE0bTJlZ0ZXdHRpRVFJaGNRNXBGLTRPWFg0ZHZndms1LTVnZldZUHZFdjNSRmM0VFFOTlEzQVEzNEZTaA?oc=5",
+      "source": "Construction & Demolition Recycling",
+      "category": "Asphalt Industry",
+      "keywords": "Acquired",
+      "sector": "General",
+      "dealType": "Acquisition",
+      "value": "",
+      "date": "Nov 18, 2026",
+      "dateISO": "2026-11-18T16:14:00"
+    },
+    {
+      "title": "Komatsu drops $75 million to acquire Astec road machine business and expand paving power - astig.ph",
+      "summary": "Komatsu drops $75 million to acquire Astec road machine business and expand paving power astig.ph",
+      "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE1UcGJ6VFQ4aTQ2UEpqU2NBNEJtWVF3UnBDOUZ5X1RiWFd0aGRGNksyX2V6Rm5fTDBXUFNuVW51Mkx1WXlaVno5eTRnRDl6SnFWQVZwbTl6QWU2X2RNMGJIMEZ4NTR6aGs4TEV5SnBn?oc=5",
+      "source": "astig.ph",
+      "category": "Paving Industry",
+      "keywords": "Acquired, To Acquire",
+      "sector": "Paving",
+      "dealType": "Acquisition",
+      "value": "$75M",
+      "date": "Nov 18, 2026",
+      "dateISO": "2026-11-18T14:54:23"
+    },
+    {
+      "title": "Granite Construction completes acquisitions of materials company and Ford Construction in Utah and Tennessee - Prop News Time",
+      "summary": "Granite Construction completes acquisitions of materials company and Ford Construction in Utah and Tennessee Prop News Time",
+      "url": "https://news.google.com/rss/articles/CBMi8gFBVV95cUxNOEZKeTJnQUM5Zko3b1FQQ0EtU0JyUnpxdHJDNGRaODZZS3FuNW0zNVBxRGd3dV9MdFR3aDV3cWlJSVBQVTFhN0dTSHJGMWFaYUtXeW5hZk0weEtJQjM0Nk1uYlBqbUVQUV90bUdpTnNDUXJCS2ZwMm45WmlDTDRsaWNZWmQzSkwzWW5hZkFhTGstR0tDR19xQ2xGb1QtWGNpcTN3R2VnNkJwUnNrcU9BLWo0WW1RX01SNmdzVWJPeXdKRHgwTWlYVi02ZzJJNE12cm5UU0xLcXNUU3FSd09Jb20wRU0wS1NRRmgwRUdCT2F4dw?oc=5",
+      "source": "Prop News Time",
+      "category": "Granite Construction",
+      "keywords": "Acquired",
+      "sector": "General",
+      "dealType": "Acquisition",
+      "value": "",
+      "date": "Nov 18, 2026",
+      "dateISO": "2026-11-18T13:34:31"
+    },
     {
       "title": "Princes Group Agrees Proposed \u20ac80 Million Acquisition of Mondel\u0113z French Bakery and Cereal Bar Businesses - Yahoo Finance UK",
       "summary": "Princes Group Agrees Proposed \u20ac80 Million Acquisition of Mondel\u0113z French Bakery and Cereal Bar Businesses Yahoo Finance UK",
@@ -56,6 +95,19 @@
       "value": "",
       "date": "Nov 17, 2026",
       "dateISO": "2026-11-17T03:12:42"
+    },
+    {
+      "title": "Maas Group Holdings Issues 573,631 Shares as Final Deferred Consideration for Austek Acquisition - Kalkine",
+      "summary": "Maas Group Holdings Issues 573,631 Shares as Final Deferred Consideration for Austek Acquisition Kalkine",
+      "url": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxQNFpYaXEyWXNXakdpU3c3TU9ldkloM3JXU1F2OFZ2RF8yX3VWYU56enhqMVp0eFlCMU10Uk5nMGhZTHU0ekpGc05sa1d2RExRUDBKNjkzT1dPQnN1UnBZMlFEN1VnRUZUUHBhRzdRcWsxVk1LbTU5WlJKNmwtXzNiTXZvTHlUeHBYRjhlbXRxOXlWNnJNeDhqMjlrYmdDUzE5bGdKSXdPZ2hrUFBQWmlGVXowSE5RNjRlTUNPem1FQWlyeF9hdy1TM192aVl2TTEzNENj?oc=5",
+      "source": "Kalkine",
+      "category": "Heidelberg Materials",
+      "keywords": "Acquired",
+      "sector": "General",
+      "dealType": "Acquisition",
+      "value": "",
+      "date": "Nov 17, 2026",
+      "dateISO": "2026-11-17T00:57:23"
     },
     {
       "title": "Granite completes two deals with $175 million revenue outlook - grafa.com",
@@ -147,6 +199,19 @@
       "value": "",
       "date": "Nov 14, 2026",
       "dateISO": "2026-11-14T07:30:37"
+    },
+    {
+      "title": "Komatsu to acquire Roadtec, Carlson brands in $75M deal - Equipment Finance News",
+      "summary": "Komatsu to acquire Roadtec, Carlson brands in $75M deal Equipment Finance News",
+      "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxOUjZRSGx4eUhzdDkxNm9tYTMxR0ZlZHctWDRuaDVfcGdkTmg5c1I4T3ZCY25lUHFkV2RlMF8wbGUyNDY5U1NueVlTTGNldjBTek4yX2dUM2V3ckgxZFVOUUMzejZPUHJ6aXQxbkF3ZFYyQ041clNlQU5uVmMyOVdYNFJuYml6MlZremxIb3FuSFBsMWF0MmsxZjN2azVKWWcwT2MwdmMtc1g?oc=5",
+      "source": "Equipment Finance News",
+      "category": "Asphalt Industry",
+      "keywords": "Acquired, To Acquire",
+      "sector": "General",
+      "dealType": "Acquisition",
+      "value": "$75M",
+      "date": "Nov 13, 2026",
+      "dateISO": "2026-11-13T19:49:40"
     },
     {
       "title": "TCS acquires Best Buy India GCC for \u20b91 lakh to build AI hub - scanx.trade",
@@ -472,6 +537,19 @@
       "value": "",
       "date": "Nov 09, 2026",
       "dateISO": "2026-11-09T08:53:02"
+    },
+    {
+      "title": "DOJ Welcomes State AG Leadership on Local Mergers: What It Means for Merging Parties - Regulatory Oversight",
+      "summary": "DOJ Welcomes State AG Leadership on Local Mergers: What It Means for Merging Parties Regulatory Oversight",
+      "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxQbzlQaWpnYTBySVhFekJreTkxSWZtRWVwY2MzNGVZVnBfQkY1YmVueUhWNGZMQTkxVnJSRFh1a0dpNzNvM3hMRlFaWTJwcWpYVGpYejUweGN2OTR1bEFrMHFEaFVFOXlZalRfejRJbjRGXzBsNVFQd2RPOUNDLVk4ZXhCVWJDZGR6MTRUMng0Nzd5TWpLbmNUMEJmTVhVM3B5RHowZWxfUnMzWFQtWkNZa3JfY1J3RWpNWE02SG5mQ1lrd1QtNmc0?oc=5",
+      "source": "Regulatory Oversight",
+      "category": "Asphalt Industry",
+      "keywords": "Merger",
+      "sector": "General",
+      "dealType": "Merger",
+      "value": "",
+      "date": "Nov 09, 2026",
+      "dateISO": "2026-11-09T08:00:00"
     },
     {
       "title": "Brazil\u2019s CSN Agrees to $2.3 Billion Deal to Sell Cement Unit to China\u2019s Huaxin - The China-Global South Project",
@@ -2071,71 +2149,6 @@
       "value": "",
       "date": "Oct 19, 2026",
       "dateISO": "2026-10-19T21:59:51"
-    },
-    {
-      "title": "A Florida acquisition brings about 60 employees to Construction Partners (ROAD). - Stock Titan",
-      "summary": "A Florida acquisition brings about 60 employees to Construction Partners (ROAD). Stock Titan",
-      "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxNM3ctZ1NkV3pRQm1jZWc1cXdZMnB0Rl9WZXZIeVdTc19idGt6LTAxOTVseDlNc3hJanZRb2h2Mmc5TUZoZnBlOGh5YzNMS3o0NVlERDN2X1RhbHRQUjhjSEZSVkVzNTVOeDF2ZFRBZHZyVGF1Z1M2Skh0Q3BCTkdHNUluNi0wOUpwQVBDQUM4d1lSbWlxNnFrTU1OOXBHZThKMXVuZHBzaHUzd3dBV2xfa2NTNjE?oc=5",
-      "source": "Stock Titan",
-      "category": "Paving Industry",
-      "keywords": "Acquired",
-      "sector": "General",
-      "dealType": "Acquisition",
-      "value": "",
-      "date": "Oct 19, 2026",
-      "dateISO": "2026-10-19T20:16:48"
-    },
-    {
-      "title": "Construction Partners, Inc. Completes Florida Acquisition - Yahoo Finance",
-      "summary": "Construction Partners, Inc. Completes Florida Acquisition Yahoo Finance",
-      "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxNVUJPMVJpZkRhbTNKdzduYmd1ZXV1RktweGRRcnRvX1B6R2xaVnVjYUZEN21iTWVsMUJJUDdlNm1fVVJJVU9GTVh3dVBKbmFUbXU3ckFWWkM2eXlEa1pFYy1aaHhHdzBXMDZSMGIybnNqNDhrQmt4TjRGbjRyVXh4NHhTeVl4R3ppRUFYTm1SZ3YyUnM4dlBuemZsNmhTYXk0bElqNzc3WnE?oc=5",
-      "source": "Yahoo Finance",
-      "category": "Paving Industry",
-      "keywords": "Acquired",
-      "sector": "General",
-      "dealType": "Acquisition",
-      "value": "",
-      "date": "Oct 19, 2026",
-      "dateISO": "2026-10-19T20:15:00"
-    },
-    {
-      "title": "Borgman Capital Acquires Concrete Production Equipment Distributor CMW - National Association of Wholesaler-Distributors",
-      "summary": "Borgman Capital Acquires Concrete Production Equipment Distributor CMW National Association of Wholesaler-Distributors",
-      "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxPX2duQzlhd19qMjlBZlZpRFBEaFpZSEJjY25JVkZScVZ2U2dqTGpaZXpwdmY4U0ZDQ2pXaWd4anlpenU3LVBoZnd4ajRTeTlCUXU3cXZOS243aXJuRmI0Tm50NFI1M1FyLTNVbERWejZzb1I4X2Nwb0xMeUl5MnFHRU5QeDNPNVBrcGpZSkNWV2dlTVhVQU5sdjY3WXczRHhwUlE?oc=5",
-      "source": "National Association of Wholesaler-Distributors",
-      "category": "Paving Industry",
-      "keywords": "Acquired",
-      "sector": "General",
-      "dealType": "Acquisition",
-      "value": "",
-      "date": "Oct 19, 2026",
-      "dateISO": "2026-10-19T14:45:06"
-    },
-    {
-      "title": "Qassim Cement completes Amix acquisition - \u0627\u0631\u0642\u0627\u0645",
-      "summary": "Qassim Cement completes Amix acquisition \u0627\u0631\u0642\u0627\u0645",
-      "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE10NEhLOTUzMjlGek44M1h6cDZpNDhqMXktbEZlU3V6QlRRRXJuWU5qXzV1QUxrUmlKblh6d3N4eFJSU3BabFhiTFNWLU9Ra3dseHptY1QwM3JuQXpYOHdtejg5a3E3SU1DV1E?oc=5",
-      "source": "\u0627\u0631\u0642\u0627\u0645",
-      "category": "Cement Industry",
-      "keywords": "Acquired",
-      "sector": "Cement",
-      "dealType": "Acquisition",
-      "value": "",
-      "date": "Oct 19, 2026",
-      "dateISO": "2026-10-19T13:37:48"
-    },
-    {
-      "title": "Qassim Cement Completes Acquisition Of 100% Of A-Mix Company\u2019s Shares - TradingView",
-      "summary": "Qassim Cement Completes Acquisition Of 100% Of A-Mix Company\u2019s Shares TradingView",
-      "url": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxPVTVsdVRKMU9MU09sc2tORVFUbDFCbW9FTVR1cVJFZUJwdWU4ajdERUpBejRjLUthbm9uRVhFSzBPZHVsa0gydjRtTFpsT2hCUHhWcFU5aFRRWU10QkFiUGFMTG1QRjdSU0FWRWdZMFdNSnB4NGJMX2REOXlIcU1OcjJZbDN3QmxSTldLV2NUcUpxcV9KZVgyOXB1SHpDSWRRQ01rdWRvRm81LVJrYnotNjV3S0FUVGhoLTNjRFgwM0dDNzF5eVZDbHZEUlhkVlJ6QzNZOA?oc=5",
-      "source": "TradingView",
-      "category": "Cement Industry",
-      "keywords": "Acquired",
-      "sector": "Cement",
-      "dealType": "Acquisition",
-      "value": "",
-      "date": "Oct 19, 2026",
-      "dateISO": "2026-10-19T12:55:52"
     }
   ]
 }
