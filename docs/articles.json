@@ -1,10 +1,62 @@
 {
-  "fetchedAt": "2026-11-24T00:33:26.872779",
-  "totalArticles": 176,
-  "newToday": 25,
-  "duplicatesRemoved": 11,
+  "fetchedAt": "2026-11-24T22:53:25.121142",
+  "totalArticles": 180,
+  "newToday": 13,
+  "duplicatesRemoved": 8,
   "archiveDays": 30,
   "articles": [
+    {
+      "title": "Command Alkon Acquires C60 to Expand Ready Mix Analytics - For Construction Pros",
+      "summary": "Command Alkon Acquires C60 to Expand Ready Mix Analytics For Construction Pros",
+      "url": "https://news.google.com/rss/articles/CBMi8gFBVV95cUxNYUZvdDdBcndGWWtDemttc3lEUl9QaHRZZWtURURGYkw3ZmJ3dFJVQTNxOEpTZ20tTlZ0amFjOVFXVWxPaDdYbjMxSTFURDlRWFRhUW0xYWUxOGhUb3BncmVaSUx3d2Z1UGhMcG9RNkZVOENjMElhRlFseFo3enllNkVfV2pCWUdTakl1S3I1bVZHMHJHbDRTcW5Cc04wSWphcjZkdjNaN1hPTWpqSjkyNWNWdVB6dzFVVGI1cDl1eWc0c1U4SnZ4QThxX21wVzZCMndycVY0el93MnBxd0VyU3lnQ053eDBaeGxEWWp0UVpRZw?oc=5",
+      "source": "For Construction Pros",
+      "category": "Ready-Mix Industry",
+      "keywords": "Acquired",
+      "sector": "Ready-Mix",
+      "dealType": "Acquisition",
+      "value": "",
+      "date": "Nov 24, 2026",
+      "dateISO": "2026-11-24T15:02:47"
+    },
+    {
+      "title": "DOJ Paves The Way For State-led Review Of Local Asphalt Mergers - Legal 500",
+      "summary": "DOJ Paves The Way For State-led Review Of Local Asphalt Mergers Legal 500",
+      "url": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxQNDE3OEVuMFVTQ2s1YjhPeFpjaWZNWGJub0x4cFh3N0RLaG53TjFyQXpxSTBtOVdrZGNOU3VpbmVVMkpEYmJVWmk1TjJ2Z2RCTEFwNmppUk1Cem16YzVvdUlYZ0NQQWhZdy1sQUNkYXVwbUFYOEttY2xGQms0ckVUZkY0cUhjdkF2MG1hZ2NIZC1qV3hNUENMaEEwejk0ckpPdnBrdVdnTWRZTURNN2ZWbXNhN1cwZ0Q2UDZ5M2RoMjU4blYxZm5RU2Z1TXNQMjdVT1hNdGFyb3A?oc=5",
+      "source": "Legal 500",
+      "category": "Asphalt Industry",
+      "keywords": "Merger",
+      "sector": "Asphalt",
+      "dealType": "Merger",
+      "value": "",
+      "date": "Nov 24, 2026",
+      "dateISO": "2026-11-24T08:22:12"
+    },
+    {
+      "title": "Meyar signs non-binding MoU with Najran Cement to study acquisition of Meyar Alassasat - \u0627\u0631\u0642\u0627\u0645 : \u0627\u062e\u0628\u0627\u0631 \u0648\u0645\u0639\u0644\u0648\u0645\u0627\u062a \u0633\u0648\u0642 \u0627\u0644\u0623\u0633\u0647\u0645 \u0627\u0644\u0633\u0639\u0648\u062f\u064a - \u062a\u0627\u0633\u064a",
+      "summary": "Meyar signs non-binding MoU with Najran Cement to study acquisition of Meyar Alassasat \u0627\u0631\u0642\u0627\u0645 : \u0627\u062e\u0628\u0627\u0631 \u0648\u0645\u0639\u0644\u0648\u0645\u0627\u062a \u0633\u0648\u0642 \u0627\u0644\u0623\u0633\u0647\u0645 \u0627\u0644\u0633\u0639\u0648\u062f\u064a - \u062a\u0627\u0633\u064a",
+      "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTFBIUnBSWksxenVsNnN3OGIwSmNjS1pCcXkyTUJJUmJrSVViWUxTckRqUnN5U1FtWUtBdDlMcW5hS3NmOUowOEJLZDhpemNzQ3A2TURkOE9ISmFtUkdTZGU0UThnajBkelU0MUxBektWaw?oc=5",
+      "source": "\u0627\u0631\u0642\u0627\u0645 : \u0627\u062e\u0628\u0627\u0631 \u0648\u0645\u0639\u0644\u0648\u0645\u0627\u062a \u0633\u0648\u0642 \u0627\u0644\u0623\u0633\u0647\u0645 \u0627\u0644\u0633\u0639\u0648\u062f\u064a - \u062a\u0627\u0633\u064a",
+      "category": "Cement Industry",
+      "keywords": "Acquired",
+      "sector": "Cement",
+      "dealType": "Acquisition",
+      "value": "",
+      "date": "Nov 24, 2026",
+      "dateISO": "2026-11-24T06:10:40"
+    },
+    {
+      "title": "Excitement, concerns and questions voiced at forum for Essentia, HealthPartners acquisition - Northern News Now",
+      "summary": "Excitement, concerns and questions voiced at forum for Essentia, HealthPartners acquisition Northern News Now",
+      "url": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxNSUJMSDQ4amdFOTRubEZsdGw1WUdhaDhfZ0Rqam1jRDhLekwyZ0gtNlkxY3hVUGQ2U2JwTmFaV1BsYklzdEd0VEkxZ2dSVnQwRnZ4RFljZ1JwMWlxUzhXb2RndHBQbzI0YWFSbndlQldyN014bUdHa3FKb01GRnItR0Q1Uk82Q1h4a2MtNTNqalZWLWtMNGhtLVRjcGZWQmVlNlQ5cUpQbF9kMTZnOWtjeXhsSHFFdS1EdWIxVnp1UWdnLWdERExIY281QnNuNGF3bTlZbTlWSTA3aTg?oc=5",
+      "source": "Northern News Now",
+      "category": "Knife River",
+      "keywords": "Acquired",
+      "sector": "General",
+      "dealType": "Acquisition",
+      "value": "",
+      "date": "Nov 24, 2026",
+      "dateISO": "2026-11-24T04:56:44"
+    },
     {
       "title": "Xylem acquires two pump manufacturers - Pit & Quarry",
       "summary": "Xylem acquires two pump manufacturers Pit & Quarry",
@@ -1020,19 +1072,6 @@
       "dateISO": "2026-11-10T08:10:37"
     },
     {
-      "title": "DOJ paves the way for state-led review of local asphalt mergers - McDermott Will & Schulte",
-      "summary": "DOJ paves the way for state-led review of local asphalt mergers McDermott Will & Schulte",
-      "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxObjV1Y1JJT2wyNWxLZW9oZWFQZjAybkZ0VnBSMzhrancxS1F6aXBmdVZndHdDekJqdV9CdXU3bTBrVHZkMGhoaHdEQzJRZUJuUHRic1VtcGQ4M2tVWmkxTV9xMUtIbEtEX2J1WG1oMHVrOFkxYmFaeU9FVzZHRmotOC1Ea3hrUjNqMVhFYVFzcG5JMmd6UkVvV1dnQU1mUjJVVkF0Sg?oc=5",
-      "source": "McDermott Will & Schulte",
-      "category": "Asphalt Industry",
-      "keywords": "Merger",
-      "sector": "Asphalt",
-      "dealType": "Merger",
-      "value": "",
-      "date": "Nov 10, 2026",
-      "dateISO": "2026-11-10T05:03:30"
-    },
-    {
       "title": "CRH Americas Materials Expands Aggregates Footprint in Pacific Northwest with Acquisition in Oregon - Yahoo Finance",
       "summary": "CRH Americas Materials Expands Aggregates Footprint in Pacific Northwest with Acquisition in Oregon Yahoo Finance",
       "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxPcEVscURGcWVwYWNzdS1xWXdMb1JVNFpWelhON0QzTzJkNmZ5TE83OUdiaHFDbG8yenpYdy0yY2dFcEZrUE9xNF82UTdEekktbnpQNlFSUDJyNkh6UFluM3FWVjNwMkw5eEU5enVsUTE5X1kzSmpwYnBEQkItaURTLWtKb2xlcXBsWWZtR2xzQVFBTzRPR3JiU1pKTzhhYWhMMzh6Tm13?oc=5",
@@ -1605,6 +1644,19 @@
       "dateISO": "2026-11-04T08:00:00"
     },
     {
+      "title": "MLM Q3 2026 deep dive: acquisitions drive revenue growth as cost pressures weigh on margins - TradingView",
+      "summary": "MLM Q3 2026 deep dive: acquisitions drive revenue growth as cost pressures weigh on margins TradingView",
+      "url": "https://news.google.com/rss/articles/CBMi5gFBVV95cUxPTWlpLXhkcEVjOEphckhhTEJaN0tQQ0NfTnU3V24zeFV1Yk1EcHlhaENFN2g2cHBFZGRKLUFra09nSmVmRzMwLUpQaUpRSEROTmc4eDZvX0tKNXdpbFpReHVKMWZ1bHZ2M1E1Zm40bmowZ0hVQk9uajZSanFTZkt6RXpUN0JwaGFBc2NuYkp2SkZzZG9WTzg3N3VITGhqWjRQbkdyYVR1X0E4MVVsYXAyNDhFUEVHRFVPck9ac2ExQWtSbjR3LUtoZlRWT0RrUTdVQWtQLWZRY0M4RFRVbFVkVGtzWEIwQQ?oc=5",
+      "source": "TradingView",
+      "category": "Martin Marietta",
+      "keywords": "Acquired",
+      "sector": "General",
+      "dealType": "Acquisition",
+      "value": "",
+      "date": "Nov 04, 2026",
+      "dateISO": "2026-11-04T08:00:00"
+    },
+    {
       "title": "CRH completes $8.5 billion acquisition of Arcosa to boost US aggregates - scanx.trade",
       "summary": "CRH completes $8.5 billion acquisition of Arcosa to boost US aggregates scanx.trade",
       "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxOUF9PZDZyUHgwUzFpbHNmM0hvREk3QndKUkI4UlJMdy13QW5SaG5GcXZQZEQzNDV6SUpZZl9lQjBJMG4ydjNLbzBvUjA4R2dJcTd5VXkzazZUellxcGx6TTJuczFNUVEwYzNBWGhoQ1RkOHBkSTN0LVZHdnJ0Zjl5dmI1VlRKZ2pTaHRBN0FfOF9FS195NTJ3eV9tNV81VHNJcklQYTAwbXRkX3h5Ny04MjZ5X1hVN0lxdWVqLUx3?oc=5",
@@ -2138,6 +2190,19 @@
       "dateISO": "2026-10-29T07:00:00"
     },
     {
+      "title": "Antitrust Division provides update on merger collaboration with state authorities (Oct 29, 2026) - VitalLaw.com",
+      "summary": "Antitrust Division provides update on merger collaboration with state authorities (Oct 29, 2026) VitalLaw.com",
+      "url": "https://news.google.com/rss/articles/CBMi5gFBVV95cUxOQ1g0czc0S1VkSDVNTUNGaGlnQUxnaHNqanpTX21XSDhUaVptNnY5UkxNcmlfYkdReEU1bmV1aXc5SThCWVpzcm5NZWN3TUxrN0RxQWR3bVd3cFhQc01IbDk3SmdZOWpHZ1k2WHM5QkplRi1MRGpOMnJvc0FjRm14Z1V3bEhxY1NNSDJEZHQtRzBZRS1ZeGduaV9xNG54UzJHRHJ4MzhfSi1TaUxZS0RBbmNuM1VvOEFTTmtHSU43NWNCTHVOa080a0ZjMnpSbzdvTi02cThaY3FDeVY0V0w4NWUwcm9Zdw?oc=5",
+      "source": "VitalLaw.com",
+      "category": "Asphalt Industry",
+      "keywords": "Merger",
+      "sector": "General",
+      "dealType": "Merger",
+      "value": "",
+      "date": "Oct 29, 2026",
+      "dateISO": "2026-10-29T07:00:00"
+    },
+    {
       "title": "Siam Cement, PTT Global Forge $5.5 Billion Petrochemical Deal - Bloomberg.com",
       "summary": "Siam Cement, PTT Global Forge $5.5 Billion Petrochemical Deal Bloomberg.com",
       "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxNWmdmNGpCODQ3NXJxQ3JIcVNKZ3h0ZUJIQ2FoY3pmektUbUZsUldrZzliQWl1WmFhVHdELTcyTGdHZmdrN245ZEVfMm5QeXdPSXV4M0oyYzE1UkFQWXJYbWdRYmJNc2tsNUVyczV4T01HU0NMRDhLaFpZWnFsMXRuQWtrazJFWVNFRFpXSXVOMUxvYnY5TWxGVnNtM0RWTVk4WUlpTllUU0g2bGxjVjU4?oc=5",
@@ -2279,19 +2344,6 @@
       "value": "",
       "date": "Oct 26, 2026",
       "dateISO": "2026-10-26T00:02:16"
-    },
-    {
-      "title": "Ambuja Cements to hold Sep 28 meeting for Orient Cement merger - scanx.trade",
-      "summary": "Ambuja Cements to hold Sep 28 meeting for Orient Cement merger scanx.trade",
-      "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxPZjBfckxXN3oteXNCRm1xWlpjYW1UX0V3aF9OdG8tODJ2aVI1WVFOY0Fqdk9OV1RCR3hZSjVtYlVIQlV3YS0yQXlFcXRhMURQNjVmeDl3T2lIYUxHVzBDdkpDTnhqZ1VNQ2pUT2NTaHY3QnhZeVo1dUl3Z2Q2ZDhRN1Z2RUpVZm5KZmJDVmNBNzJqWmhnV1ZIbEJJMU1LV3lCUjBjc0FVSVUxb2RnNHFqQjYweTVNbEk?oc=5",
-      "source": "scanx.trade",
-      "category": "Cement Industry",
-      "keywords": "Merger",
-      "sector": "Cement",
-      "dealType": "Merger",
-      "value": "",
-      "date": "Oct 25, 2026",
-      "dateISO": "2026-10-25T12:00:16"
     }
   ]
 }
